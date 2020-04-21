@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <script type="text/javascript" src="gline.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable( gline );
+
+        var options = {
+          title: 'Electricity production from oil sources (% of total)',
+          chartArea: {left:'10%',top:'10%', width: '65%', height: '65%'}
+        };
+
+        var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
+        chart.draw(data, options);
+      }
+    </script>
+  </head>
+  <body>
+    <p><a href="https://github.com/mirakklys/py4me">Git-Hub rep</a></p>
+    <div id="chart_div" style="width: 1300px; height: 600px;"></div>
+    <p><a href="..\index.html">Go Back</a></p>
+  </body>
+</html>

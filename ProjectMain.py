@@ -126,7 +126,7 @@ for i in range(len(tempNames)):
         f.write('gline = ')
         f.write(json.dumps(gline))
         
-    with open(tempDir[i] + '\\gline.htm', 'a') as htm:
+    with open(tempDir[i] + '\\gline.html', 'a') as htm:
         htm.write('''<html>
   <head>
     <script type="text/javascript" src="gline.js"></script>
@@ -150,13 +150,13 @@ for i in range(len(tempNames)):
   <body>
     <p><a href="https://github.com/mirakklys/py4me">Git-Hub rep</a></p>
     <div id="chart_div" style="width: 1300px; height: 600px;"></div>
-    <p><a href="..\\index.htm">Go Back</a></p>
+    <p><a href="..\\index.html">Go Back</a></p>
   </body>
 </html>
 ''')
         
 ### index.htm file with all hyperlinks to the graphs
-indexHtm = open('index.htm', 'a')
+indexHtm = open('index.html', 'a')
 indexHtm.write('''<html>
   <head>
    <title>Index page</title>
@@ -164,7 +164,7 @@ indexHtm.write('''<html>
   <body>
       <p><a href="https://github.com/mirakklys/py4me">Git-Hub rep</a></p>''')
 for each in tempDir:
-    indexHtm.write('<p><a href="' + each + '\\gline.htm">' + each + '</a></p>')
+    indexHtm.write('<p><a href="' + each + '\\gline.html">' + each + '</a></p>')
     
 indexHtm.write('''  </body>
 </html>''')
