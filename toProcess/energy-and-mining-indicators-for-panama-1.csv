@@ -1,0 +1,1876 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Panama,PAN,2015,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.17353444437206
+Panama,PAN,2014,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.27362063757185
+Panama,PAN,2013,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.27330830041428
+Panama,PAN,2012,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.46725248400315
+Panama,PAN,2011,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.61021469098194
+Panama,PAN,2010,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.68957149562487
+Panama,PAN,2009,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.65837692788443
+Panama,PAN,2008,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.44722128270945
+Panama,PAN,2007,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.65124336226192
+Panama,PAN,2006,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.1234617783699
+Panama,PAN,2005,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.17260679296318
+Panama,PAN,2004,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.04942991960062
+Panama,PAN,2003,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.32405797304932
+Panama,PAN,2002,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.45991934231089
+Panama,PAN,2001,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.89275965556428
+Panama,PAN,2000,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.45341338129041
+Panama,PAN,1999,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.50182550831659
+Panama,PAN,1998,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.69187219617676
+Panama,PAN,1997,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.4172232228847
+Panama,PAN,1996,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.4999103747235
+Panama,PAN,1995,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.36633528777058
+Panama,PAN,1994,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.37585510436448
+Panama,PAN,1993,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.29716813553818
+Panama,PAN,1992,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.42761888520256
+Panama,PAN,1991,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.25345967383329
+Panama,PAN,1990,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.28389680634323
+Panama,PAN,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Panama,PAN,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,91.1897684464415
+Panama,PAN,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,86.0087107104081
+Panama,PAN,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,83.0370694593855
+Panama,PAN,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,71.1997273385154
+Panama,PAN,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,77.351429268216
+Panama,PAN,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,75.1456111906974
+Panama,PAN,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,64.7068796175199
+Panama,PAN,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,71.425424435891
+Panama,PAN,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,69.4872501180974
+Panama,PAN,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,67.6260205926514
+Panama,PAN,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,65.8016297868391
+Panama,PAN,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,63.9777735169582
+Panama,PAN,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,62.116873778336
+Panama,PAN,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,71.4583262206432
+Panama,PAN,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,58.2144351231513
+Panama,PAN,2001,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,56.2071825576643
+Panama,PAN,2000,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,55.4234617811674
+Panama,PAN,1999,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,52.7201242134636
+Panama,PAN,1998,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,51.3874667788204
+Panama,PAN,1997,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,50.1387923335344
+Panama,PAN,1996,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,48.981444150954
+Panama,PAN,1995,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,47.9108653814335
+Panama,PAN,1994,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,46.9082528095215
+Panama,PAN,1993,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,45.9643711975151
+Panama,PAN,1992,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,45.0652319594165
+Panama,PAN,1991,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,44.2048228928033
+Panama,PAN,1990,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,40.5238796078524
+Panama,PAN,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Panama,PAN,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5881881713867
+Panama,PAN,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.366081237793
+Panama,PAN,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.1461029052734
+Panama,PAN,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.3
+Panama,PAN,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.068733215332
+Panama,PAN,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.8033065795898
+Panama,PAN,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.7
+Panama,PAN,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.1524429321289
+Panama,PAN,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.9876327514648
+Panama,PAN,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.8358001708984
+Panama,PAN,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.6970443725586
+Panama,PAN,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.5714645385742
+Panama,PAN,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.4591445922852
+Panama,PAN,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.3600769042969
+Panama,PAN,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.2715225219727
+Panama,PAN,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.1880416870117
+Panama,PAN,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.19
+Panama,PAN,1999,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.0140838623047
+Panama,PAN,1998,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.9124908447266
+Panama,PAN,1997,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.7937545776367
+Panama,PAN,1996,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.6538619995117
+Panama,PAN,1995,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.4950485229492
+Panama,PAN,1994,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.3210983276367
+Panama,PAN,1993,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.1357955932617
+Panama,PAN,1992,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.9429244995117
+Panama,PAN,1991,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.7462692260742
+Panama,PAN,1990,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.56
+Panama,PAN,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Panama,PAN,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,96.818977355957
+Panama,PAN,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,94.9175415039063
+Panama,PAN,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,93.7287979125977
+Panama,PAN,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,89.1
+Panama,PAN,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,91.6286010742188
+Panama,PAN,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,90.6264953613281
+Panama,PAN,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,86.85
+Panama,PAN,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,88.7581634521484
+Panama,PAN,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,87.8871002197266
+Panama,PAN,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,87.0412445068359
+Panama,PAN,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,86.2070388793945
+Panama,PAN,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,85.3709106445313
+Panama,PAN,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,84.5192794799805
+Panama,PAN,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,87.8
+Panama,PAN,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,82.7399368286133
+Panama,PAN,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,81.8189926147461
+Panama,PAN,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,81.4014100930039
+Panama,PAN,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,79.9392013549805
+Panama,PAN,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,78.9902038574219
+Panama,PAN,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,78.0417175292969
+Panama,PAN,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,77.0976867675781
+Panama,PAN,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,76.1581878662109
+Panama,PAN,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,75.2223129272461
+Panama,PAN,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,74.2891540527344
+Panama,PAN,1992,Access to electricity (% of population),EG.ELC.ACCS.ZS,73.3578109741211
+Panama,PAN,1991,Access to electricity (% of population),EG.ELC.ACCS.ZS,72.4273681640625
+Panama,PAN,1990,Access to electricity (% of population),EG.ELC.ACCS.ZS,70.19
+Panama,PAN,2015,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,6.91530691530691
+Panama,PAN,2014,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,7.39743727791537
+Panama,PAN,2013,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,7.62446974771154
+Panama,PAN,2012,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,7.76473323259328
+Panama,PAN,2011,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,5.77857325492201
+Panama,PAN,2010,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,2009,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,2008,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,2007,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,2006,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,2005,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,2004,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,2003,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,2002,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,2001,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,2000,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1999,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1998,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1997,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1996,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1995,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1994,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1993,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1992,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1991,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1990,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1989,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1988,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1987,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1986,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1985,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1984,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1983,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1982,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1981,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1980,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1979,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1978,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1977,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1976,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1975,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1974,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1973,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1972,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,1971,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Panama,PAN,2015,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,34.6736596736597
+Panama,PAN,2014,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,44.2015720900183
+Panama,PAN,2013,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,42.0741236883233
+Panama,PAN,2012,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,37.0684644891317
+Panama,PAN,2011,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,47.3152646381999
+Panama,PAN,2010,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,42.8958417987268
+Panama,PAN,2009,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,43.3116413593637
+Panama,PAN,2008,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,37.9299610894942
+Panama,PAN,2007,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,42.3017348203222
+Panama,PAN,2006,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,39.8230088495575
+Panama,PAN,2005,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,35.6958984039815
+Panama,PAN,2004,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,33.9871550078111
+Panama,PAN,2003,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,48.9956958393113
+Panama,PAN,2002,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,35.4052522199131
+Panama,PAN,2001,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,50.7806401249024
+Panama,PAN,2000,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,29.5682422754246
+Panama,PAN,1999,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,31.1353711790393
+Panama,PAN,1998,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,48.3894058697208
+Panama,PAN,1997,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,27.8202912861022
+Panama,PAN,1996,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,20.9989539748954
+Panama,PAN,1995,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,30.8610400682012
+Panama,PAN,1994,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,28.0273728057126
+Panama,PAN,1993,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,25.7387988560534
+Panama,PAN,1992,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,33.275921460558
+Panama,PAN,1991,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,25.5913978494624
+Panama,PAN,1990,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,14.7313040210447
+Panama,PAN,1989,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,13.6434108527132
+Panama,PAN,1988,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,11.410707307542
+Panama,PAN,1987,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,21.9767877199551
+Panama,PAN,1986,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,16.8148434480093
+Panama,PAN,1985,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,18.1404958677686
+Panama,PAN,1984,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,29.0366350067843
+Panama,PAN,1983,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,57.9723090665476
+Panama,PAN,1982,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,44.492337164751
+Panama,PAN,1981,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,25.6193990511334
+Panama,PAN,1980,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,45.5849889624724
+Panama,PAN,1979,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,53.6901408450704
+Panama,PAN,1978,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,51.1318242343542
+Panama,PAN,1977,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,76.1936785474109
+Panama,PAN,1976,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,89.4886363636364
+Panama,PAN,1975,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,91.3669064748201
+Panama,PAN,1974,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,90.4920767306088
+Panama,PAN,1973,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,91.1789652247668
+Panama,PAN,1972,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,91.5590863952334
+Panama,PAN,1971,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,90.5450500556174
+Panama,PAN,2015,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,60.7711732711733
+Panama,PAN,2014,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,54.2048024119737
+Panama,PAN,2013,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,57.5351640991293
+Panama,PAN,2012,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,62.6293153551087
+Panama,PAN,2011,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,52.3906929174124
+Panama,PAN,2010,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,56.8061763510768
+Panama,PAN,2009,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,56.355748373102
+Panama,PAN,2008,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,61.8210116731518
+Panama,PAN,2007,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,57.4039653035936
+Panama,PAN,2006,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,59.7762564701954
+Panama,PAN,2005,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,63.9093873348207
+Panama,PAN,2004,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,65.5962506509287
+Panama,PAN,2003,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,50.6276901004304
+Panama,PAN,2002,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,64.2546759871528
+Panama,PAN,2001,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,48.7704918032787
+Panama,PAN,2000,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,69.9406588909351
+Panama,PAN,1999,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,68.2314410480349
+Panama,PAN,1998,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,51.0617990932952
+Panama,PAN,1997,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,71.6613181930388
+Panama,PAN,1996,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,78.5303347280335
+Panama,PAN,1995,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,68.7127024722933
+Panama,PAN,1994,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,71.1395418030348
+Panama,PAN,1993,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,72.9265967588179
+Panama,PAN,1992,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,65.1395108508439
+Panama,PAN,1991,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,72.9749103942652
+Panama,PAN,1990,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,83.1642239759489
+Panama,PAN,1989,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,84.5348837209302
+Panama,PAN,1988,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,85.9320046893318
+Panama,PAN,1987,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,76.0763758891801
+Panama,PAN,1986,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,81.0204870506378
+Panama,PAN,1985,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,79.7107438016529
+Panama,PAN,1984,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,67.4807779285391
+Panama,PAN,1983,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,38.6779812416257
+Panama,PAN,1982,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,51.4367816091954
+Panama,PAN,1981,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,70.3215603584607
+Panama,PAN,1980,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,53.2008830022075
+Panama,PAN,1979,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,45.2394366197183
+Panama,PAN,1978,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,47.8695073235686
+Panama,PAN,1977,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,22.9320780094149
+Panama,PAN,1976,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,9.80113636363636
+Panama,PAN,1975,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,7.83373301358913
+Panama,PAN,1974,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,8.84070058381985
+Panama,PAN,1973,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,8.65139949109415
+Panama,PAN,1972,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,8.24230387288977
+Panama,PAN,1971,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,9.23248053392659
+Panama,PAN,2014,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.2995585226661
+Panama,PAN,2013,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.6191114087966
+Panama,PAN,2012,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.8323840520749
+Panama,PAN,2011,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.3569419585784
+Panama,PAN,2010,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.3302180685358
+Panama,PAN,2009,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.6926970354302
+Panama,PAN,2008,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.1089494163424
+Panama,PAN,2007,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.1109045848823
+Panama,PAN,2006,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,15.478377024545
+Panama,PAN,2005,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,15.9601853440879
+Panama,PAN,2004,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,16.941503211248
+Panama,PAN,2003,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,18.5796269727403
+Panama,PAN,2002,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,20.9522010202154
+Panama,PAN,2001,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,20.8040593286495
+Panama,PAN,2000,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,23.8592183343565
+Panama,PAN,1999,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,19.5633187772926
+Panama,PAN,1998,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,21.546170365068
+Panama,PAN,1997,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,23.5250555418415
+Panama,PAN,1996,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,21.234309623431
+Panama,PAN,1995,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,21.3128729752771
+Panama,PAN,1994,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,21.6304671228801
+Panama,PAN,1993,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,22.6247219574198
+Panama,PAN,1992,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,24.1474336892869
+Panama,PAN,1991,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,25.4838709677419
+Panama,PAN,1990,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,26.0052611800075
+Panama,PAN,1989,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,24.8449612403101
+Panama,PAN,1988,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,20.2032043767097
+Panama,PAN,1987,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,20.8536128790715
+Panama,PAN,1986,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,20.139157325087
+Panama,PAN,1985,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,19.3801652892562
+Panama,PAN,1984,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,18.4984170058797
+Panama,PAN,1983,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,15.3193389906208
+Panama,PAN,1982,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,17.0498084291188
+Panama,PAN,1981,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,16.288877174486
+Panama,PAN,1980,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,15.673289183223
+Panama,PAN,1979,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.6901408450704
+Panama,PAN,1978,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.3821571238349
+Panama,PAN,1977,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.7774041694687
+Panama,PAN,1976,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.6306818181818
+Panama,PAN,1975,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.8289368505196
+Panama,PAN,1974,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.9282735613011
+Panama,PAN,1973,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.2315521628499
+Panama,PAN,1972,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.0228401191658
+Panama,PAN,1971,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,9.34371523915462
+Panama,PAN,2015,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,2014,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,2013,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,2012,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,2011,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,2010,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,2009,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,2008,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,2007,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,2006,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,2005,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,2004,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,2003,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,2002,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,2001,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,2000,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1999,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1998,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1997,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1996,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1995,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1994,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1993,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1992,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1991,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1990,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1989,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1988,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1987,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1986,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1985,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1984,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1983,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1982,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1981,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1980,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1979,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1978,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1977,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1976,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1975,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1974,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1973,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1972,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,1971,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Panama,PAN,2014,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,2013,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,2012,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,2011,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,2010,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,2009,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,2008,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,2007,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,2006,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,2005,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,2004,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,2003,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,2002,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,2001,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,2000,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1999,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1998,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1997,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1996,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1995,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1994,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1993,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1992,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1991,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1990,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1989,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1988,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1987,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1986,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1985,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1984,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1983,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1982,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1981,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1980,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1979,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1978,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1977,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1976,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1975,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1974,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1973,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1972,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,1971,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Panama,PAN,2015,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,27.7583527583528
+Panama,PAN,2014,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,36.8041348121029
+Panama,PAN,2013,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,34.4496539406117
+Panama,PAN,2012,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,29.3037312565384
+Panama,PAN,2011,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,41.5366913832779
+Panama,PAN,2010,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,42.8958417987268
+Panama,PAN,2009,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,43.3116413593637
+Panama,PAN,2008,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,37.9299610894942
+Panama,PAN,2007,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,42.3017348203222
+Panama,PAN,2006,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,39.8230088495575
+Panama,PAN,2005,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,35.6958984039815
+Panama,PAN,2004,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,33.9871550078111
+Panama,PAN,2003,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,48.9956958393113
+Panama,PAN,2002,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,35.4052522199131
+Panama,PAN,2001,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,50.7806401249024
+Panama,PAN,2000,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,29.5682422754246
+Panama,PAN,1999,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,31.1353711790393
+Panama,PAN,1998,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,48.3894058697208
+Panama,PAN,1997,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,27.8202912861022
+Panama,PAN,1996,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,20.9989539748954
+Panama,PAN,1995,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,30.8610400682012
+Panama,PAN,1994,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,28.0273728057126
+Panama,PAN,1993,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,25.7387988560534
+Panama,PAN,1992,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,33.275921460558
+Panama,PAN,1991,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,25.5913978494624
+Panama,PAN,1990,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,14.7313040210447
+Panama,PAN,1989,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,13.6434108527132
+Panama,PAN,1988,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,11.410707307542
+Panama,PAN,1987,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,21.9767877199551
+Panama,PAN,1986,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,16.8148434480093
+Panama,PAN,1985,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,18.1404958677686
+Panama,PAN,1984,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,29.0366350067843
+Panama,PAN,1983,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,57.9723090665476
+Panama,PAN,1982,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,44.492337164751
+Panama,PAN,1981,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,25.6193990511334
+Panama,PAN,1980,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,45.5849889624724
+Panama,PAN,1979,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,53.6901408450704
+Panama,PAN,1978,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,51.1318242343542
+Panama,PAN,1977,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,76.1936785474109
+Panama,PAN,1976,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,89.4886363636364
+Panama,PAN,1975,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,91.3669064748201
+Panama,PAN,1974,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,90.4920767306088
+Panama,PAN,1973,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,91.1789652247668
+Panama,PAN,1972,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,91.5590863952334
+Panama,PAN,1971,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,90.5450500556174
+Panama,PAN,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,65.3263403263403
+Panama,PAN,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,55.7984279099817
+Panama,PAN,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,57.9258763116767
+Panama,PAN,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,62.9315355108683
+Panama,PAN,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,52.6847353618001
+Panama,PAN,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,57.1041582012732
+Panama,PAN,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,56.6883586406363
+Panama,PAN,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,62.0700389105058
+Panama,PAN,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,57.6982651796778
+Panama,PAN,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,60.1769911504425
+Panama,PAN,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,64.3041015960185
+Panama,PAN,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,66.0128449921889
+Panama,PAN,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,51.0043041606887
+Panama,PAN,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,64.5947477800869
+Panama,PAN,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,49.2193598750976
+Panama,PAN,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,70.4317577245754
+Panama,PAN,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,68.8646288209607
+Panama,PAN,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,51.6105941302792
+Panama,PAN,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,72.1797087138978
+Panama,PAN,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,79.0010460251046
+Panama,PAN,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,69.1389599317988
+Panama,PAN,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,71.9726271942874
+Panama,PAN,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,74.2612011439466
+Panama,PAN,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,66.724078539442
+Panama,PAN,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,74.4086021505376
+Panama,PAN,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,85.2686959789553
+Panama,PAN,2015,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,469000000
+Panama,PAN,2014,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,148000000
+Panama,PAN,2013,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,35000000
+Panama,PAN,2012,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,26000000
+Panama,PAN,2011,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,23000000
+Panama,PAN,2010,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,22000000
+Panama,PAN,2009,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,23000000
+Panama,PAN,2008,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,16000000
+Panama,PAN,2007,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,19000000
+Panama,PAN,2006,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,24000000
+Panama,PAN,2005,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,23000000
+Panama,PAN,2004,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,24000000
+Panama,PAN,2003,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,21000000
+Panama,PAN,2002,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,18000000
+Panama,PAN,2001,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,23000000
+Panama,PAN,2000,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,24000000
+Panama,PAN,1999,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,29000000
+Panama,PAN,1998,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,23000000
+Panama,PAN,1997,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,21000000
+Panama,PAN,1996,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,18000000
+Panama,PAN,1995,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,15000000
+Panama,PAN,1994,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,28000000
+Panama,PAN,1993,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,42000000
+Panama,PAN,1992,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,46000000
+Panama,PAN,1991,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,40000000
+Panama,PAN,1990,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,56000000
+Panama,PAN,1989,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,47000000
+Panama,PAN,1988,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,68000000
+Panama,PAN,1987,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,52000000
+Panama,PAN,1986,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,56000000
+Panama,PAN,1985,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,52000000
+Panama,PAN,1984,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,77000000
+Panama,PAN,1983,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,75000000
+Panama,PAN,1982,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,85000000
+Panama,PAN,1981,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,77000000
+Panama,PAN,1980,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,22000000
+Panama,PAN,1979,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,19000000
+Panama,PAN,1978,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,15000000
+Panama,PAN,1977,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,13000000
+Panama,PAN,1976,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,10000000
+Panama,PAN,1975,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,10000000
+Panama,PAN,1974,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,8000000
+Panama,PAN,1973,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,2000000
+Panama,PAN,1972,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,2000000
+Panama,PAN,1971,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,2000000
+Panama,PAN,2015,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,4.55516705516705
+Panama,PAN,2014,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.59362549800797
+Panama,PAN,2013,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.390712212547444
+Panama,PAN,2012,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.302220155759619
+Panama,PAN,2011,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.294042444387625
+Panama,PAN,2010,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.297981850196397
+Panama,PAN,2009,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.332610267534346
+Panama,PAN,2008,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.249027237354086
+Panama,PAN,2007,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.294299876084263
+Panama,PAN,2006,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.40073468024712
+Panama,PAN,2005,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.394714261197872
+Panama,PAN,2004,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.416594341260198
+Panama,PAN,2003,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.37661406025825
+Panama,PAN,2002,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.340071792934064
+Panama,PAN,2001,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.448868071818891
+Panama,PAN,2000,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.49109883364027
+Panama,PAN,1999,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.633187772925764
+Panama,PAN,1998,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.548795036984013
+Panama,PAN,1997,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.518390520859047
+Panama,PAN,1996,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.47071129707113
+Panama,PAN,1995,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.426257459505541
+Panama,PAN,1994,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.833085391252603
+Panama,PAN,1993,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.33460438512869
+Panama,PAN,1992,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.584567688598
+Panama,PAN,1991,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.4336917562724
+Panama,PAN,1990,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.10447200300639
+Panama,PAN,1989,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.82170542635659
+Panama,PAN,1988,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.65728800312622
+Panama,PAN,1987,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.94683639086484
+Panama,PAN,1986,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.16466950135292
+Panama,PAN,1985,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.14876033057851
+Panama,PAN,1984,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,3.48258706467662
+Panama,PAN,1983,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,3.34970969182671
+Panama,PAN,1982,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,4.07088122605364
+Panama,PAN,1981,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,4.0590405904059
+Panama,PAN,1980,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.21412803532009
+Panama,PAN,1979,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.07042253521127
+Panama,PAN,1978,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.99866844207723
+Panama,PAN,1977,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.874243443174176
+Panama,PAN,1976,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.710227272727273
+Panama,PAN,1975,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.799360511590727
+Panama,PAN,1974,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.667222685571309
+Panama,PAN,1973,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.169635284139101
+Panama,PAN,1972,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.198609731876862
+Panama,PAN,1971,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.222469410456062
+Panama,PAN,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,21.2341523445028
+Panama,PAN,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.7707885923084
+Panama,PAN,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,20.3133337909119
+Panama,PAN,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,20.6195510223162
+Panama,PAN,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.1403894628292
+Panama,PAN,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.9374057230032
+Panama,PAN,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.2232610144049
+Panama,PAN,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,30.5458287113063
+Panama,PAN,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.4890169735785
+Panama,PAN,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.9417473324641
+Panama,PAN,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,27.0415017913415
+Panama,PAN,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.3790221929962
+Panama,PAN,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.8410386947115
+Panama,PAN,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,34.6990101624246
+Panama,PAN,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,31.0878210578123
+Panama,PAN,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,34.3978493433681
+Panama,PAN,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,34.2160202038802
+Panama,PAN,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,31.9669558063151
+Panama,PAN,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,37.0398109626782
+Panama,PAN,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,37.3484444644955
+Panama,PAN,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,35.2838615977552
+Panama,PAN,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,38.3126892927742
+Panama,PAN,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,40.4067219229787
+Panama,PAN,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,40.2169184127339
+Panama,PAN,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,41.2584173228409
+Panama,PAN,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,43.5894456450866
+Panama,PAN,2014,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,19.6016159633868
+Panama,PAN,2013,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,19.4209725019853
+Panama,PAN,2012,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,17.5398120517144
+Panama,PAN,2011,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,16.1858274021949
+Panama,PAN,2010,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,15.455173844962
+Panama,PAN,2009,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,15.4475909417142
+Panama,PAN,2008,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,16.7119647565405
+Panama,PAN,2007,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,14.9602429033672
+Panama,PAN,2006,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,12.7342387866
+Panama,PAN,2005,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,12.1547628959393
+Panama,PAN,2004,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,12.2637271549873
+Panama,PAN,2003,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,10.9555715469937
+Panama,PAN,2002,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,10.3335009272105
+Panama,PAN,2001,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.0414691726372
+Panama,PAN,2000,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.97298288274489
+Panama,PAN,1999,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.62005426134998
+Panama,PAN,1998,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.99497251189341
+Panama,PAN,1997,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.60975645355919
+Panama,PAN,1996,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.22366904295187
+Panama,PAN,1995,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.30239776098588
+Panama,PAN,1994,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.08565442202738
+Panama,PAN,1993,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.10799361479216
+Panama,PAN,1992,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.55857842079797
+Panama,PAN,1991,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.81581859300586
+Panama,PAN,1990,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.44840402992576
+Panama,PAN,2014,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,18.5501149153166
+Panama,PAN,2013,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,18.7268755798175
+Panama,PAN,2012,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,17.2097549375508
+Panama,PAN,2011,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,16.1858274021949
+Panama,PAN,2010,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,15.7780175550213
+Panama,PAN,2009,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,15.9540394822849
+Panama,PAN,2008,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,17.391446317134
+Panama,PAN,2007,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,15.8713301562238
+Panama,PAN,2006,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,13.8726709875738
+Panama,PAN,2005,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,13.6421019209155
+Panama,PAN,2004,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,14.1931529009816
+Panama,PAN,2003,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,13.0205386287004
+Panama,PAN,2002,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.5092905631012
+Panama,PAN,2001,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.1183399679779
+Panama,PAN,2000,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.5328249373625
+Panama,PAN,1999,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.3595607918416
+Panama,PAN,1998,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.7233270441861
+Panama,PAN,1997,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.6655540029367
+Panama,PAN,1996,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.36632397725
+Panama,PAN,1995,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.7002407700873
+Panama,PAN,1994,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.6644264537786
+Panama,PAN,1993,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.9666632827871
+Panama,PAN,1992,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.4731688108638
+Panama,PAN,1991,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,13.1408632180585
+Panama,PAN,1990,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,13.0190659857229
+Panama,PAN,2014,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,80.9045483773801
+Panama,PAN,2013,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,79.9114176648041
+Panama,PAN,2012,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,80.4692570562442
+Panama,PAN,2011,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,82.7761139981454
+Panama,PAN,2010,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,81.4271736211774
+Panama,PAN,2009,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,75.0147819243604
+Panama,PAN,2008,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,70.9245876660119
+Panama,PAN,2007,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,75.5556240903644
+Panama,PAN,2006,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,74.4029067300988
+Panama,PAN,2005,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,73.5119030258278
+Panama,PAN,2004,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,69.4330006972118
+Panama,PAN,2003,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,72.3141972929749
+Panama,PAN,2002,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,70.4512123462249
+Panama,PAN,2001,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,75.2162864550447
+Panama,PAN,2000,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,70.5934650760589
+Panama,PAN,1999,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,71.2061021747574
+Panama,PAN,1998,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,75.0044889339035
+Panama,PAN,1997,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,68.2686136361178
+Panama,PAN,1996,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,67.1439427231252
+Panama,PAN,1995,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,69.7422538180678
+Panama,PAN,1994,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,66.9260083534039
+Panama,PAN,1993,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,64.5489373541939
+Panama,PAN,1992,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,66.1528841712401
+Panama,PAN,1991,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,62.7148888987887
+Panama,PAN,1990,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,58.9317167467761
+Panama,PAN,1989,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,58.7884827738887
+Panama,PAN,1988,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,61.3454223082904
+Panama,PAN,1987,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,64.6096750375815
+Panama,PAN,1986,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,61.8283748269958
+Panama,PAN,1985,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,61.2751596962758
+Panama,PAN,1984,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,63.2355672209085
+Panama,PAN,1983,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,69.4084685972255
+Panama,PAN,1982,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,65.6059064986015
+Panama,PAN,1981,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,62.3083487441178
+Panama,PAN,1980,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,62.6659482743362
+Panama,PAN,1979,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,71.2275168578521
+Panama,PAN,1978,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,69.9489111369772
+Panama,PAN,1977,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,73.2819769797433
+Panama,PAN,1976,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,75.8284929707787
+Panama,PAN,1975,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,77.5310179419769
+Panama,PAN,1974,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,81.6866593166482
+Panama,PAN,1973,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,83.1710643693923
+Panama,PAN,1972,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,81.8114340479323
+Panama,PAN,1971,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,79.3278991655505
+Panama,PAN,2014,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,8.85658059549827
+Panama,PAN,2013,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,9.34930385926325
+Panama,PAN,2012,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,9.55207106504567
+Panama,PAN,2011,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,7.59412799432451
+Panama,PAN,2010,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,8.43798584148975
+Panama,PAN,2009,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,8.24781117804079
+Panama,PAN,2008,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,9.50346717920288
+Panama,PAN,2007,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,8.58120277933439
+Panama,PAN,2006,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,8.14563333747608
+Panama,PAN,2005,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,9.01656640965048
+Panama,PAN,2004,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,9.92142078150483
+Panama,PAN,2003,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,7.07824422712317
+Panama,PAN,2002,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,8.58856012984093
+Panama,PAN,2001,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,5.66539794407265
+Panama,PAN,2000,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,8.89943514920415
+Panama,PAN,1999,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,8.27614052035668
+Panama,PAN,1998,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,5.79081447527666
+Panama,PAN,1997,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,9.17196758816891
+Panama,PAN,1996,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,9.44156199607022
+Panama,PAN,1995,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,8.49009478252901
+Panama,PAN,1994,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,8.30940906273183
+Panama,PAN,1993,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,8.34582882092331
+Panama,PAN,1992,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,7.02701670530394
+Panama,PAN,1991,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,8.48850830103503
+Panama,PAN,1990,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,9.84876636451809
+Panama,PAN,1989,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,12.6214683258786
+Panama,PAN,1988,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,11.9838258842883
+Panama,PAN,1987,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,10.3139963607798
+Panama,PAN,1986,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,11.3710256355261
+Panama,PAN,1985,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,10.6353488443657
+Panama,PAN,1984,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,7.94294982109916
+Panama,PAN,1983,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,4.22386315944692
+Panama,PAN,1982,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,5.59192124668531
+Panama,PAN,1981,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,7.60697095699811
+Panama,PAN,1980,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,5.86967126470799
+Panama,PAN,1979,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.98176843841082
+Panama,PAN,1978,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.81617390209552
+Panama,PAN,1977,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.77338459696409
+Panama,PAN,1976,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.70847386801182
+Panama,PAN,1975,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.498368534898215
+Panama,PAN,1974,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.455594526868382
+Panama,PAN,1973,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.43114443486018
+Panama,PAN,1972,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.382818948304425
+Panama,PAN,1971,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.431053744635984
+Panama,PAN,2014,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,80.7126619635031
+Panama,PAN,2013,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,79.902756818025
+Panama,PAN,2012,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,80.5543435674598
+Panama,PAN,2011,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,82.6356057013374
+Panama,PAN,2010,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,81.3509414575224
+Panama,PAN,2009,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,75.0938956138161
+Panama,PAN,2008,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,70.719132467223
+Panama,PAN,2007,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,75.88296164865
+Panama,PAN,2006,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,74.5382043028675
+Panama,PAN,2005,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,73.6624343805791
+Panama,PAN,2004,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,69.8574504087988
+Panama,PAN,2003,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,72.8887201249826
+Panama,PAN,2002,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,70.4966717869944
+Panama,PAN,2001,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,75.4377489521734
+Panama,PAN,2000,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,70.2017947082071
+Panama,PAN,1999,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,71.4129515465401
+Panama,PAN,1998,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,74.4997850752858
+Panama,PAN,1997,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,67.2956547449493
+Panama,PAN,1996,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,67.0593785635243
+Panama,PAN,1995,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,69.1263451562357
+Panama,PAN,1994,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,66.5633161590602
+Panama,PAN,1993,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,64.1533077927359
+Panama,PAN,1992,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,65.4853125005089
+Panama,PAN,1991,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,61.9911470476134
+Panama,PAN,1990,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,58.4125595789863
+Panama,PAN,1989,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,58.3718180698707
+Panama,PAN,1988,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,61.2418151965969
+Panama,PAN,1987,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,64.0055975291548
+Panama,PAN,1986,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,61.7415731045872
+Panama,PAN,1985,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,61.1097576924754
+Panama,PAN,1984,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,62.9108219534239
+Panama,PAN,1983,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,69.3012216286113
+Panama,PAN,1982,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,65.5903471490671
+Panama,PAN,1981,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,62.2627297278839
+Panama,PAN,1980,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,62.6536997323021
+Panama,PAN,1979,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,71.1978228217407
+Panama,PAN,1978,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,69.8959584376855
+Panama,PAN,1977,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,73.1935677769621
+Panama,PAN,1976,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,75.7822881532997
+Panama,PAN,1975,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,77.3784561455794
+Panama,PAN,1974,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,81.6136422473465
+Panama,PAN,1973,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,83.090753151134
+Panama,PAN,1972,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,81.7099639652492
+Panama,PAN,1971,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,79.2967990424786
+Panama,PAN,2014,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,53.9080218405717
+Panama,PAN,2013,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,53.3991906838817
+Panama,PAN,2012,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,58.1065798803475
+Panama,PAN,2011,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,61.7824455402506
+Panama,PAN,2010,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,63.3793185051789
+Panama,PAN,2009,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,62.6800504731346
+Panama,PAN,2008,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,57.4995306178073
+Panama,PAN,2007,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,63.0066913205671
+Panama,PAN,2006,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,72.0841718869949
+Panama,PAN,2005,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,73.3024870945177
+Panama,PAN,2004,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,70.4565086402218
+Panama,PAN,2003,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,76.8017382779973
+Panama,PAN,2002,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,79.9405845563865
+Panama,PAN,2001,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,89.9414843295058
+Panama,PAN,2000,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,79.7904706239713
+Panama,PAN,1999,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,80.9090239404045
+Panama,PAN,1998,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,85.3000173270715
+Panama,PAN,1997,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,78.9543039150233
+Panama,PAN,1996,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,80.8647745150192
+Panama,PAN,1995,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,78.738664731088
+Panama,PAN,1994,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,78.9613334365916
+Panama,PAN,1993,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,77.1208427481475
+Panama,PAN,1992,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,80.1720889986694
+Panama,PAN,1991,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,76.0985015524534
+Panama,PAN,1990,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,76.8104256554679
+Panama,PAN,2014,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,7.01198257546033
+Panama,PAN,2013,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,7.11346872452414
+Panama,PAN,2012,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,6.63359546904434
+Panama,PAN,2011,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,6.88978385676632
+Panama,PAN,2010,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,7.14848468138087
+Panama,PAN,2009,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,13.4758549349091
+Panama,PAN,2008,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,15.8493651768165
+Panama,PAN,2007,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,12.0741171039698
+Panama,PAN,2006,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,13.8793347649891
+Panama,PAN,2005,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,13.4495469819441
+Panama,PAN,2004,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,16.6566899045103
+Panama,PAN,2003,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,17.2436109671543
+Panama,PAN,2002,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,17.3110493270831
+Panama,PAN,2001,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,15.640458485739
+Panama,PAN,2000,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,17.307273344422
+Panama,PAN,1999,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,17.5449678547559
+Panama,PAN,1998,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,17.1875788672651
+Panama,PAN,1997,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,19.715683626779
+Panama,PAN,1996,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,20.0348637650306
+Panama,PAN,1995,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,19.1845468471676
+Panama,PAN,1994,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,21.6073737589301
+Panama,PAN,1993,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,23.4670012092545
+Panama,PAN,1992,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,23.462398546638
+Panama,PAN,1991,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,24.8868497027566
+Panama,PAN,1990,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,26.0667615995407
+Panama,PAN,1989,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,28.5900489002326
+Panama,PAN,1988,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,26.6707518074213
+Panama,PAN,1987,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,25.0763286016388
+Panama,PAN,1986,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,26.800599537478
+Panama,PAN,1985,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,28.0894914593585
+Panama,PAN,1984,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,28.8214829579924
+Panama,PAN,1983,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,26.3676682433275
+Panama,PAN,1982,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,28.8021722547132
+Panama,PAN,1981,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,30.0846802988841
+Panama,PAN,1980,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,31.4643804609558
+Panama,PAN,1979,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,24.7907147037371
+Panama,PAN,1978,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,26.2349149609273
+Panama,PAN,1977,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,24.9446384232926
+Panama,PAN,1976,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,23.4630331612094
+Panama,PAN,1975,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,21.9706135231249
+Panama,PAN,1974,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,17.8577461564834
+Panama,PAN,1973,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,16.3977911957475
+Panama,PAN,1972,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,17.8057470037633
+Panama,PAN,1971,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,20.2410470898135
+Panama,PAN,2014,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2064.17579713507
+Panama,PAN,2013,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2018.54443183397
+Panama,PAN,2012,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1955.37926878946
+Panama,PAN,2011,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1824.64077131879
+Panama,PAN,2010,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1745.14033184844
+Panama,PAN,2009,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1639.46563701817
+Panama,PAN,2008,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1626.75430663295
+Panama,PAN,2007,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1571.94872128964
+Panama,PAN,2006,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1478.03468855719
+Panama,PAN,2005,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1455.16042948553
+Panama,PAN,2004,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1424.13368259682
+Panama,PAN,2003,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1359.59325008538
+Panama,PAN,2002,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1324.15086047578
+Panama,PAN,2001,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1289.14361765483
+Panama,PAN,2000,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1266.52956379639
+Panama,PAN,1999,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1219.3742856412
+Panama,PAN,1998,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1180.84713334679
+Panama,PAN,1997,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1173.47655657338
+Panama,PAN,1996,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1084.65106099472
+Panama,PAN,1995,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1062.90251227521
+Panama,PAN,1994,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1012.2513333999
+Panama,PAN,1993,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,958.708234775135
+Panama,PAN,1992,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,910.342343069791
+Panama,PAN,1991,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,877.88204911542
+Panama,PAN,1990,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,833.283757199163
+Panama,PAN,1989,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,831.188885297587
+Panama,PAN,1988,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,870.15225764613
+Panama,PAN,1987,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,963.220754840691
+Panama,PAN,1986,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,917.787083976196
+Panama,PAN,1985,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,892.663620825694
+Panama,PAN,1984,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,858.396783891813
+Panama,PAN,1983,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,903.923915809714
+Panama,PAN,1982,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,836.64575936332
+Panama,PAN,1981,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,787.770407375031
+Panama,PAN,1980,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,773.318197188053
+Panama,PAN,1979,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,796.353137569228
+Panama,PAN,1978,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,695.703302441489
+Panama,PAN,1977,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,714.985308521058
+Panama,PAN,1976,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,676.015139166453
+Panama,PAN,1975,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,634.906809662044
+Panama,PAN,1974,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,617.402389800442
+Panama,PAN,1973,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,630.288190504303
+Panama,PAN,1972,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,570.967958621616
+Panama,PAN,1971,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,525.240660664465
+Panama,PAN,2014,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1079.86896725848
+Panama,PAN,2013,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1035.57899660456
+Panama,PAN,2012,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1072.22146785254
+Panama,PAN,2011,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1056.46862537883
+Panama,PAN,2010,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,990.673368313006
+Panama,PAN,2009,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,942.207159949877
+Panama,PAN,2008,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,869.020682531503
+Panama,PAN,2007,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,882.516160321976
+Panama,PAN,2006,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,918.09659323766
+Panama,PAN,2005,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,875.121050670272
+Panama,PAN,2004,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,799.321334232185
+Panama,PAN,2003,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,825.580982272624
+Panama,PAN,2002,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,840.316614949631
+Panama,PAN,2001,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,942.650101241306
+Panama,PAN,2000,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,847.762024440918
+Panama,PAN,1999,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,853.577145365031
+Panama,PAN,1998,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,883.487231468014
+Panama,PAN,1997,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,777.422437194126
+Panama,PAN,1996,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,763.32327357918
+Panama,PAN,1995,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,728.879192661301
+Panama,PAN,1994,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,733.224644538462
+Panama,PAN,1993,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,710.729470105492
+Panama,PAN,1992,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,715.210364781359
+Panama,PAN,1991,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,640.550303235917
+Panama,PAN,1990,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,603.36300212024
+Panama,PAN,1989,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,614.231226745517
+Panama,PAN,1988,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,666.262622168575
+Panama,PAN,1987,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,730.856796292398
+Panama,PAN,1986,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,698.797443244435
+Panama,PAN,1985,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,702.881802955208
+Panama,PAN,1984,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,744.321702970753
+Panama,PAN,1983,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,830.978481143902
+Panama,PAN,1982,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,796.496407245401
+Panama,PAN,1981,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,744.405028502382
+Panama,PAN,1980,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,713.885408395405
+Panama,PAN,1979,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,898.022786676774
+Panama,PAN,1978,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,859.845767194644
+Panama,PAN,1977,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,899.811731418
+Panama,PAN,1976,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,935.11706059016
+Panama,PAN,1975,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,969.045427926044
+Panama,PAN,1974,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1177.65650768016
+Panama,PAN,1973,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1230.68608260768
+Panama,PAN,1972,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1159.71740195896
+Panama,PAN,1971,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1059.40081620223
+Panama,PAN,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.07792207792208
+Panama,PAN,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.53766851704996
+Panama,PAN,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,3.93120393120393
+Panama,PAN,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.62045646661031
+Panama,PAN,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.88372093023256
+Panama,PAN,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.67702936096718
+Panama,PAN,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,3.50282485875706
+Panama,PAN,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,3.97350993377483
+Panama,PAN,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,4.06976744186046
+Panama,PAN,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,3.62953692115144
+Panama,PAN,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,3.09278350515464
+Panama,PAN,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,3.59520639147803
+Panama,PAN,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1961,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,1960,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Panama,PAN,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6409.916
+Panama,PAN,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,8250.75
+Panama,PAN,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,7715.368
+Panama,PAN,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,8401.097
+Panama,PAN,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,8159.075
+Panama,PAN,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,7612.692
+Panama,PAN,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6380.58
+Panama,PAN,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6138.558
+Panama,PAN,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6299.906
+Panama,PAN,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5507.834
+Panama,PAN,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5276.813
+Panama,PAN,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5709.519
+Panama,PAN,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5342.819
+Panama,PAN,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6428.251
+Panama,PAN,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5159.469
+Panama,PAN,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5133.8
+Panama,PAN,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5419.826
+Panama,PAN,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5027.457
+Panama,PAN,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3920.023
+Panama,PAN,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2464.224
+Panama,PAN,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3773.343
+Panama,PAN,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3402.976
+Panama,PAN,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3876.019
+Panama,PAN,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2849.259
+Panama,PAN,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2412.886
+Panama,PAN,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2310.21
+Panama,PAN,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2643.907
+Panama,PAN,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2834.591
+Panama,PAN,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2464.224
+Panama,PAN,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2592.569
+Panama,PAN,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2706.246
+Panama,PAN,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3325.969
+Panama,PAN,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3109.616
+Panama,PAN,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3072.946
+Panama,PAN,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2838.258
+Panama,PAN,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2940.934
+Panama,PAN,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2691.578
+Panama,PAN,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3325.969
+Panama,PAN,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3472.649
+Panama,PAN,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3520.32
+Panama,PAN,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2812.589
+Panama,PAN,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2992.272
+Panama,PAN,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2643.907
+Panama,PAN,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2460.557
+Panama,PAN,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2082.856
+Panama,PAN,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1954.511
+Panama,PAN,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1932.509
+Panama,PAN,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1598.812
+Panama,PAN,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1576.81
+Panama,PAN,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1444.798
+Panama,PAN,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1180.774
+Panama,PAN,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1114.768
+Panama,PAN,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1129.436
+Panama,PAN,1961,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1048.762
+Panama,PAN,1960,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,942.419
+Panama,PAN,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,133.525066329359
+Panama,PAN,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,128.021355714643
+Panama,PAN,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,131.904212326346
+Panama,PAN,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,134.89791866661
+Panama,PAN,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,138.416945969958
+Panama,PAN,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,141.222102911572
+Panama,PAN,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,146.213890168456
+Panama,PAN,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,160.641000887474
+Panama,PAN,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,161.237291353588
+Panama,PAN,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,162.712547474838
+Panama,PAN,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,161.010564135647
+Panama,PAN,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,152.918487642581
+Panama,PAN,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,151.330566461272
+Panama,PAN,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,134.523612384741
+Panama,PAN,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,142.168163076526
+Panama,PAN,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,142.775458313332
+Panama,PAN,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,140.616921593826
+Panama,PAN,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,128.476509476815
+Panama,PAN,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,128.736052741597
+Panama,PAN,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,126.121093488429
+Panama,PAN,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,124.319642748984
+Panama,PAN,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,123.347267074579
+Panama,PAN,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,122.224014496495
+Panama,PAN,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,125.592762632245
+Panama,PAN,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,127.663086023919
+Panama,PAN,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,128.874787789854
+Panama,PAN,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,132.272757784975
+Panama,PAN,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,126.575290998888
+Panama,PAN,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,131.051376307001
+Panama,PAN,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,134.985610918119
+Panama,PAN,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,136.809868880477
+Panama,PAN,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,136.250694758548
+Panama,PAN,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,130.947590547104
+Panama,PAN,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,134.693657798197
+Panama,PAN,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,127.570771714113
+Panama,PAN,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,125.496324027496
+Panama,PAN,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,124.036895730818
+Panama,PAN,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,124.664003839415
+Panama,PAN,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,123.08062595638
+Panama,PAN,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Panama,PAN,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,3.9575529524726
+Panama,PAN,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,3.85309387082981
+Panama,PAN,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.0254093892604
+Panama,PAN,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.18289416917913
+Panama,PAN,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.316074660508
+Panama,PAN,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.48665976971571
+Panama,PAN,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.63351756318053
+Panama,PAN,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.10699380664739
+Panama,PAN,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.78044036458498
+Panama,PAN,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.87420521940243
+Panama,PAN,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.48134131317673
+Panama,PAN,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.56662350449503
+Panama,PAN,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.16719363198684
+Panama,PAN,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.58055639342767
+Panama,PAN,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.847936542481
+Panama,PAN,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.94839195759637
+Panama,PAN,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.94037556367701
+Panama,PAN,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.57638472443398
+Panama,PAN,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.64880319589188
+Panama,PAN,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.59275163918259
+Panama,PAN,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.55586902384888
+Panama,PAN,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.58327049046275
+Panama,PAN,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.52911345743933
+Panama,PAN,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.63895553335345
+Panama,PAN,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.68835929841273
+Panama,PAN,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.70742807950696
+Panama,PAN,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.80560216042227
+Panama,PAN,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.69273599871308
+Panama,PAN,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.94240681207742
+Panama,PAN,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.97303630401822
+Panama,PAN,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.13724114304671
+Panama,PAN,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.09354104003216
+Panama,PAN,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.87014893546902
+Panama,PAN,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.07389543584805
+Panama,PAN,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.88550410400209
+Panama,PAN,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.9291952029276
+Panama,PAN,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.93620247257316
+Panama,PAN,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.11666675584422
+Panama,PAN,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.2959998776427
+Panama,PAN,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,74.318346
+Panama,PAN,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,55.150209
+Panama,PAN,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,61.570898
+Panama,PAN,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,58.996441
+Panama,PAN,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,59.398666
+Panama,PAN,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,63.847693
+Panama,PAN,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,57.867545
+Panama,PAN,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,51.563943
+Panama,PAN,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,48.840345
+Panama,PAN,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,48.474963996
+Panama,PAN,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,49.612400496
+Panama,PAN,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,45.229787896
+Panama,PAN,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,43.854950296
+Panama,PAN,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,40.567180196
+Panama,PAN,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,42.723515148
+Panama,PAN,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,42.593662348
+Panama,PAN,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,41.646534848
+Panama,PAN,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,37.730890748
+Panama,PAN,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,36.221370548
+Panama,PAN,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,35.6947609
+Panama,PAN,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,34.8969759
+Panama,PAN,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,36.7311033
+Panama,PAN,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,36.8645645
+Panama,PAN,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,37.4577278
+Panama,PAN,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,39.4725356
+Panama,PAN,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,40.4198956
+Panama,PAN,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,39.9746612
+Panama,PAN,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,38.4919932
+Panama,PAN,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,38.4700266
+Panama,PAN,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,39.6280843
+Panama,PAN,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,39.4264572
+Panama,PAN,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,38.1255205
+Panama,PAN,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,36.6748166
+Panama,PAN,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,34.7872421
+Panama,PAN,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,33.314584
+Panama,PAN,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,31.294872
+Panama,PAN,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,29.875568
+Panama,PAN,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,29.9291453
+Panama,PAN,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,29.6134041
+Panama,PAN,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Panama,PAN,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.40503626480409
+Panama,PAN,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.32664610804948
+Panama,PAN,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.92700134204214
+Panama,PAN,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.88716519863383
+Panama,PAN,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.98188039343648
+Panama,PAN,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.33506799637353
+Panama,PAN,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.98394038585793
+Panama,PAN,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.46288515406162
+Panama,PAN,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.66723445854872
+Panama,PAN,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.68267332265261
+Panama,PAN,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.01978247360793
+Panama,PAN,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.26287800901646
+Panama,PAN,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.80331116063867
+Panama,PAN,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.73638055373932
+Panama,PAN,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.91049001932293
+Panama,PAN,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.75890588161268
+Panama,PAN,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.81920697752432
+Panama,PAN,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.65917422427192
+Panama,PAN,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.53966048767483
+Panama,PAN,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.57915842938317
+Panama,PAN,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.40417285331962
+Panama,PAN,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.60961539047387
+Panama,PAN,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.62309503933313
+Panama,PAN,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.90902173666894
+Panama,PAN,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.15189594399392
+Panama,PAN,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.28103937380158
+Panama,PAN,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.03863923931699
+Panama,PAN,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.13224353961096
+Panama,PAN,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.18406508560524
+Panama,PAN,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.15777742361459
+Panama,PAN,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.40039996678476
+Panama,PAN,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.31600936298043
+Panama,PAN,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.20812130740529
+Panama,PAN,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.9542653468975
+Panama,PAN,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.84536443983254
+Panama,PAN,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.76082971970137
+Panama,PAN,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.56342392309114
+Panama,PAN,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.68617174405241
+Panama,PAN,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.77286715772428
+Panama,PAN,2016,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.61
+Panama,PAN,2014,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.85
+Panama,PAN,2012,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.02
+Panama,PAN,2010,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.77
+Panama,PAN,2008,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.68
+Panama,PAN,2006,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.6
+Panama,PAN,2004,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.48
+Panama,PAN,2002,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.36
+Panama,PAN,2000,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.41
+Panama,PAN,1998,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.28
+Panama,PAN,1992,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.3
+Panama,PAN,2016,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.74
+Panama,PAN,2014,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.96
+Panama,PAN,2012,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.05
+Panama,PAN,2010,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.85
+Panama,PAN,2008,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.67
+Panama,PAN,2006,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.7
+Panama,PAN,2004,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.54
+Panama,PAN,2002,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.51
+Panama,PAN,2000,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.53
+Panama,PAN,1998,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.41
+Panama,PAN,1992,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.43
+Panama,PAN,2010,Time to obtain an electrical connection (days),IC.ELC.DURS,1.8
+Panama,PAN,2006,Time to obtain an electrical connection (days),IC.ELC.DURS,10.2
+Panama,PAN,2019,Time required to get electricity (days),IC.ELC.TIME,35
+Panama,PAN,2018,Time required to get electricity (days),IC.ELC.TIME,35
+Panama,PAN,2017,Time required to get electricity (days),IC.ELC.TIME,35
+Panama,PAN,2016,Time required to get electricity (days),IC.ELC.TIME,35
+Panama,PAN,2015,Time required to get electricity (days),IC.ELC.TIME,35
+Panama,PAN,2014,Time required to get electricity (days),IC.ELC.TIME,35
+Panama,PAN,2013,Time required to get electricity (days),IC.ELC.TIME,35
+Panama,PAN,2012,Time required to get electricity (days),IC.ELC.TIME,35
+Panama,PAN,2011,Time required to get electricity (days),IC.ELC.TIME,35
+Panama,PAN,2010,Time required to get electricity (days),IC.ELC.TIME,35
+Panama,PAN,2009,Time required to get electricity (days),IC.ELC.TIME,35
+Panama,PAN,2010,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,1.2
+Panama,PAN,2006,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,19.2
+Panama,PAN,2010,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,2.1
+Panama,PAN,2006,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,2.3
+Panama,PAN,2016,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,1047900000
+Panama,PAN,2015,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,17800000
+Panama,PAN,2014,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,513300000
+Panama,PAN,2013,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,195000000
+Panama,PAN,2011,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,680500000
+Panama,PAN,2010,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,300300000
+Panama,PAN,2009,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,21500000
+Panama,PAN,2008,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,19700000
+Panama,PAN,2007,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,340500000
+Panama,PAN,2006,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,45000000
+Panama,PAN,2005,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,19500000
+Panama,PAN,2002,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,370000000
+Panama,PAN,2000,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,59800000
+Panama,PAN,1999,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,211200000
+Panama,PAN,1998,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,418000000
+Panama,PAN,1996,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,40000000
+Panama,PAN,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,44575996.4351083
+Panama,PAN,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,45551474.6399983
+Panama,PAN,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,40538592.1087887
+Panama,PAN,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,65911565.6405126
+Panama,PAN,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,54469173.6519807
+Panama,PAN,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,67563087.0727022
+Panama,PAN,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,49140450.5080596
+Panama,PAN,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,18003980.4491541
+Panama,PAN,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,11532108.8844234
+Panama,PAN,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3902382.09298265
+Panama,PAN,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3065299.00493223
+Panama,PAN,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2244506.52727593
+Panama,PAN,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,192678.130201305
+Panama,PAN,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,123491.163507603
+Panama,PAN,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,370881.837088752
+Panama,PAN,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Panama,PAN,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0789269209421439
+Panama,PAN,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0872760779185048
+Panama,PAN,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0831678343223715
+Panama,PAN,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.146528221954116
+Panama,PAN,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.129037210274064
+Panama,PAN,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.178855380284444
+Panama,PAN,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.150596587964509
+Panama,PAN,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0673207064462305
+Panama,PAN,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0456323209443861
+Panama,PAN,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0275668003877556
+Panama,PAN,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0233674250878532
+Panama,PAN,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0174856850521372
+Panama,PAN,2001,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00161252951779748
+Panama,PAN,2000,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00104456357284442
+Panama,PAN,1999,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1998,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0033444934969118
+Panama,PAN,1997,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1996,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1995,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1994,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1993,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1992,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1991,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1990,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1989,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1988,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1987,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1986,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1985,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1984,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1983,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1982,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1981,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1980,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1979,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1978,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1977,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1976,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1975,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1974,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1973,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1972,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1971,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,1970,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Panama,PAN,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1979,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1978,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1977,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1976,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1975,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1974,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1973,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1972,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,1971,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Panama,PAN,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1992,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1991,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1990,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1989,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1988,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1987,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1986,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1985,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1984,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1983,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1982,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1981,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1980,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1979,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1978,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1977,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1976,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1975,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1974,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1973,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1972,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,1971,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Panama,PAN,2017,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0789269209421439
+Panama,PAN,2016,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0872760779185048
+Panama,PAN,2015,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0831678343223715
+Panama,PAN,2014,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.146528221954116
+Panama,PAN,2013,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.129037210274064
+Panama,PAN,2012,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.178855380284444
+Panama,PAN,2011,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.150596587964509
+Panama,PAN,2010,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0673207064462305
+Panama,PAN,2009,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0456323209443861
+Panama,PAN,2008,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,2007,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,2006,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,2005,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,2004,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0275668003877556
+Panama,PAN,2003,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0233674250878532
+Panama,PAN,2002,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0174856850521372
+Panama,PAN,2001,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.00161252951779748
+Panama,PAN,2000,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.00104456357284442
+Panama,PAN,1999,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1998,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0033444934969118
+Panama,PAN,1997,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1996,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1995,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1994,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1993,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1992,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1991,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1990,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1989,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1988,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1987,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1986,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1985,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1984,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1983,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1982,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1981,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1980,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1979,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1978,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1977,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1976,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1975,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1974,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1973,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1972,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,1971,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Panama,PAN,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0932811810166245
+Panama,PAN,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.102437711083137
+Panama,PAN,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.097680009933638
+Panama,PAN,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.17208463157259
+Panama,PAN,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.155687511101798
+Panama,PAN,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.217736209284659
+Panama,PAN,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.185762094968239
+Panama,PAN,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0834490421099885
+Panama,PAN,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0605984514776961
+Panama,PAN,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0376723850655257
+Panama,PAN,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0319357315011094
+Panama,PAN,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0177583588564361
+Panama,PAN,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00222577645918065
+Panama,PAN,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00136476646719378
+Panama,PAN,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00398585982564834
+Panama,PAN,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1992,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1991,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1990,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1989,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1988,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1987,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1986,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1985,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1984,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1983,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1982,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1981,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1980,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1979,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1978,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1977,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1976,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1975,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1974,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1973,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1972,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1971,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,1970,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Panama,PAN,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2001,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2000,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1999,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1998,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1997,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1996,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1995,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1994,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1993,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1992,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1991,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1990,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1989,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1988,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1987,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1986,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1985,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1984,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1983,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1982,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1981,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1980,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1979,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1978,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1977,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1976,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1975,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1974,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1973,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1972,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,1971,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Panama,PAN,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2001,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2000,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1999,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1998,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1997,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1996,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1995,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1994,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1993,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1992,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1991,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1990,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1989,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1988,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1987,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1986,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1985,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1984,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1983,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1982,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1981,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1980,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1979,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1978,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1977,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1976,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1975,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1974,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1973,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1972,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,1971,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Panama,PAN,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.192480984346413
+Panama,PAN,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.208336675571895
+Panama,PAN,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.191373624741803
+Panama,PAN,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.297696578921918
+Panama,PAN,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.266712533439631
+Panama,PAN,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.325581654645058
+Panama,PAN,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.312610533154007
+Panama,PAN,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.252785107061848
+Panama,PAN,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.157250984776558
+Panama,PAN,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.109519193886937
+Panama,PAN,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.117726583021627
+Panama,PAN,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.127248921659527
+Panama,PAN,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0972191935481109
+Panama,PAN,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.135714876138946
+Panama,PAN,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.14007268926423
+Panama,PAN,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.122581375420938
+Panama,PAN,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.116760727587683
+Panama,PAN,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.114890931021028
+Panama,PAN,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.119575645655269
+Panama,PAN,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.141028041846989
+Panama,PAN,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.199540341010778
+Panama,PAN,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.174362001257439
+Panama,PAN,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.243858603386048
+Panama,PAN,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.190573130158881
+Panama,PAN,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.186976705700625
+Panama,PAN,1992,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.241444412443813
+Panama,PAN,1991,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.270515828891458
+Panama,PAN,1990,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.270038517781232
+Panama,PAN,1989,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.141060947774201
+Panama,PAN,1988,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.129725445882101
+Panama,PAN,1987,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.12454318200335
+Panama,PAN,1986,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.119525725610992
+Panama,PAN,1985,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.123443847569921
+Panama,PAN,1984,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.166557253524524
+Panama,PAN,1983,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.295184787867097
+Panama,PAN,1982,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.650738215778658
+Panama,PAN,1981,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.409213695746405
+Panama,PAN,1980,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.509247882437339
+Panama,PAN,1979,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.411112391112046
+Panama,PAN,1978,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.409459419031917
+Panama,PAN,1977,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.511896749094136
+Panama,PAN,1976,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.419852982215459
+Panama,PAN,1975,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.446101060860949
+Panama,PAN,1974,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.353023085576698
+Panama,PAN,1973,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.377903458492148
+Panama,PAN,1972,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.259186877848345
+Panama,PAN,1971,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.238289864301265
+Panama,PAN,1970,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.296166240462318
+Panama,PAN,2016,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.0204347929705865
+Panama,PAN,2015,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.0168912048970667
+Panama,PAN,2014,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.0160568874284675
+Panama,PAN,2013,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.0128102211996911
+Panama,PAN,2012,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.0231538779237616
+Panama,PAN,2011,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.12638879406478
+Panama,PAN,2010,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.49109662558705
+Panama,PAN,2009,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.65554945350597
+Panama,PAN,2008,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.34135996470038
+Panama,PAN,2007,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,6.81200331650152
+Panama,PAN,2006,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,6.58694937750899
+Panama,PAN,2005,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,17.9540489351736
+Panama,PAN,2004,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.6106592580416
+Panama,PAN,2003,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.84070857532379
+Panama,PAN,2002,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,17.1494246328091
+Panama,PAN,2001,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.5449549456033
+Panama,PAN,2000,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,18.5007768745333
+Panama,PAN,1999,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.6278729279802
+Panama,PAN,1998,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.47104088518817
+Panama,PAN,1997,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.0461052082872
+Panama,PAN,1996,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.9635054502582
+Panama,PAN,1995,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.6620812878833
+Panama,PAN,1994,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.8972074247884
+Panama,PAN,1993,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.6776610174187
+Panama,PAN,1992,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.0853631508059
+Panama,PAN,1991,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.9803156122793
+Panama,PAN,1990,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.4503268601164
+Panama,PAN,1989,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.6416583102644
+Panama,PAN,1988,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,18.3615325706789
+Panama,PAN,1987,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.2696610955427
+Panama,PAN,1986,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.8890749291408
+Panama,PAN,1985,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.1794329570239
+Panama,PAN,1984,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,26.0059296514486
+Panama,PAN,1983,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,27.7706872632721
+Panama,PAN,1982,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,26.6309190619964
+Panama,PAN,1981,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,28.1074093163313
+Panama,PAN,1980,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,30.5174505041115
+Panama,PAN,1979,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,28.5208894987995
+Panama,PAN,1978,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,24.4190135619928
+Panama,PAN,1977,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,32.9952513030061
+Panama,PAN,1976,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,33.2486393409749
+Panama,PAN,1975,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,40.4104124672272
+Panama,PAN,1974,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,35.6688942739488
+Panama,PAN,1973,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.3148397295698
+Panama,PAN,1972,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.6472806793934
+Panama,PAN,1971,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,17.9152406536407
+Panama,PAN,1970,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,18.5909745444658
+Panama,PAN,1969,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,22.0726748988774
+Panama,PAN,1968,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.2667107128145
+Panama,PAN,1967,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.1908908060916
+Panama,PAN,1966,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.643449165291
+Panama,PAN,1965,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.685086725489
+Panama,PAN,1964,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.8730465011454
+Panama,PAN,1963,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,23.1964609343214
+Panama,PAN,1962,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,18.6593353739967
+Panama,PAN,2016,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.208907191861727
+Panama,PAN,2015,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.119487825126843
+Panama,PAN,2014,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.0836931279603875
+Panama,PAN,2013,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.0717516751237094
+Panama,PAN,2012,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.0706518265801501
+Panama,PAN,2011,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.416341422709379
+Panama,PAN,2010,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.447873171081064
+Panama,PAN,2009,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.456178493615601
+Panama,PAN,2008,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.500557824205573
+Panama,PAN,2007,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.471138901333797
+Panama,PAN,2006,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.495248772410692
+Panama,PAN,2005,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.04429798944083
+Panama,PAN,2004,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.02729802151023
+Panama,PAN,2003,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.93987013521493
+Panama,PAN,2002,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.892410405863145
+Panama,PAN,2001,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.789995919327638
+Panama,PAN,2000,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.958332098122263
+Panama,PAN,1999,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.25056476437785
+Panama,PAN,1998,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.891125300530903
+Panama,PAN,1997,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.18106638154473
+Panama,PAN,1996,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.26203376758883
+Panama,PAN,1995,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.38052002296108
+Panama,PAN,1994,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.28452225399723
+Panama,PAN,1993,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.12966678625482
+Panama,PAN,1992,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.11903038753627
+Panama,PAN,1991,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.06792440768952
+Panama,PAN,1990,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.0603137554006
+Panama,PAN,1989,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.15986766774662
+Panama,PAN,1988,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.997905132775067
+Panama,PAN,1987,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.15601139274536
+Panama,PAN,1986,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.082136217487
+Panama,PAN,1985,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.929312717439249
+Panama,PAN,1984,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.768709566437246
+Panama,PAN,1983,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.683021064990244
+Panama,PAN,1982,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.728226260272988
+Panama,PAN,1981,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.786584508958364
+Panama,PAN,1980,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.837883207133011
+Panama,PAN,1979,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.981118918938352
+Panama,PAN,1978,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.829816523333418
+Panama,PAN,1977,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.668462659924549
+Panama,PAN,1976,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.646516262498893
+Panama,PAN,1975,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.487051618058872
+Panama,PAN,1974,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.979795833811045
+Panama,PAN,1973,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.947483051919317
+Panama,PAN,1972,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.881394218502543
+Panama,PAN,1971,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.894305539202544
+Panama,PAN,1970,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.926373280405933
+Panama,PAN,1969,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.06705164882517
+Panama,PAN,1968,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.901220224194652
+Panama,PAN,1967,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.16021465575614
+Panama,PAN,1966,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.971841879752151
+Panama,PAN,1965,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.843962170051306
+Panama,PAN,1964,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.645100628842054
+Panama,PAN,1963,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.648916725489886
+Panama,PAN,1962,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.548695495995804
+Panama,PAN,2016,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0297894088026177
+Panama,PAN,2015,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0122985702099356
+Panama,PAN,2014,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0141294644762111
+Panama,PAN,2013,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0116919558165401
+Panama,PAN,2012,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.014284396622626
+Panama,PAN,2011,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0126315548620216
+Panama,PAN,2010,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.312707588489643
+Panama,PAN,2009,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.913751768424819
+Panama,PAN,2008,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.650019405057402
+Panama,PAN,2007,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.680461488647591
+Panama,PAN,2006,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.773392640551807
+Panama,PAN,2005,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.736720560998687
+Panama,PAN,2004,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.545736531481439
+Panama,PAN,2003,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.496027660076905
+Panama,PAN,2002,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,6.17702389961225
+Panama,PAN,2001,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,7.08578354139252
+Panama,PAN,2000,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,6.94501363799662
+Panama,PAN,1999,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,9.0709854217231
+Panama,PAN,1998,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,3.59116486252222
+Panama,PAN,1997,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,3.95555207710561
+Panama,PAN,1996,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,5.01976519331475
+Panama,PAN,1995,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,3.17407739675831
+Panama,PAN,1994,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.42002530806286
+Panama,PAN,1993,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.01096069982885
+Panama,PAN,1992,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.659318157218663
+Panama,PAN,1991,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.264837450684774
+Panama,PAN,1990,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.14394945119841
+Panama,PAN,1989,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.129615431582872
+Panama,PAN,1988,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0433330278717718
+Panama,PAN,1987,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0642316004849724
+Panama,PAN,1986,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0895312375296545
+Panama,PAN,1985,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,7.24118329233379
+Panama,PAN,1984,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.17049942023932
+Panama,PAN,1983,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,12.0621039061068
+Panama,PAN,1982,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,22.6550935281573
+Panama,PAN,1981,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,18.293780771429
+Panama,PAN,1980,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,23.159010469514
+Panama,PAN,1979,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,24.8295220955651
+Panama,PAN,1978,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,24.6227482659695
+Panama,PAN,1977,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,27.3857857310417
+Panama,PAN,1976,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,28.0267257489363
+Panama,PAN,1975,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,44.7787961283835
+Panama,PAN,1974,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,41.0051054738908
+Panama,PAN,1973,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,17.7450108264007
+Panama,PAN,1972,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,17.6101975689281
+Panama,PAN,1971,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,21.6038440603512
+Panama,PAN,1970,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,19.6431148804529
+Panama,PAN,1969,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,22.1166015715745
+Panama,PAN,1968,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,20.103490375514
+Panama,PAN,1967,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,26.8932754142566
+Panama,PAN,1966,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,32.9699864327055
+Panama,PAN,1965,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,33.8015988365465
+Panama,PAN,1964,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,40.8974086367058
+Panama,PAN,1963,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,48.6202671196859
+Panama,PAN,1962,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,35.0298768402383
+Panama,PAN,2016,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.779363742043052
+Panama,PAN,2015,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.115340565822759
+Panama,PAN,2014,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0940253451924746
+Panama,PAN,2013,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0473232914852567
+Panama,PAN,2012,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0412455936265118
+Panama,PAN,2011,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.76402582484522
+Panama,PAN,2010,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,11.4549633380517
+Panama,PAN,2009,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,4.86177085049942
+Panama,PAN,2008,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,5.13645848343782
+Panama,PAN,2007,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.93614182676605
+Panama,PAN,2006,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.87669031546636
+Panama,PAN,2005,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.99142217223411
+Panama,PAN,2004,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.93218285573738
+Panama,PAN,2003,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.97665154122216
+Panama,PAN,2002,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.43074156960169
+Panama,PAN,2001,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.58513453377204
+Panama,PAN,2000,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.17702611941759
+Panama,PAN,1999,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.67420301577823
+Panama,PAN,1998,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.78143743219473
+Panama,PAN,1997,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.73928934919871
+Panama,PAN,1996,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.64315175347046
+Panama,PAN,1995,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.13913032924109
+Panama,PAN,1994,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.792419711199577
+Panama,PAN,1993,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.617299834043608
+Panama,PAN,1992,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.657887012803424
+Panama,PAN,1991,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.946562740831931
+Panama,PAN,1990,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.34293560072898
+Panama,PAN,1989,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.04049600308756
+Panama,PAN,1988,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.15716749597201
+Panama,PAN,1987,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.63094615687196
+Panama,PAN,1986,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.19580618498629
+Panama,PAN,1985,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.62949532577607
+Panama,PAN,1984,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.31581940471941
+Panama,PAN,1983,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.13992814134827
+Panama,PAN,1982,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.608879282172657
+Panama,PAN,1981,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.923575842289993
+Panama,PAN,1980,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.782559156172476
+Panama,PAN,1979,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.04593965772501
+Panama,PAN,1978,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.734965021337001
+Panama,PAN,1977,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.556731674561174
+Panama,PAN,1976,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.467102799985235
+Panama,PAN,1975,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.379887725421367
+Panama,PAN,1974,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.52404112924927
+Panama,PAN,1973,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.2929746269116
+Panama,PAN,1972,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.20383599377493
+Panama,PAN,1971,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.02554990147518
+Panama,PAN,1970,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.51554455297613
+Panama,PAN,1969,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.34230048614007
+Panama,PAN,1968,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.26611575104046
+Panama,PAN,1967,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.965607036850636
+Panama,PAN,1966,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.10790961665471
+Panama,PAN,1965,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.830600123496088
+Panama,PAN,1964,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.442156092545635
+Panama,PAN,1963,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.426369436489224
+Panama,PAN,1962,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.685164069684973

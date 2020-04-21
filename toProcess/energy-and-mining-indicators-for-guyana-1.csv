@@ -1,0 +1,999 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Guyana,GUY,2015,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,6.3628666799684
+Guyana,GUY,2014,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,6.6119095657439
+Guyana,GUY,2013,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,6.7158725864579
+Guyana,GUY,2012,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,7.46109288751351
+Guyana,GUY,2011,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,7.49579155139707
+Guyana,GUY,2010,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,7.35759977943686
+Guyana,GUY,2009,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,7.26669111965484
+Guyana,GUY,2008,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,7.54192011599817
+Guyana,GUY,2007,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,7.83503122293206
+Guyana,GUY,2006,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,7.40747879314133
+Guyana,GUY,2005,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,8.33729667251141
+Guyana,GUY,2004,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.36925793126956
+Guyana,GUY,2003,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.19715411636877
+Guyana,GUY,2002,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.33354542480325
+Guyana,GUY,2001,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.13529604397065
+Guyana,GUY,2000,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.29565606357179
+Guyana,GUY,1999,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.66076065132853
+Guyana,GUY,1998,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.41955785573889
+Guyana,GUY,1997,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.1554928170713
+Guyana,GUY,1996,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.44696828413524
+Guyana,GUY,1995,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.64957335546838
+Guyana,GUY,1994,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.83591380562094
+Guyana,GUY,1993,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,8.74623818507786
+Guyana,GUY,1992,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.24465976216574
+Guyana,GUY,1991,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.41964798644574
+Guyana,GUY,1990,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,11.5838755554424
+Guyana,GUY,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,88.7579618024756
+Guyana,GUY,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,87.3077101885145
+Guyana,GUY,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,85.8144139785867
+Guyana,GUY,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,84.2078371161549
+Guyana,GUY,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,83.113627960343
+Guyana,GUY,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,81.8683104392906
+Guyana,GUY,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,80.3677117516496
+Guyana,GUY,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,78.6587211919764
+Guyana,GUY,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,72.7134664507741
+Guyana,GUY,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,75.5401463959388
+Guyana,GUY,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,74.8366708205047
+Guyana,GUY,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,69.9408555178419
+Guyana,GUY,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,75.9196008250649
+Guyana,GUY,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,72.6950795156508
+Guyana,GUY,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,71.9111844687616
+Guyana,GUY,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,71.092163255173
+Guyana,GUY,2001,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,70.2694449092573
+Guyana,GUY,2000,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,69.4251346822173
+Guyana,GUY,1999,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,68.5683298090998
+Guyana,GUY,1998,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,67.7079370671178
+Guyana,GUY,1997,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,66.8536862844818
+Guyana,GUY,1996,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,66.0123682023294
+Guyana,GUY,1995,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,65.1835154370739
+Guyana,GUY,1994,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,64.3644282332149
+Guyana,GUY,1993,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,64.9033572042058
+Guyana,GUY,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.6972045898438
+Guyana,GUY,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.9817733764648
+Guyana,GUY,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.2225036621094
+Guyana,GUY,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94.4
+Guyana,GUY,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,93.9399490356445
+Guyana,GUY,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,93.5562210083008
+Guyana,GUY,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,92.7986297607422
+Guyana,GUY,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,91.7757415771484
+Guyana,GUY,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,90.9
+Guyana,GUY,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,88.3353729248047
+Guyana,GUY,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,88.1525344848633
+Guyana,GUY,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,82.4190350297422
+Guyana,GUY,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,81.6
+Guyana,GUY,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,87.6828689575195
+Guyana,GUY,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,87.5527954101563
+Guyana,GUY,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,87.433235168457
+Guyana,GUY,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,87.3187484741211
+Guyana,GUY,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,87.2037811279297
+Guyana,GUY,1999,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,87.0827789306641
+Guyana,GUY,1998,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,86.9501876831055
+Guyana,GUY,1997,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,86.8004455566406
+Guyana,GUY,1996,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,86.6295471191406
+Guyana,GUY,1995,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,86.4397354125977
+Guyana,GUY,1994,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,86.2347793579102
+Guyana,GUY,1993,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,90.396341
+Guyana,GUY,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,90.864875793457
+Guyana,GUY,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,89.6047744750977
+Guyana,GUY,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,88.3020095825195
+Guyana,GUY,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,86.9
+Guyana,GUY,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,85.9717712402344
+Guyana,GUY,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,84.9539184570313
+Guyana,GUY,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,83.6494674682617
+Guyana,GUY,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,82.1523132324219
+Guyana,GUY,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,77.6
+Guyana,GUY,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,79.0082855224609
+Guyana,GUY,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,78.4776306152344
+Guyana,GUY,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,73.3825878594249
+Guyana,GUY,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,77.5
+Guyana,GUY,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,76.9012603759766
+Guyana,GUY,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,76.3388519287109
+Guyana,GUY,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,75.7523040771484
+Guyana,GUY,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,75.1465606689453
+Guyana,GUY,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,74.5265350341797
+Guyana,GUY,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,73.8971557617188
+Guyana,GUY,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,73.2633590698242
+Guyana,GUY,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,72.6300659179688
+Guyana,GUY,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,72.0012359619141
+Guyana,GUY,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,71.3769302368164
+Guyana,GUY,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,70.7562561035156
+Guyana,GUY,1993,Access to electricity (% of population),EG.ELC.ACCS.ZS,72.376631
+Guyana,GUY,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Guyana,GUY,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Guyana,GUY,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Guyana,GUY,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Guyana,GUY,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Guyana,GUY,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Guyana,GUY,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Guyana,GUY,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Guyana,GUY,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Guyana,GUY,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Guyana,GUY,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Guyana,GUY,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Guyana,GUY,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Guyana,GUY,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Guyana,GUY,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Guyana,GUY,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Guyana,GUY,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Guyana,GUY,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.585480093676815
+Guyana,GUY,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.631313131313131
+Guyana,GUY,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.726849832824539
+Guyana,GUY,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.87260034904014
+Guyana,GUY,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.881834215167548
+Guyana,GUY,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,2.08333333333333
+Guyana,GUY,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,2.14592274678112
+Guyana,GUY,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,2
+Guyana,GUY,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.6025641025641
+Guyana,GUY,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,25.2587277167556
+Guyana,GUY,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,24.0152013060972
+Guyana,GUY,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.266727866558
+Guyana,GUY,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,28.2564262765314
+Guyana,GUY,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,36.3006476297882
+Guyana,GUY,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.8414156519498
+Guyana,GUY,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.7025249473201
+Guyana,GUY,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,34.5365075872126
+Guyana,GUY,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,35.9818129203963
+Guyana,GUY,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,47.2662460753236
+Guyana,GUY,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,43.3635383757462
+Guyana,GUY,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,44.4882904685424
+Guyana,GUY,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,43.4032942938238
+Guyana,GUY,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,43.2430347683139
+Guyana,GUY,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,40.3180824910774
+Guyana,GUY,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,39.5035214429417
+Guyana,GUY,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,35.7476447575742
+Guyana,GUY,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,34.652073171832
+Guyana,GUY,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,36.9338793016429
+Guyana,GUY,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,38.6081936074447
+Guyana,GUY,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,38.3813997879467
+Guyana,GUY,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,39.7079480718303
+Guyana,GUY,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,44.4255220209783
+Guyana,GUY,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,42.4638234774488
+Guyana,GUY,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.3054619677095
+Guyana,GUY,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,42.2339423012401
+Guyana,GUY,2007,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.48416758921435
+Guyana,GUY,2006,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.81032127275373
+Guyana,GUY,2005,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.35125651599976
+Guyana,GUY,2004,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.49178875308817
+Guyana,GUY,1990,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,3.62984318177304
+Guyana,GUY,2007,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,7.93995762770637
+Guyana,GUY,2006,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,7.41915931684933
+Guyana,GUY,2005,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,7.12843923480343
+Guyana,GUY,2004,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,7.51312787776621
+Guyana,GUY,1990,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,5.5936207281205
+Guyana,GUY,2007,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Guyana,GUY,2006,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Guyana,GUY,2005,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Guyana,GUY,2004,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Guyana,GUY,1990,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Guyana,GUY,2007,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,125.945256497404
+Guyana,GUY,2006,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,134.78616070812
+Guyana,GUY,2005,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,140.283162563505
+Guyana,GUY,2004,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,133.100356638322
+Guyana,GUY,1990,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,178.775081222929
+Guyana,GUY,2007,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,669.815693513773
+Guyana,GUY,2006,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,669.933261248514
+Guyana,GUY,2005,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,663.393923311662
+Guyana,GUY,2004,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,642.317599904524
+Guyana,GUY,1990,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,514.033706036117
+Guyana,GUY,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1961,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,1960,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guyana,GUY,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2009.516
+Guyana,GUY,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1936.176
+Guyana,GUY,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1994.848
+Guyana,GUY,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1782.162
+Guyana,GUY,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1719.823
+Guyana,GUY,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1565.809
+Guyana,GUY,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1558.475
+Guyana,GUY,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1562.142
+Guyana,GUY,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1290.784
+Guyana,GUY,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1437.464
+Guyana,GUY,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1628.148
+Guyana,GUY,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1565.809
+Guyana,GUY,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1580.477
+Guyana,GUY,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1595.145
+Guyana,GUY,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1609.813
+Guyana,GUY,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1679.486
+Guyana,GUY,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1657.484
+Guyana,GUY,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1591.478
+Guyana,GUY,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1518.138
+Guyana,GUY,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1463.133
+Guyana,GUY,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1386.126
+Guyana,GUY,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1045.095
+Guyana,GUY,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1045.095
+Guyana,GUY,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1114.768
+Guyana,GUY,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1133.103
+Guyana,GUY,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1184.441
+Guyana,GUY,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1404.461
+Guyana,GUY,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1309.119
+Guyana,GUY,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1045.095
+Guyana,GUY,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1419.129
+Guyana,GUY,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1404.461
+Guyana,GUY,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1246.78
+Guyana,GUY,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1404.461
+Guyana,GUY,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1800.497
+Guyana,GUY,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1789.496
+Guyana,GUY,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1521.805
+Guyana,GUY,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2057.187
+Guyana,GUY,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1899.506
+Guyana,GUY,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1752.826
+Guyana,GUY,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1826.166
+Guyana,GUY,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1554.808
+Guyana,GUY,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1804.164
+Guyana,GUY,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1562.142
+Guyana,GUY,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1499.803
+Guyana,GUY,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1580.477
+Guyana,GUY,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1367.791
+Guyana,GUY,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1331.121
+Guyana,GUY,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1323.787
+Guyana,GUY,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1180.774
+Guyana,GUY,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1078.098
+Guyana,GUY,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,649.059
+Guyana,GUY,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,616.056
+Guyana,GUY,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,678.395
+Guyana,GUY,1961,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,737.067
+Guyana,GUY,1960,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,660.06
+Guyana,GUY,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,74.901768183354
+Guyana,GUY,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,71.7376349297273
+Guyana,GUY,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,71.7336012949245
+Guyana,GUY,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,71.9979679307266
+Guyana,GUY,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,72.0735420136291
+Guyana,GUY,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,72.1413357465454
+Guyana,GUY,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,72.4148524363704
+Guyana,GUY,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,72.7602635344473
+Guyana,GUY,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,72.7036261716188
+Guyana,GUY,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,72.6178853624908
+Guyana,GUY,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,69.5317604761536
+Guyana,GUY,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,70.2915629890527
+Guyana,GUY,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,71.6527328224497
+Guyana,GUY,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,73.0708054819634
+Guyana,GUY,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,73.4791186160393
+Guyana,GUY,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,109.293050533196
+Guyana,GUY,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,109.623394155978
+Guyana,GUY,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,71.5005250948829
+Guyana,GUY,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,71.5156691774284
+Guyana,GUY,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,70.2346463767811
+Guyana,GUY,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,71.0161826050571
+Guyana,GUY,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,73.0807734010845
+Guyana,GUY,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,73.5456087655349
+Guyana,GUY,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,75.0502994402279
+Guyana,GUY,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,81.490552656899
+Guyana,GUY,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,80.3333299182782
+Guyana,GUY,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,78.831255134937
+Guyana,GUY,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,78.3133730246735
+Guyana,GUY,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,74.6866901453764
+Guyana,GUY,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,73.4211429754742
+Guyana,GUY,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,73.421922174651
+Guyana,GUY,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,76.2212214707005
+Guyana,GUY,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,71.7757011429117
+Guyana,GUY,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,73.6112654743497
+Guyana,GUY,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,73.6833088440616
+Guyana,GUY,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,76.4254010587686
+Guyana,GUY,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,74.6463082950566
+Guyana,GUY,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,72.5878694760555
+Guyana,GUY,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,72.2111445263377
+Guyana,GUY,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Guyana,GUY,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.43929183278414
+Guyana,GUY,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.72659553525774
+Guyana,GUY,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,6.15802497209365
+Guyana,GUY,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.47921400973551
+Guyana,GUY,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.42461027920498
+Guyana,GUY,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.53647186893105
+Guyana,GUY,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.86521301068079
+Guyana,GUY,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.56615821222985
+Guyana,GUY,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,6.73555921545477
+Guyana,GUY,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.90682251868738
+Guyana,GUY,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.65147984514422
+Guyana,GUY,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.22885247709664
+Guyana,GUY,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.27152718843779
+Guyana,GUY,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.33770475687652
+Guyana,GUY,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.08006793435097
+Guyana,GUY,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,6.21304484325397
+Guyana,GUY,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,6.9366090103507
+Guyana,GUY,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.14118563461775
+Guyana,GUY,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.69324277971806
+Guyana,GUY,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.56627064541494
+Guyana,GUY,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.49087119534983
+Guyana,GUY,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.99250404089906
+Guyana,GUY,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.37669123781198
+Guyana,GUY,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.89540697707265
+Guyana,GUY,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.81568580643289
+Guyana,GUY,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.44267440282646
+Guyana,GUY,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.76670285434892
+Guyana,GUY,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.06263360838026
+Guyana,GUY,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.36565134882196
+Guyana,GUY,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.54161700422943
+Guyana,GUY,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,3.85744949377691
+Guyana,GUY,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,3.85407252289048
+Guyana,GUY,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,3.79880181551641
+Guyana,GUY,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,3.44809285353233
+Guyana,GUY,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,3.89803090796879
+Guyana,GUY,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.69766676452895
+Guyana,GUY,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.56273278087143
+Guyana,GUY,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.24636976945587
+Guyana,GUY,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,3.49438635204321
+Guyana,GUY,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,25.6146369875
+Guyana,GUY,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,25.201792333
+Guyana,GUY,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,24.901423196
+Guyana,GUY,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,25.093203084
+Guyana,GUY,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,24.926330022
+Guyana,GUY,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,24.87020787
+Guyana,GUY,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,25.23336419
+Guyana,GUY,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,25.148143764
+Guyana,GUY,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,23.573322994
+Guyana,GUY,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,24.20809406
+Guyana,GUY,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,23.781439076
+Guyana,GUY,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,21.648550425455
+Guyana,GUY,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,21.407803225414
+Guyana,GUY,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,21.228260982974
+Guyana,GUY,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,21.865593663914
+Guyana,GUY,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,22.429073887066
+Guyana,GUY,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,22.047075038969
+Guyana,GUY,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,20.638760956601
+Guyana,GUY,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,20.137732412718
+Guyana,GUY,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,20.325387832558
+Guyana,GUY,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,22.450723469379
+Guyana,GUY,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,25.733692317031
+Guyana,GUY,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,25.828281457321
+Guyana,GUY,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,26.404026565857
+Guyana,GUY,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,28.20200007242
+Guyana,GUY,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,24.265461184586
+Guyana,GUY,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,23.820768232384
+Guyana,GUY,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,25.049834707751
+Guyana,GUY,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,22.039348359494
+Guyana,GUY,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,21.73334970576
+Guyana,GUY,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,21.848211597494
+Guyana,GUY,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,20.913790524
+Guyana,GUY,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,20.676206648
+Guyana,GUY,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,20.53949454
+Guyana,GUY,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,19.588427188
+Guyana,GUY,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,20.179993058
+Guyana,GUY,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,19.943907412
+Guyana,GUY,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,18.96343098
+Guyana,GUY,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,18.88866518
+Guyana,GUY,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Guyana,GUY,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.26000129998658
+Guyana,GUY,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.28565742150867
+Guyana,GUY,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.3038283813812
+Guyana,GUY,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.24702579990171
+Guyana,GUY,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.22204144217807
+Guyana,GUY,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.23473408880687
+Guyana,GUY,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.24882170549772
+Guyana,GUY,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.24380069271211
+Guyana,GUY,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.24997086255133
+Guyana,GUY,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.26621059236907
+Guyana,GUY,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.673062517327905
+Guyana,GUY,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.04300887813945
+Guyana,GUY,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.0379955652732
+Guyana,GUY,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.03197362787424
+Guyana,GUY,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.1011793788829
+Guyana,GUY,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.03250489479851
+Guyana,GUY,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.03886712738026
+Guyana,GUY,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.995988442587905
+Guyana,GUY,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.978129657608688
+Guyana,GUY,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.01175650233705
+Guyana,GUY,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.11614939918441
+Guyana,GUY,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.22659150611361
+Guyana,GUY,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.28286633447941
+Guyana,GUY,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.35523600868599
+Guyana,GUY,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.44883668064952
+Guyana,GUY,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.17163904163081
+Guyana,GUY,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.148961821181
+Guyana,GUY,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.21652422350038
+Guyana,GUY,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.06077569444088
+Guyana,GUY,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.05992990547838
+Guyana,GUY,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.04073878388288
+Guyana,GUY,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.0610057812559
+Guyana,GUY,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.982946488521044
+Guyana,GUY,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.01000507621177
+Guyana,GUY,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.983259364841755
+Guyana,GUY,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.03770437180683
+Guyana,GUY,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.988514385543316
+Guyana,GUY,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.987828363161898
+Guyana,GUY,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.908490381489997
+Guyana,GUY,2016,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.78
+Guyana,GUY,2014,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.11
+Guyana,GUY,2012,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.05
+Guyana,GUY,2010,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.85
+Guyana,GUY,2008,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.85
+Guyana,GUY,2004,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.61
+Guyana,GUY,2002,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.27
+Guyana,GUY,2000,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.37
+Guyana,GUY,1998,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.27
+Guyana,GUY,2016,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.9
+Guyana,GUY,2014,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.15
+Guyana,GUY,2012,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.08
+Guyana,GUY,2010,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.93
+Guyana,GUY,2008,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.84
+Guyana,GUY,2004,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.74
+Guyana,GUY,2002,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.31
+Guyana,GUY,2000,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.37
+Guyana,GUY,1998,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.3
+Guyana,GUY,2010,Time to obtain an electrical connection (days),IC.ELC.DURS,36.9
+Guyana,GUY,2019,Time required to get electricity (days),IC.ELC.TIME,82
+Guyana,GUY,2018,Time required to get electricity (days),IC.ELC.TIME,82
+Guyana,GUY,2017,Time required to get electricity (days),IC.ELC.TIME,82
+Guyana,GUY,2016,Time required to get electricity (days),IC.ELC.TIME,82
+Guyana,GUY,2015,Time required to get electricity (days),IC.ELC.TIME,82
+Guyana,GUY,2014,Time required to get electricity (days),IC.ELC.TIME,112
+Guyana,GUY,2013,Time required to get electricity (days),IC.ELC.TIME,112
+Guyana,GUY,2012,Time required to get electricity (days),IC.ELC.TIME,112
+Guyana,GUY,2011,Time required to get electricity (days),IC.ELC.TIME,112
+Guyana,GUY,2010,Time required to get electricity (days),IC.ELC.TIME,112
+Guyana,GUY,2009,Time required to get electricity (days),IC.ELC.TIME,112
+Guyana,GUY,2010,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,34.5
+Guyana,GUY,2010,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,2.8
+Guyana,GUY,1999,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,50000000
+Guyana,GUY,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,483957887.807551
+Guyana,GUY,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,454574937.945522
+Guyana,GUY,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,251266893.306096
+Guyana,GUY,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,233459357.970103
+Guyana,GUY,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,341033030.122375
+Guyana,GUY,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,398174749.735314
+Guyana,GUY,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,298626857.513812
+Guyana,GUY,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,176309045.3647
+Guyana,GUY,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,115084278.457232
+Guyana,GUY,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,75252968.9313149
+Guyana,GUY,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4543109.7311831
+Guyana,GUY,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2329305.52819107
+Guyana,GUY,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1862634.20376898
+Guyana,GUY,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,8254911.35878207
+Guyana,GUY,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3321475.92370233
+Guyana,GUY,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,894610.718067487
+Guyana,GUY,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1907923.96720086
+Guyana,GUY,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2979753.10804465
+Guyana,GUY,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2482646.45314797
+Guyana,GUY,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2637188.79505496
+Guyana,GUY,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3243955.50697629
+Guyana,GUY,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3601771.88909149
+Guyana,GUY,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1926057.94925001
+Guyana,GUY,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4416696.33267059
+Guyana,GUY,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2659730.52471093
+Guyana,GUY,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1419016.47735722
+Guyana,GUY,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2231223.56835987
+Guyana,GUY,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2298259.38648587
+Guyana,GUY,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2141569.13264766
+Guyana,GUY,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2692506.41674884
+Guyana,GUY,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4168836.50709124
+Guyana,GUY,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4253111.31978378
+Guyana,GUY,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3962378.53580588
+Guyana,GUY,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4735534.92913919
+Guyana,GUY,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2144863.09620258
+Guyana,GUY,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3733693.80537879
+Guyana,GUY,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4717364.29371796
+Guyana,GUY,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,5830933.80063447
+Guyana,GUY,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4882669.31136918
+Guyana,GUY,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,5249918.96282571
+Guyana,GUY,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,5029678.31876152
+Guyana,GUY,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3825325.35582779
+Guyana,GUY,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3978540.87074207
+Guyana,GUY,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4081549.59423118
+Guyana,GUY,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1917724.34477047
+Guyana,GUY,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1948717.29783134
+Guyana,GUY,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2320032.91591945
+Guyana,GUY,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2460767.12871321
+Guyana,GUY,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,13.28833347918
+Guyana,GUY,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,12.9557876374054
+Guyana,GUY,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,7.92001020823347
+Guyana,GUY,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,7.65210174117264
+Guyana,GUY,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,11.524957698238
+Guyana,GUY,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,13.9206461049139
+Guyana,GUY,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,11.634498492905
+Guyana,GUY,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,7.79972562763547
+Guyana,GUY,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,5.53802700919092
+Guyana,GUY,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,3.89578472141594
+Guyana,GUY,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.255819951177888
+Guyana,GUY,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.155041609203339
+Guyana,GUY,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.231547726129497
+Guyana,GUY,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.09200230958866
+Guyana,GUY,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.474412000656177
+Guyana,GUY,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.133297244125546
+Guyana,GUY,2001,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.288704421722819
+Guyana,GUY,2000,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.445605469160272
+Guyana,GUY,1999,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.396509712673526
+Guyana,GUY,1998,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.398753369415831
+Guyana,GUY,1997,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.480099877360785
+Guyana,GUY,1996,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.55133968479028
+Guyana,GUY,1995,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.359547005111704
+Guyana,GUY,1994,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.964487257649559
+Guyana,GUY,1993,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.733493421891938
+Guyana,GUY,1992,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.539014274940236
+Guyana,GUY,1991,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.04490761511684
+Guyana,GUY,1990,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.794514707961589
+Guyana,GUY,1989,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.835614432198384
+Guyana,GUY,1988,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.84378136395196
+Guyana,GUY,1987,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.58843692722486
+Guyana,GUY,1986,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.02055684582095
+Guyana,GUY,1985,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.02950010113882
+Guyana,GUY,1984,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.29928043536097
+Guyana,GUY,1983,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.511087273830062
+Guyana,GUY,1982,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.888269810024281
+Guyana,GUY,1981,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.928876232158624
+Guyana,GUY,1980,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.0390116509319
+Guyana,GUY,1979,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.977315793093573
+Guyana,GUY,1978,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.09091492037771
+Guyana,GUY,1977,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.18904924793416
+Guyana,GUY,1976,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.889362353721704
+Guyana,GUY,1975,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.827067829287077
+Guyana,GUY,1974,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.991761553821555
+Guyana,GUY,1973,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.656862032843112
+Guyana,GUY,1972,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.709115634307334
+Guyana,GUY,1971,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.878633938996196
+Guyana,GUY,1970,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.998080360459625
+Guyana,GUY,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guyana,GUY,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1992,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1991,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1990,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1989,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1988,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1987,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1986,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1985,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1984,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1983,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1982,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1981,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,1980,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guyana,GUY,2017,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,13.28833347918
+Guyana,GUY,2016,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,12.9557876374054
+Guyana,GUY,2015,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,7.92001020823347
+Guyana,GUY,2014,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,7.65210174117264
+Guyana,GUY,2013,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,11.524957698238
+Guyana,GUY,2012,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,13.9206461049139
+Guyana,GUY,2011,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,11.634498492905
+Guyana,GUY,2010,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,7.79972562763547
+Guyana,GUY,2009,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,5.53802700919092
+Guyana,GUY,2008,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.89578472141594
+Guyana,GUY,2007,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.255819951177888
+Guyana,GUY,2006,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.155041609203339
+Guyana,GUY,2005,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.231547726129497
+Guyana,GUY,2004,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.09200230958866
+Guyana,GUY,2003,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.474412000656177
+Guyana,GUY,2002,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.133297244125546
+Guyana,GUY,2001,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.288704421722819
+Guyana,GUY,2000,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.445605469160272
+Guyana,GUY,1999,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.396509712673526
+Guyana,GUY,1998,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.398753369415831
+Guyana,GUY,1997,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.480099877360785
+Guyana,GUY,1996,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.55133968479028
+Guyana,GUY,1995,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.359547005111704
+Guyana,GUY,1994,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.964487257649559
+Guyana,GUY,1993,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.733493421891938
+Guyana,GUY,1992,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.539014274940236
+Guyana,GUY,1991,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.04490761511684
+Guyana,GUY,1990,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.794514707961589
+Guyana,GUY,1989,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.835614432198384
+Guyana,GUY,1988,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.84378136395196
+Guyana,GUY,1987,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.58843692722486
+Guyana,GUY,1986,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.02055684582095
+Guyana,GUY,1985,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.02950010113882
+Guyana,GUY,1984,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.29928043536097
+Guyana,GUY,1983,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.511087273830062
+Guyana,GUY,1982,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.888269810024281
+Guyana,GUY,1981,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.928876232158624
+Guyana,GUY,1980,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.0390116509319
+Guyana,GUY,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,18.1125963349147
+Guyana,GUY,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,17.6477997853742
+Guyana,GUY,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,10.9430952989613
+Guyana,GUY,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,10.5488147839383
+Guyana,GUY,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,15.5683298408074
+Guyana,GUY,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,19.1456464629555
+Guyana,GUY,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,16.2676490997994
+Guyana,GUY,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,11.2478302384239
+Guyana,GUY,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,9.03635924252679
+Guyana,GUY,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,7.07696229569798
+Guyana,GUY,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,6.16607613550448
+Guyana,GUY,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,4.23756109033426
+Guyana,GUY,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,4.61477026388871
+Guyana,GUY,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.7077088663938
+Guyana,GUY,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.48616948462794
+Guyana,GUY,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.20251352719504
+Guyana,GUY,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.69887181641506
+Guyana,GUY,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,4.55566232553377
+Guyana,GUY,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,4.0783433571721
+Guyana,GUY,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,4.36492017511774
+Guyana,GUY,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,4.72579606449532
+Guyana,GUY,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,5.55322718929693
+Guyana,GUY,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,4.11315930569881
+Guyana,GUY,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,7.91068389398865
+Guyana,GUY,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,9.59146408403445
+Guyana,GUY,1992,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,6.2203079414435
+Guyana,GUY,1991,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,10.4833275997928
+Guyana,GUY,1990,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,9.19981364886985
+Guyana,GUY,1989,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,9.02342737952288
+Guyana,GUY,1988,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,9.0918023036333
+Guyana,GUY,1987,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,16.5115714438529
+Guyana,GUY,1986,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,13.1476286459774
+Guyana,GUY,1985,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,13.8846113630006
+Guyana,GUY,1984,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,16.9836098268835
+Guyana,GUY,1983,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,6.74791671724872
+Guyana,GUY,1982,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,12.2060955404301
+Guyana,GUY,1981,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,12.0379726802787
+Guyana,GUY,1980,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,13.1830253062496
+Guyana,GUY,1979,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,14.8474822853756
+Guyana,GUY,1978,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,16.9541573511689
+Guyana,GUY,1977,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,18.3081142908474
+Guyana,GUY,1976,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,13.7845286200159
+Guyana,GUY,1975,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,13.1674457781042
+Guyana,GUY,1974,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,15.4021350669152
+Guyana,GUY,1973,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,10.2277602452059
+Guyana,GUY,1972,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,11.182114853027
+Guyana,GUY,1971,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,13.4700166935393
+Guyana,GUY,1970,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,15.047350443965
+Guyana,GUY,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2001,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2000,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1999,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1998,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1997,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1996,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1995,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1994,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1993,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1992,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1991,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1990,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1989,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1988,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1987,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1986,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1985,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1984,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1983,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1982,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1981,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,1980,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guyana,GUY,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2001,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2000,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1999,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1998,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1997,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1996,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1995,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1994,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1993,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1992,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1991,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1990,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1989,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1988,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1987,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1986,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1985,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1984,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1983,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1982,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1981,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,1980,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guyana,GUY,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,25.330493430705
+Guyana,GUY,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,25.0626354719261
+Guyana,GUY,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,18.7025082459917
+Guyana,GUY,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,20.7047421868671
+Guyana,GUY,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,24.9591460398532
+Guyana,GUY,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,27.5160180923877
+Guyana,GUY,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,25.6406860127103
+Guyana,GUY,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,23.2079571073158
+Guyana,GUY,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,16.8374589564579
+Guyana,GUY,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,15.6021806988191
+Guyana,GUY,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,15.125324388716
+Guyana,GUY,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,13.7718520832264
+Guyana,GUY,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,15.2384443933314
+Guyana,GUY,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,13.9188351844664
+Guyana,GUY,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.9921887977749
+Guyana,GUY,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.4576786952274
+Guyana,GUY,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.1894866887486
+Guyana,GUY,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.5480247504326
+Guyana,GUY,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,15.7238516549372
+Guyana,GUY,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,16.5872392029302
+Guyana,GUY,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,20.8988895344826
+Guyana,GUY,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,21.7729819152953
+Guyana,GUY,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,24.9370897728931
+Guyana,GUY,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,24.5835376951915
+Guyana,GUY,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,25.785376436573
+Guyana,GUY,1992,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,23.3300981554251
+Guyana,GUY,1991,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,28.0142369490843
+Guyana,GUY,1990,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,23.1364978605267
+Guyana,GUY,1989,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,20.7123567869218
+Guyana,GUY,1988,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,18.5224425257526
+Guyana,GUY,1987,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,28.2397842181184
+Guyana,GUY,1986,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,19.9741249468046
+Guyana,GUY,1985,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,20.6803239516671
+Guyana,GUY,1984,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,24.2608457187933
+Guyana,GUY,1983,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,17.9846923221306
+Guyana,GUY,1982,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,34.1638648928485
+Guyana,GUY,1981,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,23.0617753498715
+Guyana,GUY,1980,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,24.5578515552279
+Guyana,GUY,1979,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,26.4070774774159
+Guyana,GUY,1978,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,25.6470296310827
+Guyana,GUY,1977,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,27.7020835176511
+Guyana,GUY,1976,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,20.8923954754752
+Guyana,GUY,1975,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,20.6338572363383
+Guyana,GUY,1974,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,22.3654709804154
+Guyana,GUY,1973,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,19.6070946683789
+Guyana,GUY,1972,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,17.2987318314864
+Guyana,GUY,1971,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,18.4955473915522
+Guyana,GUY,1970,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,20.7080226592579
+Guyana,GUY,2018,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.8656981379176
+Guyana,GUY,2017,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.4352602885242
+Guyana,GUY,2016,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.3423584037916
+Guyana,GUY,2015,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.3153658187228
+Guyana,GUY,2014,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,32.6425026705116
+Guyana,GUY,2013,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,31.9702924887528
+Guyana,GUY,2012,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,32.307223830732
+Guyana,GUY,2011,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,32.9143762547234
+Guyana,GUY,2010,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,29.8543136464181
+Guyana,GUY,2009,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,25.7190293866086
+Guyana,GUY,2008,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,32.5437009665829
+Guyana,GUY,2007,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,23.990675098894
+Guyana,GUY,2006,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,30.3090931464102
+Guyana,GUY,2005,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,29.4150251678919
+Guyana,GUY,2004,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,27.531622030071
+Guyana,GUY,2003,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,24.4820878587787
+Guyana,GUY,2002,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,22.2582803032441
+Guyana,GUY,2001,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,22.2271437720912
+Guyana,GUY,2000,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,22.2809877447665
+Guyana,GUY,1999,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,18.5399010026883
+Guyana,GUY,1998,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.0052945241134
+Guyana,GUY,1997,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.2082292939489
+Guyana,GUY,1992,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.7532957524363
+Guyana,GUY,1991,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.2380396214728
+Guyana,GUY,1981,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,37.461893199321
+Guyana,GUY,1979,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.7594562678385
+Guyana,GUY,1978,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,24.6392876890371
+Guyana,GUY,1977,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.0255329690764
+Guyana,GUY,1976,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.8857286544725
+Guyana,GUY,1975,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.6608614361854
+Guyana,GUY,1974,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,18.2511225864885
+Guyana,GUY,1973,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.0059946048191
+Guyana,GUY,1972,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.43235764902601
+Guyana,GUY,1971,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.80911928692931
+Guyana,GUY,1970,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.59455749990094
+Guyana,GUY,2018,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.873078851659546
+Guyana,GUY,2017,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.883273788612362
+Guyana,GUY,2016,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.899292548886689
+Guyana,GUY,2015,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.505738817500184
+Guyana,GUY,2014,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.543531603688246
+Guyana,GUY,2013,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.52383804213646
+Guyana,GUY,2012,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.581603335406785
+Guyana,GUY,2011,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.617148689508285
+Guyana,GUY,2010,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.715353301459284
+Guyana,GUY,2009,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.708625600774852
+Guyana,GUY,2008,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.497152955403949
+Guyana,GUY,2007,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.663839685320008
+Guyana,GUY,2006,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.470101728957084
+Guyana,GUY,2005,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.667883108189656
+Guyana,GUY,2004,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.374278159893353
+Guyana,GUY,2003,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.486661898057782
+Guyana,GUY,2002,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.419101875432492
+Guyana,GUY,2001,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.342717256967986
+Guyana,GUY,2000,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.448820543691845
+Guyana,GUY,1999,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.438533623740739
+Guyana,GUY,1998,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.506851573629639
+Guyana,GUY,1997,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.523960048876375
+Guyana,GUY,1992,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.455858505756704
+Guyana,GUY,1991,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.478263034011492
+Guyana,GUY,1981,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.01145288232382
+Guyana,GUY,1979,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.10472336191098
+Guyana,GUY,1978,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.19972661091502
+Guyana,GUY,1977,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.04524861212087
+Guyana,GUY,1976,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.979580037599781
+Guyana,GUY,1975,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.32432678169281
+Guyana,GUY,1974,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.29480137198145
+Guyana,GUY,1973,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.663760734845157
+Guyana,GUY,1972,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.683782233133957
+Guyana,GUY,1971,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.577944142014156
+Guyana,GUY,1970,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.572834089078645
+Guyana,GUY,2018,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00317924988941771
+Guyana,GUY,2017,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00251270763370151
+Guyana,GUY,2016,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.000576782790634116
+Guyana,GUY,2015,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00219624553928102
+Guyana,GUY,2014,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.000645708019495168
+Guyana,GUY,2013,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,5.01317432970329e-06
+Guyana,GUY,2012,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,8.74881027080591e-05
+Guyana,GUY,2011,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0
+Guyana,GUY,2010,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0
+Guyana,GUY,2009,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.000275962245124873
+Guyana,GUY,2008,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00100215155893638
+Guyana,GUY,2007,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00115955770181478
+Guyana,GUY,2006,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.000540198398959278
+Guyana,GUY,2005,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.000215457270453145
+Guyana,GUY,2004,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0218986011942311
+Guyana,GUY,2003,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00148377151776463
+Guyana,GUY,2002,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.45076909236996e-05
+Guyana,GUY,2001,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0080938052685534
+Guyana,GUY,2000,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.76085285956867e-05
+Guyana,GUY,1999,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.000103239099996704
+Guyana,GUY,1998,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.056661009474683
+Guyana,GUY,1997,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00579578671504889
+Guyana,GUY,1981,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,6.23484075085997e-05
+Guyana,GUY,1979,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.025650876900739
+Guyana,GUY,1978,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.157424591632972
+Guyana,GUY,1977,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0207271044826431
+Guyana,GUY,1976,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0657962634579792
+Guyana,GUY,1975,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.000404213045862248
+Guyana,GUY,1974,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00021136165168963
+Guyana,GUY,1973,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00225419274076486
+Guyana,GUY,1972,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00600838440077684
+Guyana,GUY,1971,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0112803050191162
+Guyana,GUY,1970,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0051672051539378
+Guyana,GUY,2018,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,21.1700988907161
+Guyana,GUY,2017,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,14.6593528174998
+Guyana,GUY,2016,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,17.6681253661726
+Guyana,GUY,2015,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,17.0373471685395
+Guyana,GUY,2014,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,18.8867388302108
+Guyana,GUY,2013,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,19.561889170296
+Guyana,GUY,2012,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,22.6369162896893
+Guyana,GUY,2011,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,21.6952171861143
+Guyana,GUY,2010,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,22.5137773797865
+Guyana,GUY,2009,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,17.9866026942634
+Guyana,GUY,2008,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,22.6118108710128
+Guyana,GUY,2007,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,16.7107343395958
+Guyana,GUY,2006,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,9.92508473688956
+Guyana,GUY,2005,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,8.34998056932258
+Guyana,GUY,2004,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,6.32070658665413
+Guyana,GUY,2003,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,6.71953321601295
+Guyana,GUY,2002,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,9.22445117464451
+Guyana,GUY,2001,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,21.896091005781
+Guyana,GUY,2000,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,20.8341200994739
+Guyana,GUY,1999,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,14.651145861817
+Guyana,GUY,1998,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,21.2740709064425
+Guyana,GUY,1997,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,21.080032254813
+Guyana,GUY,1981,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,32.4690287103708
+Guyana,GUY,1979,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,44.6764503941425
+Guyana,GUY,1978,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,33.7302053620746
+Guyana,GUY,1977,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,37.9498848478034
+Guyana,GUY,1976,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,33.5153039538383
+Guyana,GUY,1975,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,32.5213850005139
+Guyana,GUY,1974,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,33.7169362759733
+Guyana,GUY,1973,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,48.02409018386
+Guyana,GUY,1972,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,44.1432184981039
+Guyana,GUY,1971,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,47.2656397661391
+Guyana,GUY,1970,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,53.3736237133717

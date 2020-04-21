@@ -1,0 +1,765 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Afghanistan,AFG,2015,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.45770500221765
+Afghanistan,AFG,2014,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.63753256874586
+Afghanistan,AFG,2013,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.75118171303033
+Afghanistan,AFG,2012,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.98475717572819
+Afghanistan,AFG,2011,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.7559233122206
+Afghanistan,AFG,2010,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.93993655831435
+Afghanistan,AFG,2009,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.61706039799516
+Afghanistan,AFG,2008,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.14758991176544
+Afghanistan,AFG,2007,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,1.46093757483826
+Afghanistan,AFG,2006,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,1.40862313227307
+Afghanistan,AFG,2005,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,1.26764724208131
+Afghanistan,AFG,2004,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,1.14399635836639
+Afghanistan,AFG,2003,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,1.32502825287787
+Afghanistan,AFG,2002,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,1.36028256182598
+Afghanistan,AFG,2001,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,1.8273988865553
+Afghanistan,AFG,2000,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,1.68617312382687
+Afghanistan,AFG,1999,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,1.57068110175532
+Afghanistan,AFG,1998,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,1.64897788583862
+Afghanistan,AFG,1997,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,1.59923664309762
+Afghanistan,AFG,1996,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,1.54847691566463
+Afghanistan,AFG,1995,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,1.48569193557955
+Afghanistan,AFG,1994,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.24561299646338
+Afghanistan,AFG,1993,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,1.76063654184963
+Afghanistan,AFG,1992,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,1.33250174740999
+Afghanistan,AFG,1991,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,1.99591306318908
+Afghanistan,AFG,1990,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,1.88411277331996
+Afghanistan,AFG,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,97.0919732851744
+Afghanistan,AFG,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,97.0993598483561
+Afghanistan,AFG,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,64.5733535573634
+Afghanistan,AFG,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,86.5005120344614
+Afghanistan,AFG,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,62.8756933574353
+Afghanistan,AFG,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,60.8491561955971
+Afghanistan,AFG,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,29.5728813319651
+Afghanistan,AFG,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,30.2188001325129
+Afghanistan,AFG,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,32.9043678269207
+Afghanistan,AFG,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,27.9542515209591
+Afghanistan,AFG,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,18.3846727932146
+Afghanistan,AFG,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,11.1930788250914
+Afghanistan,AFG,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,8.02072617359793
+Afghanistan,AFG,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5
+Afghanistan,AFG,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5
+Afghanistan,AFG,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,92.5
+Afghanistan,AFG,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.7
+Afghanistan,AFG,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,92.7357330322266
+Afghanistan,AFG,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95
+Afghanistan,AFG,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,86.5677791512155
+Afghanistan,AFG,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,82.8
+Afghanistan,AFG,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,85.3217163085938
+Afghanistan,AFG,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,89.9
+Afghanistan,AFG,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,81.6870498657227
+Afghanistan,AFG,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,79.889274597168
+Afghanistan,AFG,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,74
+Afghanistan,AFG,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.7
+Afghanistan,AFG,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.7
+Afghanistan,AFG,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,71.5
+Afghanistan,AFG,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,89.5
+Afghanistan,AFG,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,70.1534805297852
+Afghanistan,AFG,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,69.1
+Afghanistan,AFG,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,43.2220189082037
+Afghanistan,AFG,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,42.7
+Afghanistan,AFG,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,45.2371215820313
+Afghanistan,AFG,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,42.4
+Afghanistan,AFG,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,33.0157508850098
+Afghanistan,AFG,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,26.9293174743652
+Afghanistan,AFG,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,23
+Afghanistan,AFG,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,86.0501112508465
+Afghanistan,AFG,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,85.3235490326885
+Afghanistan,AFG,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,78.6364080993837
+Afghanistan,AFG,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,85.9099804305284
+Afghanistan,AFG,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,82.4875621890547
+Afghanistan,AFG,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,85.9865470852018
+Afghanistan,AFG,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,87.1766029246344
+Afghanistan,AFG,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,68.6548223350254
+Afghanistan,AFG,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,72
+Afghanistan,AFG,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,70.7557502738226
+Afghanistan,AFG,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,74.0618101545254
+Afghanistan,AFG,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,70.8908406524467
+Afghanistan,AFG,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,70.2497285559175
+Afghanistan,AFG,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,79.0639711991138
+Afghanistan,AFG,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,72.8114599913182
+Afghanistan,AFG,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,74.9890940817217
+Afghanistan,AFG,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,73.7226277372263
+Afghanistan,AFG,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,74.4360902255639
+Afghanistan,AFG,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,72.3880597014925
+Afghanistan,AFG,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,70.3703703703704
+Afghanistan,AFG,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,69.037037037037
+Afghanistan,AFG,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,68.7045123726346
+Afghanistan,AFG,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,68.3453237410072
+Afghanistan,AFG,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,67.9943100995733
+Afghanistan,AFG,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,67.9802955665025
+Afghanistan,AFG,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,67.7304964539007
+Afghanistan,AFG,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,18.4234771693218
+Afghanistan,AFG,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,19.3142686133983
+Afghanistan,AFG,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,16.3342925084743
+Afghanistan,AFG,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,13.9735856888609
+Afghanistan,AFG,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,11.4827062291243
+Afghanistan,AFG,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,14.8398059645804
+Afghanistan,AFG,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.8138547564602
+Afghanistan,AFG,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,21.3437080759002
+Afghanistan,AFG,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,33.8625788265031
+Afghanistan,AFG,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,37.1372494911803
+Afghanistan,AFG,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,40.8591712168299
+Afghanistan,AFG,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,49.8431476956196
+Afghanistan,AFG,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,42.2761408803626
+Afghanistan,AFG,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,43.7711485658802
+Afghanistan,AFG,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,54.0550550388989
+Afghanistan,AFG,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,54.2431263698384
+Afghanistan,AFG,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,52.1857743728053
+Afghanistan,AFG,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,44.0943368543633
+Afghanistan,AFG,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,41.4326008731029
+Afghanistan,AFG,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,37.9457475001443
+Afghanistan,AFG,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,35.0756402917937
+Afghanistan,AFG,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,32.7962505504008
+Afghanistan,AFG,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,30.5856670489932
+Afghanistan,AFG,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,26.5216286544368
+Afghanistan,AFG,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,17.0364435282942
+Afghanistan,AFG,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,15.9245316828932
+Afghanistan,AFG,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.76635514018692
+Afghanistan,AFG,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.96594653972904
+Afghanistan,AFG,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.86396181384248
+Afghanistan,AFG,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.51647693229479
+Afghanistan,AFG,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,3.20623916811092
+Afghanistan,AFG,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,4.00866738894908
+Afghanistan,AFG,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,7.06190061028771
+Afghanistan,AFG,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,13.5483870967742
+Afghanistan,AFG,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,20
+Afghanistan,AFG,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,24.8618784530387
+Afghanistan,AFG,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,23.9382239382239
+Afghanistan,AFG,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,38.9570552147239
+Afghanistan,AFG,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,51.027397260274
+Afghanistan,AFG,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,25.5605381165919
+Afghanistan,AFG,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,28.9099526066351
+Afghanistan,AFG,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,29.4642857142857
+Afghanistan,AFG,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,25.3521126760563
+Afghanistan,AFG,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,25.752508361204
+Afghanistan,AFG,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,26.1682242990654
+Afghanistan,AFG,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,25.9587020648968
+Afghanistan,AFG,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,26.0623229461756
+Afghanistan,AFG,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,26.158038147139
+Afghanistan,AFG,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,26.0526315789474
+Afghanistan,AFG,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,15.9398496240602
+Afghanistan,AFG,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,15.4277699859748
+Afghanistan,AFG,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,17.3051519154557
+Afghanistan,AFG,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,15.3452685421995
+Afghanistan,AFG,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,12.5586854460094
+Afghanistan,AFG,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,38.2730455075846
+Afghanistan,AFG,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,33.9602925809822
+Afghanistan,AFG,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,32.9015544041451
+Afghanistan,AFG,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,24.4186046511628
+Afghanistan,AFG,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,18.848167539267
+Afghanistan,AFG,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,15.3419593345656
+Afghanistan,AFG,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,10.625
+Afghanistan,AFG,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,17.1849427168576
+Afghanistan,AFG,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,13.9219015280136
+Afghanistan,AFG,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,21.4723926380368
+Afghanistan,AFG,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,15.1291512915129
+Afghanistan,AFG,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,22.4137931034483
+Afghanistan,AFG,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,20.8413001912046
+Afghanistan,AFG,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,20.3579418344519
+Afghanistan,AFG,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,19.6172248803828
+Afghanistan,AFG,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,23.21083172147
+Afghanistan,AFG,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,12.9385964912281
+Afghanistan,AFG,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Afghanistan,AFG,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,28.4431137724551
+Afghanistan,AFG,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,20.2857142857143
+Afghanistan,AFG,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Afghanistan,AFG,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Afghanistan,AFG,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Afghanistan,AFG,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Afghanistan,AFG,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Afghanistan,AFG,1961,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Afghanistan,AFG,1960,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Afghanistan,AFG,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5108.131
+Afghanistan,AFG,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5749.856
+Afghanistan,AFG,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6761.948
+Afghanistan,AFG,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,7609.025
+Afghanistan,AFG,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5870.867
+Afghanistan,AFG,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4946.783
+Afghanistan,AFG,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2812.589
+Afghanistan,AFG,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1199.109
+Afghanistan,AFG,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1136.77
+Afghanistan,AFG,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,861.745
+Afghanistan,AFG,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,594.054
+Afghanistan,AFG,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,601.388
+Afghanistan,AFG,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,440.04
+Afghanistan,AFG,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,491.378
+Afghanistan,AFG,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,498.712
+Afghanistan,AFG,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,495.045
+Afghanistan,AFG,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,689.396
+Afghanistan,AFG,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,726.066
+Afghanistan,AFG,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,781.071
+Afghanistan,AFG,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,825.075
+Afghanistan,AFG,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,858.078
+Afghanistan,AFG,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,894.748
+Afghanistan,AFG,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,927.751
+Afghanistan,AFG,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1719.823
+Afghanistan,AFG,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1851.835
+Afghanistan,AFG,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1866.503
+Afghanistan,AFG,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1822.499
+Afghanistan,AFG,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2016.85
+Afghanistan,AFG,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1140.437
+Afghanistan,AFG,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1547.474
+Afghanistan,AFG,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1133.103
+Afghanistan,AFG,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1221.111
+Afghanistan,AFG,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,993.757
+Afghanistan,AFG,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1015.759
+Afghanistan,AFG,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,924.084
+Afghanistan,AFG,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1166.106
+Afghanistan,AFG,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,935.085
+Afghanistan,AFG,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,975.422
+Afghanistan,AFG,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,883.747
+Afghanistan,AFG,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,876.413
+Afghanistan,AFG,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,770.07
+Afghanistan,AFG,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,704.064
+Afghanistan,AFG,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,627.057
+Afghanistan,AFG,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,748.068
+Afghanistan,AFG,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,671.061
+Afghanistan,AFG,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,528.048
+Afghanistan,AFG,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,498.712
+Afghanistan,AFG,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,557.384
+Afghanistan,AFG,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,575.719
+Afghanistan,AFG,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,542.716
+Afghanistan,AFG,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,476.71
+Afghanistan,AFG,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,392.369
+Afghanistan,AFG,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,363.033
+Afghanistan,AFG,1961,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,293.36
+Afghanistan,AFG,1960,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,271.358
+Afghanistan,AFG,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,919.687289749041
+Afghanistan,AFG,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,892.088601962882
+Afghanistan,AFG,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,858.766001601604
+Afghanistan,AFG,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,826.215945657122
+Afghanistan,AFG,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,791.462750015046
+Afghanistan,AFG,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,756.765735389714
+Afghanistan,AFG,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,723.643579585109
+Afghanistan,AFG,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,649.81346808084
+Afghanistan,AFG,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,655.681641908695
+Afghanistan,AFG,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,651.833200243741
+Afghanistan,AFG,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,628.069814963578
+Afghanistan,AFG,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,601.091953168024
+Afghanistan,AFG,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,577.041189465208
+Afghanistan,AFG,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,564.278773498272
+Afghanistan,AFG,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,565.119694953126
+Afghanistan,AFG,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,557.993609951883
+Afghanistan,AFG,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,534.670255122989
+Afghanistan,AFG,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,900.554436337016
+Afghanistan,AFG,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,818.452688717353
+Afghanistan,AFG,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,734.838358941566
+Afghanistan,AFG,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1116.71028639099
+Afghanistan,AFG,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,997.230119533631
+Afghanistan,AFG,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1319.08096485123
+Afghanistan,AFG,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1328.16547644088
+Afghanistan,AFG,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1431.3747487466
+Afghanistan,AFG,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1374.80244594094
+Afghanistan,AFG,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1335.66213239856
+Afghanistan,AFG,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1345.29476192489
+Afghanistan,AFG,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1393.59974227651
+Afghanistan,AFG,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1137.6046176877
+Afghanistan,AFG,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1201.13601139152
+Afghanistan,AFG,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1252.97012859083
+Afghanistan,AFG,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1197.87722569184
+Afghanistan,AFG,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1298.32550919468
+Afghanistan,AFG,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1304.33960474242
+Afghanistan,AFG,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1173.21601582616
+Afghanistan,AFG,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1262.195946481
+Afghanistan,AFG,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1178.82925895222
+Afghanistan,AFG,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1166.62754591281
+Afghanistan,AFG,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Afghanistan,AFG,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,8.19364322145541
+Afghanistan,AFG,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,8.07341920561537
+Afghanistan,AFG,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.90040388229519
+Afghanistan,AFG,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.72258260963596
+Afghanistan,AFG,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.52240909018806
+Afghanistan,AFG,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.31132239087313
+Afghanistan,AFG,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.28786626810511
+Afghanistan,AFG,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.49799190077702
+Afghanistan,AFG,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,6.9870957495348
+Afghanistan,AFG,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,6.32485469724858
+Afghanistan,AFG,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,6.47483306956041
+Afghanistan,AFG,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,6.52396406581601
+Afghanistan,AFG,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,6.70068081332804
+Afghanistan,AFG,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.15559500951417
+Afghanistan,AFG,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.37087328243673
+Afghanistan,AFG,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.46490730902907
+Afghanistan,AFG,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.23942973791982
+Afghanistan,AFG,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.6923537062328
+Afghanistan,AFG,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,10.7301750845924
+Afghanistan,AFG,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,9.84372969122155
+Afghanistan,AFG,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,14.0993966921707
+Afghanistan,AFG,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,13.3227095041493
+Afghanistan,AFG,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,17.7891430158128
+Afghanistan,AFG,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,15.9852188419246
+Afghanistan,AFG,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,15.8081731347606
+Afghanistan,AFG,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,13.9460019024161
+Afghanistan,AFG,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,13.0184032086255
+Afghanistan,AFG,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,13.055030295832
+Afghanistan,AFG,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,13.4302155067797
+Afghanistan,AFG,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.1790709467944
+Afghanistan,AFG,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.5715263956178
+Afghanistan,AFG,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.983379035672
+Afghanistan,AFG,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.3698054756429
+Afghanistan,AFG,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,12.3926226943348
+Afghanistan,AFG,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,13.0591584516753
+Afghanistan,AFG,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,12.4763229148402
+Afghanistan,AFG,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,13.7635195388846
+Afghanistan,AFG,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.5554502666493
+Afghanistan,AFG,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.435282747626
+Afghanistan,AFG,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,209.336279975
+Afghanistan,AFG,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,207.388346553
+Afghanistan,AFG,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,204.48749728
+Afghanistan,AFG,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,202.858694908
+Afghanistan,AFG,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,201.379002164
+Afghanistan,AFG,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,199.750896424
+Afghanistan,AFG,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,190.33660457
+Afghanistan,AFG,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,143.966765758
+Afghanistan,AFG,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,161.604564818
+Afghanistan,AFG,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,188.464497892
+Afghanistan,AFG,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,172.02752562
+Afghanistan,AFG,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,163.469800656
+Afghanistan,AFG,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,150.560035292
+Afghanistan,AFG,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,133.007421008
+Afghanistan,AFG,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,120.996896514
+Afghanistan,AFG,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,111.693931674
+Afghanistan,AFG,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,103.72118787
+Afghanistan,AFG,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,105.59853888
+Afghanistan,AFG,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,106.89107024
+Afghanistan,AFG,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,104.99420721
+Afghanistan,AFG,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,105.7345303
+Afghanistan,AFG,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,103.30501845
+Afghanistan,AFG,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,101.03995385
+Afghanistan,AFG,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,123.15629315
+Afghanistan,AFG,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,141.75275357
+Afghanistan,AFG,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,160.71062005
+Afghanistan,AFG,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,162.24958436
+Afghanistan,AFG,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,164.0108258
+Afghanistan,AFG,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,161.34332695
+Afghanistan,AFG,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,158.13705027
+Afghanistan,AFG,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,157.99521442
+Afghanistan,AFG,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,151.99863828
+Afghanistan,AFG,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,155.14143843
+Afghanistan,AFG,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,152.49043251
+Afghanistan,AFG,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,147.69764093
+Afghanistan,AFG,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,140.54141834
+Afghanistan,AFG,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,143.01033615
+Afghanistan,AFG,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,146.206970621
+Afghanistan,AFG,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,146.746578321
+Afghanistan,AFG,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Afghanistan,AFG,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.98576703689259
+Afghanistan,AFG,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.97599458940392
+Afghanistan,AFG,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.96848613825552
+Afghanistan,AFG,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.94590832667006
+Afghanistan,AFG,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.00706193210716
+Afghanistan,AFG,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.98578450505351
+Afghanistan,AFG,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.64017129340437
+Afghanistan,AFG,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.70649737316821
+Afghanistan,AFG,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.87264733516535
+Afghanistan,AFG,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.23431507658399
+Afghanistan,AFG,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.16134809702742
+Afghanistan,AFG,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.14380133442585
+Afghanistan,AFG,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.10579517423793
+Afghanistan,AFG,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.86290662628754
+Afghanistan,AFG,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.66372294100216
+Afghanistan,AFG,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.0371532133365
+Afghanistan,AFG,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.81466304336673
+Afghanistan,AFG,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.83173469456624
+Afghanistan,AFG,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.88949881276685
+Afghanistan,AFG,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.78861696701232
+Afghanistan,AFG,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.8143153494489
+Afghanistan,AFG,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.85882995612466
+Afghanistan,AFG,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.01445657368359
+Afghanistan,AFG,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.30234779331578
+Afghanistan,AFG,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.62918721672905
+Afghanistan,AFG,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.04006761617733
+Afghanistan,AFG,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.87627995117997
+Afghanistan,AFG,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.03609709199943
+Afghanistan,AFG,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.9264746890559
+Afghanistan,AFG,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.91942250831766
+Afghanistan,AFG,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.82735022447858
+Afghanistan,AFG,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.64972535111094
+Afghanistan,AFG,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.75073097405618
+Afghanistan,AFG,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.83525130488632
+Afghanistan,AFG,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.0283159968845
+Afghanistan,AFG,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.25505544730506
+Afghanistan,AFG,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.65222947144012
+Afghanistan,AFG,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.86361440804684
+Afghanistan,AFG,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.82360997398543
+Afghanistan,AFG,2016,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.7
+Afghanistan,AFG,2014,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.19
+Afghanistan,AFG,2012,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.21
+Afghanistan,AFG,2010,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1
+Afghanistan,AFG,2008,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.96
+Afghanistan,AFG,2006,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.65
+Afghanistan,AFG,2004,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.58
+Afghanistan,AFG,2002,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.27
+Afghanistan,AFG,2016,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.7
+Afghanistan,AFG,2014,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.07
+Afghanistan,AFG,2012,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.28
+Afghanistan,AFG,2010,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.15
+Afghanistan,AFG,2008,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.05
+Afghanistan,AFG,2006,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.68
+Afghanistan,AFG,2004,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.53
+Afghanistan,AFG,2002,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.34
+Afghanistan,AFG,2014,Time to obtain an electrical connection (days),IC.ELC.DURS,111.3
+Afghanistan,AFG,2008,Time to obtain an electrical connection (days),IC.ELC.DURS,45.8
+Afghanistan,AFG,2019,Time required to get electricity (days),IC.ELC.TIME,114
+Afghanistan,AFG,2018,Time required to get electricity (days),IC.ELC.TIME,114
+Afghanistan,AFG,2017,Time required to get electricity (days),IC.ELC.TIME,114
+Afghanistan,AFG,2016,Time required to get electricity (days),IC.ELC.TIME,114
+Afghanistan,AFG,2015,Time required to get electricity (days),IC.ELC.TIME,114
+Afghanistan,AFG,2014,Time required to get electricity (days),IC.ELC.TIME,114
+Afghanistan,AFG,2013,Time required to get electricity (days),IC.ELC.TIME,114
+Afghanistan,AFG,2012,Time required to get electricity (days),IC.ELC.TIME,114
+Afghanistan,AFG,2011,Time required to get electricity (days),IC.ELC.TIME,114
+Afghanistan,AFG,2010,Time required to get electricity (days),IC.ELC.TIME,196
+Afghanistan,AFG,2009,Time required to get electricity (days),IC.ELC.TIME,424
+Afghanistan,AFG,2014,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,2
+Afghanistan,AFG,2008,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,1.4
+Afghanistan,AFG,2014,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,9.6
+Afghanistan,AFG,2008,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,6.5
+Afghanistan,AFG,2017,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,19000000
+Afghanistan,AFG,2003,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,1580000
+Afghanistan,AFG,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1112753.48989776
+Afghanistan,AFG,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,911029.492799966
+Afghanistan,AFG,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,810771.842175775
+Afghanistan,AFG,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1098526.09400854
+Afghanistan,AFG,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,763229.897038496
+Afghanistan,AFG,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Afghanistan,AFG,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00566572196410827
+Afghanistan,AFG,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00475958856842142
+Afghanistan,AFG,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00403628657652785
+Afghanistan,AFG,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00536323846368053
+Afghanistan,AFG,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0036991085366026
+Afghanistan,AFG,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Afghanistan,AFG,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Afghanistan,AFG,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Afghanistan,AFG,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Afghanistan,AFG,1981,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Afghanistan,AFG,1980,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Afghanistan,AFG,1979,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Afghanistan,AFG,1978,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Afghanistan,AFG,1977,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Afghanistan,AFG,1976,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Afghanistan,AFG,1975,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Afghanistan,AFG,1974,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Afghanistan,AFG,1973,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Afghanistan,AFG,1972,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Afghanistan,AFG,1971,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Afghanistan,AFG,1970,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Afghanistan,AFG,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,16686439.91326
+Afghanistan,AFG,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,12480472.7384894
+Afghanistan,AFG,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,9141180.7018617
+Afghanistan,AFG,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,12682244.7826833
+Afghanistan,AFG,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,13717462.4582289
+Afghanistan,AFG,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,33179906.0435312
+Afghanistan,AFG,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,24992524.0907678
+Afghanistan,AFG,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,9482613.56500532
+Afghanistan,AFG,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,4618483.33529849
+Afghanistan,AFG,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,7561707.33891575
+Afghanistan,AFG,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3237604.3216862
+Afghanistan,AFG,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1469932.27544724
+Afghanistan,AFG,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1472570.39904863
+Afghanistan,AFG,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1244751.78551264
+Afghanistan,AFG,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,958155.327858159
+Afghanistan,AFG,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1205311.42418768
+Afghanistan,AFG,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1581731.88440217
+Afghanistan,AFG,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1778471.19705019
+Afghanistan,AFG,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1225923.79508969
+Afghanistan,AFG,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,922590.817106076
+Afghanistan,AFG,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1848623.47458181
+Afghanistan,AFG,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,2335646.95344877
+Afghanistan,AFG,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,2143699.48409231
+Afghanistan,AFG,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,2388702.41012359
+Afghanistan,AFG,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3100900.59948618
+Afghanistan,AFG,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3882269.84081599
+Afghanistan,AFG,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,4613946.07994871
+Afghanistan,AFG,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,17004818.4565309
+Afghanistan,AFG,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,11142084.2126751
+Afghanistan,AFG,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,10578715.5014079
+Afghanistan,AFG,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,15020174.1930529
+Afghanistan,AFG,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,15922169.471013
+Afghanistan,AFG,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,24754065.3791508
+Afghanistan,AFG,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,26303635.444447
+Afghanistan,AFG,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,27757831.00431
+Afghanistan,AFG,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,21079872.317777
+Afghanistan,AFG,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,29373771.2329674
+Afghanistan,AFG,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,38078579.1785877
+Afghanistan,AFG,1979,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,37655563.075692
+Afghanistan,AFG,1978,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,16394338.4991021
+Afghanistan,AFG,1977,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,20802143.6153047
+Afghanistan,AFG,1976,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,16233069.723023
+Afghanistan,AFG,1975,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,10416231.20514
+Afghanistan,AFG,1974,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3628180.31996448
+Afghanistan,AFG,1973,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,839765.805968002
+Afghanistan,AFG,1972,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,249105.32048686
+Afghanistan,AFG,1971,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,213138.174079004
+Afghanistan,AFG,1970,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,117363.973626949
+Afghanistan,AFG,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0849610717716257
+Afghanistan,AFG,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.065203065152197
+Afghanistan,AFG,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0455077779483869
+Afghanistan,AFG,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0619174213478173
+Afghanistan,AFG,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0664837458237056
+Afghanistan,AFG,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.166408637825504
+Afghanistan,AFG,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.140526810743149
+Afghanistan,AFG,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0596972521689663
+Afghanistan,AFG,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0372349720549711
+Afghanistan,AFG,1981,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.827077212571268
+Afghanistan,AFG,1980,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,1.02456702885462
+Afghanistan,AFG,1979,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.99730186103716
+Afghanistan,AFG,1978,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.486318555345733
+Afghanistan,AFG,1977,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.68931994656502
+Afghanistan,AFG,1976,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.621692019829181
+Afghanistan,AFG,1975,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.430818386202407
+Afghanistan,AFG,1974,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.164750871741586
+Afghanistan,AFG,1973,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.047414689469718
+Afghanistan,AFG,1972,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0152721448999172
+Afghanistan,AFG,1971,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0114045532797223
+Afghanistan,AFG,1970,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00657705960752508
+Afghanistan,AFG,2017,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.316964608096351
+Afghanistan,AFG,2016,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.299160320576364
+Afghanistan,AFG,2015,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.230996722175182
+Afghanistan,AFG,2014,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.225909843453601
+Afghanistan,AFG,2013,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.223100148806095
+Afghanistan,AFG,2012,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.322036569995755
+Afghanistan,AFG,2011,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.321167859991731
+Afghanistan,AFG,2010,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.268482979788634
+Afghanistan,AFG,2009,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.195785400972182
+Afghanistan,AFG,1981,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.986910316514738
+Afghanistan,AFG,1980,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.2419049663907
+Afghanistan,AFG,1979,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.2068570718462
+Afghanistan,AFG,1978,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.759447304609789
+Afghanistan,AFG,1977,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.907235571077198
+Afghanistan,AFG,1976,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.897881987176922
+Afghanistan,AFG,1975,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.712277534662844
+Afghanistan,AFG,1974,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.447889641194672
+Afghanistan,AFG,1973,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.307697569838623
+Afghanistan,AFG,1972,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.147912982676094
+Afghanistan,AFG,1971,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.11734693599542
+Afghanistan,AFG,1970,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0878763046444491
+Afghanistan,AFG,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0074208524953154
+Afghanistan,AFG,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00623430829149926
+Afghanistan,AFG,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00530833331642909
+Afghanistan,AFG,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00698947602300506
+Afghanistan,AFG,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0048381290293384
+Afghanistan,AFG,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,1981,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,1980,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,1979,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,1978,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,1977,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,1976,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,1975,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,1974,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,1973,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,1972,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,1971,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,1970,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Afghanistan,AFG,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0033847388540492
+Afghanistan,AFG,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.00291200947870462
+Afghanistan,AFG,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0048704823970331
+Afghanistan,AFG,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.00561471332883941
+Afghanistan,AFG,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0396825510292155
+Afghanistan,AFG,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0530203613954503
+Afghanistan,AFG,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0529184467853252
+Afghanistan,AFG,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0305932673028493
+Afghanistan,AFG,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0101752094412476
+Afghanistan,AFG,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0150449303693353
+Afghanistan,AFG,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.013851337311546
+Afghanistan,AFG,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0151489859802346
+Afghanistan,AFG,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0150254217554556
+Afghanistan,AFG,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0148761299157954
+Afghanistan,AFG,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0194985884961443
+Afghanistan,AFG,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.121154036086226
+Afghanistan,AFG,1981,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.162305249453617
+Afghanistan,AFG,1980,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.486610273896923
+Afghanistan,AFG,1979,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.381900496068597
+Afghanistan,AFG,1978,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.25573708799991
+Afghanistan,AFG,1977,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.538425705942534
+Afghanistan,AFG,1976,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.540689666223707
+Afghanistan,AFG,1975,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.426252411410231
+Afghanistan,AFG,1974,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.150056949975707
+Afghanistan,AFG,1973,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0441098087401582
+Afghanistan,AFG,1972,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.00413118839624828
+Afghanistan,AFG,1971,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Afghanistan,AFG,1970,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Afghanistan,AFG,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.00125468841072462
+Afghanistan,AFG,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.000824121640284273
+Afghanistan,AFG,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.00107623018120805
+Afghanistan,AFG,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.00316891899047458
+Afghanistan,AFG,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.00402919578264212
+Afghanistan,AFG,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.110330689483207
+Afghanistan,AFG,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.00661517051534691
+Afghanistan,AFG,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.00497396909038234
+Afghanistan,AFG,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0054429708125438
+Afghanistan,AFG,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0161232819346973
+Afghanistan,AFG,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0146989186251218
+Afghanistan,AFG,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0221363597561716
+Afghanistan,AFG,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0259703803814524
+Afghanistan,AFG,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0254114728302291
+Afghanistan,AFG,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0267107103270656
+Afghanistan,AFG,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0291341214862826
+Afghanistan,AFG,1981,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.36949780700253
+Afghanistan,AFG,1980,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.41673784549765
+Afghanistan,AFG,1979,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,1.27240044798532
+Afghanistan,AFG,1978,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.612869653053416
+Afghanistan,AFG,1977,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.653526571800843
+Afghanistan,AFG,1976,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.570591379239737
+Afghanistan,AFG,1975,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.393058059485199
+Afghanistan,AFG,1974,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.18246430638044
+Afghanistan,AFG,1973,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0554377144704201
+Afghanistan,AFG,1972,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0331009512386763
+Afghanistan,AFG,1971,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0294247030075833
+Afghanistan,AFG,1970,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0177889919988865
+Afghanistan,AFG,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.693530677225669
+Afghanistan,AFG,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.625859794776059
+Afghanistan,AFG,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.479032522371901
+Afghanistan,AFG,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.495682473919048
+Afghanistan,AFG,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.526111227750003
+Afghanistan,AFG,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.680631424615333
+Afghanistan,AFG,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.84194929010535
+Afghanistan,AFG,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.588007289736588
+Afghanistan,AFG,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.406485267887841
+Afghanistan,AFG,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.603855649894889
+Afghanistan,AFG,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.445615618517312
+Afghanistan,AFG,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.501950021988975
+Afghanistan,AFG,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.38440433910658
+Afghanistan,AFG,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.445267039525233
+Afghanistan,AFG,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.719357369114903
+Afghanistan,AFG,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.11398250245278
+Afghanistan,AFG,1981,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.0621678196423
+Afghanistan,AFG,1980,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.548498970726
+Afghanistan,AFG,1979,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.22601865586492
+Afghanistan,AFG,1978,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.61941556055131
+Afghanistan,AFG,1977,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.79456094993387
+Afghanistan,AFG,1976,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.88468726453276
+Afghanistan,AFG,1975,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.63218098560254
+Afghanistan,AFG,1974,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.13266261593726
+Afghanistan,AFG,1973,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.86766364170208
+Afghanistan,AFG,1972,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.435196492035287
+Afghanistan,AFG,1971,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.373956335446073
+Afghanistan,AFG,1970,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.302881584930502
+Afghanistan,AFG,2018,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.8501267001254
+Afghanistan,AFG,2016,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.427918659268
+Afghanistan,AFG,2015,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.2091879063987
+Afghanistan,AFG,2014,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.3398698344019
+Afghanistan,AFG,2013,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.9800958618561
+Afghanistan,AFG,2012,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,24.4565674995917
+Afghanistan,AFG,2011,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,34.7730942739679
+Afghanistan,AFG,2010,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.8602096084606
+Afghanistan,AFG,2009,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,23.624905557535
+Afghanistan,AFG,2008,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.841267307582642
+Afghanistan,AFG,1977,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.90196795566483
+Afghanistan,AFG,1976,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.6328559799986
+Afghanistan,AFG,1975,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.74306922736584
+Afghanistan,AFG,1974,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.32560760584032
+Afghanistan,AFG,1973,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,6.56521459078002
+Afghanistan,AFG,1972,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,6.81382232859121
+Afghanistan,AFG,1971,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.00014562851791
+Afghanistan,AFG,1970,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,6.10569472942426
+Afghanistan,AFG,1969,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.98716832717403
+Afghanistan,AFG,1968,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.14929909908277
+Afghanistan,AFG,1967,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.86887814875693
+Afghanistan,AFG,1966,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.67458970651037
+Afghanistan,AFG,1965,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,4.18954814350143
+Afghanistan,AFG,1964,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,6.56562613597936
+Afghanistan,AFG,1963,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.36383461509731
+Afghanistan,AFG,1962,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,6.10992782424829
+Afghanistan,AFG,2018,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.183426169014256
+Afghanistan,AFG,2016,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.565414311062189
+Afghanistan,AFG,2015,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.265449776345043
+Afghanistan,AFG,2011,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.273661753630469
+Afghanistan,AFG,2010,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.281992479508173
+Afghanistan,AFG,2009,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.216327171779355
+Afghanistan,AFG,2008,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.396869440571365
+Afghanistan,AFG,1977,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.120983430638658
+Afghanistan,AFG,1976,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.108506048261152
+Afghanistan,AFG,1975,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.114973918075858
+Afghanistan,AFG,1974,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.126676566077595
+Afghanistan,AFG,1973,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.259329424230153
+Afghanistan,AFG,1972,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.109681587286938
+Afghanistan,AFG,1971,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.060992369447013
+Afghanistan,AFG,1970,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.106668396266518
+Afghanistan,AFG,1969,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.141623999936692
+Afghanistan,AFG,1968,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.0531414387918182
+Afghanistan,AFG,1967,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.0863434810109968
+Afghanistan,AFG,1966,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.0692505644993633
+Afghanistan,AFG,1965,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.126047621345445
+Afghanistan,AFG,1964,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.162912596757714
+Afghanistan,AFG,1963,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.227884455495729
+Afghanistan,AFG,1962,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.039774951722225
+Afghanistan,AFG,2018,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,10.4693290077463
+Afghanistan,AFG,2015,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,3.45045600557406
+Afghanistan,AFG,1976,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,13.2242232130081
+Afghanistan,AFG,1975,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,20.29962345871
+Afghanistan,AFG,1974,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,13.9742449191501
+Afghanistan,AFG,1973,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,11.6195424928802
+Afghanistan,AFG,1972,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,13.7309154971656
+Afghanistan,AFG,1971,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,14.553298159669
+Afghanistan,AFG,1970,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,16.9461490985105
+Afghanistan,AFG,1969,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,14.8661726967355
+Afghanistan,AFG,1968,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,12.5789673516027
+Afghanistan,AFG,1967,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,4.40957469624438
+Afghanistan,AFG,2018,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.24022854640136
+Afghanistan,AFG,2016,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.12452208638717
+Afghanistan,AFG,2015,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.06525272819338
+Afghanistan,AFG,2011,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.305786388425507
+Afghanistan,AFG,2010,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.275244541510738
+Afghanistan,AFG,2009,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.137976802486954
+Afghanistan,AFG,1977,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.00120959845684642
+Afghanistan,AFG,1976,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.000120402639268663
+Afghanistan,AFG,1974,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0654570597940185
+Afghanistan,AFG,1967,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0749262608150336
+Afghanistan,AFG,1966,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0721230987705362

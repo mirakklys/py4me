@@ -1,0 +1,1530 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Libya,LBY,2015,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.2082609407282
+Libya,LBY,2014,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.44433660893805
+Libya,LBY,2013,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,6.63325545988754
+Libya,LBY,2012,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.09431676405759
+Libya,LBY,2011,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,8.26636220521031
+Libya,LBY,2010,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.76049975294697
+Libya,LBY,2009,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.64223254190584
+Libya,LBY,2008,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.24751425331506
+Libya,LBY,2007,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.09371424312968
+Libya,LBY,2006,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.68234898286041
+Libya,LBY,2005,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.93227279566807
+Libya,LBY,2004,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.56901958330719
+Libya,LBY,2003,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.65889461151248
+Libya,LBY,2002,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,6.21594085381618
+Libya,LBY,2001,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.91964031523429
+Libya,LBY,2000,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.64426099091324
+Libya,LBY,1999,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.57671731454814
+Libya,LBY,1998,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.69383156451431
+Libya,LBY,1997,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.42575241125266
+Libya,LBY,1996,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.61580887041642
+Libya,LBY,1995,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.39956446897969
+Libya,LBY,1994,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.98680472575991
+Libya,LBY,1993,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.50195536191324
+Libya,LBY,1992,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.17427235119839
+Libya,LBY,1991,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.08158132275407
+Libya,LBY,1990,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.65316780274281
+Libya,LBY,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,70.1482009887695
+Libya,LBY,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,71.6943740844727
+Libya,LBY,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,73.2420043945313
+Libya,LBY,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,74.7983627319336
+Libya,LBY,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,76.3721618652344
+Libya,LBY,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,77.9721450805664
+Libya,LBY,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,79.6070251464844
+Libya,LBY,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,81.285530090332
+Libya,LBY,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,83.0126724243164
+Libya,LBY,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,84.7785949707031
+Libya,LBY,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,86.5697326660156
+Libya,LBY,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,88.3725204467773
+Libya,LBY,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,90.1733779907227
+Libya,LBY,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,91.958740234375
+Libya,LBY,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,93.7181243896484
+Libya,LBY,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,95.4533767700195
+Libya,LBY,2001,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,97.1694259643555
+Libya,LBY,2000,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,99.8
+Libya,LBY,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,70.1482009887695
+Libya,LBY,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,71.6943740844727
+Libya,LBY,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,73.2420043945313
+Libya,LBY,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,74.7983627319336
+Libya,LBY,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,76.3721618652344
+Libya,LBY,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,77.9721450805664
+Libya,LBY,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,79.6070251464844
+Libya,LBY,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,81.285530090332
+Libya,LBY,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,83.0126724243164
+Libya,LBY,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,84.7785949707031
+Libya,LBY,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,86.5697326660156
+Libya,LBY,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,88.3725204467773
+Libya,LBY,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,90.1733779907227
+Libya,LBY,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,91.958740234375
+Libya,LBY,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,93.7181243896484
+Libya,LBY,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.4533767700195
+Libya,LBY,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.1694259643555
+Libya,LBY,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.8
+Libya,LBY,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,70.1482009887695
+Libya,LBY,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,71.6943740844727
+Libya,LBY,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,73.2420043945313
+Libya,LBY,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,74.7983627319336
+Libya,LBY,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,76.3721618652344
+Libya,LBY,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,77.9721450805664
+Libya,LBY,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,79.6070251464844
+Libya,LBY,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,81.285530090332
+Libya,LBY,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,83.0126724243164
+Libya,LBY,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,84.7785949707031
+Libya,LBY,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,86.5697326660156
+Libya,LBY,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,88.3725204467773
+Libya,LBY,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,90.1733779907227
+Libya,LBY,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,91.958740234375
+Libya,LBY,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,93.7181243896484
+Libya,LBY,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,95.4533767700195
+Libya,LBY,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.1694259643555
+Libya,LBY,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.8
+Libya,LBY,2015,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,2014,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,2013,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,2012,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,2011,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,2010,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,2009,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,2008,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,2007,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,2006,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,2005,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,2004,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,2003,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,2002,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,2001,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,2000,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1999,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1998,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1997,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1996,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1995,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1994,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1993,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1992,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1991,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1990,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1989,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1988,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1987,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1986,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1985,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1984,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1983,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1982,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1981,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1980,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1979,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1978,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1977,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1976,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1975,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1974,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1973,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1972,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,1971,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Libya,LBY,2015,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,2014,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,2013,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,2012,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,2011,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,2010,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,2009,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,2008,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,2007,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,2006,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,2005,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,2004,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,2003,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,2002,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,2001,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,2000,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1999,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1998,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1997,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1996,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1995,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1994,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1993,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1992,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1991,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1990,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1989,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1988,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1987,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1986,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1985,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1984,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1983,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1982,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1981,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1980,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1979,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1978,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1977,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1976,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1975,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1974,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1973,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1972,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,1971,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Libya,LBY,2015,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,2014,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,2013,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,2012,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,2011,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,2010,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,2009,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,2008,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,2007,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,2006,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,2005,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,2004,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,2003,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,2002,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,2001,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,2000,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1999,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1998,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1997,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1996,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1995,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1994,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1993,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1992,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1991,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1990,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1989,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1988,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1987,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1986,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1985,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1984,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1983,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1982,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1981,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1980,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1979,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1978,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1977,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1976,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1975,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1974,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1973,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1972,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,1971,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Libya,LBY,2014,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,69.6960059367629
+Libya,LBY,2013,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,61.4802310553108
+Libya,LBY,2012,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,59.0342815463166
+Libya,LBY,2011,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,31.5281356975268
+Libya,LBY,2010,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,35.7546532342281
+Libya,LBY,2009,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,36.4435518388042
+Libya,LBY,2008,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,33.119374869183
+Libya,LBY,2007,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.5168102462453
+Libya,LBY,2006,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,9.94586733457219
+Libya,LBY,2005,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.5352858151023
+Libya,LBY,2004,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.5351348685833
+Libya,LBY,2003,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.5376128385155
+Libya,LBY,2002,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.5377902002168
+Libya,LBY,2001,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,23.7911985599901
+Libya,LBY,2000,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,23.1801755291688
+Libya,LBY,1999,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,20.2887485250226
+Libya,LBY,1998,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,19.441159077469
+Libya,LBY,1997,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,26.8858954041204
+Libya,LBY,1996,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,25.5088532186
+Libya,LBY,1995,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,23.2413491020587
+Libya,LBY,1994,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,24.390452562238
+Libya,LBY,1993,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,24.1689445375187
+Libya,LBY,1992,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,24.2215819314063
+Libya,LBY,1991,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,27.9827915869981
+Libya,LBY,1990,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,31.2026747959485
+Libya,LBY,1989,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,19.9184480415174
+Libya,LBY,1988,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,19.5228035292656
+Libya,LBY,1987,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,23.1554160125589
+Libya,LBY,1986,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,38.6978785662034
+Libya,LBY,1985,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,45.4827343199436
+Libya,LBY,1984,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,42.2496570644719
+Libya,LBY,1983,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,38.6288727752142
+Libya,LBY,1982,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,34.5687811831789
+Libya,LBY,1981,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,30
+Libya,LBY,1980,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,24.875
+Libya,LBY,1979,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,21.566265060241
+Libya,LBY,1978,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,21.5283972643473
+Libya,LBY,1977,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,21.5319449346982
+Libya,LBY,1976,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,21.572934973638
+Libya,LBY,1975,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,21.5815485996705
+Libya,LBY,1974,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,21.578566256336
+Libya,LBY,1973,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,21.5344376634699
+Libya,LBY,1972,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,21.792618629174
+Libya,LBY,1971,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,21.6535433070866
+Libya,LBY,2015,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,53.7003155410601
+Libya,LBY,2014,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,53.7012006042777
+Libya,LBY,2013,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,58.3836678711787
+Libya,LBY,2012,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,60.4755652808169
+Libya,LBY,2011,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,59.8099926920266
+Libya,LBY,2010,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,47.1282019780085
+Libya,LBY,2009,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,39.1992888420637
+Libya,LBY,2008,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,40.9893253331473
+Libya,LBY,2007,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,44.0001524738888
+Libya,LBY,2006,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,39.5936010341763
+Libya,LBY,2005,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,27.9463655610445
+Libya,LBY,2004,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,19.2662360076927
+Libya,LBY,2003,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,20.3558042548699
+Libya,LBY,2002,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,21.1282870343962
+Libya,LBY,2001,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,22.0470486003352
+Libya,LBY,2000,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,21.9411461022199
+Libya,LBY,1999,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,22.9055320330395
+Libya,LBY,1998,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,20.6978119455943
+Libya,LBY,1997,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,22.1870047543582
+Libya,LBY,1996,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,23.9947046169121
+Libya,LBY,1995,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,22.7770477441962
+Libya,LBY,1994,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1993,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1992,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1991,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1990,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1989,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1988,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1987,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1986,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1985,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1984,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1983,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1982,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1981,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1980,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1979,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1978,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1977,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1976,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1975,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1974,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1973,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1972,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,1971,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Libya,LBY,2014,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,2013,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,2012,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,2011,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,2010,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,2009,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,2008,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,2007,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,2006,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,2005,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,2004,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,2003,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,2002,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,2001,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,2000,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1999,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1998,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1997,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1996,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1995,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1994,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1993,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1992,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1991,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1990,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1989,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1988,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1987,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1986,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1985,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1984,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1983,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1982,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1981,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1980,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1979,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1978,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1977,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1976,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1975,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1974,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1973,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1972,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,1971,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Libya,LBY,2015,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,46.2996844589399
+Libya,LBY,2014,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,46.2987993957223
+Libya,LBY,2013,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,41.6163321288212
+Libya,LBY,2012,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,39.5244347191831
+Libya,LBY,2011,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,40.1900073079734
+Libya,LBY,2010,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,52.8717980219915
+Libya,LBY,2009,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,60.8007111579363
+Libya,LBY,2008,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,59.0106746668527
+Libya,LBY,2007,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,55.9998475261112
+Libya,LBY,2006,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,60.4063989658237
+Libya,LBY,2005,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,72.0536344389555
+Libya,LBY,2004,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,80.7337639923073
+Libya,LBY,2003,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,79.6441957451301
+Libya,LBY,2002,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,78.8717129656038
+Libya,LBY,2001,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,77.9529513996648
+Libya,LBY,2000,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,78.0588538977801
+Libya,LBY,1999,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,77.0944679669605
+Libya,LBY,1998,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,79.3021880544057
+Libya,LBY,1997,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,77.8129952456418
+Libya,LBY,1996,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,76.0052953830879
+Libya,LBY,1995,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,77.2229522558038
+Libya,LBY,1994,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1993,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1992,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1991,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1990,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1989,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1988,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1987,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1986,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1985,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1984,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1983,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1982,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1981,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1980,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1979,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1978,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1977,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1976,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1975,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1974,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1973,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1972,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,1971,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Libya,LBY,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Libya,LBY,2015,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,2014,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,2013,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,2012,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,2011,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,2010,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,2009,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,2008,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,2007,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,2006,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,2005,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,2004,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,2003,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,2002,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,2001,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,2000,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1999,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1998,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1997,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1996,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1995,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1994,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1993,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1992,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1991,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1990,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1989,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1988,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1987,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1986,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1985,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1984,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1983,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1982,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1981,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1980,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1979,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1978,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1977,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1976,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1975,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1974,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1973,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1972,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,1971,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Libya,LBY,2015,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,2014,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,2013,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,2012,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,2011,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,2010,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,2009,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,2008,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,2007,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,2006,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,2005,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,2004,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,2003,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,2002,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,2001,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,2000,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1999,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1998,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1997,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1996,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1995,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1994,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1993,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1992,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1991,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1990,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1989,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1988,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1987,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1986,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1985,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1984,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1983,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1982,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1981,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1980,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1979,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1978,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1977,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1976,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1975,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1974,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1973,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1972,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,1971,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Libya,LBY,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.96655445725932
+Libya,LBY,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.75392907784759
+Libya,LBY,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.71780327046183
+Libya,LBY,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.91286030352224
+Libya,LBY,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.23072091188462
+Libya,LBY,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.56833080600608
+Libya,LBY,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.71951508825856
+Libya,LBY,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.87579254982476
+Libya,LBY,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.00213853604632
+Libya,LBY,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.87720936046987
+Libya,LBY,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.81349258543602
+Libya,LBY,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.86591748521331
+Libya,LBY,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.94786643220399
+Libya,LBY,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.96595455077816
+Libya,LBY,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.0241960873231
+Libya,LBY,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.0421626891895
+Libya,LBY,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.0449556489784
+Libya,LBY,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.14799280796174
+Libya,LBY,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.12249880795397
+Libya,LBY,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.10173579385332
+Libya,LBY,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.19164068555507
+Libya,LBY,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.36339705882639
+Libya,LBY,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.70156795083744
+Libya,LBY,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.88670661972821
+Libya,LBY,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.01159694843539
+Libya,LBY,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.12930845114595
+Libya,LBY,2014,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.00662087678208
+Libya,LBY,2013,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.13893119373804
+Libya,LBY,2012,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.14024478519208
+Libya,LBY,2011,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,5.0648639583698
+Libya,LBY,2010,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.61491760522808
+Libya,LBY,2009,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.73263728766958
+Libya,LBY,2008,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.47194529554466
+Libya,LBY,2007,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.64028804737922
+Libya,LBY,2006,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.20788644031083
+Libya,LBY,2005,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.56310845819693
+Libya,LBY,2004,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.49601574299493
+Libya,LBY,2003,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.22524859099358
+Libya,LBY,2002,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,5.56403873238782
+Libya,LBY,2001,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,5.75156394681724
+Libya,LBY,2000,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,5.90270703126128
+Libya,LBY,1999,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,5.84356754881172
+Libya,LBY,2014,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,5.68440416979763
+Libya,LBY,2013,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,6.88378896702235
+Libya,LBY,2012,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.96824734259383
+Libya,LBY,2011,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,5.0648639583698
+Libya,LBY,2010,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.7948749443967
+Libya,LBY,2009,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,9.01893638934584
+Libya,LBY,2008,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,9.85705933001242
+Libya,LBY,2007,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.2273870410631
+Libya,LBY,2006,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.94166585046447
+Libya,LBY,2005,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.48858157982907
+Libya,LBY,2004,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,7.51801989087933
+Libya,LBY,2003,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,7.39861808255336
+Libya,LBY,2002,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,6.73558532563832
+Libya,LBY,2001,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,7.07272701894607
+Libya,LBY,2000,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,7.41780014556445
+Libya,LBY,1999,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,7.50764251413242
+Libya,LBY,2014,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-102.964112042919
+Libya,LBY,2013,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-227.78894955333
+Libya,LBY,2012,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-403.059068451928
+Libya,LBY,2011,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-138.440853969408
+Libya,LBY,2010,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-399.065017933236
+Libya,LBY,2009,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-418.080884115866
+Libya,LBY,2008,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-502.213580352347
+Libya,LBY,2007,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-546.959239952732
+Libya,LBY,2006,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-483.950563282187
+Libya,LBY,2005,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-450.059756328317
+Libya,LBY,2004,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-405.677053055587
+Libya,LBY,2003,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-360.988937462631
+Libya,LBY,2002,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-339.241981193905
+Libya,LBY,2001,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-358.83594143901
+Libya,LBY,2000,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-379.696788923993
+Libya,LBY,1999,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-378.852805496622
+Libya,LBY,1998,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-430.277119382001
+Libya,LBY,1997,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-420.553754096323
+Libya,LBY,1996,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-425.281863513873
+Libya,LBY,1995,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-452.22617268408
+Libya,LBY,1994,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-467.373933040837
+Libya,LBY,1993,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-533.371550928949
+Libya,LBY,1992,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-591.796980346847
+Libya,LBY,1991,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-620.925445818899
+Libya,LBY,1990,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-555.227701242388
+Libya,LBY,1989,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-431.948487603453
+Libya,LBY,1988,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-454.695230703385
+Libya,LBY,1987,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-401.206694455466
+Libya,LBY,1986,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-464.171031049338
+Libya,LBY,1985,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-464.731859953407
+Libya,LBY,1984,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-548.793672694746
+Libya,LBY,1983,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-588.171602475328
+Libya,LBY,1982,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-630.37441133913
+Libya,LBY,1981,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-744.929854633532
+Libya,LBY,1980,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-1269.70488282206
+Libya,LBY,1979,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-1989.59691455161
+Libya,LBY,1978,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-2121.95581178921
+Libya,LBY,1977,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-2516.78702749995
+Libya,LBY,1976,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-2974.2787260469
+Libya,LBY,1975,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-2049.86894144086
+Libya,LBY,1974,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-2665.92330300823
+Libya,LBY,1973,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-4232.41593498038
+Libya,LBY,1972,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-5127.29523488834
+Libya,LBY,1971,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-8657.83213866059
+Libya,LBY,2014,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,2013,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,2012,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,2011,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,2010,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,2009,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,2008,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,2007,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,2006,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,2005,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,2004,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,2003,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,2002,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,2001,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,2000,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1999,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1998,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1997,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1996,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1995,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1994,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1993,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1992,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1991,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1990,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1989,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1988,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1987,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1986,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1985,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1984,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1983,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1982,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1981,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1980,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1979,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1978,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1977,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1976,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1975,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1974,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1973,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1972,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,1971,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Libya,LBY,2014,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.1112963634113
+Libya,LBY,2013,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.1855059681181
+Libya,LBY,2012,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.0813529905047
+Libya,LBY,2011,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.9027507508245
+Libya,LBY,2010,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.2814773454721
+Libya,LBY,2009,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.2040322826776
+Libya,LBY,2008,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.1522926831461
+Libya,LBY,2007,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.0961876019857
+Libya,LBY,2006,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.1413880446218
+Libya,LBY,2005,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.1354757913023
+Libya,LBY,2004,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.1756927102392
+Libya,LBY,2003,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.1623164350698
+Libya,LBY,2002,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.1479772530558
+Libya,LBY,2001,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.124585046223
+Libya,LBY,2000,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.1182837330156
+Libya,LBY,1999,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.095516293151
+Libya,LBY,1998,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.1266869778947
+Libya,LBY,1997,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.1352223173441
+Libya,LBY,1996,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.1399178129179
+Libya,LBY,1995,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.1060089005867
+Libya,LBY,1994,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.0534834570234
+Libya,LBY,1993,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.9312777315466
+Libya,LBY,1992,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.8907753244062
+Libya,LBY,1991,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.8963448993686
+Libya,LBY,1990,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.8803609894688
+Libya,LBY,1989,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.9116698443757
+Libya,LBY,1988,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.8183947310999
+Libya,LBY,1987,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.8642218482168
+Libya,LBY,1986,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.7601841379801
+Libya,LBY,1985,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.7659887974174
+Libya,LBY,1984,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.6209368642626
+Libya,LBY,1983,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.5198788733531
+Libya,LBY,1982,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.4886792058286
+Libya,LBY,1981,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.3575453147908
+Libya,LBY,1980,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.226190062414
+Libya,LBY,1979,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,97.6188213570404
+Libya,LBY,1978,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,97.3311191557665
+Libya,LBY,1977,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,97.0653926250469
+Libya,LBY,1976,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,96.4636512099619
+Libya,LBY,1975,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,96.8937511562787
+Libya,LBY,1974,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,96.2167064264538
+Libya,LBY,1973,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,95.9420855484068
+Libya,LBY,1972,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,95.3938315647695
+Libya,LBY,1971,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,93.820776797343
+Libya,LBY,2014,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,175.919932877609
+Libya,LBY,2013,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,145.268834473373
+Libya,LBY,2012,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,111.504507157223
+Libya,LBY,2011,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,197.43866927511
+Libya,LBY,2010,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,113.702583188759
+Libya,LBY,2009,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,110.877819382484
+Libya,LBY,2008,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,101.450135027111
+Libya,LBY,2007,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,97.7766848937059
+Libya,LBY,2006,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,111.835984113414
+Libya,LBY,2005,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,117.805311829275
+Libya,LBY,2004,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,133.013747571109
+Libya,LBY,2003,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,135.16037574072
+Libya,LBY,2002,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,148.465196661321
+Libya,LBY,2001,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,141.388179880441
+Libya,LBY,2000,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,134.810857717427
+Libya,LBY,1999,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,133.197604723133
+Libya,LBY,2014,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.846350304588061
+Libya,LBY,2013,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.78657231898762
+Libya,LBY,2012,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.895212669246724
+Libya,LBY,2011,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.13808375479307
+Libya,LBY,2010,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.752452543502741
+Libya,LBY,2009,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.808885721366892
+Libya,LBY,2008,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.870894846491475
+Libya,LBY,2007,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.917709745811404
+Libya,LBY,2006,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.842812729645976
+Libya,LBY,2005,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.841770610306761
+Libya,LBY,2004,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.824307289760806
+Libya,LBY,2003,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.83768929589432
+Libya,LBY,2002,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.852028643417775
+Libya,LBY,2001,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.87540882153066
+Libya,LBY,2000,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.881716266984355
+Libya,LBY,1999,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.904483706849051
+Libya,LBY,1998,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.87330647994468
+Libya,LBY,1997,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.864771061131699
+Libya,LBY,1996,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.860088917990345
+Libya,LBY,1995,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.893991099413289
+Libya,LBY,1994,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.946493833664889
+Libya,LBY,1993,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.06871372120518
+Libya,LBY,1992,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.10923354690725
+Libya,LBY,1991,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.10365510063143
+Libya,LBY,1990,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.11963901053125
+Libya,LBY,1989,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.08832145155949
+Libya,LBY,1988,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.18161471909623
+Libya,LBY,1987,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.13578723546502
+Libya,LBY,1986,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.23981586201987
+Libya,LBY,1985,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.23401120258258
+Libya,LBY,1984,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.3790631357374
+Libya,LBY,1983,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.48012112664686
+Libya,LBY,1982,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.51133288135331
+Libya,LBY,1981,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.64246782116863
+Libya,LBY,1980,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.77383831082744
+Libya,LBY,1979,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,2.38119768705636
+Libya,LBY,1978,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,2.66888084423346
+Libya,LBY,1977,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,2.93460737495309
+Libya,LBY,1976,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,3.53634879003815
+Libya,LBY,1975,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,3.1062215569091
+Libya,LBY,1974,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,3.78329357354617
+Libya,LBY,1973,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,4.05795294114025
+Libya,LBY,1972,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,4.60616843523052
+Libya,LBY,1971,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,6.17922320265705
+Libya,LBY,2014,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1811.05516990863
+Libya,LBY,2013,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2320.5960294344
+Libya,LBY,2012,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2241.25999284095
+Libya,LBY,2011,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2839.08334279054
+Libya,LBY,2010,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3361.75103422048
+Libya,LBY,2009,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3142.32968328577
+Libya,LBY,2008,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3156.42769760353
+Libya,LBY,2007,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3792.77119000225
+Libya,LBY,2006,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3792.33657534935
+Libya,LBY,2005,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3427.88811257311
+Libya,LBY,2004,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3106.22095306011
+Libya,LBY,2003,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2947.75579672228
+Libya,LBY,2002,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2772.14848649154
+Libya,LBY,2001,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2255.63854522153
+Libya,LBY,2000,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2221.76972245236
+Libya,LBY,1999,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2176.67950611893
+Libya,LBY,1998,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2097.06779967595
+Libya,LBY,1997,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1802.85021102941
+Libya,LBY,1996,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1787.66765465271
+Libya,LBY,1995,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1770.5309450901
+Libya,LBY,1994,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1820.43821931564
+Libya,LBY,1993,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1808.57191586439
+Libya,LBY,1992,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1752.99969790696
+Libya,LBY,1991,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1657.70220864118
+Libya,LBY,1990,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1576.86151815521
+Libya,LBY,1989,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1497.13359324306
+Libya,LBY,1988,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1534.43353196934
+Libya,LBY,1987,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1429.2927142327
+Libya,LBY,1986,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1048.91682440056
+Libya,LBY,1985,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,998.507659570843
+Libya,LBY,1984,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1011.28588643652
+Libya,LBY,1983,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1030.24077590078
+Libya,LBY,1982,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1055.034774199
+Libya,LBY,1981,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1085.19643310001
+Libya,LBY,1980,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1120.06152573129
+Libya,LBY,1979,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1051.10908962328
+Libya,LBY,1978,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,885.840086227587
+Libya,LBY,1977,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,775.743752610676
+Libya,LBY,1976,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,647.984387387937
+Libya,LBY,1975,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,539.858207829532
+Libya,LBY,1974,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,426.900990504902
+Libya,LBY,1973,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,370.255332191027
+Libya,LBY,1972,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,191.193087832816
+Libya,LBY,1971,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,178.623842423252
+Libya,LBY,2014,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2808.64823640604
+Libya,LBY,2013,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,3071.8188634538
+Libya,LBY,2012,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2744.01495446049
+Libya,LBY,2011,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2190.81034644756
+Libya,LBY,2010,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,3353.52777329132
+Libya,LBY,2009,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,3146.18476344249
+Libya,LBY,2008,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2937.63001861111
+Libya,LBY,2007,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2796.45517070316
+Libya,LBY,2006,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,3052.42495505253
+Libya,LBY,2005,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,3065.04502627697
+Libya,LBY,2004,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,3141.43751639623
+Libya,LBY,2003,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,3104.51473851211
+Libya,LBY,2002,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,3066.17539511659
+Libya,LBY,2001,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2995.86533628451
+Libya,LBY,2000,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2954.08286581418
+Libya,LBY,1999,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2858.89169029285
+Libya,LBY,1998,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2941.33482656568
+Libya,LBY,1997,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2950.80936778711
+Libya,LBY,1996,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2950.02612103521
+Libya,LBY,1995,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2826.19516900872
+Libya,LBY,1994,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2721.06696876851
+Libya,LBY,1993,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2460.43002372384
+Libya,LBY,1992,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2423.68667468665
+Libya,LBY,1991,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2493.10314019368
+Libya,LBY,1990,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2517.10193769594
+Libya,LBY,1989,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2653.97248609879
+Libya,LBY,1988,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2507.26604982881
+Libya,LBY,1987,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2678.70769942028
+Libya,LBY,1986,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2524.67170029918
+Libya,LBY,1985,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2615.65767398828
+Libya,LBY,1984,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2419.91584628134
+Libya,LBY,1983,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2337.04393379347
+Libya,LBY,1982,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2377.05397054522
+Libya,LBY,1981,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2273.95131282482
+Libya,LBY,1980,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,2189.46092302264
+Libya,LBY,1979,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1695.65079798717
+Libya,LBY,1978,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1572.61287244138
+Libya,LBY,1977,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1442.25838792562
+Libya,LBY,1976,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1206.79777369263
+Libya,LBY,1975,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1385.47501662484
+Libya,LBY,1974,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1142.27313149024
+Libya,LBY,1973,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1068.84815623129
+Libya,LBY,1972,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,944.210286617773
+Libya,LBY,1971,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,704.69574255906
+Libya,LBY,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,19.5007398829055
+Libya,LBY,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,23.6053180396246
+Libya,LBY,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,20.3452356093826
+Libya,LBY,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,25.6303685231366
+Libya,LBY,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,21.3173936201693
+Libya,LBY,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,19.3915628360003
+Libya,LBY,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,22.468085106383
+Libya,LBY,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,24.2513211978861
+Libya,LBY,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,22.6406002615819
+Libya,LBY,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,21.2033779028853
+Libya,LBY,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,25.5661545183135
+Libya,LBY,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,21.5020883054893
+Libya,LBY,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,21.8261269549218
+Libya,LBY,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,20.9651597163986
+Libya,LBY,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,20.1743462017435
+Libya,LBY,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,17.776134122288
+Libya,LBY,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,22.4256108378357
+Libya,LBY,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,22.6742763962495
+Libya,LBY,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,22.1142667331008
+Libya,LBY,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,19.7131474103586
+Libya,LBY,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,20.814291649356
+Libya,LBY,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,22.8603709631861
+Libya,LBY,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,24.7515008365318
+Libya,LBY,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,21.6528359996578
+Libya,LBY,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,25.234297108674
+Libya,LBY,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,28.6696797013166
+Libya,LBY,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,22.9397541809389
+Libya,LBY,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,24.4004053597568
+Libya,LBY,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,26.0012919896641
+Libya,LBY,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,20.063025210084
+Libya,LBY,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,19.6387394312068
+Libya,LBY,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,12.2739329635881
+Libya,LBY,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,4.51782095601383
+Libya,LBY,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,11.658393788978
+Libya,LBY,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,8.62750442960338
+Libya,LBY,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,8.98718129313988
+Libya,LBY,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,7.04419889502762
+Libya,LBY,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,-0.729527630859019
+Libya,LBY,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Libya,LBY,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Libya,LBY,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Libya,LBY,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Libya,LBY,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Libya,LBY,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Libya,LBY,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Libya,LBY,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Libya,LBY,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Libya,LBY,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Libya,LBY,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Libya,LBY,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Libya,LBY,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Libya,LBY,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Libya,LBY,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Libya,LBY,1961,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Libya,LBY,1960,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Libya,LBY,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,36248.295
+Libya,LBY,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,35734.915
+Libya,LBY,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33417.371
+Libya,LBY,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,25272.964
+Libya,LBY,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,38558.505
+Libya,LBY,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,37212.716
+Libya,LBY,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33094.675
+Libya,LBY,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,29644.028
+Libya,LBY,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,32826.984
+Libya,LBY,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,34282.783
+Libya,LBY,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33956.42
+Libya,LBY,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,34271.782
+Libya,LBY,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33146.013
+Libya,LBY,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33901.415
+Libya,LBY,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33457.708
+Libya,LBY,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,32625.299
+Libya,LBY,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,31118.162
+Libya,LBY,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,29948.389
+Libya,LBY,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,29123.314
+Libya,LBY,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,31906.567
+Libya,LBY,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,29629.36
+Libya,LBY,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,25551.656
+Libya,LBY,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,22948.086
+Libya,LBY,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,25305.967
+Libya,LBY,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,18921.72
+Libya,LBY,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,20923.902
+Libya,LBY,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,21719.641
+Libya,LBY,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,19035.397
+Libya,LBY,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,17619.935
+Libya,LBY,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,20315.18
+Libya,LBY,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,17597.933
+Libya,LBY,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,20472.861
+Libya,LBY,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,21796.648
+Libya,LBY,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,19391.096
+Libya,LBY,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,14209.625
+Libya,LBY,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,13080.189
+Libya,LBY,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9952.238
+Libya,LBY,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,10828.651
+Libya,LBY,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9160.166
+Libya,LBY,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5471.164
+Libya,LBY,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4734.097
+Libya,LBY,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4198.715
+Libya,LBY,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3197.624
+Libya,LBY,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2636.573
+Libya,LBY,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2849.259
+Libya,LBY,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6446.586
+Libya,LBY,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2966.603
+Libya,LBY,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2445.889
+Libya,LBY,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2629.239
+Libya,LBY,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,997.424
+Libya,LBY,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,656.393
+Libya,LBY,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1441.131
+Libya,LBY,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1030.427
+Libya,LBY,1961,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1096.433
+Libya,LBY,1960,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,605.055
+Libya,LBY,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,16025.7635953746
+Libya,LBY,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,15583.4676322937
+Libya,LBY,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,15533.8320020383
+Libya,LBY,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,14440.6749259163
+Libya,LBY,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,12706.2496954979
+Libya,LBY,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,12039.0268884846
+Libya,LBY,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,10394.1056155792
+Libya,LBY,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,10613.3246578854
+Libya,LBY,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,11224.5194190243
+Libya,LBY,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,10631.0442415418
+Libya,LBY,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,11630.0361101677
+Libya,LBY,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,12326.4630502958
+Libya,LBY,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,14057.7026365343
+Libya,LBY,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,13743.2780592354
+Libya,LBY,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,12886.5676431555
+Libya,LBY,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,12688.1545028435
+Libya,LBY,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,13292.0459246101
+Libya,LBY,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,15306.5696884739
+Libya,LBY,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,14870.8815335933
+Libya,LBY,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,12633.5465793131
+Libya,LBY,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,12553.7076158746
+Libya,LBY,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,11778.4927280816
+Libya,LBY,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,13251.0653377731
+Libya,LBY,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,10094.5949987357
+Libya,LBY,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,10454.453354766
+Libya,LBY,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,10872.612865493
+Libya,LBY,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,12005.0082075718
+Libya,LBY,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,11500.7947000542
+Libya,LBY,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,16065.5036883283
+Libya,LBY,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,16925.1381658839
+Libya,LBY,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,16254.4087420469
+Libya,LBY,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,16384.0612514755
+Libya,LBY,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,15863.6697859201
+Libya,LBY,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,13381.8076654143
+Libya,LBY,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,12303.6485968341
+Libya,LBY,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,17257.7479931913
+Libya,LBY,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,18037.9687470513
+Libya,LBY,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,22701.2675577815
+Libya,LBY,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,28786.5228360584
+Libya,LBY,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Libya,LBY,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,88.700870059415
+Libya,LBY,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,88.4665294678638
+Libya,LBY,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,88.4614578703775
+Libya,LBY,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,87.7607169175566
+Libya,LBY,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,86.2879765269389
+Libya,LBY,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,85.7853261636792
+Libya,LBY,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,84.2228115222116
+Libya,LBY,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,84.6897913971064
+Libya,LBY,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,85.7344023084299
+Libya,LBY,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,84.4752736757182
+Libya,LBY,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,85.0720960746091
+Libya,LBY,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,86.3487940645023
+Libya,LBY,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,87.544387378933
+Libya,LBY,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,87.6462211374414
+Libya,LBY,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,87.3843333773346
+Libya,LBY,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,87.4550564704342
+Libya,LBY,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,87.8180083418238
+Libya,LBY,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,89.0786913291699
+Libya,LBY,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,88.740588109307
+Libya,LBY,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,87.4747902323913
+Libya,LBY,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,88.0473815630253
+Libya,LBY,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,87.5665771664471
+Libya,LBY,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,88.4843701606156
+Libya,LBY,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,85.0063999354588
+Libya,LBY,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,85.5779029228655
+Libya,LBY,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,86.1770434625256
+Libya,LBY,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,87.7328203657794
+Libya,LBY,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,88.8414691050356
+Libya,LBY,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,91.0608622783961
+Libya,LBY,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,91.5897147937634
+Libya,LBY,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,92.5238717542714
+Libya,LBY,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,92.9539387919861
+Libya,LBY,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,92.2161624972829
+Libya,LBY,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,91.4051657120805
+Libya,LBY,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,92.0518374744434
+Libya,LBY,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,94.440876418392
+Libya,LBY,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,95.2203339793873
+Libya,LBY,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,96.2791156293482
+Libya,LBY,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,96.9399863818342
+Libya,LBY,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,160.80445023
+Libya,LBY,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,147.46848118
+Libya,LBY,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,148.41930636
+Libya,LBY,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,152.02485188
+Libya,LBY,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,156.48724732
+Libya,LBY,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,175.40815932
+Libya,LBY,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,166.74806132
+Libya,LBY,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,167.50326968
+Libya,LBY,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,170.04550528
+Libya,LBY,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,161.72530988
+Libya,LBY,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,159.65583048
+Libya,LBY,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,158.81814848
+Libya,LBY,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,168.03794218
+Libya,LBY,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,163.52729648
+Libya,LBY,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,147.92818328
+Libya,LBY,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,130.74606438
+Libya,LBY,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,125.92819318
+Libya,LBY,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,140.54843612
+Libya,LBY,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,140.59050002
+Libya,LBY,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,126.01262292
+Libya,LBY,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,126.54918332
+Libya,LBY,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,118.44631652
+Libya,LBY,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,129.15256952
+Libya,LBY,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,104.08795662
+Libya,LBY,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,110.00813202
+Libya,LBY,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,115.23533342
+Libya,LBY,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,124.08377812
+Libya,LBY,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,114.24276612
+Libya,LBY,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,130.12852702
+Libya,LBY,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,149.85830032
+Libya,LBY,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,142.34288042
+Libya,LBY,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,126.52010222
+Libya,LBY,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,124.95164482
+Libya,LBY,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,110.17509492
+Libya,LBY,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,96.50679316
+Libya,LBY,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,118.08464076
+Libya,LBY,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,120.98102222
+Libya,LBY,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,148.12284282
+Libya,LBY,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,197.94288082
+Libya,LBY,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Libya,LBY,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,11.950211670441
+Libya,LBY,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,11.4934240975325
+Libya,LBY,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,11.6913944538324
+Libya,LBY,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.0079027424094
+Libya,LBY,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.4255111148307
+Libya,LBY,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,13.6752868671196
+Libya,LBY,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.8338078616165
+Libya,LBY,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.4293946016075
+Libya,LBY,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.91695935028074
+Libya,LBY,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.13237892885926
+Libya,LBY,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.04583628336557
+Libya,LBY,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.52160952233627
+Libya,LBY,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.09657921234049
+Libya,LBY,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.54833359261564
+Libya,LBY,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.61828756781749
+Libya,LBY,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.22936418553467
+Libya,LBY,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.11074107203469
+Libya,LBY,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.1005877464817
+Libya,LBY,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.4237302853255
+Libya,LBY,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.49522151263017
+Libya,LBY,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.58553872741703
+Libya,LBY,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.6180058418319
+Libya,LBY,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.84133084334281
+Libya,LBY,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.92628512726575
+Libya,LBY,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.73546942261701
+Libya,LBY,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.33001416246499
+Libya,LBY,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.44369933632025
+Libya,LBY,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,11.393535713292
+Libya,LBY,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.2404600858469
+Libya,LBY,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.6008992252745
+Libya,LBY,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,16.3163188566474
+Libya,LBY,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,15.4996624575129
+Libya,LBY,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.5379263058423
+Libya,LBY,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,13.7502285362768
+Libya,LBY,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,15.2510587140233
+Libya,LBY,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,19.5445900142126
+Libya,LBY,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,21.8627692221506
+Libya,LBY,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,26.3173746275315
+Libya,LBY,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,32.1361199633607
+Libya,LBY,2016,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.11
+Libya,LBY,2012,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.1
+Libya,LBY,2010,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.13
+Libya,LBY,2008,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.12
+Libya,LBY,2006,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.06
+Libya,LBY,2004,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.08
+Libya,LBY,2002,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.08
+Libya,LBY,2000,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.16
+Libya,LBY,1998,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.17
+Libya,LBY,2016,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.11
+Libya,LBY,2012,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.12
+Libya,LBY,2010,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.17
+Libya,LBY,2008,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.14
+Libya,LBY,2006,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.12
+Libya,LBY,2004,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.09
+Libya,LBY,2002,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.1
+Libya,LBY,2000,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.25
+Libya,LBY,1998,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.22
+Libya,LBY,2019,Time required to get electricity (days),IC.ELC.TIME,118
+Libya,LBY,2018,Time required to get electricity (days),IC.ELC.TIME,118
+Libya,LBY,2017,Time required to get electricity (days),IC.ELC.TIME,118
+Libya,LBY,2016,Time required to get electricity (days),IC.ELC.TIME,118
+Libya,LBY,2015,Time required to get electricity (days),IC.ELC.TIME,118
+Libya,LBY,2014,Time required to get electricity (days),IC.ELC.TIME,118
+Libya,LBY,2013,Time required to get electricity (days),IC.ELC.TIME,118
+Libya,LBY,2012,Time required to get electricity (days),IC.ELC.TIME,118
+Libya,LBY,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Libya,LBY,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Libya,LBY,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Libya,LBY,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Libya,LBY,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Libya,LBY,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Libya,LBY,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Libya,LBY,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Libya,LBY,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Libya,LBY,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Libya,LBY,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Libya,LBY,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Libya,LBY,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Libya,LBY,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Libya,LBY,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Libya,LBY,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Libya,LBY,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Libya,LBY,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,2574429144.65547
+Libya,LBY,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,567869853.573358
+Libya,LBY,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,837035737.962
+Libya,LBY,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1889709220.52797
+Libya,LBY,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,6582577221.98573
+Libya,LBY,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,13513739053.7399
+Libya,LBY,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1408083423.55236
+Libya,LBY,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,12646841825.0615
+Libya,LBY,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,9353407547.89637
+Libya,LBY,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,19809469959.4534
+Libya,LBY,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,14912375198.2271
+Libya,LBY,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,13896447717.5692
+Libya,LBY,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,10498738451.0988
+Libya,LBY,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,6492236108.2087
+Libya,LBY,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,4218935693.56984
+Libya,LBY,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3365060081.11952
+Libya,LBY,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3520606568.86932
+Libya,LBY,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,4614027809.36349
+Libya,LBY,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,2819121505.80994
+Libya,LBY,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,2036614098.38472
+Libya,LBY,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3488233695.3264
+Libya,LBY,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3666154518.76925
+Libya,LBY,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,2892699474.06695
+Libya,LBY,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3139895906.47003
+Libya,LBY,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3377991070.40268
+Libya,LBY,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3892030401.45543
+Libya,LBY,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3911843738.77941
+Libya,LBY,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,5693564356.04426
+Libya,LBY,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3167685187.78367
+Libya,LBY,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,2350625218.54119
+Libya,LBY,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,2037864119.08446
+Libya,LBY,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1652558171.41202
+Libya,LBY,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3599653403.33263
+Libya,LBY,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3888528527.97239
+Libya,LBY,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,4018550057.77567
+Libya,LBY,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,4150339715.29621
+Libya,LBY,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,5557469713.99286
+Libya,LBY,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,12537299819.509
+Libya,LBY,1979,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,13768917228.0235
+Libya,LBY,1978,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,5755532770.36103
+Libya,LBY,1977,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,5980201803.94888
+Libya,LBY,1976,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,5027897602.58711
+Libya,LBY,1975,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,4096244983.44798
+Libya,LBY,1974,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3770097644.02183
+Libya,LBY,1973,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1385237451.04327
+Libya,LBY,1972,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1084358820.20064
+Libya,LBY,1971,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1201967239.31615
+Libya,LBY,1970,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1060326749.14995
+Libya,LBY,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,6.64465397871276
+Libya,LBY,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,2.10531499858112
+Libya,LBY,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,2.8833174425865
+Libya,LBY,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,4.52897779120136
+Libya,LBY,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,10.1132778239954
+Libya,LBY,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,16.9038968177384
+Libya,LBY,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,4.05146244649413
+Libya,LBY,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,16.9201563313703
+Libya,LBY,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,14.7058040076757
+Libya,LBY,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,22.5503009101126
+Libya,LBY,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,21.8180990361596
+Libya,LBY,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,24.8695495558916
+Libya,LBY,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,22.3167473525292
+Libya,LBY,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,19.7474612083294
+Libya,LBY,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,15.7399114166736
+Libya,LBY,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,16.2195881859775
+Libya,LBY,2017,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,6.73995056576156
+Libya,LBY,2016,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.23932826684193
+Libya,LBY,2015,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.03591276082784
+Libya,LBY,2014,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,4.64052552353353
+Libya,LBY,2013,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,10.162773601872
+Libya,LBY,2012,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,16.9478107479742
+Libya,LBY,2011,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,4.14300849053444
+Libya,LBY,2010,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,16.9587035167858
+Libya,LBY,2009,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,14.7428626775767
+Libya,LBY,2008,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,22.5771401997949
+Libya,LBY,2007,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,21.8373969824305
+Libya,LBY,2006,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,24.8939835064184
+Libya,LBY,2005,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,22.3395626301505
+Libya,LBY,2004,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,19.7806088423447
+Libya,LBY,2003,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,15.787716098957
+Libya,LBY,2002,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,16.2697959291592
+Libya,LBY,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,1992,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,1991,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,1990,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Libya,LBY,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.0678083423826
+Libya,LBY,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.33210053752077
+Libya,LBY,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.49654015094876
+Libya,LBY,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.63628811803437
+Libya,LBY,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.85646400206224
+Libya,LBY,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.37136146324727
+Libya,LBY,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.90619678033709
+Libya,LBY,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.18381490232142
+Libya,LBY,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.6036213569473
+Libya,LBY,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.21997383107355
+Libya,LBY,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.29168951606646
+Libya,LBY,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.22049755500135
+Libya,LBY,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.92943895513969
+Libya,LBY,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.572319258600655
+Libya,LBY,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.42871805998059
+Libya,LBY,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.569954282173445
+Libya,LBY,2001,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.444020026578568
+Libya,LBY,2000,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.313912862599923
+Libya,LBY,1999,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.153896193090462
+Libya,LBY,1998,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.277505093706673
+Libya,LBY,1997,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.333365406029223
+Libya,LBY,1996,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.304634509957942
+Libya,LBY,1995,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.247936374179498
+Libya,LBY,1994,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.188937855609955
+Libya,LBY,1993,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.228089194657935
+Libya,LBY,1992,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.171059155730207
+Libya,LBY,1991,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.209409090227382
+Libya,LBY,1990,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.242090365732611
+Libya,LBY,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,37.2915774997462
+Libya,LBY,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,20.9910789592624
+Libya,LBY,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,25.9990341513002
+Libya,LBY,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,39.367645871124
+Libya,LBY,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,50.8324775726597
+Libya,LBY,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,60.7922068741008
+Libya,LBY,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,44.4323968840744
+Libya,LBY,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,53.0998144048595
+Libya,LBY,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,45.7774861381631
+Libya,LBY,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,62.7595866022237
+Libya,LBY,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,60.2424516494681
+Libya,LBY,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,67.5277988577061
+Libya,LBY,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,62.1000768575746
+Libya,LBY,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,55.7800004354491
+Libya,LBY,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,49.0188911378943
+Libya,LBY,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,49.8012600918317
+Libya,LBY,2001,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,30.3761856280957
+Libya,LBY,2000,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,34.4045981781695
+Libya,LBY,1999,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,20.2509818804649
+Libya,LBY,1998,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,18.5227480751088
+Libya,LBY,1997,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,27.3769517768859
+Libya,LBY,1996,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,32.3685851394454
+Libya,LBY,1995,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,28.0887751271535
+Libya,LBY,1994,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,22.9508297246604
+Libya,LBY,1993,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,23.2165969363358
+Libya,LBY,1992,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,23.4100655357847
+Libya,LBY,1991,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,24.4400609419282
+Libya,LBY,1990,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,41.3113443566723
+Libya,LBY,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,38.4737241258871
+Libya,LBY,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,22.4858609904752
+Libya,LBY,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,28.6836327419779
+Libya,LBY,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,42.1379120242654
+Libya,LBY,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,52.7473078098345
+Libya,LBY,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,62.214558399454
+Libya,LBY,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,46.4478564800347
+Libya,LBY,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,54.329641293936
+Libya,LBY,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,47.4258704058556
+Libya,LBY,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,64.0120245207482
+Libya,LBY,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,61.5576389843467
+Libya,LBY,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,68.7782492600172
+Libya,LBY,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,63.0569264045307
+Libya,LBY,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,56.392205235385
+Libya,LBY,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,49.5069209716683
+Libya,LBY,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,50.4332278574705
+Libya,LBY,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,30.8568358076929
+Libya,LBY,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,34.7428903001554
+Libya,LBY,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,20.4473853723248
+Libya,LBY,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,18.8662882677166
+Libya,LBY,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,27.7563332672994
+Libya,LBY,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,32.7212661170935
+Libya,LBY,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,28.3839567501872
+Libya,LBY,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,23.1662974614331
+Libya,LBY,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,23.4792504645901
+Libya,LBY,1992,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,23.6122264862059
+Libya,LBY,1991,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,24.6857372733548
+Libya,LBY,1990,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,41.5893188462448
+Libya,LBY,2010,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.08067284717706
+Libya,LBY,2009,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.851912533275466
+Libya,LBY,2008,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.15341433874061
+Libya,LBY,2007,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.01524288828094
+Libya,LBY,2004,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.688508184421838
+Libya,LBY,2003,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.622703389784597
+Libya,LBY,1998,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.248604695335967
+Libya,LBY,1997,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.22933727915567
+Libya,LBY,1991,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.360789807197074
+Libya,LBY,1989,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.331422444323417
+Libya,LBY,1988,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.317824751778241
+Libya,LBY,1987,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.426149005982149
+Libya,LBY,1986,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.342245578199335
+Libya,LBY,1985,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.718892796034777
+Libya,LBY,1984,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.671172512720833
+Libya,LBY,1983,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.50087900701932
+Libya,LBY,1982,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.4455149127891
+Libya,LBY,1981,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.998193623234181
+Libya,LBY,1980,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.651114007957407
+Libya,LBY,1979,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.659201874329198
+Libya,LBY,1978,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.77542262652259
+Libya,LBY,1977,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.557174712397981
+Libya,LBY,1976,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.68821275125562
+Libya,LBY,1975,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.94458013573039
+Libya,LBY,1974,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.62197634595593
+Libya,LBY,1973,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.9682386083504
+Libya,LBY,1972,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.15407445651697
+Libya,LBY,1971,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.31818095497736
+Libya,LBY,1970,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.18201644971291
+Libya,LBY,1969,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.17006614382101
+Libya,LBY,1968,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.93240098294018
+Libya,LBY,1967,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.35737175719627
+Libya,LBY,1966,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.93827019409393
+Libya,LBY,1965,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.93390579814806
+Libya,LBY,1964,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,4.53962290336108
+Libya,LBY,1963,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.69697732232023
+Libya,LBY,1962,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.82409885472986
+Libya,LBY,2010,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.62668883738239
+Libya,LBY,2009,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.48760091132732
+Libya,LBY,2008,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.20933300372519
+Libya,LBY,2007,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.0765488040776
+Libya,LBY,2004,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.919537955811177
+Libya,LBY,2003,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.951668906998694
+Libya,LBY,1998,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.34078196220443
+Libya,LBY,1997,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.73396038204139
+Libya,LBY,1991,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.989578432540073
+Libya,LBY,1989,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.883748375997672
+Libya,LBY,1988,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.580162968882804
+Libya,LBY,1987,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.03101271902611
+Libya,LBY,1986,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.758585516698881
+Libya,LBY,1985,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.684220318940198
+Libya,LBY,1984,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.927598915586464
+Libya,LBY,1983,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.21366251796763
+Libya,LBY,1982,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.20007497722558
+Libya,LBY,1981,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.788248407658123
+Libya,LBY,1980,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.04846324836156
+Libya,LBY,1979,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.861535686558239
+Libya,LBY,1978,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.874257329971141
+Libya,LBY,1977,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.968131623129303
+Libya,LBY,1976,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.891441819624419
+Libya,LBY,1975,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.32341153887902
+Libya,LBY,1974,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.50466894966359
+Libya,LBY,1973,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.01035339910467
+Libya,LBY,1972,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.05316255205842
+Libya,LBY,1971,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.18910703665513
+Libya,LBY,1970,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.13192389294942
+Libya,LBY,1969,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.08937105753386
+Libya,LBY,1968,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.20474353126734
+Libya,LBY,1967,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.16594902428736
+Libya,LBY,1966,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.53594918534083
+Libya,LBY,1965,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.21358609024194
+Libya,LBY,1964,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.895504263626579
+Libya,LBY,1963,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.917609470366758
+Libya,LBY,1962,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.733494345866304
+Libya,LBY,2010,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.7181606057151
+Libya,LBY,2009,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.8939048957532
+Libya,LBY,2008,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,96.737703917254
+Libya,LBY,2007,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,96.6247232936984
+Libya,LBY,1998,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,92.6126414706594
+Libya,LBY,1997,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,94.7802254821736
+Libya,LBY,1991,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,95.4157114752661
+Libya,LBY,1989,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,95.2727621355215
+Libya,LBY,1988,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,93.8756659570326
+Libya,LBY,1987,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,96.8448360109296
+Libya,LBY,1986,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,98.6434070226413
+Libya,LBY,1985,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,98.5351655240006
+Libya,LBY,1984,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,98.4234023631191
+Libya,LBY,1983,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,98.7974732671714
+Libya,LBY,1981,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.6288503928765
+Libya,LBY,1980,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.9999999315371
+Libya,LBY,1979,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.5684979390095
+Libya,LBY,1978,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.7203643594918
+Libya,LBY,1977,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.9977172457734
+Libya,LBY,1976,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.9998488705225
+Libya,LBY,1975,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.9936954748006
+Libya,LBY,1974,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.9685162112965
+Libya,LBY,1973,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.7685394387486
+Libya,LBY,1972,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.770574102823
+Libya,LBY,1971,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.9451346242597
+Libya,LBY,1970,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.9175955246253
+Libya,LBY,1969,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.8824864920101
+Libya,LBY,1968,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.8769456971764
+Libya,LBY,1967,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.7836996601084
+Libya,LBY,1966,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.6222831303825
+Libya,LBY,1965,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.4037545075302
+Libya,LBY,1964,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,99.1657387605245
+Libya,LBY,1963,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,98.717464177731
+Libya,LBY,1962,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,95.8196210747597
+Libya,LBY,2010,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.000391595444128488
+Libya,LBY,2009,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.000157557103320555
+Libya,LBY,2008,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.00717185363701543
+Libya,LBY,2007,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.00719080698552263
+Libya,LBY,1998,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0219967888447306
+Libya,LBY,1997,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0255891105980931
+Libya,LBY,1987,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0012397822594465
+Libya,LBY,1986,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.000720631254357895
+Libya,LBY,1984,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.000536872661617309
+Libya,LBY,1975,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.000481902964366771
+Libya,LBY,1974,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.00375161524478964
+Libya,LBY,1973,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0234237452950633
+Libya,LBY,1972,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0186637014441217
+Libya,LBY,1971,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.00423175834682886
+Libya,LBY,1970,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0511045882164657
+Libya,LBY,1969,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0535702779032129
+Libya,LBY,1968,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0368352649607239
+Libya,LBY,1967,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0381903110725019
+Libya,LBY,1966,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0975614050949887
+Libya,LBY,1965,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0760554847322582
+Libya,LBY,1964,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0340676083674359
+Libya,LBY,1963,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0807524991544247
+Libya,LBY,1962,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.204013138820071

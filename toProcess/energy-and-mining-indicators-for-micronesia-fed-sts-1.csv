@@ -1,0 +1,488 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+"Micronesia, Fed. Sts.",FSM,2015,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,6.58744661345086
+"Micronesia, Fed. Sts.",FSM,2014,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,6.84424620396698
+"Micronesia, Fed. Sts.",FSM,2013,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,6.2416262551709
+"Micronesia, Fed. Sts.",FSM,2012,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.77228371873591
+"Micronesia, Fed. Sts.",FSM,2011,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.298164981579
+"Micronesia, Fed. Sts.",FSM,2010,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.00968991104125
+"Micronesia, Fed. Sts.",FSM,2009,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,7.14816255097736
+"Micronesia, Fed. Sts.",FSM,2008,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.34851782470564
+"Micronesia, Fed. Sts.",FSM,2007,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.9080466683793
+"Micronesia, Fed. Sts.",FSM,2006,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.19849331784213
+"Micronesia, Fed. Sts.",FSM,2005,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.02673665170692
+"Micronesia, Fed. Sts.",FSM,2004,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,6.20280841484465
+"Micronesia, Fed. Sts.",FSM,2003,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.99417404508931
+"Micronesia, Fed. Sts.",FSM,2002,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,6.09503447693219
+"Micronesia, Fed. Sts.",FSM,2001,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,7.23691074937463
+"Micronesia, Fed. Sts.",FSM,2000,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.49660153698564
+"Micronesia, Fed. Sts.",FSM,1999,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.16905454809309
+"Micronesia, Fed. Sts.",FSM,1998,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.50424765022164
+"Micronesia, Fed. Sts.",FSM,1997,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.37520636410725
+"Micronesia, Fed. Sts.",FSM,1996,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.91959972063674
+"Micronesia, Fed. Sts.",FSM,1995,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.76386725757776
+"Micronesia, Fed. Sts.",FSM,1994,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.82843260880496
+"Micronesia, Fed. Sts.",FSM,1993,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.66892028486856
+"Micronesia, Fed. Sts.",FSM,1992,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.04594110410997
+"Micronesia, Fed. Sts.",FSM,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,76.9623237133417
+"Micronesia, Fed. Sts.",FSM,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,74.4218611345075
+"Micronesia, Fed. Sts.",FSM,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,71.8258694348233
+"Micronesia, Fed. Sts.",FSM,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,69.2345380232146
+"Micronesia, Fed. Sts.",FSM,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,66.9811572506714
+"Micronesia, Fed. Sts.",FSM,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,64.5853057614218
+"Micronesia, Fed. Sts.",FSM,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,61.8998060994348
+"Micronesia, Fed. Sts.",FSM,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,58.7751035374271
+"Micronesia, Fed. Sts.",FSM,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,56.620468457776
+"Micronesia, Fed. Sts.",FSM,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,54.7606251720562
+"Micronesia, Fed. Sts.",FSM,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,52.9295455427717
+"Micronesia, Fed. Sts.",FSM,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,51.1091010232202
+"Micronesia, Fed. Sts.",FSM,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,49.282669021319
+"Micronesia, Fed. Sts.",FSM,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,47.4347222939322
+"Micronesia, Fed. Sts.",FSM,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,45.5496255863507
+"Micronesia, Fed. Sts.",FSM,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,43.630409600184
+"Micronesia, Fed. Sts.",FSM,2001,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,41.6847708019156
+"Micronesia, Fed. Sts.",FSM,2000,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,39.0998777594017
+"Micronesia, Fed. Sts.",FSM,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,93.7458572387695
+"Micronesia, Fed. Sts.",FSM,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,92.3271026611328
+"Micronesia, Fed. Sts.",FSM,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,90.9086990356445
+"Micronesia, Fed. Sts.",FSM,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,89.492431640625
+"Micronesia, Fed. Sts.",FSM,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,88.0804214477539
+"Micronesia, Fed. Sts.",FSM,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,87.2220611572266
+"Micronesia, Fed. Sts.",FSM,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,86.0781097412109
+"Micronesia, Fed. Sts.",FSM,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,84.5912770958475
+"Micronesia, Fed. Sts.",FSM,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,82.5172958374023
+"Micronesia, Fed. Sts.",FSM,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,81.1561965942383
+"Micronesia, Fed. Sts.",FSM,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,79.8080673217773
+"Micronesia, Fed. Sts.",FSM,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,78.4730224609375
+"Micronesia, Fed. Sts.",FSM,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,77.1511459350586
+"Micronesia, Fed. Sts.",FSM,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,75.8425369262695
+"Micronesia, Fed. Sts.",FSM,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,74.5471649169922
+"Micronesia, Fed. Sts.",FSM,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,73.262321472168
+"Micronesia, Fed. Sts.",FSM,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,71.9825439453125
+"Micronesia, Fed. Sts.",FSM,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,70
+"Micronesia, Fed. Sts.",FSM,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,80.7566833496094
+"Micronesia, Fed. Sts.",FSM,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,78.4551773071289
+"Micronesia, Fed. Sts.",FSM,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,76.1110229492188
+"Micronesia, Fed. Sts.",FSM,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,73.7720413208008
+"Micronesia, Fed. Sts.",FSM,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,71.6979827880859
+"Micronesia, Fed. Sts.",FSM,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,69.6387329101563
+"Micronesia, Fed. Sts.",FSM,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,67.2928848266602
+"Micronesia, Fed. Sts.",FSM,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,64.5315202481064
+"Micronesia, Fed. Sts.",FSM,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,62.3966865539551
+"Micronesia, Fed. Sts.",FSM,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,60.6497192382813
+"Micronesia, Fed. Sts.",FSM,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,58.9279594421387
+"Micronesia, Fed. Sts.",FSM,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,57.2178497314453
+"Micronesia, Fed. Sts.",FSM,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,55.5058135986328
+"Micronesia, Fed. Sts.",FSM,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,53.7782821655273
+"Micronesia, Fed. Sts.",FSM,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,52.024772644043
+"Micronesia, Fed. Sts.",FSM,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,50.2471313476563
+"Micronesia, Fed. Sts.",FSM,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,48.4502792358398
+"Micronesia, Fed. Sts.",FSM,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,46
+"Micronesia, Fed. Sts.",FSM,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.60116448326055
+"Micronesia, Fed. Sts.",FSM,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.53038915609969
+"Micronesia, Fed. Sts.",FSM,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.49253731343284
+"Micronesia, Fed. Sts.",FSM,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.06092755380418
+"Micronesia, Fed. Sts.",FSM,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.08342361863489
+"Micronesia, Fed. Sts.",FSM,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.871712915879704
+"Micronesia, Fed. Sts.",FSM,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.859722023212494
+"Micronesia, Fed. Sts.",FSM,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.613967766692249
+"Micronesia, Fed. Sts.",FSM,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.290528762347472
+"Micronesia, Fed. Sts.",FSM,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.283687943262411
+"Micronesia, Fed. Sts.",FSM,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.268096514745308
+"Micronesia, Fed. Sts.",FSM,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.208333333333333
+"Micronesia, Fed. Sts.",FSM,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.197044334975369
+"Micronesia, Fed. Sts.",FSM,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.204498977505113
+"Micronesia, Fed. Sts.",FSM,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.221975582685905
+"Micronesia, Fed. Sts.",FSM,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.224971878515186
+"Micronesia, Fed. Sts.",FSM,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.221975582685905
+"Micronesia, Fed. Sts.",FSM,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.223214285714286
+"Micronesia, Fed. Sts.",FSM,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+"Micronesia, Fed. Sts.",FSM,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+"Micronesia, Fed. Sts.",FSM,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+"Micronesia, Fed. Sts.",FSM,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+"Micronesia, Fed. Sts.",FSM,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+"Micronesia, Fed. Sts.",FSM,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+"Micronesia, Fed. Sts.",FSM,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+"Micronesia, Fed. Sts.",FSM,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+"Micronesia, Fed. Sts.",FSM,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.19623786232284
+"Micronesia, Fed. Sts.",FSM,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.15799036056395
+"Micronesia, Fed. Sts.",FSM,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.24930741982317
+"Micronesia, Fed. Sts.",FSM,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.32291087075043
+"Micronesia, Fed. Sts.",FSM,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.42752389437571
+"Micronesia, Fed. Sts.",FSM,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.50033404079487
+"Micronesia, Fed. Sts.",FSM,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.14670514113907
+"Micronesia, Fed. Sts.",FSM,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.3503949672653
+"Micronesia, Fed. Sts.",FSM,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.20998134133582
+"Micronesia, Fed. Sts.",FSM,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.25392353957394
+"Micronesia, Fed. Sts.",FSM,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.10106391993307
+"Micronesia, Fed. Sts.",FSM,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.04227871509864
+"Micronesia, Fed. Sts.",FSM,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.02422891342579
+"Micronesia, Fed. Sts.",FSM,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.01710432926327
+"Micronesia, Fed. Sts.",FSM,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.800957397139399
+"Micronesia, Fed. Sts.",FSM,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.19235364882882
+"Micronesia, Fed. Sts.",FSM,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.22679495250663
+"Micronesia, Fed. Sts.",FSM,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.55692933454974
+"Micronesia, Fed. Sts.",FSM,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.49256169990278
+"Micronesia, Fed. Sts.",FSM,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.49152955854394
+"Micronesia, Fed. Sts.",FSM,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.4050252531564
+"Micronesia, Fed. Sts.",FSM,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.47820616809235
+"Micronesia, Fed. Sts.",FSM,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.55131898200529
+"Micronesia, Fed. Sts.",FSM,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.4613622850683
+"Micronesia, Fed. Sts.",FSM,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+"Micronesia, Fed. Sts.",FSM,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,150.347
+"Micronesia, Fed. Sts.",FSM,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,143.013
+"Micronesia, Fed. Sts.",FSM,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,135.679
+"Micronesia, Fed. Sts.",FSM,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,121.011
+"Micronesia, Fed. Sts.",FSM,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,113.677
+"Micronesia, Fed. Sts.",FSM,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,161.348
+"Micronesia, Fed. Sts.",FSM,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,117.344
+"Micronesia, Fed. Sts.",FSM,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,139.346
+"Micronesia, Fed. Sts.",FSM,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,121.011
+"Micronesia, Fed. Sts.",FSM,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,121.011
+"Micronesia, Fed. Sts.",FSM,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,143.013
+"Micronesia, Fed. Sts.",FSM,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,143.013
+"Micronesia, Fed. Sts.",FSM,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,143.013
+"Micronesia, Fed. Sts.",FSM,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,168.682
+"Micronesia, Fed. Sts.",FSM,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,124.678
+"Micronesia, Fed. Sts.",FSM,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,110.01
+"Micronesia, Fed. Sts.",FSM,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,117.344
+"Micronesia, Fed. Sts.",FSM,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,110.01
+"Micronesia, Fed. Sts.",FSM,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,106.343
+"Micronesia, Fed. Sts.",FSM,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,106.343
+"Micronesia, Fed. Sts.",FSM,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,102.676
+"Micronesia, Fed. Sts.",FSM,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,99.009
+"Micronesia, Fed. Sts.",FSM,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,99.009
+"Micronesia, Fed. Sts.",FSM,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.660706505015488
+"Micronesia, Fed. Sts.",FSM,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.648987013353418
+"Micronesia, Fed. Sts.",FSM,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.637267521691348
+"Micronesia, Fed. Sts.",FSM,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.625548030029278
+"Micronesia, Fed. Sts.",FSM,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.616432869847668
+"Micronesia, Fed. Sts.",FSM,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.606666626795943
+"Micronesia, Fed. Sts.",FSM,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.598853632354563
+"Micronesia, Fed. Sts.",FSM,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.589087389302839
+"Micronesia, Fed. Sts.",FSM,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.579972229121229
+"Micronesia, Fed. Sts.",FSM,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.572159234679849
+"Micronesia, Fed. Sts.",FSM,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.562392991628124
+"Micronesia, Fed. Sts.",FSM,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.562392991628124
+"Micronesia, Fed. Sts.",FSM,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.529838848122374
+"Micronesia, Fed. Sts.",FSM,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.51225961062927
+"Micronesia, Fed. Sts.",FSM,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.474639412313829
+"Micronesia, Fed. Sts.",FSM,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.460966672041414
+"Micronesia, Fed. Sts.",FSM,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.460966672041414
+"Micronesia, Fed. Sts.",FSM,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.449247180379344
+"Micronesia, Fed. Sts.",FSM,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.449247180379344
+"Micronesia, Fed. Sts.",FSM,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.453594733737854
+"Micronesia, Fed. Sts.",FSM,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.457942287096364
+"Micronesia, Fed. Sts.",FSM,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.462289840454873
+"Micronesia, Fed. Sts.",FSM,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.466637393813383
+"Micronesia, Fed. Sts.",FSM,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.470984947171893
+"Micronesia, Fed. Sts.",FSM,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.475332500530403
+"Micronesia, Fed. Sts.",FSM,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.479680053888913
+"Micronesia, Fed. Sts.",FSM,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.484027607247422
+"Micronesia, Fed. Sts.",FSM,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.488375160605932
+"Micronesia, Fed. Sts.",FSM,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.492722713964442
+"Micronesia, Fed. Sts.",FSM,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.497070267322952
+"Micronesia, Fed. Sts.",FSM,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.501417820681461
+"Micronesia, Fed. Sts.",FSM,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.505765374039971
+"Micronesia, Fed. Sts.",FSM,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.510112927398481
+"Micronesia, Fed. Sts.",FSM,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.514460480756991
+"Micronesia, Fed. Sts.",FSM,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.518808034115501
+"Micronesia, Fed. Sts.",FSM,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.52315558747401
+"Micronesia, Fed. Sts.",FSM,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.52750314083252
+"Micronesia, Fed. Sts.",FSM,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.53185069419103
+"Micronesia, Fed. Sts.",FSM,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.53619824754954
+"Micronesia, Fed. Sts.",FSM,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+"Micronesia, Fed. Sts.",FSM,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.25851680117416
+"Micronesia, Fed. Sts.",FSM,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.23651349638297
+"Micronesia, Fed. Sts.",FSM,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.21188963136076
+"Micronesia, Fed. Sts.",FSM,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.18371859955763
+"Micronesia, Fed. Sts.",FSM,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.1631272781901
+"Micronesia, Fed. Sts.",FSM,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.14355441435361
+"Micronesia, Fed. Sts.",FSM,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.12825849682838
+"Micronesia, Fed. Sts.",FSM,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.10522185283087
+"Micronesia, Fed. Sts.",FSM,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.08381740976721
+"Micronesia, Fed. Sts.",FSM,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.06093643737271
+"Micronesia, Fed. Sts.",FSM,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.03202352764303
+"Micronesia, Fed. Sts.",FSM,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.03943657914383
+"Micronesia, Fed. Sts.",FSM,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.93458686973486
+"Micronesia, Fed. Sts.",FSM,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.88646305632315
+"Micronesia, Fed. Sts.",FSM,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.01417106859253
+"Micronesia, Fed. Sts.",FSM,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.98098236343304
+"Micronesia, Fed. Sts.",FSM,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.04169917104304
+"Micronesia, Fed. Sts.",FSM,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.0542554580634
+"Micronesia, Fed. Sts.",FSM,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.12008051108463
+"Micronesia, Fed. Sts.",FSM,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.20901505682267
+"Micronesia, Fed. Sts.",FSM,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.30168017237819
+"Micronesia, Fed. Sts.",FSM,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.39834110033967
+"Micronesia, Fed. Sts.",FSM,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.51374960305431
+"Micronesia, Fed. Sts.",FSM,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.6524948732106
+"Micronesia, Fed. Sts.",FSM,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.76226021774864
+"Micronesia, Fed. Sts.",FSM,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.80721498817206
+"Micronesia, Fed. Sts.",FSM,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.85097780161755
+"Micronesia, Fed. Sts.",FSM,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.8947783497379
+"Micronesia, Fed. Sts.",FSM,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,3.49458647028598
+"Micronesia, Fed. Sts.",FSM,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,3.58086250799963
+"Micronesia, Fed. Sts.",FSM,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,3.66678236059162
+"Micronesia, Fed. Sts.",FSM,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,3.71552999544505
+"Micronesia, Fed. Sts.",FSM,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.61945835165748
+"Micronesia, Fed. Sts.",FSM,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,3.15304622222557
+"Micronesia, Fed. Sts.",FSM,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.9985957109157
+"Micronesia, Fed. Sts.",FSM,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.86212066281887
+"Micronesia, Fed. Sts.",FSM,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.71109481750982
+"Micronesia, Fed. Sts.",FSM,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.96341877390919
+"Micronesia, Fed. Sts.",FSM,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,3.22659177372588
+"Micronesia, Fed. Sts.",FSM,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.018252242
+"Micronesia, Fed. Sts.",FSM,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.018017882
+"Micronesia, Fed. Sts.",FSM,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.017783522
+"Micronesia, Fed. Sts.",FSM,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.017549162
+"Micronesia, Fed. Sts.",FSM,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.017366882
+"Micronesia, Fed. Sts.",FSM,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.017171582
+"Micronesia, Fed. Sts.",FSM,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.017015342
+"Micronesia, Fed. Sts.",FSM,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.016820042
+"Micronesia, Fed. Sts.",FSM,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.016637762
+"Micronesia, Fed. Sts.",FSM,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.016481522
+"Micronesia, Fed. Sts.",FSM,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.016286222
+"Micronesia, Fed. Sts.",FSM,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.016286222
+"Micronesia, Fed. Sts.",FSM,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.015635222
+"Micronesia, Fed. Sts.",FSM,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.015283682
+"Micronesia, Fed. Sts.",FSM,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.00949158
+"Micronesia, Fed. Sts.",FSM,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.00921816
+"Micronesia, Fed. Sts.",FSM,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.00921816
+"Micronesia, Fed. Sts.",FSM,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.0089838
+"Micronesia, Fed. Sts.",FSM,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.0089838
+"Micronesia, Fed. Sts.",FSM,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.00906936
+"Micronesia, Fed. Sts.",FSM,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.00915492
+"Micronesia, Fed. Sts.",FSM,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.00924048
+"Micronesia, Fed. Sts.",FSM,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.00932604
+"Micronesia, Fed. Sts.",FSM,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.0094116
+"Micronesia, Fed. Sts.",FSM,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.00949716
+"Micronesia, Fed. Sts.",FSM,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.00958272
+"Micronesia, Fed. Sts.",FSM,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.00966828
+"Micronesia, Fed. Sts.",FSM,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.00975384
+"Micronesia, Fed. Sts.",FSM,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.0098394
+"Micronesia, Fed. Sts.",FSM,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.00992496
+"Micronesia, Fed. Sts.",FSM,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.01001052
+"Micronesia, Fed. Sts.",FSM,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.01009608
+"Micronesia, Fed. Sts.",FSM,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.01018164
+"Micronesia, Fed. Sts.",FSM,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.0102672
+"Micronesia, Fed. Sts.",FSM,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.01035276
+"Micronesia, Fed. Sts.",FSM,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.01043832
+"Micronesia, Fed. Sts.",FSM,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.01052388
+"Micronesia, Fed. Sts.",FSM,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.01060944
+"Micronesia, Fed. Sts.",FSM,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.010695
+"Micronesia, Fed. Sts.",FSM,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+"Micronesia, Fed. Sts.",FSM,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.168066886271644
+"Micronesia, Fed. Sts.",FSM,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.165907001969572
+"Micronesia, Fed. Sts.",FSM,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.164018241340367
+"Micronesia, Fed. Sts.",FSM,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.161845622521649
+"Micronesia, Fed. Sts.",FSM,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.160112834817601
+"Micronesia, Fed. Sts.",FSM,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.158068778161749
+"Micronesia, Fed. Sts.",FSM,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.156825668938128
+"Micronesia, Fed. Sts.",FSM,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.155701396939818
+"Micronesia, Fed. Sts.",FSM,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.153598401918613
+"Micronesia, Fed. Sts.",FSM,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.153198171979184
+"Micronesia, Fed. Sts.",FSM,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.151656390005081
+"Micronesia, Fed. Sts.",FSM,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.151954231106303
+"Micronesia, Fed. Sts.",FSM,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.146068255273797
+"Micronesia, Fed. Sts.",FSM,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.143203787614732
+"Micronesia, Fed. Sts.",FSM,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.134487666034156
+"Micronesia, Fed. Sts.",FSM,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.130707692307692
+"Micronesia, Fed. Sts.",FSM,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.134566649771921
+"Micronesia, Fed. Sts.",FSM,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.135134504996433
+"Micronesia, Fed. Sts.",FSM,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.13935372186959
+"Micronesia, Fed. Sts.",FSM,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.145224219921173
+"Micronesia, Fed. Sts.",FSM,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.151474118298763
+"Micronesia, Fed. Sts.",FSM,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.158152762155394
+"Micronesia, Fed. Sts.",FSM,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.166737794232571
+"Micronesia, Fed. Sts.",FSM,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.177777777777778
+"Micronesia, Fed. Sts.",FSM,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.1864569766168
+"Micronesia, Fed. Sts.",FSM,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.188406238762487
+"Micronesia, Fed. Sts.",FSM,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.190328565151589
+"Micronesia, Fed. Sts.",FSM,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.192225215813493
+"Micronesia, Fed. Sts.",FSM,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.25541776980212
+"Micronesia, Fed. Sts.",FSM,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.261320970322244
+"Micronesia, Fed. Sts.",FSM,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.267375428486264
+"Micronesia, Fed. Sts.",FSM,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.269163698273511
+"Micronesia, Fed. Sts.",FSM,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.388797278277
+"Micronesia, Fed. Sts.",FSM,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.203713841100744
+"Micronesia, Fed. Sts.",FSM,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.187503158178419
+"Micronesia, Fed. Sts.",FSM,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.173877121050947
+"Micronesia, Fed. Sts.",FSM,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.160033187040084
+"Micronesia, Fed. Sts.",FSM,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.176891985486422
+"Micronesia, Fed. Sts.",FSM,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.194096102887812
+"Micronesia, Fed. Sts.",FSM,2009,Time to obtain an electrical connection (days),IC.ELC.DURS,67.1
+"Micronesia, Fed. Sts.",FSM,2019,Time required to get electricity (days),IC.ELC.TIME,105
+"Micronesia, Fed. Sts.",FSM,2018,Time required to get electricity (days),IC.ELC.TIME,105
+"Micronesia, Fed. Sts.",FSM,2017,Time required to get electricity (days),IC.ELC.TIME,105
+"Micronesia, Fed. Sts.",FSM,2016,Time required to get electricity (days),IC.ELC.TIME,105
+"Micronesia, Fed. Sts.",FSM,2015,Time required to get electricity (days),IC.ELC.TIME,105
+"Micronesia, Fed. Sts.",FSM,2014,Time required to get electricity (days),IC.ELC.TIME,105
+"Micronesia, Fed. Sts.",FSM,2013,Time required to get electricity (days),IC.ELC.TIME,470
+"Micronesia, Fed. Sts.",FSM,2012,Time required to get electricity (days),IC.ELC.TIME,105
+"Micronesia, Fed. Sts.",FSM,2011,Time required to get electricity (days),IC.ELC.TIME,105
+"Micronesia, Fed. Sts.",FSM,2010,Time required to get electricity (days),IC.ELC.TIME,105
+"Micronesia, Fed. Sts.",FSM,2009,Time required to get electricity (days),IC.ELC.TIME,105
+"Micronesia, Fed. Sts.",FSM,2009,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,7.2
+"Micronesia, Fed. Sts.",FSM,2009,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,2.6
+"Micronesia, Fed. Sts.",FSM,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+"Micronesia, Fed. Sts.",FSM,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2001,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2000,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,1999,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,1998,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,1997,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,1996,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,1995,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,1994,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,1993,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,1983,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+"Micronesia, Fed. Sts.",FSM,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1992,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1991,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1990,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1989,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1988,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1987,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1986,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1983,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0365899279896177
+"Micronesia, Fed. Sts.",FSM,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.036766080654348
+"Micronesia, Fed. Sts.",FSM,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0302637653215347
+"Micronesia, Fed. Sts.",FSM,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0445847032345215
+"Micronesia, Fed. Sts.",FSM,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.026620280936443
+"Micronesia, Fed. Sts.",FSM,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.028137369066437
+"Micronesia, Fed. Sts.",FSM,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0355166499171232
+"Micronesia, Fed. Sts.",FSM,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0273118013201233
+"Micronesia, Fed. Sts.",FSM,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0289443972776389
+"Micronesia, Fed. Sts.",FSM,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0320271378077581
+"Micronesia, Fed. Sts.",FSM,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0189264557556345
+"Micronesia, Fed. Sts.",FSM,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0124956313118641
+"Micronesia, Fed. Sts.",FSM,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0101416397840059
+"Micronesia, Fed. Sts.",FSM,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0165298041569161
+"Micronesia, Fed. Sts.",FSM,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0142824609961377
+"Micronesia, Fed. Sts.",FSM,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00977234036480971
+"Micronesia, Fed. Sts.",FSM,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00860390312233918
+"Micronesia, Fed. Sts.",FSM,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00746556198768426
+"Micronesia, Fed. Sts.",FSM,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00705565558196253
+"Micronesia, Fed. Sts.",FSM,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0129437956870271
+"Micronesia, Fed. Sts.",FSM,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0168242940324561
+"Micronesia, Fed. Sts.",FSM,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0171193860205205
+"Micronesia, Fed. Sts.",FSM,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0158680091174009
+"Micronesia, Fed. Sts.",FSM,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0102528244384257
+"Micronesia, Fed. Sts.",FSM,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00764338967129795
+"Micronesia, Fed. Sts.",FSM,1992,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0119736769247535
+"Micronesia, Fed. Sts.",FSM,1991,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0091588728439631
+"Micronesia, Fed. Sts.",FSM,1990,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1989,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1988,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1987,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1986,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+"Micronesia, Fed. Sts.",FSM,1983,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0

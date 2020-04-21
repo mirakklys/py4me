@@ -1,0 +1,925 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Tonga,TON,2015,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.02857412826612
+Tonga,TON,2014,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.07182544080487
+Tonga,TON,2013,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.14289898671296
+Tonga,TON,2012,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.93603281393576
+Tonga,TON,2011,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.92398592992389
+Tonga,TON,2010,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.24005422380327
+Tonga,TON,2009,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.95311375073523
+Tonga,TON,2008,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.695193257621
+Tonga,TON,2007,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.56503225487706
+Tonga,TON,2006,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.81164002813699
+Tonga,TON,2005,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.29242976598635
+Tonga,TON,2004,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.3512120469359
+Tonga,TON,2003,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.5633100831884
+Tonga,TON,2002,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.95509991433795
+Tonga,TON,2001,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.88922153431824
+Tonga,TON,2000,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.24552421193047
+Tonga,TON,1999,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.62546238124126
+Tonga,TON,1998,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.15465602039548
+Tonga,TON,1997,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.41336492251573
+Tonga,TON,1996,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.7892292693755
+Tonga,TON,1995,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.38257842618699
+Tonga,TON,1994,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.26663787120407
+Tonga,TON,1993,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.21717312925982
+Tonga,TON,1992,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,2.98374949725541
+Tonga,TON,1991,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.79919220680803
+Tonga,TON,1990,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.26285053448799
+Tonga,TON,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,97.6819233186444
+Tonga,TON,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,96.5330418500596
+Tonga,TON,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,95.5704089664803
+Tonga,TON,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,94.4787361497305
+Tonga,TON,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,93.4071901747315
+Tonga,TON,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,91.3002302254965
+Tonga,TON,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,90.5992209682022
+Tonga,TON,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,90.4358615862812
+Tonga,TON,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,89.5609851976821
+Tonga,TON,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,88.7337436925112
+Tonga,TON,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,87.936601084548
+Tonga,TON,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,90.6671583475222
+Tonga,TON,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,86.3559406549504
+Tonga,TON,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,85.5380603076371
+Tonga,TON,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,84.6832144682812
+Tonga,TON,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,83.7943250964266
+Tonga,TON,2001,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,82.8795537428103
+Tonga,TON,2000,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,81.9471202163847
+Tonga,TON,1999,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,81.0050341609858
+Tonga,TON,1998,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,80.0614235872205
+Tonga,TON,1997,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,79.1239705304444
+Tonga,TON,1996,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,78.1996338165601
+Tonga,TON,1995,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,77.2883632259289
+Tonga,TON,1994,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,75.0699897764669
+Tonga,TON,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.9149017333984
+Tonga,TON,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.63
+Tonga,TON,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.3019485473633
+Tonga,TON,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.1488876342773
+Tonga,TON,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.0000839233398
+Tonga,TON,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.7
+Tonga,TON,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.3229092632078
+Tonga,TON,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.6005630493164
+Tonga,TON,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.4897842407227
+Tonga,TON,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.3918914794922
+Tonga,TON,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.3069686889648
+Tonga,TON,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.71
+Tonga,TON,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.1764602661133
+Tonga,TON,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.1310577392578
+Tonga,TON,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.0988998413086
+Tonga,TON,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.0772552490234
+Tonga,TON,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.0606842041016
+Tonga,TON,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.0436401367188
+Tonga,TON,1999,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.0205535888672
+Tonga,TON,1998,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.9858779907227
+Tonga,TON,1997,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.9340438842773
+Tonga,TON,1996,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.8610687255859
+Tonga,TON,1995,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.769172668457
+Tonga,TON,1994,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.6621322631836
+Tonga,TON,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.9675903320313
+Tonga,TON,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.02
+Tonga,TON,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,96.206169128418
+Tonga,TON,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,95.3349151611328
+Tonga,TON,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,94.4811096191406
+Tonga,TON,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,92.8
+Tonga,TON,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,92.175456108246
+Tonga,TON,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,92.1116409301758
+Tonga,TON,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,91.4111709594727
+Tonga,TON,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,90.7494812011719
+Tonga,TON,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,90.1130142211914
+Tonga,TON,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,92.3
+Tonga,TON,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,88.8614273071289
+Tonga,TON,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,88.2191848754883
+Tonga,TON,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,87.5509567260742
+Tonga,TON,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,86.8585968017578
+Tonga,TON,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,86.1470336914063
+Tonga,TON,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,85.4211883544922
+Tonga,TON,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,84.6859893798828
+Tonga,TON,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,83.9463729858398
+Tonga,TON,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,83.2072601318359
+Tonga,TON,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,82.4726181030273
+Tonga,TON,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,81.7424926757813
+Tonga,TON,1994,Access to electricity (% of population),EG.ELC.ACCS.ZS,80
+Tonga,TON,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,5.90740907860301
+Tonga,TON,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,4.57836183354411
+Tonga,TON,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,3.84521598859565
+Tonga,TON,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Tonga,TON,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.87975158224647
+Tonga,TON,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.69762930874545
+Tonga,TON,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.57564945527512
+Tonga,TON,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.14695786061368
+Tonga,TON,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.13501745260503
+Tonga,TON,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.0078707100095
+Tonga,TON,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.81749318669195
+Tonga,TON,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.98854437235478
+Tonga,TON,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.17068324811044
+Tonga,TON,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.86699476730791
+Tonga,TON,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.17045401974584
+Tonga,TON,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.14845252942469
+Tonga,TON,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.01277837319618
+Tonga,TON,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.47738889459776
+Tonga,TON,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.6995079473865
+Tonga,TON,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,2.4767297539479
+Tonga,TON,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.03187890486717
+Tonga,TON,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.23541610564558
+Tonga,TON,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.26376016632963
+Tonga,TON,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.46218169939384
+Tonga,TON,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.16194202663287
+Tonga,TON,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.22682651978487
+Tonga,TON,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.42573671565352
+Tonga,TON,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.56870027334678
+Tonga,TON,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.24642614410442
+Tonga,TON,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.48660799808816
+Tonga,TON,2007,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.72156344672098
+Tonga,TON,2006,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.98408835086871
+Tonga,TON,2005,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.81302964285646
+Tonga,TON,2004,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.45899626543894
+Tonga,TON,1990,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.70750321669804
+Tonga,TON,2007,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.19181102718289
+Tonga,TON,2006,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.69786036554253
+Tonga,TON,2005,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.76908481156714
+Tonga,TON,2004,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.63250406220705
+Tonga,TON,1990,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,13.4183401441896
+Tonga,TON,2007,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Tonga,TON,2006,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Tonga,TON,2005,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Tonga,TON,2004,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Tonga,TON,1990,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Tonga,TON,2007,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,122.073128479368
+Tonga,TON,2006,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,114.970804079771
+Tonga,TON,2005,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,114.036985784528
+Tonga,TON,2004,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,115.841242910963
+Tonga,TON,1990,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,74.524865911453
+Tonga,TON,2007,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,565.406849221591
+Tonga,TON,2006,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,560.438912158575
+Tonga,TON,2005,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,564.887765720232
+Tonga,TON,2004,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,568.760102975513
+Tonga,TON,1990,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,266.601773448758
+Tonga,TON,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1961,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,1960,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Tonga,TON,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,121.011
+Tonga,TON,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,113.677
+Tonga,TON,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,106.343
+Tonga,TON,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,102.676
+Tonga,TON,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,117.344
+Tonga,TON,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,132.012
+Tonga,TON,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,121.011
+Tonga,TON,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,113.677
+Tonga,TON,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,128.345
+Tonga,TON,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,113.677
+Tonga,TON,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,110.01
+Tonga,TON,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,117.344
+Tonga,TON,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,102.676
+Tonga,TON,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,88.008
+Tonga,TON,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,95.342
+Tonga,TON,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,110.01
+Tonga,TON,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,88.008
+Tonga,TON,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,99.009
+Tonga,TON,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,77.007
+Tonga,TON,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,95.342
+Tonga,TON,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,91.675
+Tonga,TON,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,84.341
+Tonga,TON,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,69.673
+Tonga,TON,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,95.342
+Tonga,TON,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,77.007
+Tonga,TON,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,69.673
+Tonga,TON,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,69.673
+Tonga,TON,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,55.005
+Tonga,TON,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Tonga,TON,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Tonga,TON,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Tonga,TON,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Tonga,TON,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,44.004
+Tonga,TON,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Tonga,TON,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,40.337
+Tonga,TON,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,40.337
+Tonga,TON,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,36.67
+Tonga,TON,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,29.336
+Tonga,TON,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,29.336
+Tonga,TON,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33.003
+Tonga,TON,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,22.002
+Tonga,TON,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,25.669
+Tonga,TON,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,22.002
+Tonga,TON,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,18.335
+Tonga,TON,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,25.669
+Tonga,TON,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Tonga,TON,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,14.668
+Tonga,TON,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,14.668
+Tonga,TON,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Tonga,TON,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Tonga,TON,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Tonga,TON,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Tonga,TON,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Tonga,TON,1961,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Tonga,TON,1960,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Tonga,TON,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.915957873522299
+Tonga,TON,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.880456004828787
+Tonga,TON,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.828837734832605
+Tonga,TON,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.790186095234863
+Tonga,TON,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.755976521025162
+Tonga,TON,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.743674625234439
+Tonga,TON,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.747144266851954
+Tonga,TON,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.860228750294905
+Tonga,TON,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.876232787295795
+Tonga,TON,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.888151384300081
+Tonga,TON,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.950287372996139
+Tonga,TON,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1.05244815606569
+Tonga,TON,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1.13773665162303
+Tonga,TON,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1.16220665617601
+Tonga,TON,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1.2136468235032
+Tonga,TON,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1.09696059162812
+Tonga,TON,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1.05295894107863
+Tonga,TON,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.963559802316798
+Tonga,TON,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.922940002210718
+Tonga,TON,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.829151094717189
+Tonga,TON,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.808603549416557
+Tonga,TON,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.758562790206645
+Tonga,TON,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.659912603967412
+Tonga,TON,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.69943228404973
+Tonga,TON,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.816677187032716
+Tonga,TON,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.856263025535707
+Tonga,TON,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.90812492654135
+Tonga,TON,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.924423000967454
+Tonga,TON,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.823341335248441
+Tonga,TON,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.733011778062545
+Tonga,TON,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.725129264772776
+Tonga,TON,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.718757683795137
+Tonga,TON,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.715796936949972
+Tonga,TON,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.796676971396445
+Tonga,TON,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.716718114197818
+Tonga,TON,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.70891436093266
+Tonga,TON,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.700441672525141
+Tonga,TON,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.687739045729198
+Tonga,TON,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.682055092273093
+Tonga,TON,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Tonga,TON,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.53335086643715
+Tonga,TON,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.47985996485268
+Tonga,TON,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.39971381281809
+Tonga,TON,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.34008434647244
+Tonga,TON,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.28738210725991
+Tonga,TON,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.27129952413866
+Tonga,TON,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.28152468019861
+Tonga,TON,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.47762212527746
+Tonga,TON,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.50983767921681
+Tonga,TON,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.56964350476306
+Tonga,TON,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.71619685325923
+Tonga,TON,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.90228060078099
+Tonga,TON,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.05556114925425
+Tonga,TON,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.11193952454558
+Tonga,TON,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.1034505995941
+Tonga,TON,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.87232022712406
+Tonga,TON,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.79104195943655
+Tonga,TON,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.69863307275163
+Tonga,TON,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.63225388098578
+Tonga,TON,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.36346400587579
+Tonga,TON,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.23032051095744
+Tonga,TON,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.23435065708337
+Tonga,TON,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.17946846106776
+Tonga,TON,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.30077083768775
+Tonga,TON,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.73279607523078
+Tonga,TON,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.62839657064558
+Tonga,TON,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.46588323706003
+Tonga,TON,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.36518337507857
+Tonga,TON,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.34878910808519
+Tonga,TON,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.21703923529082
+Tonga,TON,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.21655573897666
+Tonga,TON,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.44629437444314
+Tonga,TON,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.59235483314455
+Tonga,TON,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.94138152623864
+Tonga,TON,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.96285301896478
+Tonga,TON,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.03938402855097
+Tonga,TON,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.2241962934124
+Tonga,TON,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.19039125335753
+Tonga,TON,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.1198227581984
+Tonga,TON,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.719139705
+Tonga,TON,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.867904055
+Tonga,TON,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.834469625
+Tonga,TON,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.961310155
+Tonga,TON,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.969445795
+Tonga,TON,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,1.082840385
+Tonga,TON,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.944052362
+Tonga,TON,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,1.293452928
+Tonga,TON,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,1.229582574
+Tonga,TON,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,1.000475865
+Tonga,TON,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.990369214
+Tonga,TON,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.997001478
+Tonga,TON,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.907291384
+Tonga,TON,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.779239436
+Tonga,TON,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.731805592
+Tonga,TON,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.600103704
+Tonga,TON,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.576378412
+Tonga,TON,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.504615148
+Tonga,TON,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.4442765
+Tonga,TON,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.438902836
+Tonga,TON,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.413296712
+Tonga,TON,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.355056764
+Tonga,TON,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.22474597
+Tonga,TON,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.261125648
+Tonga,TON,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.38856485
+Tonga,TON,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.421289566
+Tonga,TON,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.477957938
+Tonga,TON,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.483180198
+Tonga,TON,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.33442893
+Tonga,TON,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.214098834
+Tonga,TON,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.203151556
+Tonga,TON,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.184770788
+Tonga,TON,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.173717118
+Tonga,TON,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.18389789
+Tonga,TON,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.181603146
+Tonga,TON,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.16581187
+Tonga,TON,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.176366564
+Tonga,TON,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.17252957
+Tonga,TON,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.17127593
+Tonga,TON,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Tonga,TON,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.27778366509546
+Tonga,TON,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.92791272896651
+Tonga,TON,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.7858602522559
+Tonga,TON,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.3375489565266
+Tonga,TON,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.37186081038763
+Tonga,TON,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.8408527746288
+Tonga,TON,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.25839904353723
+Tonga,TON,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.84342682042132
+Tonga,TON,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.53559173009772
+Tonga,TON,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.79933482636782
+Tonga,TON,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.888779832406
+Tonga,TON,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.91162017162466
+Tonga,TON,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.41112537905506
+Tonga,TON,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.84864866520091
+Tonga,TON,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.4804796994654
+Tonga,TON,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,2.80963435042156
+Tonga,TON,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,2.66494267453844
+Tonga,TON,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,2.66094544360784
+Tonga,TON,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,2.30248941656559
+Tonga,TON,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,2.01711005651778
+Tonga,TON,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.77520598652499
+Tonga,TON,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.60606503378734
+Tonga,TON,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.15295447895065
+Tonga,TON,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.33918094998863
+Tonga,TON,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,2.50889718892865
+Tonga,TON,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,2.48646276065347
+Tonga,TON,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,2.3182170565947
+Tonga,TON,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,2.11881634700478
+Tonga,TON,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.62038878408094
+Tonga,TON,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.13087533608203
+Tonga,TON,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.07552941292321
+Tonga,TON,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.27983835468778
+Tonga,TON,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.35350090937416
+Tonga,TON,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.58237305677368
+Tonga,TON,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.92284736149359
+Tonga,TON,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.89092008230045
+Tonga,TON,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,2.37935167643209
+Tonga,TON,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,2.38545019694911
+Tonga,TON,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,2.23499025104569
+Tonga,TON,2009,Time to obtain an electrical connection (days),IC.ELC.DURS,8.3
+Tonga,TON,2019,Time required to get electricity (days),IC.ELC.TIME,42
+Tonga,TON,2018,Time required to get electricity (days),IC.ELC.TIME,42
+Tonga,TON,2017,Time required to get electricity (days),IC.ELC.TIME,42
+Tonga,TON,2016,Time required to get electricity (days),IC.ELC.TIME,42
+Tonga,TON,2015,Time required to get electricity (days),IC.ELC.TIME,42
+Tonga,TON,2014,Time required to get electricity (days),IC.ELC.TIME,42
+Tonga,TON,2013,Time required to get electricity (days),IC.ELC.TIME,42
+Tonga,TON,2012,Time required to get electricity (days),IC.ELC.TIME,42
+Tonga,TON,2011,Time required to get electricity (days),IC.ELC.TIME,42
+Tonga,TON,2010,Time required to get electricity (days),IC.ELC.TIME,50
+Tonga,TON,2009,Time required to get electricity (days),IC.ELC.TIME,50
+Tonga,TON,2009,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,33.9
+Tonga,TON,2009,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,1.5
+Tonga,TON,2011,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,6400000
+Tonga,TON,2000,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,7000000
+Tonga,TON,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Tonga,TON,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2001,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2000,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1999,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1998,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1997,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1996,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1995,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1994,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1993,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1992,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1991,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1990,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1989,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1988,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1987,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1986,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1985,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1984,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1983,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1982,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,1981,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Tonga,TON,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Tonga,TON,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1992,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1991,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1990,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1989,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1988,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1987,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1986,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1985,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1984,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1983,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1982,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,1981,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Tonga,TON,2017,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0106923448975786
+Tonga,TON,2016,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0112780747885027
+Tonga,TON,2015,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.00975899939549071
+Tonga,TON,2014,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0125153289791349
+Tonga,TON,2013,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.00917901933227288
+Tonga,TON,2012,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.00915916067676334
+Tonga,TON,2011,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0108297992595088
+Tonga,TON,2010,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0112377446461543
+Tonga,TON,2009,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0130357467811721
+Tonga,TON,2008,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0138249666711097
+Tonga,TON,2007,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.012406309084442
+Tonga,TON,2006,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0105480171310664
+Tonga,TON,2005,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.00261612939589984
+Tonga,TON,2004,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.00594644767554084
+Tonga,TON,2003,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.00814242206398493
+Tonga,TON,2002,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.00713822512264464
+Tonga,TON,2001,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.00710034288857486
+Tonga,TON,2000,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.006193432679991
+Tonga,TON,1999,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Tonga,TON,1998,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0169001195188809
+Tonga,TON,1997,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0118938289645553
+Tonga,TON,1996,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0210930438589505
+Tonga,TON,1995,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0219888151883082
+Tonga,TON,1994,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0182762256977287
+Tonga,TON,1993,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0247413186361028
+Tonga,TON,1992,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0230406702829521
+Tonga,TON,1991,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0216564478578821
+Tonga,TON,1990,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.02362288329755
+Tonga,TON,1989,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0832033265947688
+Tonga,TON,1988,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0730480156572448
+Tonga,TON,1987,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0993159903134724
+Tonga,TON,1986,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.108433757136479
+Tonga,TON,1985,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.105656848173413
+Tonga,TON,1984,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.0452991219285765
+Tonga,TON,1983,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.066283922867601
+Tonga,TON,1982,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.268178442339395
+Tonga,TON,1981,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Tonga,TON,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1992,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1991,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1990,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1989,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1988,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1987,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1986,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1985,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1984,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1983,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1982,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1981,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1980,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1979,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1978,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1977,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1976,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,1975,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Tonga,TON,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2001,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2000,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1999,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1998,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1997,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1996,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1995,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1994,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1993,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1992,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1991,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1990,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1989,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1988,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1987,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1986,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1985,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1984,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1983,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1982,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1981,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,1980,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Tonga,TON,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2001,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2000,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1999,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1998,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1997,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1996,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1995,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1994,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1993,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1992,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1991,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1990,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1989,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1988,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1987,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1986,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1985,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1984,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1983,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1982,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1981,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,1980,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Tonga,TON,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0465072797412357
+Tonga,TON,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0488054058355412
+Tonga,TON,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0422847306069936
+Tonga,TON,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0536809668119717
+Tonga,TON,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0398076210665093
+Tonga,TON,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0396346281424358
+Tonga,TON,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0465389975507
+Tonga,TON,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0481603459902738
+Tonga,TON,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0539430553034253
+Tonga,TON,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0548244621935021
+Tonga,TON,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0478661351783437
+Tonga,TON,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0392253857982513
+Tonga,TON,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0234755786505488
+Tonga,TON,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0315633826954748
+Tonga,TON,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0416122793850887
+Tonga,TON,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0356064230996671
+Tonga,TON,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.033460015717814
+Tonga,TON,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0283447134222447
+Tonga,TON,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0297964698265222
+Tonga,TON,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0556096264996094
+Tonga,TON,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.049399443816534
+Tonga,TON,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0642976042079988
+Tonga,TON,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0683767248367274
+Tonga,TON,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0590573958704008
+Tonga,TON,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0783017810628863
+Tonga,TON,1992,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0738748430028495
+Tonga,TON,1991,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0709410564041534
+Tonga,TON,1990,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.07908210903505
+Tonga,TON,1989,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.15096759853233
+Tonga,TON,1988,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.136672266592943
+Tonga,TON,1987,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.182378380382116
+Tonga,TON,1986,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.202477559095843
+Tonga,TON,1985,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.200602048723094
+Tonga,TON,1984,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.109551126957297
+Tonga,TON,1983,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.159189841889022
+Tonga,TON,1982,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.403824411189614
+Tonga,TON,1981,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0248155628948262
+Tonga,TON,1980,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0480588805679925
+Tonga,TON,1979,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0509803858859557
+Tonga,TON,1978,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0386457211587155
+Tonga,TON,1977,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0583036609468112
+Tonga,TON,1976,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0470036730789306
+Tonga,TON,1975,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0403340343939675
+Tonga,TON,2014,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.3116427097128
+Tonga,TON,2013,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,22.2594909876039
+Tonga,TON,2012,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,23.7447757887074
+Tonga,TON,2011,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,23.5587013258939
+Tonga,TON,2010,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,22.7818008497858
+Tonga,TON,2009,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.3871268122083
+Tonga,TON,2008,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,26.0444726211229
+Tonga,TON,2007,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,24.7997324135265
+Tonga,TON,2006,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,25.8844951443124
+Tonga,TON,2005,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.6803178719253
+Tonga,TON,2004,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,18.2004535956494
+Tonga,TON,2003,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,17.3745907513284
+Tonga,TON,2002,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.2793713316435
+Tonga,TON,2001,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.863094725088
+Tonga,TON,2000,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.8116298675161
+Tonga,TON,1995,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.3899001152261
+Tonga,TON,1994,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.0627784707576
+Tonga,TON,1993,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.5972597259921
+Tonga,TON,1992,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.7635313786393
+Tonga,TON,1991,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.8136420817999
+Tonga,TON,1990,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.2309058762913
+Tonga,TON,1989,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.859148937622
+Tonga,TON,1988,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.69510269063461
+Tonga,TON,1987,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.1549345823913
+Tonga,TON,1986,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.3130039409171
+Tonga,TON,1985,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.9110269882109
+Tonga,TON,1984,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.9761814889461
+Tonga,TON,1983,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.905554673731
+Tonga,TON,1982,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.9118573118735
+Tonga,TON,1981,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.4115286742059
+Tonga,TON,1980,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.2971150534044
+Tonga,TON,1979,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.057826691534
+Tonga,TON,1978,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.3606629478371
+Tonga,TON,1977,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.2002254823698
+Tonga,TON,1976,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.1700473883999
+Tonga,TON,1975,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.76355418000488
+Tonga,TON,2014,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.402444925177001
+Tonga,TON,2013,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.590442441731826
+Tonga,TON,2012,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.507311943945617
+Tonga,TON,2011,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.944603273083659
+Tonga,TON,2010,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.491445383080537
+Tonga,TON,2009,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.682255313561997
+Tonga,TON,2008,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.749273929666385
+Tonga,TON,2007,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.14195592889781
+Tonga,TON,2006,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.183229802494679
+Tonga,TON,2005,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.367973498162634
+Tonga,TON,2004,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.546051689290999
+Tonga,TON,2003,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.30974359741817
+Tonga,TON,2002,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.437776715706904
+Tonga,TON,2001,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.457794585163003
+Tonga,TON,2000,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.195948782354374
+Tonga,TON,1995,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.875347266036188
+Tonga,TON,1994,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.7183387362596
+Tonga,TON,1993,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.798609432968984
+Tonga,TON,1992,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.623039070742446
+Tonga,TON,1991,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.590371731880704
+Tonga,TON,1990,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.648793805567681
+Tonga,TON,1989,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.537467330758905
+Tonga,TON,1988,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.376712778059948
+Tonga,TON,1987,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.673121841335284
+Tonga,TON,1986,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.725557825864916
+Tonga,TON,1985,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.82766714488114
+Tonga,TON,1984,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.679766698461159
+Tonga,TON,1983,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.751159042568104
+Tonga,TON,1982,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.873673063466222
+Tonga,TON,1981,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.763944155730464
+Tonga,TON,1980,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.00541862922655
+Tonga,TON,1979,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.90299446367659
+Tonga,TON,1978,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.435003395907461
+Tonga,TON,1977,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.77480484940415
+Tonga,TON,1976,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.721062928539465
+Tonga,TON,1975,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.794866525664114
+Tonga,TON,2014,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.000140759266745567
+Tonga,TON,2013,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.164328812039116
+Tonga,TON,2012,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.000627710156638937
+Tonga,TON,2010,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.000315010695824703
+Tonga,TON,2009,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0577899536538936
+Tonga,TON,2008,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0
+Tonga,TON,2005,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00015220791276173
+Tonga,TON,2001,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0
+Tonga,TON,2000,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0
+Tonga,TON,1985,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0
+Tonga,TON,1984,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0
+Tonga,TON,1975,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0
+Tonga,TON,2014,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.40852932248082
+Tonga,TON,2013,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.34124573510593
+Tonga,TON,2012,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.49705986334678
+Tonga,TON,2011,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.17875312872624
+Tonga,TON,2010,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.50404279880703
+Tonga,TON,2009,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.54885027361735
+Tonga,TON,2008,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,19.7321675028637
+Tonga,TON,2007,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.44573070639178
+Tonga,TON,2006,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.154851855104225
+Tonga,TON,2005,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.469642588423411
+Tonga,TON,2004,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.584910097593016
+Tonga,TON,2003,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.123631680776923
+Tonga,TON,2001,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0
+Tonga,TON,2000,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0
+Tonga,TON,1995,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.2149862558713
+Tonga,TON,1994,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.429879868655831
+Tonga,TON,1993,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.119905782622824
+Tonga,TON,1992,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0573088883341159
+Tonga,TON,1985,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0139315958643063
+Tonga,TON,1980,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0
+Tonga,TON,1975,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0

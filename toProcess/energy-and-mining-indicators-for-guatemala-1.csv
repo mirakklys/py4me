@@ -1,0 +1,1859 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Guatemala,GTM,2015,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.48345586321932
+Guatemala,GTM,2014,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.86250315799195
+Guatemala,GTM,2013,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.61593237380618
+Guatemala,GTM,2012,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.40007951440531
+Guatemala,GTM,2011,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.46022983453968
+Guatemala,GTM,2010,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.34512736791726
+Guatemala,GTM,2009,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.10539939569864
+Guatemala,GTM,2008,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.59544732682537
+Guatemala,GTM,2007,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.87472247303061
+Guatemala,GTM,2006,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.8335588787721
+Guatemala,GTM,2005,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.97760238107161
+Guatemala,GTM,2004,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.08528443140511
+Guatemala,GTM,2003,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.09176577999505
+Guatemala,GTM,2002,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.03576551331213
+Guatemala,GTM,2001,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.15815509167674
+Guatemala,GTM,2000,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.16779586022354
+Guatemala,GTM,1999,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.19228579677593
+Guatemala,GTM,1998,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.96329982915545
+Guatemala,GTM,1997,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.82646983625035
+Guatemala,GTM,1996,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.81648955171498
+Guatemala,GTM,1995,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.82292434899595
+Guatemala,GTM,1994,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.78913565998539
+Guatemala,GTM,1993,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.740736356141
+Guatemala,GTM,1992,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.90053850052041
+Guatemala,GTM,1991,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.87703502559447
+Guatemala,GTM,1990,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.90845904428244
+Guatemala,GTM,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,89.3206893697744
+Guatemala,GTM,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,86.9414867666142
+Guatemala,GTM,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,84.5916884885514
+Guatemala,GTM,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,76.655954191119
+Guatemala,GTM,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,80.0256502552743
+Guatemala,GTM,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,77.834733661185
+Guatemala,GTM,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,73.9852066363865
+Guatemala,GTM,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,73.7050466094146
+Guatemala,GTM,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,71.7905967991597
+Guatemala,GTM,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,69.9566877322506
+Guatemala,GTM,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,68.1780524348801
+Guatemala,GTM,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,74.1837744529896
+Guatemala,GTM,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,64.6768923953616
+Guatemala,GTM,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,62.9035897796401
+Guatemala,GTM,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,63.3966965371612
+Guatemala,GTM,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,64.1466886872516
+Guatemala,GTM,2001,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,57.4018223580904
+Guatemala,GTM,2000,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,55.0092501937849
+Guatemala,GTM,1999,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,54.2124624433087
+Guatemala,GTM,1998,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,51.8874595399489
+Guatemala,GTM,1997,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,50.1007847668987
+Guatemala,GTM,1996,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,48.3561629742334
+Guatemala,GTM,1995,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,39.0295548655215
+Guatemala,GTM,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.1490325927734
+Guatemala,GTM,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.8470001220703
+Guatemala,GTM,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.5453262329102
+Guatemala,GTM,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94.463137
+Guatemala,GTM,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.9504928588867
+Guatemala,GTM,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.6616058349609
+Guatemala,GTM,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94.603279
+Guatemala,GTM,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.1115341186523
+Guatemala,GTM,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94.8542709350586
+Guatemala,GTM,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94.6098937988281
+Guatemala,GTM,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94.3784942626953
+Guatemala,GTM,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94.40666
+Guatemala,GTM,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,93.9550170898438
+Guatemala,GTM,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,93.7631378173828
+Guatemala,GTM,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.030896
+Guatemala,GTM,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.710971
+Guatemala,GTM,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,93.2533187866211
+Guatemala,GTM,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.397837
+Guatemala,GTM,1999,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,91.3
+Guatemala,GTM,1998,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,92.7390670776367
+Guatemala,GTM,1997,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,92.5407562255859
+Guatemala,GTM,1996,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,92.3212966918945
+Guatemala,GTM,1995,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,88.9
+Guatemala,GTM,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,93.2880935668945
+Guatemala,GTM,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,91.9258422851563
+Guatemala,GTM,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,90.5650405883789
+Guatemala,GTM,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,85.494371
+Guatemala,GTM,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,87.8783493041992
+Guatemala,GTM,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,86.5699005126953
+Guatemala,GTM,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,84.026414
+Guatemala,GTM,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,84.0664291381836
+Guatemala,GTM,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,82.8851470947266
+Guatemala,GTM,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,81.7426452636719
+Guatemala,GTM,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,80.625358581543
+Guatemala,GTM,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,83.730998
+Guatemala,GTM,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,78.4121398925781
+Guatemala,GTM,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,77.2890777587891
+Guatemala,GTM,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,78.512204
+Guatemala,GTM,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,78.667838
+Guatemala,GTM,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,73.7744827270508
+Guatemala,GTM,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,73.318205
+Guatemala,GTM,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,70.9
+Guatemala,GTM,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,70.1313781738281
+Guatemala,GTM,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,68.9114532470703
+Guatemala,GTM,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,67.6959838867188
+Guatemala,GTM,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,60.8
+Guatemala,GTM,2015,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,21.3601012841382
+Guatemala,GTM,2014,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,17.2879776328052
+Guatemala,GTM,2013,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,15.7862903225806
+Guatemala,GTM,2012,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,13.1534211644709
+Guatemala,GTM,2011,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,12.9615510292996
+Guatemala,GTM,2010,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,13.1564151579894
+Guatemala,GTM,2009,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,8.10213330385763
+Guatemala,GTM,2008,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,13.0649231475109
+Guatemala,GTM,2007,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,12.8940155322065
+Guatemala,GTM,2006,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,13.5072250795983
+Guatemala,GTM,2005,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,13.2314573238912
+Guatemala,GTM,2004,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,14.5104667793525
+Guatemala,GTM,2003,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,13.7052244088914
+Guatemala,GTM,2002,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,15.7971248586658
+Guatemala,GTM,2001,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,8.57094075465255
+Guatemala,GTM,2000,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,8.91203703703704
+Guatemala,GTM,1999,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0.733166120007718
+Guatemala,GTM,1998,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1997,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1996,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1995,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1994,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1993,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1992,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1991,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1990,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1989,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1988,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1987,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1986,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1985,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1984,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1983,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1982,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1981,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1980,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1979,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1978,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1977,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1976,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1975,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1974,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1973,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1972,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,1971,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Guatemala,GTM,2015,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,39.6093326098752
+Guatemala,GTM,2014,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,31.425908667288
+Guatemala,GTM,2013,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,32.8326612903226
+Guatemala,GTM,2012,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,33.1172970675733
+Guatemala,GTM,2011,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,35.5625748829104
+Guatemala,GTM,2010,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,36.1520296862701
+Guatemala,GTM,2009,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,50.8897977230021
+Guatemala,GTM,2008,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,44.5859142005047
+Guatemala,GTM,2007,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,52.3755139333029
+Guatemala,GTM,2006,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,44.6975263286799
+Guatemala,GTM,2005,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,39.8807305255311
+Guatemala,GTM,2004,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,42.894292029645
+Guatemala,GTM,2003,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,50.7857850771627
+Guatemala,GTM,2002,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,58.2619932159587
+Guatemala,GTM,2001,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,52.0232200785385
+Guatemala,GTM,2000,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,48.2804232804233
+Guatemala,GTM,1999,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,42.9866872467683
+Guatemala,GTM,1998,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,44.2773788150808
+Guatemala,GTM,1997,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,31.77758571017
+Guatemala,GTM,1996,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,31.3556808068822
+Guatemala,GTM,1995,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,33.5600907029478
+Guatemala,GTM,1994,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,34.7334410339257
+Guatemala,GTM,1993,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,33.7273991655076
+Guatemala,GTM,1992,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,37.2487872487872
+Guatemala,GTM,1991,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,10.411198600175
+Guatemala,GTM,1990,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,8.37145471180238
+Guatemala,GTM,1989,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,9.29456625357483
+Guatemala,GTM,1988,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,12.554347826087
+Guatemala,GTM,1987,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,13.7971014492754
+Guatemala,GTM,1986,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,4.26632191338074
+Guatemala,GTM,1985,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,61.2332112332112
+Guatemala,GTM,1984,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,62.1231979030144
+Guatemala,GTM,1983,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,48.6072423398329
+Guatemala,GTM,1982,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,68.7734668335419
+Guatemala,GTM,1981,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,77.9266161910309
+Guatemala,GTM,1980,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,85.3483606557377
+Guatemala,GTM,1979,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,80.6777645659929
+Guatemala,GTM,1978,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,78.4818067754078
+Guatemala,GTM,1977,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,79.5904887714663
+Guatemala,GTM,1976,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,71.1496746203905
+Guatemala,GTM,1975,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,69.0518783542039
+Guatemala,GTM,1974,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,61.8987341772152
+Guatemala,GTM,1973,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,69.6035242290749
+Guatemala,GTM,1972,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,69.5238095238095
+Guatemala,GTM,1971,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,59.6072931276297
+Guatemala,GTM,2015,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,35.0425031651293
+Guatemala,GTM,2014,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,45.1817334575955
+Guatemala,GTM,2013,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,46.9153225806452
+Guatemala,GTM,2012,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,47.3650658733532
+Guatemala,GTM,2011,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,45.4852412591221
+Guatemala,GTM,2010,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,43.2812324300011
+Guatemala,GTM,2009,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,32.5190670940643
+Guatemala,GTM,2008,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,42.1541637990365
+Guatemala,GTM,2007,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,34.6162631338511
+Guatemala,GTM,2006,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,40.4481998530492
+Guatemala,GTM,2005,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,36.5138526525034
+Guatemala,GTM,2004,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,33.3506696138343
+Guatemala,GTM,2003,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,37.8592666005947
+Guatemala,GTM,2002,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,31.4973348408981
+Guatemala,GTM,2001,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,37.5618917534574
+Guatemala,GTM,2000,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,41.6997354497354
+Guatemala,GTM,1999,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,45.5334748215319
+Guatemala,GTM,1998,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,48.7881508078995
+Guatemala,GTM,1997,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,53.0970901757419
+Guatemala,GTM,1996,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,55.5028181548502
+Guatemala,GTM,1995,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,53.8265306122449
+Guatemala,GTM,1994,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,52.794830371567
+Guatemala,GTM,1993,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,53.4770514603616
+Guatemala,GTM,1992,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,50.1386001386001
+Guatemala,GTM,1991,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,75.1531058617673
+Guatemala,GTM,1990,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,78.5910338517841
+Guatemala,GTM,1989,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,79.6472831267874
+Guatemala,GTM,1988,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,80.4347826086957
+Guatemala,GTM,1987,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,79.4202898550725
+Guatemala,GTM,1986,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,89.5281189398837
+Guatemala,GTM,1985,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,33.8217338217338
+Guatemala,GTM,1984,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,32.5032765399738
+Guatemala,GTM,1983,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,45.8217270194986
+Guatemala,GTM,1982,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,24.9061326658323
+Guatemala,GTM,1981,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,16.7734420500874
+Guatemala,GTM,1980,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,11.9877049180328
+Guatemala,GTM,1979,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,16.3495838287753
+Guatemala,GTM,1978,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,17.7540777917189
+Guatemala,GTM,1977,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,15.4557463672391
+Guatemala,GTM,1976,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,22.6319595083153
+Guatemala,GTM,1975,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,25.4025044722719
+Guatemala,GTM,1974,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,31.7721518987342
+Guatemala,GTM,1973,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,25.6607929515419
+Guatemala,GTM,1972,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,26.547619047619
+Guatemala,GTM,1971,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,36.4656381486676
+Guatemala,GTM,2014,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,9.45945945945946
+Guatemala,GTM,2013,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,8.61895161290323
+Guatemala,GTM,2012,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.8546536336592
+Guatemala,GTM,2011,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,16.4252260102385
+Guatemala,GTM,2010,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.3475767457551
+Guatemala,GTM,2009,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.2699237316237
+Guatemala,GTM,2008,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.9481532461574
+Guatemala,GTM,2007,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.544997715852
+Guatemala,GTM,2006,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.5723732549596
+Guatemala,GTM,2005,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,17.9152689775127
+Guatemala,GTM,2004,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.2114159407099
+Guatemala,GTM,2003,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.5971966586436
+Guatemala,GTM,2002,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,22.193506703279
+Guatemala,GTM,2001,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,22.9981219054123
+Guatemala,GTM,2000,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,24.702380952381
+Guatemala,GTM,1999,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,15.3193131391086
+Guatemala,GTM,1998,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,20.5341113105925
+Guatemala,GTM,1997,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,22.0109478536445
+Guatemala,GTM,1996,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,17.4428952832987
+Guatemala,GTM,1995,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.7755102040816
+Guatemala,GTM,1994,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.794830371567
+Guatemala,GTM,1993,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.2475660639777
+Guatemala,GTM,1992,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.8503118503119
+Guatemala,GTM,1991,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.1294838145232
+Guatemala,GTM,1990,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.9588289112534
+Guatemala,GTM,1989,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,19.5424213536702
+Guatemala,GTM,1988,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,21.7391304347826
+Guatemala,GTM,1987,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,16.695652173913
+Guatemala,GTM,1986,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,15.6431803490627
+Guatemala,GTM,1985,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.003663003663
+Guatemala,GTM,1984,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.4338138925295
+Guatemala,GTM,1983,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.8133704735376
+Guatemala,GTM,1982,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.3892365456821
+Guatemala,GTM,1981,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,7.86255096097845
+Guatemala,GTM,1980,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,6.04508196721311
+Guatemala,GTM,1979,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,9.33412604042806
+Guatemala,GTM,1978,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,9.41028858218319
+Guatemala,GTM,1977,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,8.98282694848085
+Guatemala,GTM,1976,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,7.95372378886479
+Guatemala,GTM,1975,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,6.88729874776386
+Guatemala,GTM,1974,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,2.91139240506329
+Guatemala,GTM,1973,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,2.53303964757709
+Guatemala,GTM,1972,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,2.73809523809524
+Guatemala,GTM,1971,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,3.2258064516129
+Guatemala,GTM,2015,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,2014,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,2013,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,2012,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,2011,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,2010,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,2009,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,2008,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,2007,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,2006,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,2005,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,2004,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,2003,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,2002,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,2001,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,2000,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1999,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1998,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1997,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1996,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1995,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1994,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1993,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1992,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1991,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1990,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1989,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1988,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1987,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1986,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1985,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1984,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1983,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1982,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1981,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1980,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1979,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1978,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1977,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1976,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1975,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1974,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1973,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1972,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,1971,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Guatemala,GTM,2014,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,2013,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,2012,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,2011,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,2010,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,2009,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,2008,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,2007,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,2006,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,2005,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,2004,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,2003,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,2002,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,2001,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,2000,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1999,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1998,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1997,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1996,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1995,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1994,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1993,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1992,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1991,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1990,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1989,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1988,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1987,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1986,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1985,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1984,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1983,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1982,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1981,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1980,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1979,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1978,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1977,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1976,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1975,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1974,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1973,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1972,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,1971,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Guatemala,GTM,2015,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,18.249231325737
+Guatemala,GTM,2014,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,14.1379310344828
+Guatemala,GTM,2013,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,17.0463709677419
+Guatemala,GTM,2012,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,19.9638759031024
+Guatemala,GTM,2011,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,22.6010238536107
+Guatemala,GTM,2010,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,22.9956145282807
+Guatemala,GTM,2009,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,42.7876644191445
+Guatemala,GTM,2008,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,31.5209910529938
+Guatemala,GTM,2007,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,39.4814984010964
+Guatemala,GTM,2006,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,31.1903012490816
+Guatemala,GTM,2005,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,26.64927320164
+Guatemala,GTM,2004,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,28.3838252502925
+Guatemala,GTM,2003,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,37.0805606682713
+Guatemala,GTM,2002,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,42.4648683572928
+Guatemala,GTM,2001,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,43.452279323886
+Guatemala,GTM,2000,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,39.3683862433862
+Guatemala,GTM,1999,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,42.2535211267606
+Guatemala,GTM,1998,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,44.2773788150808
+Guatemala,GTM,1997,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,31.77758571017
+Guatemala,GTM,1996,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,31.3556808068822
+Guatemala,GTM,1995,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,33.5600907029478
+Guatemala,GTM,1994,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,34.7334410339257
+Guatemala,GTM,1993,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,33.7273991655076
+Guatemala,GTM,1992,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,37.2487872487872
+Guatemala,GTM,1991,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,10.411198600175
+Guatemala,GTM,1990,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,8.37145471180238
+Guatemala,GTM,1989,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,9.29456625357483
+Guatemala,GTM,1988,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,12.554347826087
+Guatemala,GTM,1987,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,13.7971014492754
+Guatemala,GTM,1986,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,4.26632191338074
+Guatemala,GTM,1985,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,61.2332112332112
+Guatemala,GTM,1984,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,62.1231979030144
+Guatemala,GTM,1983,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,48.6072423398329
+Guatemala,GTM,1982,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,68.7734668335419
+Guatemala,GTM,1981,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,77.9266161910309
+Guatemala,GTM,1980,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,85.3483606557377
+Guatemala,GTM,1979,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,80.6777645659929
+Guatemala,GTM,1978,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,78.4818067754078
+Guatemala,GTM,1977,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,79.5904887714663
+Guatemala,GTM,1976,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,71.1496746203905
+Guatemala,GTM,1975,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,69.0518783542039
+Guatemala,GTM,1974,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,61.8987341772152
+Guatemala,GTM,1973,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,69.6035242290749
+Guatemala,GTM,1972,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,69.5238095238095
+Guatemala,GTM,1971,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,59.6072931276297
+Guatemala,GTM,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,60.3906673901248
+Guatemala,GTM,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,68.574091332712
+Guatemala,GTM,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,67.1673387096774
+Guatemala,GTM,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,66.8827029324267
+Guatemala,GTM,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,64.4374251170896
+Guatemala,GTM,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,63.8479703137299
+Guatemala,GTM,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,49.1102022769979
+Guatemala,GTM,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,55.4140857994953
+Guatemala,GTM,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,47.6244860666971
+Guatemala,GTM,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,51.9593436198873
+Guatemala,GTM,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,47.4841595229221
+Guatemala,GTM,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,44.7796125341308
+Guatemala,GTM,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,49.2142149228373
+Guatemala,GTM,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,41.7380067840413
+Guatemala,GTM,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,47.9767799214615
+Guatemala,GTM,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,51.7195767195767
+Guatemala,GTM,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,57.0133127532317
+Guatemala,GTM,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,55.7226211849192
+Guatemala,GTM,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,68.22241428983
+Guatemala,GTM,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,68.6443191931178
+Guatemala,GTM,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,66.4399092970522
+Guatemala,GTM,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,65.2665589660743
+Guatemala,GTM,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,66.2726008344924
+Guatemala,GTM,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,62.7512127512127
+Guatemala,GTM,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,89.588801399825
+Guatemala,GTM,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,91.6285452881976
+Guatemala,GTM,2015,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,2803000000
+Guatemala,GTM,2014,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,2510000000
+Guatemala,GTM,2013,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,2009000000
+Guatemala,GTM,2012,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1837000000
+Guatemala,GTM,2011,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1740000000
+Guatemala,GTM,2010,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1829000000
+Guatemala,GTM,2009,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1501000000
+Guatemala,GTM,2008,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1156000000
+Guatemala,GTM,2007,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1139000000
+Guatemala,GTM,2006,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,940000000
+Guatemala,GTM,2005,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,883000000
+Guatemala,GTM,2004,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,879000000
+Guatemala,GTM,2003,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,802000000
+Guatemala,GTM,2002,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,634000000
+Guatemala,GTM,2001,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,610000000
+Guatemala,GTM,2000,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,606000000
+Guatemala,GTM,1999,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,595000000
+Guatemala,GTM,1998,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,309000000
+Guatemala,GTM,1997,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,525000000
+Guatemala,GTM,1996,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,443000000
+Guatemala,GTM,1995,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,445000000
+Guatemala,GTM,1994,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,386000000
+Guatemala,GTM,1993,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,368000000
+Guatemala,GTM,1992,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,364000000
+Guatemala,GTM,1991,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,330000000
+Guatemala,GTM,1990,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,285000000
+Guatemala,GTM,1989,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,232000000
+Guatemala,GTM,1988,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,129000000
+Guatemala,GTM,1987,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,117000000
+Guatemala,GTM,1986,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,96000000
+Guatemala,GTM,1985,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,81000000
+Guatemala,GTM,1984,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,82000000
+Guatemala,GTM,1983,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,80000000
+Guatemala,GTM,1982,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,101000000
+Guatemala,GTM,1981,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,91000000
+Guatemala,GTM,1980,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,52000000
+Guatemala,GTM,1979,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,50000000
+Guatemala,GTM,1978,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,60000000
+Guatemala,GTM,1977,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,75000000
+Guatemala,GTM,1976,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,86000000
+Guatemala,GTM,1975,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,62000000
+Guatemala,GTM,1974,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,50000000
+Guatemala,GTM,1973,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,43000000
+Guatemala,GTM,1972,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,33000000
+Guatemala,GTM,1971,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,28000000
+Guatemala,GTM,2015,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,25.3481642249955
+Guatemala,GTM,2014,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,23.3923578751165
+Guatemala,GTM,2013,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,20.2520161290323
+Guatemala,GTM,2012,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,19.5176370590735
+Guatemala,GTM,2011,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,18.9521838579675
+Guatemala,GTM,2010,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,20.5667378837288
+Guatemala,GTM,2009,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,16.5911351829336
+Guatemala,GTM,2008,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,13.2599220004588
+Guatemala,GTM,2007,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,13.008222932846
+Guatemala,GTM,2006,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,11.5111437668381
+Guatemala,GTM,2005,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,10.9703068704187
+Guatemala,GTM,2004,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,11.4289429202965
+Guatemala,GTM,2003,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,11.3549483222427
+Guatemala,GTM,2002,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,10.2406719431433
+Guatemala,GTM,2001,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,10.4148881680041
+Guatemala,GTM,2000,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,10.0198412698413
+Guatemala,GTM,1999,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,11.4798379316998
+Guatemala,GTM,1998,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,6.93447037701975
+Guatemala,GTM,1997,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,15.1253241140882
+Guatemala,GTM,1996,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,13.1415010382676
+Guatemala,GTM,1995,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,12.6133786848073
+Guatemala,GTM,1994,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,12.4717285945073
+Guatemala,GTM,1993,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,12.7955493741307
+Guatemala,GTM,1992,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,12.6126126126126
+Guatemala,GTM,1991,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,14.4356955380577
+Guatemala,GTM,1990,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,13.0375114364135
+Guatemala,GTM,1989,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,11.0581506196378
+Guatemala,GTM,1988,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,7.01086956521739
+Guatemala,GTM,1987,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,6.78260869565217
+Guatemala,GTM,1986,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,6.20555914673562
+Guatemala,GTM,1985,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,4.94505494505495
+Guatemala,GTM,1984,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,5.3735255570118
+Guatemala,GTM,1983,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,5.57103064066852
+Guatemala,GTM,1982,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,6.32040050062578
+Guatemala,GTM,1981,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,5.29994175888177
+Guatemala,GTM,1980,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.66393442622951
+Guatemala,GTM,1979,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.97265160523187
+Guatemala,GTM,1978,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,3.76411543287327
+Guatemala,GTM,1977,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,4.95376486129458
+Guatemala,GTM,1976,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,6.21836587129429
+Guatemala,GTM,1975,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,5.54561717352415
+Guatemala,GTM,1974,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,6.32911392405063
+Guatemala,GTM,1973,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,4.73568281938326
+Guatemala,GTM,1972,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,3.92857142857143
+Guatemala,GTM,1971,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,3.92706872370266
+Guatemala,GTM,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,63.6509917919234
+Guatemala,GTM,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,59.9010023125906
+Guatemala,GTM,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,64.9779649816952
+Guatemala,GTM,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,66.2193653049695
+Guatemala,GTM,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,66.4172263822328
+Guatemala,GTM,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,66.5852359697893
+Guatemala,GTM,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,58.3026825912569
+Guatemala,GTM,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,60.7847790048445
+Guatemala,GTM,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,57.0325613758127
+Guatemala,GTM,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,57.9034442414544
+Guatemala,GTM,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,57.3263459633273
+Guatemala,GTM,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,57.552930294944
+Guatemala,GTM,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,59.0106107013881
+Guatemala,GTM,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,60.5350621956088
+Guatemala,GTM,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,61.3947628899465
+Guatemala,GTM,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,62.7429400098926
+Guatemala,GTM,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,64.6055218216713
+Guatemala,GTM,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,62.0396959127117
+Guatemala,GTM,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,65.3040026904336
+Guatemala,GTM,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,65.7253778641803
+Guatemala,GTM,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,65.1427507710262
+Guatemala,GTM,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,68.4904857164416
+Guatemala,GTM,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,69.9234471228816
+Guatemala,GTM,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,72.2855410082324
+Guatemala,GTM,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,74.2551734797804
+Guatemala,GTM,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,74.9653299152976
+Guatemala,GTM,2014,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.09844355782778
+Guatemala,GTM,2013,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.40650793628992
+Guatemala,GTM,2012,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.6977713409294
+Guatemala,GTM,2011,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.38696021375844
+Guatemala,GTM,2010,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.43846052422042
+Guatemala,GTM,2009,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.87454059454031
+Guatemala,GTM,2008,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,11.1897683382611
+Guatemala,GTM,2007,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,10.1851383583687
+Guatemala,GTM,2006,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,10.0251985034232
+Guatemala,GTM,2005,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.37834165715749
+Guatemala,GTM,2004,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.85530481149914
+Guatemala,GTM,2003,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.60949223621994
+Guatemala,GTM,2002,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.56980802352344
+Guatemala,GTM,2001,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.18805209886447
+Guatemala,GTM,2000,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.99377420456674
+Guatemala,GTM,1999,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.77330695184687
+Guatemala,GTM,1998,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.1053961695545
+Guatemala,GTM,1997,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.30179703762951
+Guatemala,GTM,1996,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.18240984990774
+Guatemala,GTM,1995,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.02175627644928
+Guatemala,GTM,1994,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.92707101908927
+Guatemala,GTM,1993,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.86175669401406
+Guatemala,GTM,1992,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.36516500207095
+Guatemala,GTM,1991,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.2447139276786
+Guatemala,GTM,1990,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.95138747269221
+Guatemala,GTM,2014,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.61037038290519
+Guatemala,GTM,2013,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,9.07032352501708
+Guatemala,GTM,2012,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,9.51528258830376
+Guatemala,GTM,2011,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,9.38696021375844
+Guatemala,GTM,2010,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,9.63562088252211
+Guatemala,GTM,2009,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.1982769422842
+Guatemala,GTM,2008,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.6447262898799
+Guatemala,GTM,2007,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.8054190441055
+Guatemala,GTM,2006,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.9214443637931
+Guatemala,GTM,2005,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.5259389945691
+Guatemala,GTM,2004,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.2484908206144
+Guatemala,GTM,2003,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.2322572359047
+Guatemala,GTM,2002,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.3742399977885
+Guatemala,GTM,2001,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.0688887140381
+Guatemala,GTM,2000,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.0455975782309
+Guatemala,GTM,1999,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,9.98691454485776
+Guatemala,GTM,1998,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.5639244581059
+Guatemala,GTM,1997,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.9416777844118
+Guatemala,GTM,1996,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.9702907430228
+Guatemala,GTM,1995,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.9518254032462
+Guatemala,GTM,1994,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.049485623374
+Guatemala,GTM,1993,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.1924487624714
+Guatemala,GTM,1992,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.7339025097268
+Guatemala,GTM,1991,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.798973886908
+Guatemala,GTM,1990,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.712150114831
+Guatemala,GTM,2014,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,32.8442095772155
+Guatemala,GTM,2013,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,27.8199239069964
+Guatemala,GTM,2012,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,25.5939195470368
+Guatemala,GTM,2011,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,25.6275492590308
+Guatemala,GTM,2010,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,26.3732250542357
+Guatemala,GTM,2009,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,31.0264377553326
+Guatemala,GTM,2008,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,30.8078181693809
+Guatemala,GTM,2007,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,33.4392117719154
+Guatemala,GTM,2006,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,31.9386298135519
+Guatemala,GTM,2005,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,30.7721450193587
+Guatemala,GTM,2004,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,28.1031128091203
+Guatemala,GTM,2003,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,23.9014688499938
+Guatemala,GTM,2002,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,25.0374457771072
+Guatemala,GTM,2001,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,26.7480647697673
+Guatemala,GTM,2000,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,25.1426414995722
+Guatemala,GTM,1999,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,21.1508352525039
+Guatemala,GTM,1998,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,19.530066826598
+Guatemala,GTM,1997,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,19.2487238959656
+Guatemala,GTM,1996,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,22.9295890960054
+Guatemala,GTM,1995,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,27.7550883084921
+Guatemala,GTM,1994,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,28.194388968595
+Guatemala,GTM,1993,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,24.3820560040485
+Guatemala,GTM,1992,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,24.8944661707509
+Guatemala,GTM,1991,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,24.4478397082719
+Guatemala,GTM,1990,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,23.3348741352259
+Guatemala,GTM,1989,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,21.6001555368479
+Guatemala,GTM,1988,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,21.8237960408304
+Guatemala,GTM,1987,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,20.2673132218282
+Guatemala,GTM,1986,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,16.4515996241541
+Guatemala,GTM,1985,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,26.1549132886647
+Guatemala,GTM,1984,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,23.8103666839707
+Guatemala,GTM,1983,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,17.3859053264406
+Guatemala,GTM,1982,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,20.479719712837
+Guatemala,GTM,1981,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,27.6522857502266
+Guatemala,GTM,1980,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,31.8867923035727
+Guatemala,GTM,1979,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,32.4103495123214
+Guatemala,GTM,1978,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,31.2669780526132
+Guatemala,GTM,1977,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,30.0311077875843
+Guatemala,GTM,1976,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,26.9408332521943
+Guatemala,GTM,1975,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,26.6373944418786
+Guatemala,GTM,1974,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,30.7022145985363
+Guatemala,GTM,1973,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,30.700268092146
+Guatemala,GTM,1972,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,29.6836064068098
+Guatemala,GTM,1971,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,29.2830418308795
+Guatemala,GTM,2014,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.56505551987625
+Guatemala,GTM,2013,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.90269850627609
+Guatemala,GTM,2012,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.00498129888254
+Guatemala,GTM,2011,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.90597953335882
+Guatemala,GTM,2010,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.95036196357293
+Guatemala,GTM,2009,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.52261783162218
+Guatemala,GTM,2008,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.44379932541454
+Guatemala,GTM,2007,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.72952807728891
+Guatemala,GTM,2006,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.15633325494233
+Guatemala,GTM,2005,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.57157362514678
+Guatemala,GTM,2004,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.37748383142533
+Guatemala,GTM,2003,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.62985916042654
+Guatemala,GTM,2002,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.63124829744877
+Guatemala,GTM,2001,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.89756549956513
+Guatemala,GTM,2000,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.96062395820432
+Guatemala,GTM,1999,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.28721927466616
+Guatemala,GTM,1998,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.34620090854861
+Guatemala,GTM,1997,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.59914905426396
+Guatemala,GTM,1996,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.67705208787447
+Guatemala,GTM,1995,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.56408299928783
+Guatemala,GTM,1994,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.49214436099683
+Guatemala,GTM,1993,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.46917701073636
+Guatemala,GTM,1992,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.12621133187194
+Guatemala,GTM,1991,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.97813564740406
+Guatemala,GTM,1990,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.03073924712596
+Guatemala,GTM,1989,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.47938640422971
+Guatemala,GTM,1988,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.19943049734956
+Guatemala,GTM,1987,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.08060211626018
+Guatemala,GTM,1986,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.29072328777266
+Guatemala,GTM,1985,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.26377328261688
+Guatemala,GTM,1984,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.15271251988589
+Guatemala,GTM,1983,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.61576360306032
+Guatemala,GTM,1982,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.944407486942935
+Guatemala,GTM,1981,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.671475728408021
+Guatemala,GTM,1980,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.530646244538687
+Guatemala,GTM,1979,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.576017505086734
+Guatemala,GTM,1978,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.6288177203717
+Guatemala,GTM,1977,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.532505203595125
+Guatemala,GTM,1976,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.755308244498986
+Guatemala,GTM,1975,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.732976028526764
+Guatemala,GTM,1974,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.713156761014185
+Guatemala,GTM,1973,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.680262178298761
+Guatemala,GTM,1972,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.680086115399032
+Guatemala,GTM,1971,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.817696472970853
+Guatemala,GTM,2014,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,37.3785969634422
+Guatemala,GTM,2013,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,32.6537067630652
+Guatemala,GTM,2012,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,30.8761577167161
+Guatemala,GTM,2011,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,30.9210722477406
+Guatemala,GTM,2010,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,32.6603557483935
+Guatemala,GTM,2009,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,39.0493028294798
+Guatemala,GTM,2008,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,40.3671628844131
+Guatemala,GTM,2007,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,43.4046497223569
+Guatemala,GTM,2006,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,43.1870956030724
+Guatemala,GTM,2005,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,44.1683187243273
+Guatemala,GTM,2004,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,42.9753270934075
+Guatemala,GTM,2003,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,42.4863745604654
+Guatemala,GTM,2002,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,44.3008727826125
+Guatemala,GTM,2001,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,43.2444452729522
+Guatemala,GTM,2000,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,42.2766651403094
+Guatemala,GTM,1999,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,40.3101463582768
+Guatemala,GTM,1998,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,42.2166072709601
+Guatemala,GTM,1997,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,38.2535165386718
+Guatemala,GTM,1996,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,37.706984402384
+Guatemala,GTM,1995,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,36.6179652855819
+Guatemala,GTM,1994,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,35.5615220702333
+Guatemala,GTM,1993,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,31.6911591838498
+Guatemala,GTM,1992,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,30.9475040922774
+Guatemala,GTM,1991,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,28.5931040868835
+Guatemala,GTM,1990,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,27.8672573854776
+Guatemala,GTM,1989,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,26.068377620417
+Guatemala,GTM,1988,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,26.5137468930735
+Guatemala,GTM,1987,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,25.1439048030671
+Guatemala,GTM,1986,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,23.5802384206517
+Guatemala,GTM,1985,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,30.0818041475021
+Guatemala,GTM,1984,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,30.2497588832179
+Guatemala,GTM,1983,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,27.4903954463494
+Guatemala,GTM,1982,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,29.2648504545589
+Guatemala,GTM,1981,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,33.2877694252983
+Guatemala,GTM,1980,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,37.448267660455
+Guatemala,GTM,1979,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,34.3367079272187
+Guatemala,GTM,1978,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,31.3455738084423
+Guatemala,GTM,1977,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,30.2189293904027
+Guatemala,GTM,1976,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,27.3107709851416
+Guatemala,GTM,1975,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,26.6373944418786
+Guatemala,GTM,1974,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,30.7022476364665
+Guatemala,GTM,1973,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,30.700268092146
+Guatemala,GTM,1972,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,29.6835709450247
+Guatemala,GTM,1971,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,29.2830418308795
+Guatemala,GTM,2014,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,116.139022542558
+Guatemala,GTM,2013,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,110.249650659304
+Guatemala,GTM,2012,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,105.094093708705
+Guatemala,GTM,2011,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,106.530759396881
+Guatemala,GTM,2010,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,103.781584206357
+Guatemala,GTM,2009,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,98.0557799772809
+Guatemala,GTM,2008,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,85.8757840335902
+Guatemala,GTM,2007,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,92.5461563238043
+Guatemala,GTM,2006,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,91.5629807459548
+Guatemala,GTM,2005,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,95.0034006957431
+Guatemala,GTM,2004,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,97.5753423117232
+Guatemala,GTM,2003,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,97.7301466279632
+Guatemala,GTM,2002,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,96.3926032377479
+Guatemala,GTM,2001,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,99.3158260460058
+Guatemala,GTM,2000,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,99.5460939194929
+Guatemala,GTM,1999,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,100.131026004913
+Guatemala,GTM,1998,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,94.6617901297733
+Guatemala,GTM,1997,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,91.3936618956799
+Guatemala,GTM,1996,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,91.1552868948351
+Guatemala,GTM,1995,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,91.3089793874541
+Guatemala,GTM,1994,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,90.501950415195
+Guatemala,GTM,1993,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,89.3459529029097
+Guatemala,GTM,1992,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,93.1627615486372
+Guatemala,GTM,1991,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,92.6013906943827
+Guatemala,GTM,1990,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,93.351940486299
+Guatemala,GTM,2014,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,44.5658294761735
+Guatemala,GTM,2013,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,47.6556394991215
+Guatemala,GTM,2012,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,47.9777478332705
+Guatemala,GTM,2011,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,48.3333810765358
+Guatemala,GTM,2010,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,51.3820473522904
+Guatemala,GTM,2009,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,41.3994170736823
+Guatemala,GTM,2008,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,46.5449790286156
+Guatemala,GTM,2007,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,43.7486936959799
+Guatemala,GTM,2006,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,44.3505170335076
+Guatemala,GTM,2005,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,43.6177884910631
+Guatemala,GTM,2004,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,42.5676479501115
+Guatemala,GTM,2003,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,43.6038536603368
+Guatemala,GTM,2002,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,49.6874124781722
+Guatemala,GTM,2001,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,50.0693711385125
+Guatemala,GTM,2000,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,51.0599255361093
+Guatemala,GTM,1999,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,52.706522673522
+Guatemala,GTM,1998,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,50.1044958018035
+Guatemala,GTM,1997,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,54.522765314996
+Guatemala,GTM,1996,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,55.1756759040093
+Guatemala,GTM,1995,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,55.8911003023655
+Guatemala,GTM,1994,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,57.5153594765388
+Guatemala,GTM,1993,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,61.4530055947843
+Guatemala,GTM,1992,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,62.262518041869
+Guatemala,GTM,1991,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,64.0987166123204
+Guatemala,GTM,1990,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,65.0504610730646
+Guatemala,GTM,1989,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,70.4522359753533
+Guatemala,GTM,1988,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,70.2868477465231
+Guatemala,GTM,1987,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,71.8002801355549
+Guatemala,GTM,1986,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,73.3381515865563
+Guatemala,GTM,1985,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,68.654422569881
+Guatemala,GTM,1984,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,68.5975285968963
+Guatemala,GTM,1983,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,70.8938123974765
+Guatemala,GTM,1982,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,69.7908248334912
+Guatemala,GTM,1981,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,66.0407819569093
+Guatemala,GTM,1980,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,62.0210860950064
+Guatemala,GTM,1979,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,65.0872745676946
+Guatemala,GTM,1978,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,68.0256084711859
+Guatemala,GTM,1977,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,69.2485654060021
+Guatemala,GTM,1976,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,71.9339768895543
+Guatemala,GTM,1975,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,72.6296295295947
+Guatemala,GTM,1974,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,68.5846286404495
+Guatemala,GTM,1973,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,68.6194697295552
+Guatemala,GTM,1972,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,69.6363074777912
+Guatemala,GTM,1971,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,69.8992616961497
+Guatemala,GTM,2014,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,577.897354201025
+Guatemala,GTM,2013,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,558.418822580741
+Guatemala,GTM,2012,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,532.651316128098
+Guatemala,GTM,2011,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,534.557850551646
+Guatemala,GTM,2010,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,541.953110427406
+Guatemala,GTM,2009,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,537.780005857674
+Guatemala,GTM,2008,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,530.542119661058
+Guatemala,GTM,2007,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,543.490677266316
+Guatemala,GTM,2006,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,533.028947256259
+Guatemala,GTM,2005,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,480.680096285683
+Guatemala,GTM,2004,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,482.537797166116
+Guatemala,GTM,2003,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,450.782762067179
+Guatemala,GTM,2002,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,363.015413084019
+Guatemala,GTM,2001,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,357.989042466104
+Guatemala,GTM,2000,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,330.451027887234
+Guatemala,GTM,1999,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,363.126924144586
+Guatemala,GTM,1998,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,314.635980182694
+Guatemala,GTM,1997,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,240.548130107974
+Guatemala,GTM,1996,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,259.235889067327
+Guatemala,GTM,1995,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,295.624081458894
+Guatemala,GTM,1994,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,266.409838407196
+Guatemala,GTM,1993,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,243.090338245717
+Guatemala,GTM,1992,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,256.475121295222
+Guatemala,GTM,1991,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,206.46886569717
+Guatemala,GTM,1990,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,200.457414241846
+Guatemala,GTM,1989,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,186.509753918721
+Guatemala,GTM,1988,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,162.84849153103
+Guatemala,GTM,1987,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,165.063337557535
+Guatemala,GTM,1986,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,144.218166891111
+Guatemala,GTM,1985,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,172.93563396383
+Guatemala,GTM,1984,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,164.244301524687
+Guatemala,GTM,1983,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,159.541824424477
+Guatemala,GTM,1982,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,184.981512952821
+Guatemala,GTM,1981,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,211.880069987389
+Guatemala,GTM,1980,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,251.803435702734
+Guatemala,GTM,1979,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,214.602995013471
+Guatemala,GTM,1978,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,208.252029952526
+Guatemala,GTM,1977,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,203.67995582303
+Guatemala,GTM,1976,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,192.901760724838
+Guatemala,GTM,1975,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,161.803545316184
+Guatemala,GTM,1974,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,122.353780452652
+Guatemala,GTM,1973,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,144.974305966225
+Guatemala,GTM,1972,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,137.505812860479
+Guatemala,GTM,1971,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,119.367249778565
+Guatemala,GTM,2014,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,830.110989325478
+Guatemala,GTM,2013,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,772.322085512523
+Guatemala,GTM,2012,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,725.066725480522
+Guatemala,GTM,2011,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,729.154100164408
+Guatemala,GTM,2010,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,696.79462998218
+Guatemala,GTM,2009,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,654.030734137812
+Guatemala,GTM,2008,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,582.397310720478
+Guatemala,GTM,2007,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,621.273346249327
+Guatemala,GTM,2006,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,591.312576131664
+Guatemala,GTM,2005,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,595.590433985022
+Guatemala,GTM,2004,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,606.247594636993
+Guatemala,GTM,2003,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,602.614396025496
+Guatemala,GTM,2002,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,593.543141826321
+Guatemala,GTM,2001,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,602.794511606174
+Guatemala,GTM,2000,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,604.31579342193
+Guatemala,GTM,1999,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,600.271901712826
+Guatemala,GTM,1998,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,558.914217549358
+Guatemala,GTM,1997,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,525.559915037555
+Guatemala,GTM,1996,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,513.637216655643
+Guatemala,GTM,1995,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,511.158055698575
+Guatemala,GTM,1994,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,493.960115399698
+Guatemala,GTM,1993,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,479.760415153221
+Guatemala,GTM,1992,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,492.762972491035
+Guatemala,GTM,1991,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,478.287552711248
+Guatemala,GTM,1990,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,476.16710311402
+Guatemala,GTM,1989,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,456.353458081988
+Guatemala,GTM,1988,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,449.892480414359
+Guatemala,GTM,1987,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,442.70508020041
+Guatemala,GTM,1986,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,428.92983246992
+Guatemala,GTM,1985,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,457.51851321471
+Guatemala,GTM,1984,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,460.094043228454
+Guatemala,GTM,1983,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,446.289582173724
+Guatemala,GTM,1982,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,473.464232139258
+Guatemala,GTM,1981,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,494.019678328017
+Guatemala,GTM,1980,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,520.68076445546
+Guatemala,GTM,1979,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,577.778528301913
+Guatemala,GTM,1978,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,558.190145640855
+Guatemala,GTM,1977,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,558.58533185052
+Guatemala,GTM,1976,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,540.040526038404
+Guatemala,GTM,1975,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,517.921957533797
+Guatemala,GTM,1974,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,482.846622118405
+Guatemala,GTM,1973,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,482.531660914108
+Guatemala,GTM,1972,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,474.611663892707
+Guatemala,GTM,1971,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,473.059503709035
+Guatemala,GTM,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.28957528957529
+Guatemala,GTM,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.330760749724366
+Guatemala,GTM,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.307062436028659
+Guatemala,GTM,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.268096514745308
+Guatemala,GTM,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.324044069993519
+Guatemala,GTM,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.304692260816575
+Guatemala,GTM,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.290275761973875
+Guatemala,GTM,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.360490266762797
+Guatemala,GTM,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.431778929188256
+Guatemala,GTM,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.622222222222222
+Guatemala,GTM,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.918273645546373
+Guatemala,GTM,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.594648166501487
+Guatemala,GTM,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.964630225080386
+Guatemala,GTM,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.96078431372549
+Guatemala,GTM,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,1.61779575328615
+Guatemala,GTM,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.739371534195933
+Guatemala,GTM,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1961,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,1960,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Guatemala,GTM,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,14668
+Guatemala,GTM,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,10832.318
+Guatemala,GTM,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9215.171
+Guatemala,GTM,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9105.161
+Guatemala,GTM,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,8965.815
+Guatemala,GTM,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,10322.605
+Guatemala,GTM,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,8984.15
+Guatemala,GTM,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,10190.593
+Guatemala,GTM,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9761.554
+Guatemala,GTM,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9809.225
+Guatemala,GTM,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9391.187
+Guatemala,GTM,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,8852.138
+Guatemala,GTM,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9064.824
+Guatemala,GTM,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9101.494
+Guatemala,GTM,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,8368.094
+Guatemala,GTM,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,8089.402
+Guatemala,GTM,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,8005.061
+Guatemala,GTM,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6937.964
+Guatemala,GTM,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6087.22
+Guatemala,GTM,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6571.264
+Guatemala,GTM,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6219.232
+Guatemala,GTM,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5082.462
+Guatemala,GTM,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5302.482
+Guatemala,GTM,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4316.059
+Guatemala,GTM,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4235.385
+Guatemala,GTM,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3788.011
+Guatemala,GTM,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3703.67
+Guatemala,GTM,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3296.633
+Guatemala,GTM,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3351.638
+Guatemala,GTM,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3259.963
+Guatemala,GTM,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3179.289
+Guatemala,GTM,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2896.93
+Guatemala,GTM,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3311.301
+Guatemala,GTM,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3681.668
+Guatemala,GTM,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4228.051
+Guatemala,GTM,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4407.734
+Guatemala,GTM,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3872.352
+Guatemala,GTM,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3567.991
+Guatemala,GTM,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3087.614
+Guatemala,GTM,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3329.636
+Guatemala,GTM,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2915.265
+Guatemala,GTM,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2783.253
+Guatemala,GTM,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2577.901
+Guatemala,GTM,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2328.545
+Guatemala,GTM,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2189.199
+Guatemala,GTM,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2170.864
+Guatemala,GTM,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2053.52
+Guatemala,GTM,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1873.837
+Guatemala,GTM,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1642.816
+Guatemala,GTM,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1859.169
+Guatemala,GTM,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1679.486
+Guatemala,GTM,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1444.798
+Guatemala,GTM,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1323.787
+Guatemala,GTM,1961,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1345.789
+Guatemala,GTM,1960,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1290.784
+Guatemala,GTM,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1235.02322670123
+Guatemala,GTM,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1145.03057759714
+Guatemala,GTM,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1096.95099760699
+Guatemala,GTM,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1060.78479755709
+Guatemala,GTM,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,985.328300220817
+Guatemala,GTM,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,990.71462899512
+Guatemala,GTM,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,995.007096542284
+Guatemala,GTM,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,987.993615063267
+Guatemala,GTM,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,987.18703680163
+Guatemala,GTM,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,993.616597506953
+Guatemala,GTM,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,881.253332841047
+Guatemala,GTM,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,855.581839492047
+Guatemala,GTM,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,826.812296505921
+Guatemala,GTM,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,803.129435684946
+Guatemala,GTM,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,778.749262337725
+Guatemala,GTM,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,787.88129043829
+Guatemala,GTM,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,797.919917159129
+Guatemala,GTM,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,774.944811057487
+Guatemala,GTM,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,770.690215320665
+Guatemala,GTM,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,749.615195442835
+Guatemala,GTM,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,731.547080195155
+Guatemala,GTM,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,696.249776488764
+Guatemala,GTM,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,699.654897894119
+Guatemala,GTM,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,679.555761557177
+Guatemala,GTM,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,668.462664122841
+Guatemala,GTM,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,659.961146815967
+Guatemala,GTM,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,646.515132291306
+Guatemala,GTM,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,627.492408790665
+Guatemala,GTM,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,615.629408172712
+Guatemala,GTM,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,767.490510140778
+Guatemala,GTM,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,745.086124380672
+Guatemala,GTM,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,723.54948044713
+Guatemala,GTM,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,707.358881740583
+Guatemala,GTM,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,687.089137118542
+Guatemala,GTM,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,560.976548452612
+Guatemala,GTM,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,550.875963845747
+Guatemala,GTM,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,540.12721216989
+Guatemala,GTM,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,530.05766552355
+Guatemala,GTM,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,531.247298940616
+Guatemala,GTM,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Guatemala,GTM,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,19.4068868277837
+Guatemala,GTM,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,18.1160245421616
+Guatemala,GTM,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,17.7588668398974
+Guatemala,GTM,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,12.6231007667869
+Guatemala,GTM,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,15.7418038125739
+Guatemala,GTM,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.90775062254654
+Guatemala,GTM,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,13.7639328953199
+Guatemala,GTM,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,16.0446397088442
+Guatemala,GTM,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.09260930941222
+Guatemala,GTM,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,16.4617257602313
+Guatemala,GTM,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.24786382227269
+Guatemala,GTM,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,15.8096197460364
+Guatemala,GTM,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,15.106312592717
+Guatemala,GTM,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,14.9857991048211
+Guatemala,GTM,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,14.6499025032822
+Guatemala,GTM,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,14.3881081249962
+Guatemala,GTM,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,15.4752306905619
+Guatemala,GTM,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,15.2251181466369
+Guatemala,GTM,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,16.061500370348
+Guatemala,GTM,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,15.8221437017248
+Guatemala,GTM,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,15.1787739119326
+Guatemala,GTM,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,14.8574490309582
+Guatemala,GTM,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,15.2413326165092
+Guatemala,GTM,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,14.9777228578804
+Guatemala,GTM,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,14.9059028023512
+Guatemala,GTM,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,14.6648581939379
+Guatemala,GTM,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,14.5372829811257
+Guatemala,GTM,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,14.8369665730488
+Guatemala,GTM,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,14.711364396488
+Guatemala,GTM,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,19.1431378208424
+Guatemala,GTM,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,20.0051584354464
+Guatemala,GTM,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,19.9833041161722
+Guatemala,GTM,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,20.9486022122756
+Guatemala,GTM,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,18.6745541823004
+Guatemala,GTM,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,15.7020611832911
+Guatemala,GTM,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,15.1040788507827
+Guatemala,GTM,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,14.7508838114377
+Guatemala,GTM,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,15.2928894508878
+Guatemala,GTM,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,16.5147755204121
+Guatemala,GTM,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,288.179888919
+Guatemala,GTM,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,278.897655205
+Guatemala,GTM,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,314.066373912
+Guatemala,GTM,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,303.355521938
+Guatemala,GTM,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,281.141743686
+Guatemala,GTM,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,277.37406395
+Guatemala,GTM,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,277.4981151
+Guatemala,GTM,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,271.479185635
+Guatemala,GTM,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,267.16011451
+Guatemala,GTM,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,260.07718522
+Guatemala,GTM,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,229.39386696
+Guatemala,GTM,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,217.438183543
+Guatemala,GTM,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,207.316005728
+Guatemala,GTM,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,205.236662035
+Guatemala,GTM,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,191.57153483
+Guatemala,GTM,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,191.56351389
+Guatemala,GTM,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,192.048175671
+Guatemala,GTM,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,185.277680656
+Guatemala,GTM,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,179.998486366
+Guatemala,GTM,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,172.279983513
+Guatemala,GTM,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,165.589264952
+Guatemala,GTM,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,153.683023807
+Guatemala,GTM,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,153.695305635
+Guatemala,GTM,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,152.553027028
+Guatemala,GTM,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,149.483654315
+Guatemala,GTM,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,145.17428061
+Guatemala,GTM,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,149.040041959
+Guatemala,GTM,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,146.644137519
+Guatemala,GTM,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,143.751935262
+Guatemala,GTM,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,160.3927259031
+Guatemala,GTM,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,156.62785688874
+Guatemala,GTM,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,151.54604290675
+Guatemala,GTM,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,146.7913839633
+Guatemala,GTM,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,141.39814178
+Guatemala,GTM,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,118.42931798
+Guatemala,GTM,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,117.25096148
+Guatemala,GTM,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,111.49304287
+Guatemala,GTM,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,106.50727505
+Guatemala,GTM,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,106.53139925
+Guatemala,GTM,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Guatemala,GTM,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.29176506730045
+Guatemala,GTM,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.14324164529524
+Guatemala,GTM,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.19614538747179
+Guatemala,GTM,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.60285247945951
+Guatemala,GTM,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.42959891371132
+Guatemala,GTM,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,2.80608866845218
+Guatemala,GTM,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.39122668856205
+Guatemala,GTM,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.2057738104054
+Guatemala,GTM,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.84657326239645
+Guatemala,GTM,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.11138608506959
+Guatemala,GTM,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.36391323805346
+Guatemala,GTM,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.1566379274106
+Guatemala,GTM,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.78260344930755
+Guatemala,GTM,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.82742906804909
+Guatemala,GTM,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.47026783695042
+Guatemala,GTM,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.42291597416893
+Guatemala,GTM,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.98110505966802
+Guatemala,GTM,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.6252886319094
+Guatemala,GTM,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.21500207016184
+Guatemala,GTM,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.99078928579066
+Guatemala,GTM,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.80799789958004
+Guatemala,GTM,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.41600261039499
+Guatemala,GTM,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.41873335249407
+Guatemala,GTM,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.83637970923892
+Guatemala,GTM,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.93401594000748
+Guatemala,GTM,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.07856076580192
+Guatemala,GTM,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.53891431497543
+Guatemala,GTM,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.43066203329181
+Guatemala,GTM,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.01510412162929
+Guatemala,GTM,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.82402739504998
+Guatemala,GTM,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.53588783596942
+Guatemala,GTM,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.48151141215619
+Guatemala,GTM,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.0783366647239
+Guatemala,GTM,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.38305825572826
+Guatemala,GTM,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.1365468555897
+Guatemala,GTM,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.10734823344596
+Guatemala,GTM,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.00196003496551
+Guatemala,GTM,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.29470506679576
+Guatemala,GTM,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.38715420712426
+Guatemala,GTM,2016,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.65
+Guatemala,GTM,2014,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.9
+Guatemala,GTM,2012,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.04
+Guatemala,GTM,2010,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.85
+Guatemala,GTM,2008,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.82
+Guatemala,GTM,2006,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.64
+Guatemala,GTM,2004,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.63
+Guatemala,GTM,2002,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.32
+Guatemala,GTM,2000,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.42
+Guatemala,GTM,1998,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.32
+Guatemala,GTM,1995,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.28
+Guatemala,GTM,1992,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.25
+Guatemala,GTM,2016,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.79
+Guatemala,GTM,2014,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.01
+Guatemala,GTM,2012,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.14
+Guatemala,GTM,2010,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.95
+Guatemala,GTM,2008,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.86
+Guatemala,GTM,2006,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.78
+Guatemala,GTM,2004,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.68
+Guatemala,GTM,2002,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.48
+Guatemala,GTM,2000,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.53
+Guatemala,GTM,1998,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.41
+Guatemala,GTM,1995,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.39
+Guatemala,GTM,1992,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.32
+Guatemala,GTM,2017,Time to obtain an electrical connection (days),IC.ELC.DURS,27.5
+Guatemala,GTM,2010,Time to obtain an electrical connection (days),IC.ELC.DURS,17.8
+Guatemala,GTM,2006,Time to obtain an electrical connection (days),IC.ELC.DURS,35.3
+Guatemala,GTM,2019,Time required to get electricity (days),IC.ELC.TIME,44
+Guatemala,GTM,2018,Time required to get electricity (days),IC.ELC.TIME,44
+Guatemala,GTM,2017,Time required to get electricity (days),IC.ELC.TIME,44
+Guatemala,GTM,2016,Time required to get electricity (days),IC.ELC.TIME,44
+Guatemala,GTM,2015,Time required to get electricity (days),IC.ELC.TIME,44
+Guatemala,GTM,2014,Time required to get electricity (days),IC.ELC.TIME,44
+Guatemala,GTM,2013,Time required to get electricity (days),IC.ELC.TIME,44
+Guatemala,GTM,2012,Time required to get electricity (days),IC.ELC.TIME,44
+Guatemala,GTM,2011,Time required to get electricity (days),IC.ELC.TIME,44
+Guatemala,GTM,2010,Time required to get electricity (days),IC.ELC.TIME,44
+Guatemala,GTM,2009,Time required to get electricity (days),IC.ELC.TIME,44
+Guatemala,GTM,2017,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,37.6
+Guatemala,GTM,2010,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,26.6
+Guatemala,GTM,2006,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,12.8
+Guatemala,GTM,2017,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,1.4
+Guatemala,GTM,2010,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,2.8
+Guatemala,GTM,2006,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,4.5
+Guatemala,GTM,2015,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,127500000
+Guatemala,GTM,2014,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,302500000
+Guatemala,GTM,2013,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,523000000
+Guatemala,GTM,2012,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,450000000
+Guatemala,GTM,2011,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,24000000
+Guatemala,GTM,2010,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,758000000
+Guatemala,GTM,2007,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,226800000
+Guatemala,GTM,2006,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,43500000
+Guatemala,GTM,2005,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,41600000
+Guatemala,GTM,2002,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,60000000
+Guatemala,GTM,2000,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,50000000
+Guatemala,GTM,1999,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,137700000
+Guatemala,GTM,1998,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,540400000
+Guatemala,GTM,1997,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,168300000
+Guatemala,GTM,1996,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,342000000
+Guatemala,GTM,1995,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,34800000
+Guatemala,GTM,1994,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,100000000
+Guatemala,GTM,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,312758378.010657
+Guatemala,GTM,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,249921637.203621
+Guatemala,GTM,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,329403706.753062
+Guatemala,GTM,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,423641453.371823
+Guatemala,GTM,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,229473975.259309
+Guatemala,GTM,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,254075007.022966
+Guatemala,GTM,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,413998147.139945
+Guatemala,GTM,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,190674534.215072
+Guatemala,GTM,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,128277437.324751
+Guatemala,GTM,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,94569266.1519071
+Guatemala,GTM,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,34752313.4305588
+Guatemala,GTM,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,11225406.4863892
+Guatemala,GTM,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,127078.664482108
+Guatemala,GTM,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2265.29717550603
+Guatemala,GTM,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,9007378.05240429
+Guatemala,GTM,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,6743834.48905309
+Guatemala,GTM,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,584604.647814176
+Guatemala,GTM,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,373163.930767136
+Guatemala,GTM,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Guatemala,GTM,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,26590.1778774282
+Guatemala,GTM,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,84532.8409687388
+Guatemala,GTM,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Guatemala,GTM,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Guatemala,GTM,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Guatemala,GTM,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Guatemala,GTM,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Guatemala,GTM,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Guatemala,GTM,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Guatemala,GTM,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Guatemala,GTM,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Guatemala,GTM,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Guatemala,GTM,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Guatemala,GTM,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Guatemala,GTM,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Guatemala,GTM,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Guatemala,GTM,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,46822.9625498744
+Guatemala,GTM,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,859386.775259298
+Guatemala,GTM,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,13478368.1567306
+Guatemala,GTM,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,12508275.4675562
+Guatemala,GTM,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3122279.32436562
+Guatemala,GTM,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1591671.61286619
+Guatemala,GTM,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1741485.38792716
+Guatemala,GTM,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1344057.34736914
+Guatemala,GTM,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1446849.10454044
+Guatemala,GTM,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,12064.2264432527
+Guatemala,GTM,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,7413.71574303247
+Guatemala,GTM,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,31425.9815789814
+Guatemala,GTM,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,39141.4592151397
+Guatemala,GTM,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.421167652397828
+Guatemala,GTM,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.372131912323228
+Guatemala,GTM,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.528129978172169
+Guatemala,GTM,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.739120547443516
+Guatemala,GTM,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.434703468163493
+Guatemala,GTM,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.51562814449191
+Guatemala,GTM,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.896758018603981
+Guatemala,GTM,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.473820888033825
+Guatemala,GTM,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.348831817253435
+Guatemala,GTM,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.246930170030429
+Guatemala,GTM,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.104454126945776
+Guatemala,GTM,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0379867501312408
+Guatemala,GTM,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000475476764988782
+Guatemala,GTM,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,9.61698257107143e-06
+Guatemala,GTM,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0416730326059691
+Guatemala,GTM,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0328947173033941
+Guatemala,GTM,2001,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00313723310934866
+Guatemala,GTM,2000,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0019575071126932
+Guatemala,GTM,1999,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Guatemala,GTM,1998,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000138185977198666
+Guatemala,GTM,1997,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000481647787641347
+Guatemala,GTM,1996,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Guatemala,GTM,1995,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Guatemala,GTM,1994,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Guatemala,GTM,1993,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Guatemala,GTM,1992,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Guatemala,GTM,1991,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Guatemala,GTM,1990,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Guatemala,GTM,1989,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Guatemala,GTM,1988,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Guatemala,GTM,1987,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Guatemala,GTM,1986,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Guatemala,GTM,1985,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Guatemala,GTM,1984,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Guatemala,GTM,1983,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Guatemala,GTM,1982,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000544256854637987
+Guatemala,GTM,1981,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0100849234886986
+Guatemala,GTM,1980,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.172056225038526
+Guatemala,GTM,1979,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.181142838533473
+Guatemala,GTM,1978,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0515823429902682
+Guatemala,GTM,1977,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.029186240800448
+Guatemala,GTM,1976,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0403000344323968
+Guatemala,GTM,1975,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0375445511023687
+Guatemala,GTM,1974,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0464701831061706
+Guatemala,GTM,1973,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000478113025210625
+Guatemala,GTM,1972,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000360641909959258
+Guatemala,GTM,1971,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0016174780780782
+Guatemala,GTM,1970,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00209783799512154
+Guatemala,GTM,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,62424195.7926002
+Guatemala,GTM,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,34277875.6705359
+Guatemala,GTM,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,54091756.6462707
+Guatemala,GTM,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,144749830.09912
+Guatemala,GTM,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,158467244.738743
+Guatemala,GTM,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,176737149.553387
+Guatemala,GTM,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,189628283.317718
+Guatemala,GTM,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,138790777.197247
+Guatemala,GTM,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,113538652.373171
+Guatemala,GTM,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,241502854.244052
+Guatemala,GTM,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,195461558.286943
+Guatemala,GTM,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,73598705.0071249
+Guatemala,GTM,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,79780127.3017819
+Guatemala,GTM,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,63260871.6702097
+Guatemala,GTM,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,67342478.5533786
+Guatemala,GTM,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,56776992.8197757
+Guatemala,GTM,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,40226668.2513498
+Guatemala,GTM,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,54052236.4445538
+Guatemala,GTM,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,29526210.7026296
+Guatemala,GTM,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,35992300.2001984
+Guatemala,GTM,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,37879073.6927595
+Guatemala,GTM,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,15768129.6205583
+Guatemala,GTM,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,6564481.70737178
+Guatemala,GTM,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,10602769.1298414
+Guatemala,GTM,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,8520834.34462194
+Guatemala,GTM,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,16719318.8458613
+Guatemala,GTM,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,10107203.7477145
+Guatemala,GTM,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,15659213.5751479
+Guatemala,GTM,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,7368334.96110515
+Guatemala,GTM,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,6880431.50280598
+Guatemala,GTM,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,11257487.600213
+Guatemala,GTM,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,8352313.59193926
+Guatemala,GTM,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1035541.97024649
+Guatemala,GTM,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,18905750.1740755
+Guatemala,GTM,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,32201257.9880598
+Guatemala,GTM,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,21023166.4691462
+Guatemala,GTM,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,32502976.2146773
+Guatemala,GTM,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,40184787.8120824
+Guatemala,GTM,1979,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,22411918.5135488
+Guatemala,GTM,1978,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,4464617.00355974
+Guatemala,GTM,1977,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,568585.944787907
+Guatemala,GTM,1976,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,187407.304584524
+Guatemala,GTM,1975,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guatemala,GTM,1974,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guatemala,GTM,1973,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guatemala,GTM,1972,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guatemala,GTM,1971,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Guatemala,GTM,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0840618632249587
+Guatemala,GTM,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0510395641064948
+Guatemala,GTM,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0867248232828929
+Guatemala,GTM,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.252542740597475
+Guatemala,GTM,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.30019204051528
+Guatemala,GTM,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.358676162424606
+Guatemala,GTM,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.410752281849678
+Guatemala,GTM,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.344891202032924
+Guatemala,GTM,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.308751837126055
+Guatemala,GTM,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.630589019962646
+Guatemala,GTM,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.58749373514715
+Guatemala,GTM,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.249057851087926
+Guatemala,GTM,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.298504843393166
+Guatemala,GTM,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.268564631105096
+Guatemala,GTM,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.31156295296972
+Guatemala,GTM,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.276943796763553
+Guatemala,GTM,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.215873130651252
+Guatemala,GTM,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.283541973308282
+Guatemala,GTM,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.162965675279078
+Guatemala,GTM,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.187047683461123
+Guatemala,GTM,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.215825847480604
+Guatemala,GTM,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.102091990172294
+Guatemala,GTM,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0452846956905122
+Guatemala,GTM,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0825713532818496
+Guatemala,GTM,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.07545474300694
+Guatemala,GTM,1992,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.161857676890659
+Guatemala,GTM,1991,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.108675997087515
+Guatemala,GTM,1990,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.208954525891565
+Guatemala,GTM,1989,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0895158262455412
+Guatemala,GTM,1988,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0897606996666301
+Guatemala,GTM,1987,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.163031024240891
+Guatemala,GTM,1986,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.119015208502721
+Guatemala,GTM,1985,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.010841595003256
+Guatemala,GTM,1984,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.204095232336447
+Guatemala,GTM,1983,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.360309909334461
+Guatemala,GTM,1982,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.244367332477962
+Guatemala,GTM,1981,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.381423170237997
+Guatemala,GTM,1980,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.512973292799431
+Guatemala,GTM,1979,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.32456580821675
+Guatemala,GTM,1978,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0737587453501115
+Guatemala,GTM,1977,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0104260741764735
+Guatemala,GTM,1976,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00433682698689108
+Guatemala,GTM,1975,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guatemala,GTM,1974,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guatemala,GTM,1973,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guatemala,GTM,1972,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guatemala,GTM,1971,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Guatemala,GTM,2017,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.71136339668249
+Guatemala,GTM,2016,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.74642611626596
+Guatemala,GTM,2015,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.71600469045614
+Guatemala,GTM,2014,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.53366244154423
+Guatemala,GTM,2013,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.95251404808012
+Guatemala,GTM,2012,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.909665302039
+Guatemala,GTM,2011,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.45452954158422
+Guatemala,GTM,2010,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.30977163986365
+Guatemala,GTM,2009,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.4013224269734
+Guatemala,GTM,2008,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.58667869188884
+Guatemala,GTM,2007,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.4431200331277
+Guatemala,GTM,2006,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.08635536667542
+Guatemala,GTM,2005,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.902961268488678
+Guatemala,GTM,2004,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.960845227688113
+Guatemala,GTM,2003,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.06150943784955
+Guatemala,GTM,2002,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.01881868043864
+Guatemala,GTM,2001,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.0287071888629
+Guatemala,GTM,2000,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.05656041826894
+Guatemala,GTM,1999,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.986508687649322
+Guatemala,GTM,1998,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.03011019470936
+Guatemala,GTM,1997,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.25509220404433
+Guatemala,GTM,1996,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.972653809539971
+Guatemala,GTM,1995,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.33669142428409
+Guatemala,GTM,1994,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.18878834551097
+Guatemala,GTM,1993,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.14723687740067
+Guatemala,GTM,1992,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.41954334552592
+Guatemala,GTM,1991,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.54302568934141
+Guatemala,GTM,1990,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.65132184573311
+Guatemala,GTM,1989,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.485763411808475
+Guatemala,GTM,1988,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.494443200681756
+Guatemala,GTM,1987,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.586523484024877
+Guatemala,GTM,1986,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.513693593644774
+Guatemala,GTM,1985,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.299445304968158
+Guatemala,GTM,1984,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.659828650894729
+Guatemala,GTM,1983,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.11446768406073
+Guatemala,GTM,1982,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.44958265898647
+Guatemala,GTM,1981,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.40423557965044
+Guatemala,GTM,1980,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.84319002684821
+Guatemala,GTM,1979,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.60484111854153
+Guatemala,GTM,1978,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.32660409440928
+Guatemala,GTM,1977,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.31380512655636
+Guatemala,GTM,1976,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.939528762602909
+Guatemala,GTM,1975,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.45146386586208
+Guatemala,GTM,1974,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.1871621605943
+Guatemala,GTM,1973,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.32074943103901
+Guatemala,GTM,1972,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.988414326479966
+Guatemala,GTM,1971,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.919551885191943
+Guatemala,GTM,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.68002310747904
+Guatemala,GTM,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.580591075410709
+Guatemala,GTM,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.834174106000448
+Guatemala,GTM,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.23477202215498
+Guatemala,GTM,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.618887784832175
+Guatemala,GTM,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.66860876024711
+Guatemala,GTM,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.13401491797862
+Guatemala,GTM,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.629779585150191
+Guatemala,GTM,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.48498033290259
+Guatemala,GTM,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.360591866816243
+Guatemala,GTM,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.399143671815299
+Guatemala,GTM,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.204081776505448
+Guatemala,GTM,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0138395966770993
+Guatemala,GTM,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.000108084677241284
+Guatemala,GTM,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0590491714073031
+Guatemala,GTM,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0338724753808356
+Guatemala,GTM,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0047580430846399
+Guatemala,GTM,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00273016686431306
+Guatemala,GTM,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Guatemala,GTM,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.000230058406238178
+Guatemala,GTM,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.000611479638892066
+Guatemala,GTM,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Guatemala,GTM,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Guatemala,GTM,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Guatemala,GTM,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Guatemala,GTM,1992,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Guatemala,GTM,1991,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Guatemala,GTM,1990,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Guatemala,GTM,1989,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Guatemala,GTM,1988,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Guatemala,GTM,1987,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Guatemala,GTM,1986,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Guatemala,GTM,1985,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Guatemala,GTM,1984,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Guatemala,GTM,1983,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Guatemala,GTM,1982,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.000890786063826853
+Guatemala,GTM,1981,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0170583844412346
+Guatemala,GTM,1980,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.311537178218788
+Guatemala,GTM,1979,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.32737705904753
+Guatemala,GTM,1978,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0923831641243743
+Guatemala,GTM,1977,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0515651845419045
+Guatemala,GTM,1976,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0703320359148765
+Guatemala,GTM,1975,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0649473212956697
+Guatemala,GTM,1974,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0806100826828235
+Guatemala,GTM,1973,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00108078922900135
+Guatemala,GTM,1972,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.000811816288786067
+Guatemala,GTM,1971,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00262952092318494
+Guatemala,GTM,1970,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00368837673712131
+Guatemala,GTM,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2001,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2000,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1999,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1998,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1997,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1996,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1995,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1994,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1993,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1992,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1991,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1990,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1989,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1988,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1987,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1986,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1985,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1984,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1983,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1982,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1981,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1980,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1979,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1978,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1977,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1976,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1975,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1974,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1973,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1972,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,1971,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Guatemala,GTM,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.124129202357205
+Guatemala,GTM,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0770887502261232
+Guatemala,GTM,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.125576617169278
+Guatemala,GTM,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.360177739254543
+Guatemala,GTM,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.432459931122968
+Guatemala,GTM,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.507907688158238
+Guatemala,GTM,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.570723489391155
+Guatemala,GTM,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.467337511483534
+Guatemala,GTM,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.403150088386008
+Guatemala,GTM,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.815585896475345
+Guatemala,GTM,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.741661303582745
+Guatemala,GTM,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.861795420267747
+Guatemala,GTM,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.924729394958259
+Guatemala,GTM,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.768699200072006
+Guatemala,GTM,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.766540478984325
+Guatemala,GTM,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.68304445146165
+Guatemala,GTM,2001,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.60703061265125
+Guatemala,GTM,2000,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.799548607506161
+Guatemala,GTM,1999,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.457039386643119
+Guatemala,GTM,1998,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.276492435142848
+Guatemala,GTM,1997,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.384695152693588
+Guatemala,GTM,1996,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.418316046950914
+Guatemala,GTM,1995,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.249345860385245
+Guatemala,GTM,1994,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.224152151358889
+Guatemala,GTM,1993,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.236037050101197
+Guatemala,GTM,1992,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.21485612284437
+Guatemala,GTM,1991,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.162635632771571
+Guatemala,GTM,1990,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.335563377081163
+Guatemala,GTM,1989,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.216082215707303
+Guatemala,GTM,1988,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.148554993197865
+Guatemala,GTM,1987,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.215665812467601
+Guatemala,GTM,1986,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.184871796966645
+Guatemala,GTM,1985,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.186476246077227
+Guatemala,GTM,1984,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.318558310343592
+Guatemala,GTM,1983,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.499867483525957
+Guatemala,GTM,1982,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.362276968371248
+Guatemala,GTM,1981,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.455510587845629
+Guatemala,GTM,1980,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.590857505899128
+Guatemala,GTM,1979,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.395813637302019
+Guatemala,GTM,1978,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.102939984805439
+Guatemala,GTM,1977,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0289879930655519
+Guatemala,GTM,1976,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0.0216463818108768
+Guatemala,GTM,1975,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guatemala,GTM,1974,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guatemala,GTM,1973,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guatemala,GTM,1972,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guatemala,GTM,1971,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Guatemala,GTM,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.0292284131582
+Guatemala,GTM,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.99673701479958
+Guatemala,GTM,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.07502592563963
+Guatemala,GTM,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.15497524263719
+Guatemala,GTM,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.28951023940056
+Guatemala,GTM,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.22828699579388
+Guatemala,GTM,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.85952300744397
+Guatemala,GTM,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.60767267124561
+Guatemala,GTM,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.64335364216366
+Guatemala,GTM,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.90090586928207
+Guatemala,GTM,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.90710181769344
+Guatemala,GTM,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.88443447309192
+Guatemala,GTM,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.56118294757589
+Guatemala,GTM,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.48393805278621
+Guatemala,GTM,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.56085545298099
+Guatemala,GTM,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.45412628002405
+Guatemala,GTM,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.46344908600058
+Guatemala,GTM,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.60796899759536
+Guatemala,GTM,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.31943383438046
+Guatemala,GTM,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.16469432277925
+Guatemala,GTM,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.47518240323998
+Guatemala,GTM,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.33189044278188
+Guatemala,GTM,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.60974778354779
+Guatemala,GTM,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.39076765793726
+Guatemala,GTM,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.3706295111111
+Guatemala,GTM,1992,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.55143848654975
+Guatemala,GTM,1991,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.68958636918257
+Guatemala,GTM,1990,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.86241730281979
+Guatemala,GTM,1989,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.636165177415305
+Guatemala,GTM,1988,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.578171724866439
+Guatemala,GTM,1987,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.665146781575416
+Guatemala,GTM,1986,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.603045480367097
+Guatemala,GTM,1985,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.496673216094406
+Guatemala,GTM,1984,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.807714502346188
+Guatemala,GTM,1983,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.31930769237783
+Guatemala,GTM,1982,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.76302156625305
+Guatemala,GTM,1981,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.58149342697314
+Guatemala,GTM,1980,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.1804378145318
+Guatemala,GTM,1979,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.94607390852908
+Guatemala,GTM,1978,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.52765190639549
+Guatemala,GTM,1977,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.49495093779375
+Guatemala,GTM,1976,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.08521993078299
+Guatemala,GTM,1975,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.62233697432701
+Guatemala,GTM,1974,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.34731986020788
+Guatemala,GTM,1973,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.46634858539892
+Guatemala,GTM,1972,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.096210865492
+Guatemala,GTM,1971,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.02507633966486
+Guatemala,GTM,1970,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.17777370397931
+Guatemala,GTM,2017,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.3638483877909
+Guatemala,GTM,2016,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.6677488258668
+Guatemala,GTM,2015,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.3028382876326
+Guatemala,GTM,2014,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.5666277070192
+Guatemala,GTM,2013,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.1196619255933
+Guatemala,GTM,2012,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.7056255721219
+Guatemala,GTM,2011,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.9942326300568
+Guatemala,GTM,2010,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,18.1475431700954
+Guatemala,GTM,2009,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.3624681575184
+Guatemala,GTM,2008,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.6089957957221
+Guatemala,GTM,2007,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,18.0931761209501
+Guatemala,GTM,2006,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.5268663493266
+Guatemala,GTM,2005,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.5462048797345
+Guatemala,GTM,2004,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.399680908968
+Guatemala,GTM,2003,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.7285624094379
+Guatemala,GTM,2002,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.1574755872695
+Guatemala,GTM,2001,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.6527988783459
+Guatemala,GTM,2000,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.3974500823149
+Guatemala,GTM,1999,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.84948710294874
+Guatemala,GTM,1998,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.29173158640032
+Guatemala,GTM,1997,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.7088808229604
+Guatemala,GTM,1996,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.8281760699649
+Guatemala,GTM,1995,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.4623820717215
+Guatemala,GTM,1994,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.5259871347381
+Guatemala,GTM,1993,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.0879176376045
+Guatemala,GTM,1992,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.8275059333404
+Guatemala,GTM,1991,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.721485099587
+Guatemala,GTM,1990,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.8478660847107
+Guatemala,GTM,1989,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,4.88200656095334
+Guatemala,GTM,1988,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.21783688311492
+Guatemala,GTM,1987,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.7844902623885
+Guatemala,GTM,1986,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.795312271017
+Guatemala,GTM,1985,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,35.7535058698668
+Guatemala,GTM,1984,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,32.9934051963391
+Guatemala,GTM,1983,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.9134249001775
+Guatemala,GTM,1982,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.252139933212
+Guatemala,GTM,1981,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,37.8290689743108
+Guatemala,GTM,1980,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,24.2067119435397
+Guatemala,GTM,1979,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.7150052920099
+Guatemala,GTM,1978,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.7476994846114
+Guatemala,GTM,1977,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.1025032951536
+Guatemala,GTM,1976,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.6405890684065
+Guatemala,GTM,1975,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.1008648091046
+Guatemala,GTM,1974,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.4180204932206
+Guatemala,GTM,1973,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.36510287168689
+Guatemala,GTM,1972,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.64170966483641
+Guatemala,GTM,1971,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.04293710797204
+Guatemala,GTM,1970,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.17414543143808
+Guatemala,GTM,1969,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.13359444455104
+Guatemala,GTM,1968,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.39980945260083
+Guatemala,GTM,1967,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.80997280326167
+Guatemala,GTM,1966,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.31257186362581
+Guatemala,GTM,1965,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,6.93138756250999
+Guatemala,GTM,2017,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.15535229487704
+Guatemala,GTM,2016,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.978109785540582
+Guatemala,GTM,2015,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.918257905332952
+Guatemala,GTM,2014,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.01122342780264
+Guatemala,GTM,2013,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.0074801996776
+Guatemala,GTM,2012,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.11770850934439
+Guatemala,GTM,2011,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.32126312078
+Guatemala,GTM,2010,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.19631403227587
+Guatemala,GTM,2009,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.16392016053399
+Guatemala,GTM,2008,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.27640852650297
+Guatemala,GTM,2007,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.33604302645061
+Guatemala,GTM,2006,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.22063795042128
+Guatemala,GTM,2005,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.999489672252926
+Guatemala,GTM,2004,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.31852878151414
+Guatemala,GTM,2003,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.10265158578692
+Guatemala,GTM,2002,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.18834501217789
+Guatemala,GTM,2001,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.46552030140613
+Guatemala,GTM,2000,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.25488575919306
+Guatemala,GTM,1999,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.1702713602291
+Guatemala,GTM,1998,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.30844353811319
+Guatemala,GTM,1997,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.30070260139596
+Guatemala,GTM,1996,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.05820888844051
+Guatemala,GTM,1995,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.19110851925749
+Guatemala,GTM,1994,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.16108326445408
+Guatemala,GTM,1993,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.1674905078055
+Guatemala,GTM,1992,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.22501725010097
+Guatemala,GTM,1991,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.42188743816627
+Guatemala,GTM,1990,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.81637311354305
+Guatemala,GTM,1989,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.62570500449573
+Guatemala,GTM,1988,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.64957684898605
+Guatemala,GTM,1987,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.50585975242953
+Guatemala,GTM,1986,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.38240070588327
+Guatemala,GTM,1985,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.20963428613296
+Guatemala,GTM,1984,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.14022159006334
+Guatemala,GTM,1983,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.60215150915526
+Guatemala,GTM,1982,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.20496401073643
+Guatemala,GTM,1981,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.15926381253719
+Guatemala,GTM,1980,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.39861077969071
+Guatemala,GTM,1979,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.42445318051676
+Guatemala,GTM,1978,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.40661901404018
+Guatemala,GTM,1977,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.27160969954815
+Guatemala,GTM,1976,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.60744800698665
+Guatemala,GTM,1975,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.29534548552385
+Guatemala,GTM,1974,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.7735765062572
+Guatemala,GTM,1973,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.74255748049134
+Guatemala,GTM,1972,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.48238234514434
+Guatemala,GTM,1971,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.50208326716772
+Guatemala,GTM,1970,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.57918204173388
+Guatemala,GTM,1969,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.90006619721012
+Guatemala,GTM,1968,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.49815025803528
+Guatemala,GTM,1967,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.37865240261922
+Guatemala,GTM,1966,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.872656980974653
+Guatemala,GTM,1965,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.00554328981158
+Guatemala,GTM,2017,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,3.46763117159931
+Guatemala,GTM,2016,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,3.20233682509174
+Guatemala,GTM,2015,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,4.13752542224737
+Guatemala,GTM,2014,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,6.56154712303952
+Guatemala,GTM,2013,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,4.62736627360424
+Guatemala,GTM,2012,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,3.98942146961424
+Guatemala,GTM,2011,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,5.11805918221275
+Guatemala,GTM,2010,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,4.5439473327134
+Guatemala,GTM,2009,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,4.06650781831614
+Guatemala,GTM,2008,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,6.99637435953226
+Guatemala,GTM,2007,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,5.07329089273602
+Guatemala,GTM,2006,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,8.80596244467745
+Guatemala,GTM,2005,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,5.66926087937979
+Guatemala,GTM,2004,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,8.29666585043804
+Guatemala,GTM,2003,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,8.22717861272404
+Guatemala,GTM,2002,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,7.17921785996751
+Guatemala,GTM,2001,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,5.39295373849525
+Guatemala,GTM,2000,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,6.01568098180706
+Guatemala,GTM,1999,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,3.50682526009898
+Guatemala,GTM,1998,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.3879455076613
+Guatemala,GTM,1997,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,4.20881895072569
+Guatemala,GTM,1996,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,3.23861774425535
+Guatemala,GTM,1995,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.05059394162481
+Guatemala,GTM,1994,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.84991789809584
+Guatemala,GTM,1993,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.04906558990314
+Guatemala,GTM,1992,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.98303404643912
+Guatemala,GTM,1991,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.03472808263269
+Guatemala,GTM,1990,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.14233673058111
+Guatemala,GTM,1989,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.63174238087296
+Guatemala,GTM,1988,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.22226476183398
+Guatemala,GTM,1987,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.81796809590318
+Guatemala,GTM,1986,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.75346705481944
+Guatemala,GTM,1985,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.68672294498637
+Guatemala,GTM,1984,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.39496273567712
+Guatemala,GTM,1983,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,6.01188831594452
+Guatemala,GTM,1982,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,3.0718004444457
+Guatemala,GTM,1981,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.9573800468765
+Guatemala,GTM,1980,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.0515820750751
+Guatemala,GTM,1979,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0319510435508404
+Guatemala,GTM,1978,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0290025888143323
+Guatemala,GTM,1977,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0180486050555394
+Guatemala,GTM,1976,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.045016415997064
+Guatemala,GTM,1975,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0654188502838488
+Guatemala,GTM,1974,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0740595507618946
+Guatemala,GTM,1973,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0335372244459057
+Guatemala,GTM,1972,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0268769132831581
+Guatemala,GTM,1971,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.063436392533512
+Guatemala,GTM,1970,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0325976368698241
+Guatemala,GTM,1969,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0418196597546091
+Guatemala,GTM,1968,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0376864653463327
+Guatemala,GTM,1967,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0530066465619202
+Guatemala,GTM,1966,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0300615441070228
+Guatemala,GTM,1965,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00347482337606261
+Guatemala,GTM,2017,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.57549411783855
+Guatemala,GTM,2016,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,6.52059331134532
+Guatemala,GTM,2015,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,7.34093084141483
+Guatemala,GTM,2014,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,8.37362301229482
+Guatemala,GTM,2013,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,5.68984024520243
+Guatemala,GTM,2012,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,6.26359309865229
+Guatemala,GTM,2011,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,9.62586833217207
+Guatemala,GTM,2010,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,6.48589880236775
+Guatemala,GTM,2009,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,5.14698341774856
+Guatemala,GTM,2008,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,4.26774688410512
+Guatemala,GTM,2007,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.95092379331299
+Guatemala,GTM,2006,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.05428886068791
+Guatemala,GTM,2005,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.503644619375353
+Guatemala,GTM,2004,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.499404860618989
+Guatemala,GTM,2003,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.385187240944717
+Guatemala,GTM,2002,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.524484053924658
+Guatemala,GTM,2001,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.956468212798633
+Guatemala,GTM,2000,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.87174664172701
+Guatemala,GTM,1999,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.699719862979252
+Guatemala,GTM,1998,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.518971786084828
+Guatemala,GTM,1997,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.548134266651756
+Guatemala,GTM,1996,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.534994441325082
+Guatemala,GTM,1995,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.469865167791435
+Guatemala,GTM,1994,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.407136352545594
+Guatemala,GTM,1993,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.421649945269253
+Guatemala,GTM,1992,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.333721199501791
+Guatemala,GTM,1991,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.300977189729729
+Guatemala,GTM,1990,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.348131313776128
+Guatemala,GTM,1989,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.292545452773491
+Guatemala,GTM,1988,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.297510320779296
+Guatemala,GTM,1987,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.533524134981401
+Guatemala,GTM,1986,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.365781850263831
+Guatemala,GTM,1985,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.316740095739889
+Guatemala,GTM,1984,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.309887987771001
+Guatemala,GTM,1983,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.321803005884427
+Guatemala,GTM,1982,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.393771156699707
+Guatemala,GTM,1981,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.392573080782172
+Guatemala,GTM,1980,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,4.95794162099364
+Guatemala,GTM,1979,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.09950811178988
+Guatemala,GTM,1978,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.93275232425892
+Guatemala,GTM,1977,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.45845911554097
+Guatemala,GTM,1976,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.645186852177324
+Guatemala,GTM,1975,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.728940231339376
+Guatemala,GTM,1974,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.754457279782484
+Guatemala,GTM,1973,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.249590494189898
+Guatemala,GTM,1972,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.290566735599397
+Guatemala,GTM,1971,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.297168584763443
+Guatemala,GTM,1970,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.437595843779244
+Guatemala,GTM,1969,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.292046419837992
+Guatemala,GTM,1968,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.570609365692556
+Guatemala,GTM,1967,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.981878649199011
+Guatemala,GTM,1966,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.361705717176323
+Guatemala,GTM,1965,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.14560295763876

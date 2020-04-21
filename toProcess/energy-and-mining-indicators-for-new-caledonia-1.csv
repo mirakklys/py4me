@@ -1,0 +1,761 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+New Caledonia,NCL,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2001,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2000,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,1999,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,1998,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,1997,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,1996,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,1995,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+New Caledonia,NCL,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,1999,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,1998,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,1997,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,1996,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,1995,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+New Caledonia,NCL,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,1997,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,1996,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,1995,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+New Caledonia,NCL,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,14.0947086721567
+New Caledonia,NCL,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,11.6734851101134
+New Caledonia,NCL,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,20.5091057124726
+New Caledonia,NCL,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,20.1104938568388
+New Caledonia,NCL,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,18.8586102317756
+New Caledonia,NCL,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,15.0389342339807
+New Caledonia,NCL,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,22.5718964282059
+New Caledonia,NCL,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,26.4064660214825
+New Caledonia,NCL,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,22.1703011422638
+New Caledonia,NCL,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,16.8803418803419
+New Caledonia,NCL,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,18.9591078066914
+New Caledonia,NCL,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,20.0834326579261
+New Caledonia,NCL,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,18.6575654152446
+New Caledonia,NCL,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,18.7535734705546
+New Caledonia,NCL,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,21.631000578369
+New Caledonia,NCL,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,27.2948328267477
+New Caledonia,NCL,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,29.1358024691358
+New Caledonia,NCL,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,24.9528598365808
+New Caledonia,NCL,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,23.8845144356955
+New Caledonia,NCL,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,26.5319865319865
+New Caledonia,NCL,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,16.1837455830389
+New Caledonia,NCL,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,20.7957957957958
+New Caledonia,NCL,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,18.8976377952756
+New Caledonia,NCL,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,24.7497725204732
+New Caledonia,NCL,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,29.3162393162393
+New Caledonia,NCL,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,40.1918047079337
+New Caledonia,NCL,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.75922121144079
+New Caledonia,NCL,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.98252301877675
+New Caledonia,NCL,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.22856503350881
+New Caledonia,NCL,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.19585723370572
+New Caledonia,NCL,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.56884586754445
+New Caledonia,NCL,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.47881019811448
+New Caledonia,NCL,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.70523928054752
+New Caledonia,NCL,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.43981948896566
+New Caledonia,NCL,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.50445762021111
+New Caledonia,NCL,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.19440670478703
+New Caledonia,NCL,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.75043949442366
+New Caledonia,NCL,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.84977483330428
+New Caledonia,NCL,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.59306306543344
+New Caledonia,NCL,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.92135092342177
+New Caledonia,NCL,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.32256152590334
+New Caledonia,NCL,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.18264066945352
+New Caledonia,NCL,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,9.06135673028264
+New Caledonia,NCL,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,8.03384831291323
+New Caledonia,NCL,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.58367498405905
+New Caledonia,NCL,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.70197231876257
+New Caledonia,NCL,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.38121325459715
+New Caledonia,NCL,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.42141774929585
+New Caledonia,NCL,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.32278485385457
+New Caledonia,NCL,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.50718596794098
+New Caledonia,NCL,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.41159100530947
+New Caledonia,NCL,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,10.1579908328138
+New Caledonia,NCL,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1961,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,1960,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+New Caledonia,NCL,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2673.243
+New Caledonia,NCL,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2841.925
+New Caledonia,NCL,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2302.876
+New Caledonia,NCL,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2310.21
+New Caledonia,NCL,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2244.204
+New Caledonia,NCL,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2115.859
+New Caledonia,NCL,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2159.863
+New Caledonia,NCL,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2255.205
+New Caledonia,NCL,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1936.176
+New Caledonia,NCL,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2097.524
+New Caledonia,NCL,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1749.159
+New Caledonia,NCL,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1884.838
+New Caledonia,NCL,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1646.483
+New Caledonia,NCL,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1177.107
+New Caledonia,NCL,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1532.806
+New Caledonia,NCL,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1763.827
+New Caledonia,NCL,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1492.469
+New Caledonia,NCL,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1477.801
+New Caledonia,NCL,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1477.801
+New Caledonia,NCL,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1532.806
+New Caledonia,NCL,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1404.461
+New Caledonia,NCL,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1375.125
+New Caledonia,NCL,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1217.444
+New Caledonia,NCL,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1254.114
+New Caledonia,NCL,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1114.768
+New Caledonia,NCL,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1067.097
+New Caledonia,NCL,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1026.76
+New Caledonia,NCL,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1023.093
+New Caledonia,NCL,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,920.417
+New Caledonia,NCL,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,953.42
+New Caledonia,NCL,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,902.082
+New Caledonia,NCL,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,869.079
+New Caledonia,NCL,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1067.097
+New Caledonia,NCL,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1151.438
+New Caledonia,NCL,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1653.817
+New Caledonia,NCL,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1378.792
+New Caledonia,NCL,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1397.127
+New Caledonia,NCL,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1866.503
+New Caledonia,NCL,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2167.197
+New Caledonia,NCL,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2229.536
+New Caledonia,NCL,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2416.553
+New Caledonia,NCL,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2299.209
+New Caledonia,NCL,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1382.459
+New Caledonia,NCL,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1503.47
+New Caledonia,NCL,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1334.788
+New Caledonia,NCL,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,781.071
+New Caledonia,NCL,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,916.75
+New Caledonia,NCL,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,612.389
+New Caledonia,NCL,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,594.054
+New Caledonia,NCL,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,440.04
+New Caledonia,NCL,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,359.366
+New Caledonia,NCL,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,183.35
+New Caledonia,NCL,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,190.684
+New Caledonia,NCL,1961,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,223.687
+New Caledonia,NCL,1960,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,179.683
+New Caledonia,NCL,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,4.08185626636666
+New Caledonia,NCL,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,3.75691826751479
+New Caledonia,NCL,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,3.41300374432252
+New Caledonia,NCL,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,3.63476137483159
+New Caledonia,NCL,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,3.23530755687338
+New Caledonia,NCL,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,3.01590218166042
+New Caledonia,NCL,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,2.93574718259677
+New Caledonia,NCL,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,3.17427952009793
+New Caledonia,NCL,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,3.24802087403
+New Caledonia,NCL,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,4.36827886996203
+New Caledonia,NCL,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,4.09531625165952
+New Caledonia,NCL,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,4.34432656240175
+New Caledonia,NCL,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,5.81052189519065
+New Caledonia,NCL,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,5.86153914008809
+New Caledonia,NCL,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,5.9760679920709
+New Caledonia,NCL,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,6.1401208135864
+New Caledonia,NCL,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,6.11149885567099
+New Caledonia,NCL,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,5.78447415092227
+New Caledonia,NCL,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,5.19926515726333
+New Caledonia,NCL,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,4.36517819280646
+New Caledonia,NCL,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,3.64401172291998
+New Caledonia,NCL,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,2.52185500971838
+New Caledonia,NCL,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,2.55381057703708
+New Caledonia,NCL,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,2.6909708574581
+New Caledonia,NCL,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,2.27461958658463
+New Caledonia,NCL,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,3.01618361118089
+New Caledonia,NCL,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,3.38548033543089
+New Caledonia,NCL,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,4.48873604780477
+New Caledonia,NCL,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,4.7260859873098
+New Caledonia,NCL,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,2.75723745239955
+New Caledonia,NCL,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,4.07773495590444
+New Caledonia,NCL,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,2.75079152195867
+New Caledonia,NCL,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,4.8829463635677
+New Caledonia,NCL,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,5.29432366585226
+New Caledonia,NCL,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,5.25993871932109
+New Caledonia,NCL,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,5.24289918752196
+New Caledonia,NCL,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,3.93181172173081
+New Caledonia,NCL,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,4.87163165642678
+New Caledonia,NCL,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,4.87429324119447
+New Caledonia,NCL,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+New Caledonia,NCL,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.92976407371687
+New Caledonia,NCL,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.79321849270659
+New Caledonia,NCL,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.64386249190714
+New Caledonia,NCL,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.75810613894139
+New Caledonia,NCL,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.57775241974143
+New Caledonia,NCL,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.48110604378658
+New Caledonia,NCL,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.44827124006412
+New Caledonia,NCL,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.58381375117151
+New Caledonia,NCL,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.62784400965774
+New Caledonia,NCL,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.18413943498101
+New Caledonia,NCL,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.05769970036755
+New Caledonia,NCL,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.19064134091146
+New Caledonia,NCL,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.92203341942281
+New Caledonia,NCL,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.96777775869497
+New Caledonia,NCL,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.99333219401886
+New Caledonia,NCL,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.97120830643801
+New Caledonia,NCL,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.89614298777899
+New Caledonia,NCL,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.7681545478536
+New Caledonia,NCL,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.58461595990462
+New Caledonia,NCL,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.16611578585183
+New Caledonia,NCL,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.65373801811662
+New Caledonia,NCL,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.18276451207848
+New Caledonia,NCL,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.22477870675888
+New Caledonia,NCL,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.3037586336588
+New Caledonia,NCL,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.13752592321772
+New Caledonia,NCL,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.53725350457218
+New Caledonia,NCL,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.06477052001103
+New Caledonia,NCL,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.63417293479306
+New Caledonia,NCL,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.83745053602572
+New Caledonia,NCL,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.57511422587806
+New Caledonia,NCL,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.21783573237633
+New Caledonia,NCL,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,1.58744692063818
+New Caledonia,NCL,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.76342614478163
+New Caledonia,NCL,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.96403163484974
+New Caledonia,NCL,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,3.05292104062933
+New Caledonia,NCL,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.8309543720657
+New Caledonia,NCL,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.25190964537644
+New Caledonia,NCL,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.6897259587162
+New Caledonia,NCL,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.70061901134395
+New Caledonia,NCL,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,5.897579221
+New Caledonia,NCL,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,6.16197137
+New Caledonia,NCL,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,6.325627469
+New Caledonia,NCL,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,6.671743926
+New Caledonia,NCL,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,6.807750908
+New Caledonia,NCL,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,7.2773957
+New Caledonia,NCL,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,7.218796896
+New Caledonia,NCL,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,7.111176738
+New Caledonia,NCL,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,7.256455076
+New Caledonia,NCL,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,8.688602004
+New Caledonia,NCL,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,8.575863188
+New Caledonia,NCL,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,8.175313924
+New Caledonia,NCL,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,7.065586464
+New Caledonia,NCL,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,6.481647276
+New Caledonia,NCL,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,6.284503458
+New Caledonia,NCL,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,6.48699769
+New Caledonia,NCL,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,6.79894573
+New Caledonia,NCL,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,5.89613769
+New Caledonia,NCL,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,5.59609117
+New Caledonia,NCL,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,5.29702394
+New Caledonia,NCL,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,4.914541042
+New Caledonia,NCL,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,4.567444148
+New Caledonia,NCL,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,4.56937954
+New Caledonia,NCL,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,3.96515668
+New Caledonia,NCL,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,4.274411192
+New Caledonia,NCL,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,4.768861068
+New Caledonia,NCL,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,5.346896368
+New Caledonia,NCL,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,7.373527072
+New Caledonia,NCL,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,7.65765968
+New Caledonia,NCL,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,3.853889124
+New Caledonia,NCL,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,3.813268956
+New Caledonia,NCL,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,4.492085938
+New Caledonia,NCL,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,4.432748218
+New Caledonia,NCL,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,4.65516181
+New Caledonia,NCL,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,4.61335552
+New Caledonia,NCL,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,4.451523554
+New Caledonia,NCL,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,3.376958836
+New Caledonia,NCL,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,3.121826666
+New Caledonia,NCL,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,3.12358666
+New Caledonia,NCL,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+New Caledonia,NCL,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.67194744986032
+New Caledonia,NCL,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.94439004988217
+New Caledonia,NCL,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.13957620744022
+New Caledonia,NCL,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.44284821324328
+New Caledonia,NCL,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.71104541467902
+New Caledonia,NCL,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.08154701932417
+New Caledonia,NCL,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.95372975749305
+New Caledonia,NCL,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.89793199880921
+New Caledonia,NCL,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.99495565383696
+New Caledonia,NCL,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.30400135102705
+New Caledonia,NCL,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.22263680083701
+New Caledonia,NCL,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.99196935581139
+New Caledonia,NCL,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.86132215880356
+New Caledonia,NCL,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.36432914189701
+New Caledonia,NCL,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.07380263713744
+New Caledonia,NCL,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.06281297986383
+New Caledonia,NCL,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.16584144637521
+New Caledonia,NCL,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.73820563025895
+New Caledonia,NCL,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.35938431484318
+New Caledonia,NCL,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.12683406893117
+New Caledonia,NCL,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.35584471749332
+New Caledonia,NCL,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.1507914390595
+New Caledonia,NCL,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.51284175591356
+New Caledonia,NCL,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.9301975725918
+New Caledonia,NCL,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.33733243997345
+New Caledonia,NCL,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.75774981907254
+New Caledonia,NCL,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.13432043617275
+New Caledonia,NCL,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.72406766231194
+New Caledonia,NCL,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.04836684358516
+New Caledonia,NCL,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.23834051547798
+New Caledonia,NCL,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.19511273143964
+New Caledonia,NCL,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.79368800965976
+New Caledonia,NCL,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.14015363821328
+New Caledonia,NCL,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.37760918766384
+New Caledonia,NCL,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.50516861247984
+New Caledonia,NCL,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.70441403485782
+New Caledonia,NCL,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.94985209921934
+New Caledonia,NCL,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.75038027387465
+New Caledonia,NCL,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.74539486889743
+New Caledonia,NCL,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,277973773.914855
+New Caledonia,NCL,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,562369689.002703
+New Caledonia,NCL,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,264867495.933084
+New Caledonia,NCL,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,265431036.21996
+New Caledonia,NCL,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,439146217.028173
+New Caledonia,NCL,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,453383908.033001
+New Caledonia,NCL,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,179258961.039955
+New Caledonia,NCL,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,415393661.96751
+New Caledonia,NCL,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1453588134.91003
+New Caledonia,NCL,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,575038250.774018
+New Caledonia,NCL,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,382029236.089065
+New Caledonia,NCL,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,373952281.397442
+New Caledonia,NCL,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,128195868.060503
+New Caledonia,NCL,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,87071063.6177492
+New Caledonia,NCL,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,22846267.597069
+New Caledonia,NCL,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,43482727.0769256
+New Caledonia,NCL,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,250819325.8831
+New Caledonia,NCL,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,187321150.62677
+New Caledonia,NCL,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,16729480.4170939
+New Caledonia,NCL,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,16162511.7329635
+New Caledonia,NCL,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+New Caledonia,NCL,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,42839763.5439662
+New Caledonia,NCL,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,52929730.7834498
+New Caledonia,NCL,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,38531543.7240245
+New Caledonia,NCL,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,18510760.4338419
+New Caledonia,NCL,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,24565654.7297665
+New Caledonia,NCL,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,27641087.4124275
+New Caledonia,NCL,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,42490446.2089339
+New Caledonia,NCL,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,41849827.6395473
+New Caledonia,NCL,2000,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,3.24607746649705
+New Caledonia,NCL,1999,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+New Caledonia,NCL,1998,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+New Caledonia,NCL,1997,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+New Caledonia,NCL,1996,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+New Caledonia,NCL,1995,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+New Caledonia,NCL,1994,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+New Caledonia,NCL,1993,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+New Caledonia,NCL,1992,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+New Caledonia,NCL,1991,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.860894793735279
+New Caledonia,NCL,1990,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.71915365411934
+New Caledonia,NCL,1989,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,11.4787629095321
+New Caledonia,NCL,1988,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,9.03738681030308
+New Caledonia,NCL,1987,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+New Caledonia,NCL,1986,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+New Caledonia,NCL,1985,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+New Caledonia,NCL,1984,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+New Caledonia,NCL,1983,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+New Caledonia,NCL,1982,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+New Caledonia,NCL,1981,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+New Caledonia,NCL,1980,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.41480649139213
+New Caledonia,NCL,1979,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.54336553525635
+New Caledonia,NCL,1978,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+New Caledonia,NCL,1977,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,5.11448263320006
+New Caledonia,NCL,1976,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,6.63021846098089
+New Caledonia,NCL,1975,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,4.71825683231027
+New Caledonia,NCL,1974,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,2.90410333413432
+New Caledonia,NCL,1973,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,4.52994419167631
+New Caledonia,NCL,1972,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,5.46382615033707
+New Caledonia,NCL,1971,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,10.2724659397814
+New Caledonia,NCL,1970,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,11.6633217974042
+New Caledonia,NCL,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+New Caledonia,NCL,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1992,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1991,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1990,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1989,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1988,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1987,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1986,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1985,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1984,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1983,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1982,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1981,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,1980,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+New Caledonia,NCL,2000,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.24607746649705
+New Caledonia,NCL,1999,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+New Caledonia,NCL,1998,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+New Caledonia,NCL,1997,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+New Caledonia,NCL,1996,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+New Caledonia,NCL,1995,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+New Caledonia,NCL,1994,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+New Caledonia,NCL,1993,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+New Caledonia,NCL,1992,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+New Caledonia,NCL,1991,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.860894793735279
+New Caledonia,NCL,1990,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.71915365411934
+New Caledonia,NCL,1989,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,11.4787629095321
+New Caledonia,NCL,1988,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.03738681030308
+New Caledonia,NCL,1987,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+New Caledonia,NCL,1986,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+New Caledonia,NCL,1985,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+New Caledonia,NCL,1984,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+New Caledonia,NCL,1983,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+New Caledonia,NCL,1982,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+New Caledonia,NCL,1981,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+New Caledonia,NCL,1980,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.41480649139213
+New Caledonia,NCL,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,5.84766759354606
+New Caledonia,NCL,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+New Caledonia,NCL,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+New Caledonia,NCL,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+New Caledonia,NCL,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+New Caledonia,NCL,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+New Caledonia,NCL,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+New Caledonia,NCL,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+New Caledonia,NCL,1992,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+New Caledonia,NCL,1991,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.94201378806353
+New Caledonia,NCL,1990,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.87808141528402
+New Caledonia,NCL,1989,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,25.8938908708029
+New Caledonia,NCL,1988,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,20.3866139293541
+New Caledonia,NCL,1987,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+New Caledonia,NCL,1986,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+New Caledonia,NCL,1985,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+New Caledonia,NCL,1984,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+New Caledonia,NCL,1983,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+New Caledonia,NCL,1982,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+New Caledonia,NCL,1981,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+New Caledonia,NCL,1980,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.1915325005092
+New Caledonia,NCL,1979,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.48153708362594
+New Caledonia,NCL,1978,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+New Caledonia,NCL,1977,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,11.5372933658839
+New Caledonia,NCL,1976,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,14.9565031207025
+New Caledonia,NCL,1975,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,10.6434838387338
+New Caledonia,NCL,1974,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,6.55110096830755
+New Caledonia,NCL,1973,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,10.2186865844827
+New Caledonia,NCL,1972,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,12.3253454391309
+New Caledonia,NCL,1971,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,23.1727159202718
+New Caledonia,NCL,1970,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,26.3445432701436
+New Caledonia,NCL,2000,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1999,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1998,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1997,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1996,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1995,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1994,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1993,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1992,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1991,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1990,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1989,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1988,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1987,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1986,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1985,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1984,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1983,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1982,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1981,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,1980,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+New Caledonia,NCL,2000,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1999,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1998,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1997,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1996,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1995,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1994,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1993,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1992,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1991,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1990,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1989,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1988,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1987,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1986,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1985,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1984,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1983,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1982,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1981,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,1980,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+New Caledonia,NCL,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.86430531040171
+New Caledonia,NCL,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0144830122398216
+New Caledonia,NCL,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0175502628257692
+New Caledonia,NCL,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0115239474629341
+New Caledonia,NCL,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0128855836487699
+New Caledonia,NCL,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0124983393344748
+New Caledonia,NCL,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0116644107880413
+New Caledonia,NCL,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00903870362711943
+New Caledonia,NCL,1992,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.012854661671839
+New Caledonia,NCL,1991,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.95377437532559
+New Caledonia,NCL,1990,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.89164557715977
+New Caledonia,NCL,1989,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,25.9105275685175
+New Caledonia,NCL,1988,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,20.4092321186063
+New Caledonia,NCL,1987,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0333306091965959
+New Caledonia,NCL,1986,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.035384161114988
+New Caledonia,NCL,1985,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0403477873197096
+New Caledonia,NCL,1984,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0430649150276095
+New Caledonia,NCL,1983,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0612880585324148
+New Caledonia,NCL,1982,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0593737132963519
+New Caledonia,NCL,1981,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0405117869617915
+New Caledonia,NCL,1980,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.24051439235344
+New Caledonia,NCL,1979,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.5292498970524
+New Caledonia,NCL,1978,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0373278369364924
+New Caledonia,NCL,1977,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.5819938616215
+New Caledonia,NCL,1976,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,14.9877557929934
+New Caledonia,NCL,1975,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.683189687828
+New Caledonia,NCL,1974,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.61059360441643
+New Caledonia,NCL,1973,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.2906971123848
+New Caledonia,NCL,1972,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.3713891562554
+New Caledonia,NCL,1971,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,23.2138118643923
+New Caledonia,NCL,1970,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,26.3711478863423
+New Caledonia,NCL,2015,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,22.416811146125
+New Caledonia,NCL,2014,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,26.3193114900826
+New Caledonia,NCL,2013,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,26.3458723104881
+New Caledonia,NCL,2012,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,23.0930504287677
+New Caledonia,NCL,2011,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,18.1408482717363
+New Caledonia,NCL,2010,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.9962445761602
+New Caledonia,NCL,2009,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.1444770683168
+New Caledonia,NCL,2008,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,18.6726110478705
+New Caledonia,NCL,2007,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.1634225735371
+New Caledonia,NCL,2006,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.1453926454278
+New Caledonia,NCL,2005,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.8673188110426
+New Caledonia,NCL,2004,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.9012932990302
+New Caledonia,NCL,2003,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.90317478463403
+New Caledonia,NCL,2002,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.7990306935544
+New Caledonia,NCL,2001,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.9312534217908
+New Caledonia,NCL,2000,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.7583652725993
+New Caledonia,NCL,1999,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.80381290962364
+New Caledonia,NCL,1983,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,23.1479760054766
+New Caledonia,NCL,1982,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,26.4771035186218
+New Caledonia,NCL,1981,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,28.0754371572205
+New Caledonia,NCL,1980,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,29.3381513129169
+New Caledonia,NCL,1979,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.3988103657605
+New Caledonia,NCL,1978,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,17.9273248767477
+New Caledonia,NCL,1977,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,24.0460538916563
+New Caledonia,NCL,1976,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,25.0214662283816
+New Caledonia,NCL,1975,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.5558575662616
+New Caledonia,NCL,1962,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.5139523950101
+New Caledonia,NCL,2015,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,3.39475975411612
+New Caledonia,NCL,2014,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.86945454974332
+New Caledonia,NCL,2013,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.7005525577804
+New Caledonia,NCL,2012,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.07809950562327
+New Caledonia,NCL,2011,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.36552644809093
+New Caledonia,NCL,2010,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.11696108861051
+New Caledonia,NCL,2009,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.822574939921382
+New Caledonia,NCL,2008,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.837678154052462
+New Caledonia,NCL,2007,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.793892465581364
+New Caledonia,NCL,2006,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.902780415162173
+New Caledonia,NCL,2005,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.905264516703125
+New Caledonia,NCL,2004,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.928334395311469
+New Caledonia,NCL,2003,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.760894714472888
+New Caledonia,NCL,2002,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.888864263032013
+New Caledonia,NCL,2001,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.855582937987984
+New Caledonia,NCL,2000,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.765761358335909
+New Caledonia,NCL,1999,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.779765226437237
+New Caledonia,NCL,1983,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.484293266913539
+New Caledonia,NCL,1982,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.460152193201784
+New Caledonia,NCL,1981,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.03990001139706
+New Caledonia,NCL,1980,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.499205587900984
+New Caledonia,NCL,1979,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.629652735097449
+New Caledonia,NCL,1978,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.659069992839862
+New Caledonia,NCL,1977,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.531525988882817
+New Caledonia,NCL,1976,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.623692042198527
+New Caledonia,NCL,1975,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.94163339160786
+New Caledonia,NCL,1962,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.41471564633669
+New Caledonia,NCL,2015,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0132007116990045
+New Caledonia,NCL,2014,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00243845112737633
+New Caledonia,NCL,2013,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0147760940182045
+New Caledonia,NCL,2012,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0152025031468088
+New Caledonia,NCL,2011,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0104689196699379
+New Caledonia,NCL,2010,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0762544373728435
+New Caledonia,NCL,2009,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0048779231188355
+New Caledonia,NCL,2008,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0112184094756345
+New Caledonia,NCL,2007,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00520135030690324
+New Caledonia,NCL,2006,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.443305072682475
+New Caledonia,NCL,2005,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.36679355113664
+New Caledonia,NCL,2004,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.06266692682828
+New Caledonia,NCL,2003,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.20982889309289
+New Caledonia,NCL,2002,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.21547769825094
+New Caledonia,NCL,2001,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.12021797622866
+New Caledonia,NCL,2000,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.883376955355804
+New Caledonia,NCL,1999,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.802097955123038
+New Caledonia,NCL,1983,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.140920771242349
+New Caledonia,NCL,1982,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.112912798579621
+New Caledonia,NCL,1981,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0409184504605763
+New Caledonia,NCL,1980,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0382339927756806
+New Caledonia,NCL,1979,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0299649935736421
+New Caledonia,NCL,1978,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0456305179557243
+New Caledonia,NCL,1977,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0376044594519581
+New Caledonia,NCL,1976,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.030678775009286
+New Caledonia,NCL,1975,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0733269336167828
+New Caledonia,NCL,2015,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,37.7539926675812
+New Caledonia,NCL,2014,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,32.1676733806277
+New Caledonia,NCL,2013,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,39.054891646849
+New Caledonia,NCL,2012,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,35.0627248919074
+New Caledonia,NCL,2011,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,35.0360088889054
+New Caledonia,NCL,2010,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,40.5339263927574
+New Caledonia,NCL,2009,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,16.77866938144
+New Caledonia,NCL,2008,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,45.8934536878576
+New Caledonia,NCL,2007,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,38.6382448341847
+New Caledonia,NCL,2006,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,35.3409523308276
+New Caledonia,NCL,2005,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,27.7399153876022
+New Caledonia,NCL,2004,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,30.2459246145513
+New Caledonia,NCL,2003,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,24.6814049197605
+New Caledonia,NCL,2002,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,22.612153931246
+New Caledonia,NCL,2001,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,30.2513812431498
+New Caledonia,NCL,2000,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,34.3661760797379
+New Caledonia,NCL,1999,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,32.0088969748731
+New Caledonia,NCL,1983,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,25.1729424177619
+New Caledonia,NCL,1982,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,33.8642497672263
+New Caledonia,NCL,1981,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,44.7441198329874
+New Caledonia,NCL,1980,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,44.5890627532431
+New Caledonia,NCL,1979,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,27.1537735528477
+New Caledonia,NCL,1978,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,40.7820960051192
+New Caledonia,NCL,1977,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,51.24043354129
+New Caledonia,NCL,1976,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,50.6739133125166
+New Caledonia,NCL,1975,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,42.1515602304894
+New Caledonia,NCL,1962,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,158.493076387452

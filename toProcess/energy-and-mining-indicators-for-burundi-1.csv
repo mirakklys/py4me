@@ -1,0 +1,927 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Burundi,BDI,2015,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,7.72218437489304
+Burundi,BDI,2014,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,7.8264470632034
+Burundi,BDI,2013,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,7.95848356403462
+Burundi,BDI,2012,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,7.93152395387812
+Burundi,BDI,2011,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,13.0438472062042
+Burundi,BDI,2010,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,13.3008165282255
+Burundi,BDI,2009,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,13.5113199308736
+Burundi,BDI,2008,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,13.7971792555858
+Burundi,BDI,2007,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,14.2447331397525
+Burundi,BDI,2006,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,14.6531117126736
+Burundi,BDI,2005,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,15.124670376473
+Burundi,BDI,2004,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,15.1053988937821
+Burundi,BDI,2003,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,15.4879561235003
+Burundi,BDI,2002,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,15.192997343649
+Burundi,BDI,2001,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,15.60267059212
+Burundi,BDI,2000,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,11.3449435022132
+Burundi,BDI,1999,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,10.8826258706976
+Burundi,BDI,1998,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,14.7307235867094
+Burundi,BDI,1997,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,15.0026547262952
+Burundi,BDI,1996,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,14.4029811296046
+Burundi,BDI,1995,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,12.6553084452772
+Burundi,BDI,1994,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,11.3215953978686
+Burundi,BDI,1993,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,10.4120744999685
+Burundi,BDI,1992,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.46486170133941
+Burundi,BDI,1991,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.52884660059255
+Burundi,BDI,1990,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.78518863034865
+Burundi,BDI,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,1.65840932053429
+Burundi,BDI,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,2.21311474896188
+Burundi,BDI,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,1.68373859842806
+Burundi,BDI,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.980124437760665
+Burundi,BDI,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.869650854256217
+Burundi,BDI,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0
+Burundi,BDI,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.456042511695169
+Burundi,BDI,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.0955910764335706
+Burundi,BDI,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.0958311049538817
+Burundi,BDI,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.882569807380684
+Burundi,BDI,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,61.8
+Burundi,BDI,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,59.4083137512207
+Burundi,BDI,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,57.8782920837402
+Burundi,BDI,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,52.1
+Burundi,BDI,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,55.0542335510254
+Burundi,BDI,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,58.5
+Burundi,BDI,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,52.754997253418
+Burundi,BDI,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,49
+Burundi,BDI,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,52.2748527526855
+Burundi,BDI,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,39.6
+Burundi,BDI,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,51.8458976745605
+Burundi,BDI,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,51.6509857177734
+Burundi,BDI,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,45.049504950495
+Burundi,BDI,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,51.3007698059082
+Burundi,BDI,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,51.1455421447754
+Burundi,BDI,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,51.0008316040039
+Burundi,BDI,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,50.8611946105957
+Burundi,BDI,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,50.721076965332
+Burundi,BDI,1999,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,50.5749206542969
+Burundi,BDI,1998,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,60.6
+Burundi,BDI,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,9.3
+Burundi,BDI,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,9.29845809936523
+Burundi,BDI,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,8.47091770172119
+Burundi,BDI,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,7
+Burundi,BDI,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,7.0911226272583
+Burundi,BDI,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,6.5
+Burundi,BDI,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,6.16447401046753
+Burundi,BDI,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,5.3
+Burundi,BDI,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,5.50992727279663
+Burundi,BDI,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,4.8
+Burundi,BDI,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,5.00679397583008
+Burundi,BDI,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,4.77947854995728
+Burundi,BDI,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,3.20731707317073
+Burundi,BDI,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,4.30550575256348
+Burundi,BDI,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,4.03479290008545
+Burundi,BDI,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,3.73994588851929
+Burundi,BDI,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,3.42589259147644
+Burundi,BDI,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,3.09756112098694
+Burundi,BDI,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,2.75987958908081
+Burundi,BDI,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,3.9
+Burundi,BDI,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,82.7093851288663
+Burundi,BDI,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,80.7187888270213
+Burundi,BDI,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,87.02056925233
+Burundi,BDI,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,97.9618194008257
+Burundi,BDI,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,90.8573088394698
+Burundi,BDI,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,87.6533996099443
+Burundi,BDI,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,96.3936374817371
+Burundi,BDI,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.2423608608917
+Burundi,BDI,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.3257854159168
+Burundi,BDI,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,97.9013641133263
+Burundi,BDI,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.0449657869013
+Burundi,BDI,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,97.8632478632479
+Burundi,BDI,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.0676328502416
+Burundi,BDI,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.4532095901005
+Burundi,BDI,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.2905982905983
+Burundi,BDI,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.019801980198
+Burundi,BDI,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98
+Burundi,BDI,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.2142857142857
+Burundi,BDI,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.3606557377049
+Burundi,BDI,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.3333333333333
+Burundi,BDI,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.3333333333333
+Burundi,BDI,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.2905982905983
+Burundi,BDI,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.1981981981982
+Burundi,BDI,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.1308411214953
+Burundi,BDI,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.5294117647059
+Burundi,BDI,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,98.1818181818182
+Burundi,BDI,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,95.6789242535879
+Burundi,BDI,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,94.5981828190235
+Burundi,BDI,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,94.0692433762261
+Burundi,BDI,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,93.9586936952692
+Burundi,BDI,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,96.5942068051828
+Burundi,BDI,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,96.7578246382942
+Burundi,BDI,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,96.9196659596576
+Burundi,BDI,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,96.8461077521016
+Burundi,BDI,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,96.8927516102376
+Burundi,BDI,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,96.8564147765593
+Burundi,BDI,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,97.2914182808576
+Burundi,BDI,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,97.2651842102769
+Burundi,BDI,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,97.0155898842004
+Burundi,BDI,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,96.1568029616245
+Burundi,BDI,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,96.2308343457383
+Burundi,BDI,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,93.2256928383527
+Burundi,BDI,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,93.7495957944446
+Burundi,BDI,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,95.2616980939846
+Burundi,BDI,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,95.2427852157011
+Burundi,BDI,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,95.1893270552475
+Burundi,BDI,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,95.1118438929951
+Burundi,BDI,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,95.117960231198
+Burundi,BDI,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,94.9070927356396
+Burundi,BDI,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,94.9957826098264
+Burundi,BDI,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,94.2386626254569
+Burundi,BDI,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,95.2006722228931
+Burundi,BDI,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Burundi,BDI,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,388.702
+Burundi,BDI,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,216.353
+Burundi,BDI,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,216.353
+Burundi,BDI,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,212.686
+Burundi,BDI,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,194.351
+Burundi,BDI,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,176.016
+Burundi,BDI,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,179.683
+Burundi,BDI,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,179.683
+Burundi,BDI,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,172.349
+Burundi,BDI,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,146.68
+Burundi,BDI,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,190.684
+Burundi,BDI,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,154.014
+Burundi,BDI,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,201.685
+Burundi,BDI,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,198.018
+Burundi,BDI,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,267.691
+Burundi,BDI,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,249.356
+Burundi,BDI,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,234.688
+Burundi,BDI,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,234.688
+Burundi,BDI,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,227.354
+Burundi,BDI,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,220.02
+Burundi,BDI,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,216.353
+Burundi,BDI,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,212.686
+Burundi,BDI,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,198.018
+Burundi,BDI,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,223.687
+Burundi,BDI,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,194.351
+Burundi,BDI,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,249.356
+Burundi,BDI,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,212.686
+Burundi,BDI,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,223.687
+Burundi,BDI,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,216.353
+Burundi,BDI,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,216.353
+Burundi,BDI,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,198.018
+Burundi,BDI,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,187.017
+Burundi,BDI,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,143.013
+Burundi,BDI,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,150.347
+Burundi,BDI,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,143.013
+Burundi,BDI,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,106.343
+Burundi,BDI,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,102.676
+Burundi,BDI,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,99.009
+Burundi,BDI,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,84.341
+Burundi,BDI,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,77.007
+Burundi,BDI,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,88.008
+Burundi,BDI,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,69.673
+Burundi,BDI,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,69.673
+Burundi,BDI,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,73.34
+Burundi,BDI,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,62.339
+Burundi,BDI,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,73.34
+Burundi,BDI,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,55.005
+Burundi,BDI,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Burundi,BDI,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Burundi,BDI,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,36.67
+Burundi,BDI,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Burundi,BDI,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Burundi,BDI,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,44.004
+Burundi,BDI,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1258.77670353702
+Burundi,BDI,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1235.06999061182
+Burundi,BDI,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1213.72553081426
+Burundi,BDI,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1191.50129260116
+Burundi,BDI,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1168.92770474269
+Burundi,BDI,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1146.44186091151
+Burundi,BDI,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1124.63933837442
+Burundi,BDI,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1102.8745452464
+Burundi,BDI,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,535.19673743414
+Burundi,BDI,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,517.673615960807
+Burundi,BDI,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1019.33928225817
+Burundi,BDI,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,992.858681153825
+Burundi,BDI,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,966.568495842289
+Burundi,BDI,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,914.001462600353
+Burundi,BDI,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,878.621227250136
+Burundi,BDI,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,823.870236881674
+Burundi,BDI,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,793.980180391595
+Burundi,BDI,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,781.203903767169
+Burundi,BDI,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,770.285381559795
+Burundi,BDI,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,754.347885194626
+Burundi,BDI,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,733.711355951828
+Burundi,BDI,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,715.462253450309
+Burundi,BDI,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,699.10240092106
+Burundi,BDI,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,679.062672713062
+Burundi,BDI,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,673.247184845
+Burundi,BDI,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,652.082692902927
+Burundi,BDI,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,636.82060127847
+Burundi,BDI,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,615.205828329883
+Burundi,BDI,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,613.921871955648
+Burundi,BDI,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,596.6265512666
+Burundi,BDI,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,581.337423936327
+Burundi,BDI,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,564.076711382917
+Burundi,BDI,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,566.334331548608
+Burundi,BDI,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,566.666546690198
+Burundi,BDI,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,558.670304733494
+Burundi,BDI,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,554.072355316262
+Burundi,BDI,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,560.927679930305
+Burundi,BDI,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,547.28891597221
+Burundi,BDI,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,563.59119093296
+Burundi,BDI,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Burundi,BDI,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,50.699883338852
+Burundi,BDI,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,51.1710670162875
+Burundi,BDI,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,51.5800726200126
+Burundi,BDI,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,52.2661642248543
+Burundi,BDI,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,52.3844559899744
+Burundi,BDI,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,53.729220097646
+Burundi,BDI,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,52.7875774876519
+Burundi,BDI,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,52.7734095714197
+Burundi,BDI,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,35.5650260116783
+Burundi,BDI,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,34.5851254308033
+Burundi,BDI,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,51.7888532134051
+Burundi,BDI,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,51.6675260666114
+Burundi,BDI,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,50.9511344372731
+Burundi,BDI,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,49.4669839584539
+Burundi,BDI,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,47.347414021207
+Burundi,BDI,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,44.6777024713087
+Burundi,BDI,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,44.2664180321355
+Burundi,BDI,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,44.6690665267956
+Burundi,BDI,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,44.8771800516068
+Burundi,BDI,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,45.3298651664609
+Burundi,BDI,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,44.9550490749236
+Burundi,BDI,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,44.7622721696182
+Burundi,BDI,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,43.8047809092427
+Burundi,BDI,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,45.6973534800176
+Burundi,BDI,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,44.3231959475296
+Burundi,BDI,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,44.1115022325522
+Burundi,BDI,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,43.5978421736922
+Burundi,BDI,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,42.7656896409498
+Burundi,BDI,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,39.5043867003622
+Burundi,BDI,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,35.5863524876294
+Burundi,BDI,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,35.4839696965976
+Burundi,BDI,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,34.9697906674923
+Burundi,BDI,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,35.3159932869762
+Burundi,BDI,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,35.3901165807019
+Burundi,BDI,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,35.6859257456624
+Burundi,BDI,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,35.8553261707282
+Burundi,BDI,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,36.9997744061994
+Burundi,BDI,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,37.5271819397009
+Burundi,BDI,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,38.3677253310569
+Burundi,BDI,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,167.284104919
+Burundi,BDI,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,164.232920898
+Burundi,BDI,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,160.954553098
+Burundi,BDI,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,156.757018806
+Burundi,BDI,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,153.718603468
+Burundi,BDI,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,149.180866682
+Burundi,BDI,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,145.695975208
+Burundi,BDI,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,141.591083052
+Burundi,BDI,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,96.340747674
+Burundi,BDI,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,93.918740056
+Burundi,BDI,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,131.592635506
+Burundi,BDI,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,128.538245248
+Burundi,BDI,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,125.400728614
+Burundi,BDI,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,119.786266596
+Burundi,BDI,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,115.209852908
+Burundi,BDI,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,101.729717118
+Burundi,BDI,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,98.804794826
+Burundi,BDI,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,97.588355322
+Burundi,BDI,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,96.054849554
+Burundi,BDI,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,93.546185218
+Burundi,BDI,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,90.648817896
+Burundi,BDI,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,89.438076316
+Burundi,BDI,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,87.169421296
+Burundi,BDI,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,84.105094236
+Burundi,BDI,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,82.799531902
+Burundi,BDI,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,79.513029144
+Burundi,BDI,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,76.930580716
+Burundi,BDI,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,73.618026891
+Burundi,BDI,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,73.52367402
+Burundi,BDI,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,71.400667013
+Burundi,BDI,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,69.135650897
+Burundi,BDI,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,66.747927698
+Burundi,BDI,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,66.424824835
+Burundi,BDI,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,66.038964022
+Burundi,BDI,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,64.442628136
+Burundi,BDI,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,63.796467112
+Burundi,BDI,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,64.03624306
+Burundi,BDI,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,62.525569536
+Burundi,BDI,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,63.677873946
+Burundi,BDI,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Burundi,BDI,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,24.9858151204086
+Burundi,BDI,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,25.054793842516
+Burundi,BDI,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,25.0548058331604
+Burundi,BDI,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,24.3486456244763
+Burundi,BDI,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,24.431974240976
+Burundi,BDI,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,23.8800610463529
+Burundi,BDI,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,24.0707914285129
+Burundi,BDI,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,23.5407879065884
+Burundi,BDI,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,18.337932248395
+Burundi,BDI,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,16.9229815724061
+Burundi,BDI,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,21.6370202356923
+Burundi,BDI,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,21.7534062295065
+Burundi,BDI,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,20.4182640170405
+Burundi,BDI,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,18.6401852212757
+Burundi,BDI,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,18.3559966809078
+Burundi,BDI,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.3869413667929
+Burundi,BDI,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,13.969676079858
+Burundi,BDI,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.3091430090909
+Burundi,BDI,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.2772918175702
+Burundi,BDI,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,15.5363171394738
+Burundi,BDI,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,13.9835468500435
+Burundi,BDI,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.1787156343836
+Burundi,BDI,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,13.4870584488465
+Burundi,BDI,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.2207732175991
+Burundi,BDI,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.5513180971267
+Burundi,BDI,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,13.5203729079801
+Burundi,BDI,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,13.2375573348127
+Burundi,BDI,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.7344708446837
+Burundi,BDI,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,11.2534467346125
+Burundi,BDI,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.80355547373797
+Burundi,BDI,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.70860158372223
+Burundi,BDI,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.20952346693927
+Burundi,BDI,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.18679085152267
+Burundi,BDI,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.20601015548699
+Burundi,BDI,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.69763369269597
+Burundi,BDI,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.23900115826996
+Burundi,BDI,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.7685884934409
+Burundi,BDI,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.72278981518082
+Burundi,BDI,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.9877225877033
+Burundi,BDI,2016,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.14
+Burundi,BDI,2014,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.43
+Burundi,BDI,2012,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.47
+Burundi,BDI,2010,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.42
+Burundi,BDI,2008,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.23
+Burundi,BDI,2006,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.22
+Burundi,BDI,2004,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.08
+Burundi,BDI,2002,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.54
+Burundi,BDI,2000,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.71
+Burundi,BDI,1998,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.66
+Burundi,BDI,1995,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.48
+Burundi,BDI,1992,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.54
+Burundi,BDI,1991,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.61
+Burundi,BDI,2016,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.21
+Burundi,BDI,2014,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.53
+Burundi,BDI,2012,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.47
+Burundi,BDI,2010,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.43
+Burundi,BDI,2008,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.39
+Burundi,BDI,2006,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.2
+Burundi,BDI,2004,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.04
+Burundi,BDI,2002,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.58
+Burundi,BDI,2000,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.01
+Burundi,BDI,1998,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.72
+Burundi,BDI,1995,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.52
+Burundi,BDI,1992,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.59
+Burundi,BDI,1991,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.63
+Burundi,BDI,2014,Time to obtain an electrical connection (days),IC.ELC.DURS,25.3
+Burundi,BDI,2006,Time to obtain an electrical connection (days),IC.ELC.DURS,24.1
+Burundi,BDI,2019,Time required to get electricity (days),IC.ELC.TIME,158
+Burundi,BDI,2018,Time required to get electricity (days),IC.ELC.TIME,158
+Burundi,BDI,2017,Time required to get electricity (days),IC.ELC.TIME,158
+Burundi,BDI,2016,Time required to get electricity (days),IC.ELC.TIME,158
+Burundi,BDI,2015,Time required to get electricity (days),IC.ELC.TIME,158
+Burundi,BDI,2014,Time required to get electricity (days),IC.ELC.TIME,158
+Burundi,BDI,2013,Time required to get electricity (days),IC.ELC.TIME,158
+Burundi,BDI,2012,Time required to get electricity (days),IC.ELC.TIME,188
+Burundi,BDI,2011,Time required to get electricity (days),IC.ELC.TIME,188
+Burundi,BDI,2010,Time required to get electricity (days),IC.ELC.TIME,188
+Burundi,BDI,2009,Time required to get electricity (days),IC.ELC.TIME,188
+Burundi,BDI,2014,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,29.9
+Burundi,BDI,2006,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,12.2
+Burundi,BDI,2014,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,3.4
+Burundi,BDI,2006,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,10.7
+Burundi,BDI,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,11162798.023095
+Burundi,BDI,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,10989636.5584843
+Burundi,BDI,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,9717562.87367626
+Burundi,BDI,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,10524648.9175662
+Burundi,BDI,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,9802558.18299812
+Burundi,BDI,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,15415034.3066856
+Burundi,BDI,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,11300611.1627894
+Burundi,BDI,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,5983902.64696716
+Burundi,BDI,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,6830974.98031988
+Burundi,BDI,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,7887794.31737824
+Burundi,BDI,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,122231.214695942
+Burundi,BDI,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,164310.50580233
+Burundi,BDI,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,67384.0857543187
+Burundi,BDI,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1419247.9108767
+Burundi,BDI,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,678363.379976315
+Burundi,BDI,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,327142.881864047
+Burundi,BDI,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Burundi,BDI,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Burundi,BDI,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Burundi,BDI,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Burundi,BDI,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Burundi,BDI,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2366421.01091542
+Burundi,BDI,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1647105.45911802
+Burundi,BDI,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Burundi,BDI,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Burundi,BDI,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Burundi,BDI,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,8216.2709976212
+Burundi,BDI,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3807.0025231445
+Burundi,BDI,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,8608.30248292855
+Burundi,BDI,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,42999.0151333928
+Burundi,BDI,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,49816.6075503903
+Burundi,BDI,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,30444.8122943391
+Burundi,BDI,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,21356.370209857
+Burundi,BDI,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,39185.2123028337
+Burundi,BDI,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,12127.8562890185
+Burundi,BDI,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3074.6737003093
+Burundi,BDI,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4545.3694582242
+Burundi,BDI,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,367795.710419614
+Burundi,BDI,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,341004.571540507
+Burundi,BDI,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,259086.671695988
+Burundi,BDI,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,212294.214362422
+Burundi,BDI,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,76433.8091343224
+Burundi,BDI,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,44430.8455219754
+Burundi,BDI,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,143195.567496831
+Burundi,BDI,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,18204.1229922606
+Burundi,BDI,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Burundi,BDI,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Burundi,BDI,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Burundi,BDI,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.35240378256194
+Burundi,BDI,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.371479937852829
+Burundi,BDI,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.313192866505406
+Burundi,BDI,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.389947021244457
+Burundi,BDI,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.399545724974469
+Burundi,BDI,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.662501700160192
+Burundi,BDI,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.509409323000715
+Burundi,BDI,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.296038062114497
+Burundi,BDI,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.387143600730896
+Burundi,BDI,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.490676090503778
+Burundi,BDI,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00905215671903553
+Burundi,BDI,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0129933379256848
+Burundi,BDI,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00612909668653351
+Burundi,BDI,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.159833099370426
+Burundi,BDI,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0884716367781035
+Burundi,BDI,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0403029719255825
+Burundi,BDI,2001,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Burundi,BDI,2000,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Burundi,BDI,1999,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Burundi,BDI,1998,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Burundi,BDI,1997,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Burundi,BDI,1996,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.276733769747707
+Burundi,BDI,1995,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.166707996295636
+Burundi,BDI,1994,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Burundi,BDI,1993,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Burundi,BDI,1992,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Burundi,BDI,1991,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000710655688355148
+Burundi,BDI,1990,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000340759259743604
+Burundi,BDI,1989,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000785213821236285
+Burundi,BDI,1988,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00405854806132667
+Burundi,BDI,1987,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00451625544251079
+Burundi,BDI,1986,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00257770773685828
+Burundi,BDI,1985,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00188726516819182
+Burundi,BDI,1984,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00402263389056802
+Burundi,BDI,1983,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0011296485970416
+Burundi,BDI,1982,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000305768655144232
+Burundi,BDI,1981,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00047046371062372
+Burundi,BDI,1980,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0398991528038482
+Burundi,BDI,1979,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0441523219398004
+Burundi,BDI,1978,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0434880246534326
+Burundi,BDI,1977,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0395196358216725
+Burundi,BDI,1976,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0174845668075455
+Burundi,BDI,1975,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0107752520944849
+Burundi,BDI,1974,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.042583127615394
+Burundi,BDI,1973,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00615040401594201
+Burundi,BDI,1972,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Burundi,BDI,1971,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Burundi,BDI,1970,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Burundi,BDI,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Burundi,BDI,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1992,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1991,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1990,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1989,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1988,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1987,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1986,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1985,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1984,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1983,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1982,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1981,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,1980,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Burundi,BDI,2017,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,15.6765038020957
+Burundi,BDI,2016,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,16.4489208949034
+Burundi,BDI,2015,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,15.2025391805526
+Burundi,BDI,2014,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,16.5081773844911
+Burundi,BDI,2013,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,17.2342986458399
+Burundi,BDI,2012,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,17.3396113031411
+Burundi,BDI,2011,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,24.8960268415924
+Burundi,BDI,2010,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,23.6926410569847
+Burundi,BDI,2009,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,30.2712543064286
+Burundi,BDI,2008,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,32.7480889690388
+Burundi,BDI,2007,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,31.6529746182088
+Burundi,BDI,2006,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,23.4779404655203
+Burundi,BDI,2005,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,26.3388084532669
+Burundi,BDI,2004,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,31.0569027229431
+Burundi,BDI,2003,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,40.9042579391398
+Burundi,BDI,2002,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,24.178103407144
+Burundi,BDI,2001,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,18.644919939775
+Burundi,BDI,2000,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,14.5015934698058
+Burundi,BDI,1999,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,15.2521263887638
+Burundi,BDI,1998,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,26.7279112548879
+Burundi,BDI,1997,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,23.4015002093202
+Burundi,BDI,1996,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,28.0501701802799
+Burundi,BDI,1995,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,23.5488763341147
+Burundi,BDI,1994,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,16.7405836631819
+Burundi,BDI,1993,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,13.8938426148913
+Burundi,BDI,1992,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,13.6650402630792
+Burundi,BDI,1991,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,12.2920413967686
+Burundi,BDI,1990,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,12.962570839802
+Burundi,BDI,1989,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,10.3133472133132
+Burundi,BDI,1988,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,10.0653685135167
+Burundi,BDI,1987,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.03280397223749
+Burundi,BDI,1986,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,8.20622502179448
+Burundi,BDI,1985,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,5.64624771956357
+Burundi,BDI,1984,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,6.35344971298064
+Burundi,BDI,1983,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,6.07203381472341
+Burundi,BDI,1982,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.96981124123822
+Burundi,BDI,1981,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,6.90332824808412
+Burundi,BDI,1980,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,8.06201714684338
+Burundi,BDI,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.472200455268799
+Burundi,BDI,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.493863888415263
+Burundi,BDI,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.409877162786601
+Burundi,BDI,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.511807647731552
+Burundi,BDI,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.524531436763093
+Burundi,BDI,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.872194025155204
+Burundi,BDI,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.669206216372639
+Burundi,BDI,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.404007813664687
+Burundi,BDI,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.546382037001707
+Burundi,BDI,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.722857630851127
+Burundi,BDI,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.59251145905946
+Burundi,BDI,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.495683441598342
+Burundi,BDI,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.23902082328359
+Burundi,BDI,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.224743377753032
+Burundi,BDI,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.123343912233334
+Burundi,BDI,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0407484507435172
+Burundi,BDI,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Burundi,BDI,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Burundi,BDI,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Burundi,BDI,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Burundi,BDI,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Burundi,BDI,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.359744030557326
+Burundi,BDI,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.218504167176873
+Burundi,BDI,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Burundi,BDI,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Burundi,BDI,1992,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Burundi,BDI,1991,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00345214153588174
+Burundi,BDI,1990,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00175150448486405
+Burundi,BDI,1989,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00428128009642701
+Burundi,BDI,1988,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0121414502623669
+Burundi,BDI,1987,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0140836558805414
+Burundi,BDI,1986,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00852136826725948
+Burundi,BDI,1985,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0065804892906121
+Burundi,BDI,1984,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0148991350806787
+Burundi,BDI,1983,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00445530967731922
+Burundi,BDI,1982,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00127988212281033
+Burundi,BDI,1981,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00210013813352039
+Burundi,BDI,1980,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0853504658080453
+Burundi,BDI,1979,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0896739270816906
+Burundi,BDI,1978,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0856189686581746
+Burundi,BDI,1977,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0770939407107378
+Burundi,BDI,1976,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0333482909079686
+Burundi,BDI,1975,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0205841025371269
+Burundi,BDI,1974,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0817682761613536
+Burundi,BDI,1973,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0117291759567556
+Burundi,BDI,1972,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Burundi,BDI,1971,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Burundi,BDI,1970,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Burundi,BDI,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2001,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2000,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1999,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1998,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1997,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1996,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1995,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1994,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1993,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1992,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1991,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1990,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1989,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1988,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1987,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1986,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1985,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1984,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1983,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1982,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1981,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,1980,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Burundi,BDI,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2001,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2000,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1999,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1998,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1997,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1996,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1995,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1994,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1993,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1992,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1991,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1990,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1989,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1988,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1987,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1986,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1985,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1984,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1983,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1982,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1981,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,1980,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Burundi,BDI,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,16.2107706692955
+Burundi,BDI,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,17.0210559441359
+Burundi,BDI,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,15.7069722229987
+Burundi,BDI,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,17.0333141833336
+Burundi,BDI,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,17.8303891631212
+Burundi,BDI,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,17.9696908219569
+Burundi,BDI,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,25.2763049047502
+Burundi,BDI,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,24.0717327073681
+Burundi,BDI,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,30.6238274831162
+Burundi,BDI,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,33.3867457251564
+Burundi,BDI,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,32.5532351220627
+Burundi,BDI,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,24.1133329756644
+Burundi,BDI,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,26.480235707706
+Burundi,BDI,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,30.5928076146661
+Burundi,BDI,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,40.5501086474601
+Burundi,BDI,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,24.1157326458063
+Burundi,BDI,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,18.6538547860424
+Burundi,BDI,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,15.0536919299084
+Burundi,BDI,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,15.4123921428722
+Burundi,BDI,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,27.011355909773
+Burundi,BDI,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,23.6215639521918
+Burundi,BDI,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,28.3753469137122
+Burundi,BDI,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,23.9678261704206
+Burundi,BDI,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,17.0617153397151
+Burundi,BDI,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,14.238648580744
+Burundi,BDI,1992,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,14.0206683897655
+Burundi,BDI,1991,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.6892975357928
+Burundi,BDI,1990,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,13.3710324576209
+Burundi,BDI,1989,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.6546945284428
+Burundi,BDI,1988,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.3888576064739
+Burundi,BDI,1987,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,9.32629797985184
+Burundi,BDI,1986,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.57543276718761
+Burundi,BDI,1985,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.93607776818566
+Burundi,BDI,1984,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.77837441613798
+Burundi,BDI,1983,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.54287623859444
+Burundi,BDI,1982,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.8146641555626
+Burundi,BDI,1981,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.5780724055405
+Burundi,BDI,1980,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.97893505932381
+Burundi,BDI,1979,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.38373034624224
+Burundi,BDI,1978,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.6536278788528
+Burundi,BDI,1977,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.5079383270262
+Burundi,BDI,1976,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.01546944964382
+Burundi,BDI,1975,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,9.72861489037253
+Burundi,BDI,1974,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.53403069685836
+Burundi,BDI,1973,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.73543999638966
+Burundi,BDI,1972,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.308295210027
+Burundi,BDI,1971,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.38352192045934
+Burundi,BDI,1970,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.7517924369007
+Burundi,BDI,2018,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.5457791252459
+Burundi,BDI,2017,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.5672507001643
+Burundi,BDI,2016,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,17.253387717155
+Burundi,BDI,2015,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.5462691491761
+Burundi,BDI,2014,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,24.3547862594126
+Burundi,BDI,2013,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,23.0970322181954
+Burundi,BDI,2012,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.4239036359699
+Burundi,BDI,2011,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,29.0029449776834
+Burundi,BDI,2010,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.12108773229193
+Burundi,BDI,2009,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.41166744572227
+Burundi,BDI,2008,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.38021004787014
+Burundi,BDI,2007,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,28.0421695082539
+Burundi,BDI,2006,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.955043550595913
+Burundi,BDI,2005,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.45554418275432
+Burundi,BDI,2004,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.4902725806984
+Burundi,BDI,2003,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,18.4846448742648
+Burundi,BDI,2002,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.9166740952143
+Burundi,BDI,2001,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.493786715131
+Burundi,BDI,2000,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.9094368010837
+Burundi,BDI,1999,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.4951909845691
+Burundi,BDI,1998,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.7688784254892
+Burundi,BDI,1997,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.0463769353568
+Burundi,BDI,1996,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.9565047262767
+Burundi,BDI,1995,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.4121580630896
+Burundi,BDI,1994,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.9114549374983
+Burundi,BDI,1993,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.2587003457354
+Burundi,BDI,1976,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.77162066076274
+Burundi,BDI,1975,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.89586174751108
+Burundi,BDI,1974,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.53893308929629
+Burundi,BDI,1965,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.6367443382534
+Burundi,BDI,2018,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.885921206419839
+Burundi,BDI,2017,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.651948602901964
+Burundi,BDI,2016,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.09133627792324
+Burundi,BDI,2015,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.2786977132292
+Burundi,BDI,2014,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.679035242900101
+Burundi,BDI,2013,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.806039564573923
+Burundi,BDI,2012,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.10997213203574
+Burundi,BDI,2011,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.90341708613592
+Burundi,BDI,2010,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.663715512475851
+Burundi,BDI,2009,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.611722873912052
+Burundi,BDI,2008,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.550917737145798
+Burundi,BDI,2007,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.879884705447505
+Burundi,BDI,2006,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,4.52101947655749
+Burundi,BDI,2005,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.786636362823245
+Burundi,BDI,2004,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.14974294003441
+Burundi,BDI,2003,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.53092255247368
+Burundi,BDI,2002,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.81454071437763
+Burundi,BDI,2001,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.71692676950692
+Burundi,BDI,2000,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.17829392688451
+Burundi,BDI,1999,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,3.3848207706403
+Burundi,BDI,1998,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,3.49013314814674
+Burundi,BDI,1997,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.35628251582898
+Burundi,BDI,1996,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.30317883927226
+Burundi,BDI,1995,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.20252801970282
+Burundi,BDI,1994,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.39318396169008
+Burundi,BDI,1993,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.76198546536859
+Burundi,BDI,1976,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.78527864444032
+Burundi,BDI,1975,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.76164234154704
+Burundi,BDI,1974,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.79294962053086
+Burundi,BDI,1965,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.85790422804089
+Burundi,BDI,2018,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0328275989133783
+Burundi,BDI,2017,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00137687514198461
+Burundi,BDI,2016,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0
+Burundi,BDI,2015,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00538780496170487
+Burundi,BDI,2014,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0399318061385837
+Burundi,BDI,2013,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0004678573340984
+Burundi,BDI,2012,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00936112188676019
+Burundi,BDI,2011,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0362176800912041
+Burundi,BDI,2010,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.32449170459371
+Burundi,BDI,2009,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.8785852393772
+Burundi,BDI,2008,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.39635813870325
+Burundi,BDI,2007,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,5.72981200020943
+Burundi,BDI,2006,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0
+Burundi,BDI,2005,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0642556287881786
+Burundi,BDI,2004,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0125042136924351
+Burundi,BDI,2003,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.649256942903348
+Burundi,BDI,1993,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0222870017158296
+Burundi,BDI,1965,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00555124436022549
+Burundi,BDI,2018,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,12.8213019957015
+Burundi,BDI,2017,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,7.5552504534981
+Burundi,BDI,2016,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,4.44982136857725
+Burundi,BDI,2015,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.44036800592449
+Burundi,BDI,2014,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.28879112783759
+Burundi,BDI,2013,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,12.8000575953327
+Burundi,BDI,2012,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,13.7260011609918
+Burundi,BDI,2011,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,8.41313224835677
+Burundi,BDI,2010,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,5.22038751891977
+Burundi,BDI,2009,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,4.83254560302573
+Burundi,BDI,2008,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,9.25072676249227
+Burundi,BDI,2007,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.12474819824495
+Burundi,BDI,2006,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,5.88920125182103
+Burundi,BDI,2005,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.57810240061998
+Burundi,BDI,2004,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.53070034798632
+Burundi,BDI,2003,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.27554354556121
+Burundi,BDI,2002,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.40265244244149
+Burundi,BDI,2001,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,10.2860062597155
+Burundi,BDI,2000,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.782458626286405
+Burundi,BDI,1999,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.37953512517595
+Burundi,BDI,1998,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.503906781095397
+Burundi,BDI,1997,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.07252130659007
+Burundi,BDI,1996,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.25126551781537
+Burundi,BDI,1995,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.11377932423561
+Burundi,BDI,1994,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.679806857241987
+Burundi,BDI,1993,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.46542643937142
+Burundi,BDI,1976,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.430789912787662
+Burundi,BDI,1975,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.849992728616994
+Burundi,BDI,1974,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.58527424159083
+Burundi,BDI,1965,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.418374716436643

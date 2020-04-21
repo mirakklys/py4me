@@ -1,0 +1,708 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Sao Tome and Principe,STP,2015,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.66317406649038
+Sao Tome and Principe,STP,2014,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.60686976488286
+Sao Tome and Principe,STP,2013,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.8131909212582
+Sao Tome and Principe,STP,2012,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.99705497466303
+Sao Tome and Principe,STP,2011,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.97382476679434
+Sao Tome and Principe,STP,2010,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.08385706628018
+Sao Tome and Principe,STP,2009,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.04271491695232
+Sao Tome and Principe,STP,2008,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.07003300017171
+Sao Tome and Principe,STP,2007,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.23933480129783
+Sao Tome and Principe,STP,2006,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.37778046142941
+Sao Tome and Principe,STP,2005,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.72773369060737
+Sao Tome and Principe,STP,2004,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.91049039496041
+Sao Tome and Principe,STP,2003,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.75773963328891
+Sao Tome and Principe,STP,2002,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.70655739997362
+Sao Tome and Principe,STP,2001,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.56943676190762
+Sao Tome and Principe,STP,2000,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.77187912013792
+Sao Tome and Principe,STP,1999,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.59270623419757
+Sao Tome and Principe,STP,1998,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.67355587345329
+Sao Tome and Principe,STP,1997,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.60636031688998
+Sao Tome and Principe,STP,1996,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.59396284375732
+Sao Tome and Principe,STP,1995,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.60859340928426
+Sao Tome and Principe,STP,1994,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.65010082278972
+Sao Tome and Principe,STP,1993,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.75250409931007
+Sao Tome and Principe,STP,1992,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.74276816193579
+Sao Tome and Principe,STP,1991,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.89697691303027
+Sao Tome and Principe,STP,1990,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.71297304940207
+Sao Tome and Principe,STP,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,45.3286077729596
+Sao Tome and Principe,STP,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,45.9569654898735
+Sao Tome and Principe,STP,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,46.3621228275666
+Sao Tome and Principe,STP,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,52.4134805128641
+Sao Tome and Principe,STP,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,45.0982034802387
+Sao Tome and Principe,STP,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,42.7665989577263
+Sao Tome and Principe,STP,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,42.4332082011539
+Sao Tome and Principe,STP,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,41.9865482805174
+Sao Tome and Principe,STP,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,34.1419742697629
+Sao Tome and Principe,STP,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,41.3993612010302
+Sao Tome and Principe,STP,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,41.1797724904169
+Sao Tome and Principe,STP,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,40.9567757086972
+Sao Tome and Principe,STP,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,40.6970395183515
+Sao Tome and Principe,STP,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,40.3715441085483
+Sao Tome and Principe,STP,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,39.964075281564
+Sao Tome and Principe,STP,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,39.4858275044519
+Sao Tome and Principe,STP,2001,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,38.9388707260786
+Sao Tome and Principe,STP,2000,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,40.0610547915795
+Sao Tome and Principe,STP,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,83.0983200073242
+Sao Tome and Principe,STP,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,79.8809204101563
+Sao Tome and Principe,STP,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,76.6196746826172
+Sao Tome and Principe,STP,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,75.8
+Sao Tome and Principe,STP,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,71.2148971557617
+Sao Tome and Principe,STP,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,65.3
+Sao Tome and Principe,STP,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,69.9483261108398
+Sao Tome and Principe,STP,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,69.3299560546875
+Sao Tome and Principe,STP,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,69.8
+Sao Tome and Principe,STP,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,68.1309967041016
+Sao Tome and Principe,STP,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,67.5509414672852
+Sao Tome and Principe,STP,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,66.9839630126953
+Sao Tome and Principe,STP,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,66.4301528930664
+Sao Tome and Principe,STP,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,65.8896102905273
+Sao Tome and Principe,STP,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,65.3623123168945
+Sao Tome and Principe,STP,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,64.8455276489258
+Sao Tome and Principe,STP,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,64.3338165283203
+Sao Tome and Principe,STP,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,64.09318
+Sao Tome and Principe,STP,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,72.5107040405273
+Sao Tome and Principe,STP,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,70.0741806030273
+Sao Tome and Principe,STP,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,67.5950012207031
+Sao Tome and Principe,STP,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,68.6
+Sao Tome and Principe,STP,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,62.9119262695313
+Sao Tome and Principe,STP,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,57.9
+Sao Tome and Principe,STP,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,60.6107292175293
+Sao Tome and Principe,STP,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,59.7467155456543
+Sao Tome and Principe,STP,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,56.9
+Sao Tome and Principe,STP,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,58.1547393798828
+Sao Tome and Principe,STP,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,57.4033584594727
+Sao Tome and Principe,STP,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,56.6636199951172
+Sao Tome and Principe,STP,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,55.9219551086426
+Sao Tome and Principe,STP,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,55.1647987365723
+Sao Tome and Principe,STP,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,54.381664276123
+Sao Tome and Principe,STP,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,53.5743942260742
+Sao Tome and Principe,STP,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,52.747917175293
+Sao Tome and Principe,STP,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,52.9
+Sao Tome and Principe,STP,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,10.4734576757532
+Sao Tome and Principe,STP,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,10.4477611940298
+Sao Tome and Principe,STP,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,8.33333333333333
+Sao Tome and Principe,STP,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,8.32249674902471
+Sao Tome and Principe,STP,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,8.92857142857143
+Sao Tome and Principe,STP,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,8.39160839160839
+Sao Tome and Principe,STP,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,13.4615384615385
+Sao Tome and Principe,STP,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,16.8421052631579
+Sao Tome and Principe,STP,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,22.2222222222222
+Sao Tome and Principe,STP,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,18.6046511627907
+Sao Tome and Principe,STP,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,10.1449275362319
+Sao Tome and Principe,STP,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,16.6219839142091
+Sao Tome and Principe,STP,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,22.8985507246377
+Sao Tome and Principe,STP,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,19.3650793650794
+Sao Tome and Principe,STP,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,18.1818181818182
+Sao Tome and Principe,STP,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,26.0536398467433
+Sao Tome and Principe,STP,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,28.5714285714286
+Sao Tome and Principe,STP,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,27.2727272727273
+Sao Tome and Principe,STP,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,30
+Sao Tome and Principe,STP,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,31.5789473684211
+Sao Tome and Principe,STP,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,33.3333333333333
+Sao Tome and Principe,STP,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,35.2941176470588
+Sao Tome and Principe,STP,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,43.75
+Sao Tome and Principe,STP,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,46.6666666666667
+Sao Tome and Principe,STP,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,53.3333333333333
+Sao Tome and Principe,STP,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,53.3333333333333
+Sao Tome and Principe,STP,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,41.0559989770475
+Sao Tome and Principe,STP,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,41.8094376905841
+Sao Tome and Principe,STP,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,41.3950242977474
+Sao Tome and Principe,STP,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,41.2460612323825
+Sao Tome and Principe,STP,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,43.1196153567265
+Sao Tome and Principe,STP,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,43.7595495481625
+Sao Tome and Principe,STP,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,45.4083895936281
+Sao Tome and Principe,STP,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,46.0375586173819
+Sao Tome and Principe,STP,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,47.6862927437761
+Sao Tome and Principe,STP,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,47.3289245404209
+Sao Tome and Principe,STP,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,47.9429132049717
+Sao Tome and Principe,STP,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,48.9220445022799
+Sao Tome and Principe,STP,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,51.80761029085
+Sao Tome and Principe,STP,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,55.3372334527641
+Sao Tome and Principe,STP,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,55.4678746043601
+Sao Tome and Principe,STP,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,54.7289574237091
+Sao Tome and Principe,STP,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,56.675766925674
+Sao Tome and Principe,STP,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,55.0610755239225
+Sao Tome and Principe,STP,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,56.0823405131803
+Sao Tome and Principe,STP,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,55.6324680108648
+Sao Tome and Principe,STP,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,53.9428238525238
+Sao Tome and Principe,STP,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,54.0133244559111
+Sao Tome and Principe,STP,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,54.0574224325587
+Sao Tome and Principe,STP,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,54.1774536178695
+Sao Tome and Principe,STP,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,50.9290739556334
+Sao Tome and Principe,STP,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,50.9290739556334
+Sao Tome and Principe,STP,2007,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.36707781125951
+Sao Tome and Principe,STP,2006,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.89143835636818
+Sao Tome and Principe,STP,2005,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.1829965472596
+Sao Tome and Principe,STP,2004,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.36045571956777
+Sao Tome and Principe,STP,2007,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.87663758156124
+Sao Tome and Principe,STP,2006,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.59692752517059
+Sao Tome and Principe,STP,2005,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.06195660369783
+Sao Tome and Principe,STP,2004,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.51846034476125
+Sao Tome and Principe,STP,2007,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Sao Tome and Principe,STP,2006,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Sao Tome and Principe,STP,2005,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Sao Tome and Principe,STP,2004,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Sao Tome and Principe,STP,1990,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Sao Tome and Principe,STP,2007,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,112.655269612136
+Sao Tome and Principe,STP,2006,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,116.320626999837
+Sao Tome and Principe,STP,2005,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,124.039367756126
+Sao Tome and Principe,STP,2004,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,117.392106029464
+Sao Tome and Principe,STP,2007,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,264.58208057727
+Sao Tome and Principe,STP,2006,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,272.140820504574
+Sao Tome and Principe,STP,2005,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,273.06441780126
+Sao Tome and Principe,STP,2004,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,247.175370925672
+Sao Tome and Principe,STP,1990,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,196.760596934795
+Sao Tome and Principe,STP,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1961,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,1960,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sao Tome and Principe,STP,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,113.677
+Sao Tome and Principe,STP,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,113.677
+Sao Tome and Principe,STP,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,113.677
+Sao Tome and Principe,STP,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,102.676
+Sao Tome and Principe,STP,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,99.009
+Sao Tome and Principe,STP,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,91.675
+Sao Tome and Principe,STP,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,84.341
+Sao Tome and Principe,STP,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,84.341
+Sao Tome and Principe,STP,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,84.341
+Sao Tome and Principe,STP,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,77.007
+Sao Tome and Principe,STP,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,73.34
+Sao Tome and Principe,STP,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,66.006
+Sao Tome and Principe,STP,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,58.672
+Sao Tome and Principe,STP,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,51.338
+Sao Tome and Principe,STP,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Sao Tome and Principe,STP,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Sao Tome and Principe,STP,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Sao Tome and Principe,STP,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Sao Tome and Principe,STP,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Sao Tome and Principe,STP,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Sao Tome and Principe,STP,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Sao Tome and Principe,STP,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Sao Tome and Principe,STP,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Sao Tome and Principe,STP,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Sao Tome and Principe,STP,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Sao Tome and Principe,STP,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Sao Tome and Principe,STP,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Sao Tome and Principe,STP,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,51.338
+Sao Tome and Principe,STP,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,51.338
+Sao Tome and Principe,STP,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,55.005
+Sao Tome and Principe,STP,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,51.338
+Sao Tome and Principe,STP,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,55.005
+Sao Tome and Principe,STP,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Sao Tome and Principe,STP,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,44.004
+Sao Tome and Principe,STP,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,40.337
+Sao Tome and Principe,STP,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33.003
+Sao Tome and Principe,STP,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33.003
+Sao Tome and Principe,STP,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,29.336
+Sao Tome and Principe,STP,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,29.336
+Sao Tome and Principe,STP,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,18.335
+Sao Tome and Principe,STP,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,18.335
+Sao Tome and Principe,STP,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,14.668
+Sao Tome and Principe,STP,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Sao Tome and Principe,STP,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Sao Tome and Principe,STP,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,14.668
+Sao Tome and Principe,STP,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,14.668
+Sao Tome and Principe,STP,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,14.668
+Sao Tome and Principe,STP,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Sao Tome and Principe,STP,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Sao Tome and Principe,STP,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Sao Tome and Principe,STP,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Sao Tome and Principe,STP,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,7.334
+Sao Tome and Principe,STP,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Sao Tome and Principe,STP,1961,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Sao Tome and Principe,STP,1960,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Sao Tome and Principe,STP,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,17.477825589753
+Sao Tome and Principe,STP,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,17.1478366716678
+Sao Tome and Principe,STP,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,16.8105636411077
+Sao Tome and Principe,STP,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,16.5792796936848
+Sao Tome and Principe,STP,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,16.1944741691679
+Sao Tome and Principe,STP,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,15.8804814404348
+Sao Tome and Principe,STP,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,15.4679064796117
+Sao Tome and Principe,STP,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,15.1147257534131
+Sao Tome and Principe,STP,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,14.8122995843268
+Sao Tome and Principe,STP,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,14.1224780122328
+Sao Tome and Principe,STP,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,13.7253574085471
+Sao Tome and Principe,STP,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,13.4531513947456
+Sao Tome and Principe,STP,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,13.018002836345
+Sao Tome and Principe,STP,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,12.6848603899775
+Sao Tome and Principe,STP,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,12.2773935334161
+Sao Tome and Principe,STP,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,11.5510733267598
+Sao Tome and Principe,STP,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,11.2204165877241
+Sao Tome and Principe,STP,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,10.8443560124182
+Sao Tome and Principe,STP,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,10.4374328993149
+Sao Tome and Principe,STP,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,9.93479671670973
+Sao Tome and Principe,STP,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,9.76102696116856
+Sao Tome and Principe,STP,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,9.44279274026651
+Sao Tome and Principe,STP,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,9.15672732073369
+Sao Tome and Principe,STP,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,8.90085733633917
+Sao Tome and Principe,STP,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,8.84778317594662
+Sao Tome and Principe,STP,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,8.37556886145031
+Sao Tome and Principe,STP,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,7.86409972213258
+Sao Tome and Principe,STP,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,8.29496811110124
+Sao Tome and Principe,STP,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,7.15526711620573
+Sao Tome and Principe,STP,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,7.10643163635431
+Sao Tome and Principe,STP,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,7.1484542617126
+Sao Tome and Principe,STP,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,7.02075161736369
+Sao Tome and Principe,STP,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,6.87677115986753
+Sao Tome and Principe,STP,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,6.85534585404515
+Sao Tome and Principe,STP,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,6.77423292095524
+Sao Tome and Principe,STP,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,6.58380233386609
+Sao Tome and Principe,STP,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,6.37966912180078
+Sao Tome and Principe,STP,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,6.12332104179404
+Sao Tome and Principe,STP,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,6.04159207929564
+Sao Tome and Principe,STP,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Sao Tome and Principe,STP,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,40.1179485649461
+Sao Tome and Principe,STP,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,40.1170599063455
+Sao Tome and Principe,STP,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,40.0968485103309
+Sao Tome and Principe,STP,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,40.2387237937805
+Sao Tome and Principe,STP,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,40.123568671055
+Sao Tome and Principe,STP,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,40.1629774341361
+Sao Tome and Principe,STP,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,40.1364525150609
+Sao Tome and Principe,STP,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,40.1835629985832
+Sao Tome and Principe,STP,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,40.0851361203472
+Sao Tome and Principe,STP,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,39.4376871348263
+Sao Tome and Principe,STP,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,39.1876515960082
+Sao Tome and Principe,STP,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,39.1155029591306
+Sao Tome and Principe,STP,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,38.7576673842154
+Sao Tome and Principe,STP,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,38.5839530051632
+Sao Tome and Principe,STP,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,38.2473318798011
+Sao Tome and Principe,STP,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,37.2478292716865
+Sao Tome and Principe,STP,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,36.8602797194654
+Sao Tome and Principe,STP,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,36.6064096664827
+Sao Tome and Principe,STP,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,36.2786247551802
+Sao Tome and Principe,STP,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,35.774512314137
+Sao Tome and Principe,STP,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,36.0442195407377
+Sao Tome and Principe,STP,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,35.9569281922004
+Sao Tome and Principe,STP,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,35.9101428320079
+Sao Tome and Principe,STP,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,35.9070594399812
+Sao Tome and Principe,STP,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,36.4584915009689
+Sao Tome and Principe,STP,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,35.8296245372424
+Sao Tome and Principe,STP,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,35.0375130191963
+Sao Tome and Principe,STP,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,36.9614748603134
+Sao Tome and Principe,STP,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,34.3692581522745
+Sao Tome and Principe,STP,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,34.8180401777264
+Sao Tome and Principe,STP,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,35.5747144037215
+Sao Tome and Principe,STP,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,35.8000694373754
+Sao Tome and Principe,STP,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,35.6666052574208
+Sao Tome and Principe,STP,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,36.8275924621141
+Sao Tome and Principe,STP,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,37.2946246770015
+Sao Tome and Principe,STP,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,36.4779864137921
+Sao Tome and Principe,STP,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,36.516600012597
+Sao Tome and Principe,STP,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,34.9006613952354
+Sao Tome and Principe,STP,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,34.655271371595
+Sao Tome and Principe,STP,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,1.332023004
+Sao Tome and Principe,STP,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,1.2917328
+Sao Tome and Principe,STP,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,1.226981612
+Sao Tome and Principe,STP,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,1.308679322
+Sao Tome and Principe,STP,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,1.295648286
+Sao Tome and Principe,STP,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,1.234871112
+Sao Tome and Principe,STP,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,1.169676562
+Sao Tome and Principe,STP,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,1.154294114
+Sao Tome and Principe,STP,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,1.188031848
+Sao Tome and Principe,STP,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.926967456
+Sao Tome and Principe,STP,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.89494303
+Sao Tome and Principe,STP,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.900920698
+Sao Tome and Principe,STP,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.88289674
+Sao Tome and Principe,STP,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.868643002
+Sao Tome and Principe,STP,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.816184058
+Sao Tome and Principe,STP,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.60622298
+Sao Tome and Principe,STP,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.621450552
+Sao Tome and Principe,STP,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.63329156
+Sao Tome and Principe,STP,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.598660096
+Sao Tome and Principe,STP,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.416704108
+Sao Tome and Principe,STP,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.41501715
+Sao Tome and Principe,STP,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.55897712
+Sao Tome and Principe,STP,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.55237939
+Sao Tome and Principe,STP,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.517825674
+Sao Tome and Principe,STP,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.518287512
+Sao Tome and Principe,STP,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.500133292
+Sao Tome and Principe,STP,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.4629788
+Sao Tome and Principe,STP,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.378749506
+Sao Tome and Principe,STP,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.426910858
+Sao Tome and Principe,STP,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.399806132
+Sao Tome and Principe,STP,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.362846754
+Sao Tome and Principe,STP,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.32382228
+Sao Tome and Principe,STP,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.306795995
+Sao Tome and Principe,STP,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.291901022
+Sao Tome and Principe,STP,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.247394849
+Sao Tome and Principe,STP,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.235803143
+Sao Tome and Principe,STP,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.22265254
+Sao Tome and Principe,STP,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.213179653
+Sao Tome and Principe,STP,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.208956306
+Sao Tome and Principe,STP,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Sao Tome and Principe,STP,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.3003288159962
+Sao Tome and Principe,STP,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.112387558253
+Sao Tome and Principe,STP,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,13.7192079056918
+Sao Tome and Principe,STP,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.5875891953157
+Sao Tome and Principe,STP,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.6549738073031
+Sao Tome and Principe,STP,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.2256095993143
+Sao Tome and Principe,STP,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.0499275748176
+Sao Tome and Principe,STP,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.205925733754
+Sao Tome and Principe,STP,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.7618784956011
+Sao Tome and Principe,STP,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.5895947624361
+Sao Tome and Principe,STP,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.4058382680292
+Sao Tome and Principe,STP,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.5406521044955
+Sao Tome and Principe,STP,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.3595215983752
+Sao Tome and Principe,STP,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.4593667323264
+Sao Tome and Principe,STP,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.079241162572
+Sao Tome and Principe,STP,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.42673826693918
+Sao Tome and Principe,STP,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.38265452264834
+Sao Tome and Principe,STP,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.91201401254725
+Sao Tome and Principe,STP,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.65324988877948
+Sao Tome and Principe,STP,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.56992543869529
+Sao Tome and Principe,STP,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.71293511701061
+Sao Tome and Principe,STP,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.325793409916
+Sao Tome and Principe,STP,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.4019766376145
+Sao Tome and Principe,STP,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.96127020096607
+Sao Tome and Principe,STP,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.98593519486337
+Sao Tome and Principe,STP,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.98720564566052
+Sao Tome and Principe,STP,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.56770192701927
+Sao Tome and Principe,STP,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.15243350726649
+Sao Tome and Principe,STP,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.4821584477464
+Sao Tome and Principe,STP,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.21653362680712
+Sao Tome and Principe,STP,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.42261096079673
+Sao Tome and Principe,STP,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.54345879430371
+Sao Tome and Principe,STP,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.91923079612112
+Sao Tome and Principe,STP,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.66027399489107
+Sao Tome and Principe,STP,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.23885799809515
+Sao Tome and Principe,STP,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.3912557240684
+Sao Tome and Principe,STP,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.44907964442848
+Sao Tome and Principe,STP,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.72138625888147
+Sao Tome and Principe,STP,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.55292247110481
+Sao Tome and Principe,STP,2019,Time required to get electricity (days),IC.ELC.TIME,89
+Sao Tome and Principe,STP,2018,Time required to get electricity (days),IC.ELC.TIME,89
+Sao Tome and Principe,STP,2017,Time required to get electricity (days),IC.ELC.TIME,89
+Sao Tome and Principe,STP,2016,Time required to get electricity (days),IC.ELC.TIME,89
+Sao Tome and Principe,STP,2015,Time required to get electricity (days),IC.ELC.TIME,89
+Sao Tome and Principe,STP,2014,Time required to get electricity (days),IC.ELC.TIME,89
+Sao Tome and Principe,STP,2013,Time required to get electricity (days),IC.ELC.TIME,89
+Sao Tome and Principe,STP,2012,Time required to get electricity (days),IC.ELC.TIME,89
+Sao Tome and Principe,STP,2011,Time required to get electricity (days),IC.ELC.TIME,89
+Sao Tome and Principe,STP,2010,Time required to get electricity (days),IC.ELC.TIME,89
+Sao Tome and Principe,STP,2009,Time required to get electricity (days),IC.ELC.TIME,89
+Sao Tome and Principe,STP,2004,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,50000000
+Sao Tome and Principe,STP,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sao Tome and Principe,STP,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sao Tome and Principe,STP,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sao Tome and Principe,STP,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sao Tome and Principe,STP,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sao Tome and Principe,STP,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sao Tome and Principe,STP,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sao Tome and Principe,STP,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sao Tome and Principe,STP,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sao Tome and Principe,STP,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sao Tome and Principe,STP,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sao Tome and Principe,STP,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sao Tome and Principe,STP,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sao Tome and Principe,STP,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sao Tome and Principe,STP,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sao Tome and Principe,STP,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sao Tome and Principe,STP,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sao Tome and Principe,STP,2001,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sao Tome and Principe,STP,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sao Tome and Principe,STP,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sao Tome and Principe,STP,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sao Tome and Principe,STP,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sao Tome and Principe,STP,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sao Tome and Principe,STP,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sao Tome and Principe,STP,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sao Tome and Principe,STP,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sao Tome and Principe,STP,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sao Tome and Principe,STP,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sao Tome and Principe,STP,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sao Tome and Principe,STP,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sao Tome and Principe,STP,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sao Tome and Principe,STP,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sao Tome and Principe,STP,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sao Tome and Principe,STP,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sao Tome and Principe,STP,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sao Tome and Principe,STP,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sao Tome and Principe,STP,2017,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Sao Tome and Principe,STP,2016,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Sao Tome and Principe,STP,2015,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Sao Tome and Principe,STP,2014,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Sao Tome and Principe,STP,2013,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Sao Tome and Principe,STP,2012,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Sao Tome and Principe,STP,2011,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Sao Tome and Principe,STP,2010,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Sao Tome and Principe,STP,2009,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Sao Tome and Principe,STP,2008,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Sao Tome and Principe,STP,2007,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Sao Tome and Principe,STP,2006,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Sao Tome and Principe,STP,2005,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Sao Tome and Principe,STP,2004,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Sao Tome and Principe,STP,2003,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Sao Tome and Principe,STP,2002,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Sao Tome and Principe,STP,2001,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Sao Tome and Principe,STP,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sao Tome and Principe,STP,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sao Tome and Principe,STP,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sao Tome and Principe,STP,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sao Tome and Principe,STP,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sao Tome and Principe,STP,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sao Tome and Principe,STP,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sao Tome and Principe,STP,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sao Tome and Principe,STP,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sao Tome and Principe,STP,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sao Tome and Principe,STP,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sao Tome and Principe,STP,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sao Tome and Principe,STP,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sao Tome and Principe,STP,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sao Tome and Principe,STP,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sao Tome and Principe,STP,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sao Tome and Principe,STP,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sao Tome and Principe,STP,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sao Tome and Principe,STP,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sao Tome and Principe,STP,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sao Tome and Principe,STP,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sao Tome and Principe,STP,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sao Tome and Principe,STP,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sao Tome and Principe,STP,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sao Tome and Principe,STP,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sao Tome and Principe,STP,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sao Tome and Principe,STP,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sao Tome and Principe,STP,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sao Tome and Principe,STP,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sao Tome and Principe,STP,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sao Tome and Principe,STP,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sao Tome and Principe,STP,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sao Tome and Principe,STP,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sao Tome and Principe,STP,2001,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sao Tome and Principe,STP,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sao Tome and Principe,STP,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sao Tome and Principe,STP,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sao Tome and Principe,STP,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sao Tome and Principe,STP,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sao Tome and Principe,STP,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sao Tome and Principe,STP,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sao Tome and Principe,STP,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sao Tome and Principe,STP,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sao Tome and Principe,STP,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sao Tome and Principe,STP,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sao Tome and Principe,STP,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sao Tome and Principe,STP,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sao Tome and Principe,STP,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sao Tome and Principe,STP,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sao Tome and Principe,STP,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sao Tome and Principe,STP,2001,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sao Tome and Principe,STP,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.92985176868307
+Sao Tome and Principe,STP,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.21501015950376
+Sao Tome and Principe,STP,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.58626718441384
+Sao Tome and Principe,STP,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.95777171276701
+Sao Tome and Principe,STP,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.23652256584336
+Sao Tome and Principe,STP,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.78698645288365
+Sao Tome and Principe,STP,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.79498997382828
+Sao Tome and Principe,STP,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.95977193426034
+Sao Tome and Principe,STP,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.51097841503851
+Sao Tome and Principe,STP,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.51915539118359
+Sao Tome and Principe,STP,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.72739028637262
+Sao Tome and Principe,STP,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.8737016658591
+Sao Tome and Principe,STP,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.95703261224924
+Sao Tome and Principe,STP,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.35648989206467
+Sao Tome and Principe,STP,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.28312242731683
+Sao Tome and Principe,STP,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.40322997615787
+Sao Tome and Principe,STP,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.14417598360763
+Sao Tome and Principe,STP,2018,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.941354817356
+Sao Tome and Principe,STP,2017,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.4265642945695
+Sao Tome and Principe,STP,2016,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.470701458497674
+Sao Tome and Principe,STP,2015,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.444691752737249
+Sao Tome and Principe,STP,2014,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,22.8338291439141
+Sao Tome and Principe,STP,2013,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,26.2355546003255
+Sao Tome and Principe,STP,2012,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,25.7494129191555
+Sao Tome and Principe,STP,2011,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.9685616782475
+Sao Tome and Principe,STP,2010,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.0981675036012
+Sao Tome and Principe,STP,2009,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.4213809344863
+Sao Tome and Principe,STP,2008,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,23.1324795148333
+Sao Tome and Principe,STP,2007,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.2911421493171
+Sao Tome and Principe,STP,2006,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.1662244192307
+Sao Tome and Principe,STP,2005,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.2401589044485
+Sao Tome and Principe,STP,2004,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.7130056156582
+Sao Tome and Principe,STP,2003,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.8272872803344
+Sao Tome and Principe,STP,2002,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.6996628321731
+Sao Tome and Principe,STP,2001,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.2833895376974
+Sao Tome and Principe,STP,2000,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.8162012820387
+Sao Tome and Principe,STP,1999,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.23634147280923
+Sao Tome and Principe,STP,2018,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.19547729363857
+Sao Tome and Principe,STP,2017,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.0581698150657
+Sao Tome and Principe,STP,2016,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.52874064504066
+Sao Tome and Principe,STP,2015,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.05746572659906
+Sao Tome and Principe,STP,2014,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.12512581114555
+Sao Tome and Principe,STP,2013,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.23528157777356
+Sao Tome and Principe,STP,2012,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.894357871853088
+Sao Tome and Principe,STP,2011,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.75851497363212
+Sao Tome and Principe,STP,2010,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.08462126234519
+Sao Tome and Principe,STP,2009,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.07750246667948
+Sao Tome and Principe,STP,2008,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.902864017431843
+Sao Tome and Principe,STP,2007,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.981503621648677
+Sao Tome and Principe,STP,2006,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.36324165606331
+Sao Tome and Principe,STP,2005,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.249045314594723
+Sao Tome and Principe,STP,2004,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.4080402514113
+Sao Tome and Principe,STP,2003,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.274618814472552
+Sao Tome and Principe,STP,2002,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.40254318872734
+Sao Tome and Principe,STP,2001,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.33268759225342
+Sao Tome and Principe,STP,2000,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.673574748344206
+Sao Tome and Principe,STP,1999,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.614033592202807
+Sao Tome and Principe,STP,2018,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.003813919764725
+Sao Tome and Principe,STP,2017,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.000757397023353959
+Sao Tome and Principe,STP,2016,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00115524883009574
+Sao Tome and Principe,STP,2012,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.746417733973855
+Sao Tome and Principe,STP,2011,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0
+Sao Tome and Principe,STP,2009,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0
+Sao Tome and Principe,STP,2008,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0
+Sao Tome and Principe,STP,2007,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0
+Sao Tome and Principe,STP,2003,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0053100808112838
+Sao Tome and Principe,STP,2002,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.000120236577489869
+Sao Tome and Principe,STP,2018,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.69042686283506
+Sao Tome and Principe,STP,2017,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.15688759811605
+Sao Tome and Principe,STP,2016,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.10064661472948
+Sao Tome and Principe,STP,2015,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.31007931969682
+Sao Tome and Principe,STP,2014,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.133214471679445
+Sao Tome and Principe,STP,2013,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.13803781871473
+Sao Tome and Principe,STP,2012,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.120436900027286
+Sao Tome and Principe,STP,2011,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.179058445587164
+Sao Tome and Principe,STP,2010,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0146365688247039
+Sao Tome and Principe,STP,2009,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0217422393576389
+Sao Tome and Principe,STP,2008,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0168895633675306
+Sao Tome and Principe,STP,2007,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0198462515743544
+Sao Tome and Principe,STP,2005,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0863198165301424
+Sao Tome and Principe,STP,2004,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0895842480326928
+Sao Tome and Principe,STP,2003,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.000316794593854999
+Sao Tome and Principe,STP,2001,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.00106761592974477
+Sao Tome and Principe,STP,2000,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0146545594676596

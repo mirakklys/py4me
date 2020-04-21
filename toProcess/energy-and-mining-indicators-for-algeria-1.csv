@@ -1,0 +1,1793 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Algeria,DZA,2015,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.13270236532592
+Algeria,DZA,2014,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.1023561853248
+Algeria,DZA,2013,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.91835131090751
+Algeria,DZA,2012,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.89139397319131
+Algeria,DZA,2011,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.66062463761199
+Algeria,DZA,2010,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.61086794276635
+Algeria,DZA,2009,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.8040116688551
+Algeria,DZA,2008,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.53394809876618
+Algeria,DZA,2007,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.57654770530432
+Algeria,DZA,2006,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.48497718516287
+Algeria,DZA,2005,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.3098222351193
+Algeria,DZA,2004,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.36592992434257
+Algeria,DZA,2003,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.46757878471906
+Algeria,DZA,2002,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.49774760070769
+Algeria,DZA,2001,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.45307626900735
+Algeria,DZA,2000,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.5494405907365
+Algeria,DZA,1999,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.62703861442294
+Algeria,DZA,1998,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.50647472242145
+Algeria,DZA,1997,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.56095123815134
+Algeria,DZA,1996,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.51326617857192
+Algeria,DZA,1995,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.77719005971803
+Algeria,DZA,1994,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.7577391174699
+Algeria,DZA,1993,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.86342433397712
+Algeria,DZA,1992,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.76885485095906
+Algeria,DZA,1991,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.7481613573049
+Algeria,DZA,1990,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.50093477590024
+Algeria,DZA,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Algeria,DZA,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,99.973081530105
+Algeria,DZA,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,99.8178945119358
+Algeria,DZA,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,99.6685406042124
+Algeria,DZA,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,98.8594642686119
+Algeria,DZA,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,97.6737325900747
+Algeria,DZA,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,97.767993222501
+Algeria,DZA,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,97.425908821035
+Algeria,DZA,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,97.2168896370721
+Algeria,DZA,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,97.9352859268279
+Algeria,DZA,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Algeria,DZA,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Algeria,DZA,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9945755004883
+Algeria,DZA,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9654769897461
+Algeria,DZA,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.8964691162109
+Algeria,DZA,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.2567375886525
+Algeria,DZA,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.6849975585938
+Algeria,DZA,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.585807800293
+Algeria,DZA,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.4990615844727
+Algeria,DZA,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Algeria,DZA,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Algeria,DZA,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.992317199707
+Algeria,DZA,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.9430694580078
+Algeria,DZA,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.8770523071289
+Algeria,DZA,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.5809707641602
+Algeria,DZA,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.7646604654583
+Algeria,DZA,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.0760803222656
+Algeria,DZA,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.8847045898438
+Algeria,DZA,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,98.7419738769531
+Algeria,DZA,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.3
+Algeria,DZA,2015,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,2014,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,2013,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,2012,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,2011,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,2010,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,2009,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,2008,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,2007,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,2006,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,2005,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,2004,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,2003,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,2002,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,2001,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,2000,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1999,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1998,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1997,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1996,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1995,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1994,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1993,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1992,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1991,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1990,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1989,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1988,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1987,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1986,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1985,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1984,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1983,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1982,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1981,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1980,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1979,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1978,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1977,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1976,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1975,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1974,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1973,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1972,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,1971,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Algeria,DZA,2015,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.6773162010524
+Algeria,DZA,2014,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.6046200305096
+Algeria,DZA,2013,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.4489898146602
+Algeria,DZA,2012,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,98.9163196682753
+Algeria,DZA,2011,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.0199906293925
+Algeria,DZA,2010,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.6195390737744
+Algeria,DZA,2009,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.2052154489494
+Algeria,DZA,2008,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.2966497663784
+Algeria,DZA,2007,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.3924077857834
+Algeria,DZA,2006,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.3811389314711
+Algeria,DZA,2005,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,98.3635559486953
+Algeria,DZA,2004,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.1968
+Algeria,DZA,2003,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.1038517466437
+Algeria,DZA,2002,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.7938368055556
+Algeria,DZA,2001,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.7408450704225
+Algeria,DZA,2000,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.7875019675744
+Algeria,DZA,1999,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.180029890536
+Algeria,DZA,1998,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.0757458516035
+Algeria,DZA,1997,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.6511141089454
+Algeria,DZA,1996,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.3463735838094
+Algeria,DZA,1995,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.0210499619579
+Algeria,DZA,1994,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.1651159281798
+Algeria,DZA,1993,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,98.1817245286906
+Algeria,DZA,1992,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,98.9117357541288
+Algeria,DZA,1991,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,98.310752378207
+Algeria,DZA,1990,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.1616989567809
+Algeria,DZA,1989,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,98.5251892456278
+Algeria,DZA,1988,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,98.6896749248174
+Algeria,DZA,1987,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,96.0776607451658
+Algeria,DZA,1986,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,98.0741083121485
+Algeria,DZA,1985,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,94.7368421052632
+Algeria,DZA,1984,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,95.957789304239
+Algeria,DZA,1983,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,97.7001370131141
+Algeria,DZA,1982,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,94.90208599404
+Algeria,DZA,1981,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,95.5047899778924
+Algeria,DZA,1980,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,96.3919696756984
+Algeria,DZA,1979,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,95.4736350909939
+Algeria,DZA,1978,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,95.4379562043796
+Algeria,DZA,1977,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,94.197584124245
+Algeria,DZA,1976,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,90.814639905549
+Algeria,DZA,1975,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,90.9641873278237
+Algeria,DZA,1974,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,83.8005215123859
+Algeria,DZA,1973,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,73.20028510335
+Algeria,DZA,1972,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,79.679802955665
+Algeria,DZA,1971,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,85.1951547779273
+Algeria,DZA,2015,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.210761940754092
+Algeria,DZA,2014,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.395379969490365
+Algeria,DZA,2013,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.55101018533979
+Algeria,DZA,2012,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,1.08368033172465
+Algeria,DZA,2011,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.980009370607528
+Algeria,DZA,2010,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.380460926225565
+Algeria,DZA,2009,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.794784551050622
+Algeria,DZA,2008,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.703350233621632
+Algeria,DZA,2007,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.607592214216582
+Algeria,DZA,2006,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.618861068528928
+Algeria,DZA,2005,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,1.63644405130473
+Algeria,DZA,2004,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.8032
+Algeria,DZA,2003,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.896148253356329
+Algeria,DZA,2002,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.206163194444444
+Algeria,DZA,2001,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.259154929577465
+Algeria,DZA,2000,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.212498032425626
+Algeria,DZA,1999,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.81997010946399
+Algeria,DZA,1998,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.924254148396527
+Algeria,DZA,1997,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.348885891054566
+Algeria,DZA,1996,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.653626416190568
+Algeria,DZA,1995,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.9789500380421
+Algeria,DZA,1994,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.834884071820148
+Algeria,DZA,1993,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,1.81827547130936
+Algeria,DZA,1992,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,1.08826424587116
+Algeria,DZA,1991,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,1.68924762179302
+Algeria,DZA,1990,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0.838301043219076
+Algeria,DZA,1989,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,1.47481075437223
+Algeria,DZA,1988,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,1.31032507518259
+Algeria,DZA,1987,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,3.92233925483415
+Algeria,DZA,1986,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,1.92589168785148
+Algeria,DZA,1985,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,5.26315789473684
+Algeria,DZA,1984,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,4.04221069576105
+Algeria,DZA,1983,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2.29986298688589
+Algeria,DZA,1982,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,5.09791400595998
+Algeria,DZA,1981,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,4.49521002210759
+Algeria,DZA,1980,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,3.60803032430156
+Algeria,DZA,1979,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,4.52636490900607
+Algeria,DZA,1978,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,4.56204379562044
+Algeria,DZA,1977,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,5.80241587575496
+Algeria,DZA,1976,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,9.185360094451
+Algeria,DZA,1975,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,9.03581267217631
+Algeria,DZA,1974,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,16.1994784876141
+Algeria,DZA,1973,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,26.79971489665
+Algeria,DZA,1972,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,20.320197044335
+Algeria,DZA,1971,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,14.8048452220727
+Algeria,DZA,2014,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,17.1274244263877
+Algeria,DZA,2013,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,18.4054099181833
+Algeria,DZA,2012,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,19.283237799885
+Algeria,DZA,2011,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,19.3249258160237
+Algeria,DZA,2010,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,19.8779901167621
+Algeria,DZA,2009,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,20.4124568193034
+Algeria,DZA,2008,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,18.1106471816284
+Algeria,DZA,2007,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,17.8702010968921
+Algeria,DZA,2006,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,17.870323056833
+Algeria,DZA,2005,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.1947515848445
+Algeria,DZA,2004,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,15.9232
+Algeria,DZA,2003,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.2335396165162
+Algeria,DZA,2002,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,15.7190393518519
+Algeria,DZA,2001,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,16.2892018779343
+Algeria,DZA,2000,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,16.1537856130962
+Algeria,DZA,1999,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,19.1057074766733
+Algeria,DZA,1998,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,19.6930616456023
+Algeria,DZA,1997,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,20.3423733544215
+Algeria,DZA,1996,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,18.4709983538298
+Algeria,DZA,1995,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,16.9414151661172
+Algeria,DZA,1994,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,16.1645626917467
+Algeria,DZA,1993,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,15.6021427835583
+Algeria,DZA,1992,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.1841846221153
+Algeria,DZA,1991,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,15.1282790429519
+Algeria,DZA,1990,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.3628912071535
+Algeria,DZA,1989,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.3565648655703
+Algeria,DZA,1988,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,15.2871258771302
+Algeria,DZA,1987,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.5024367237856
+Algeria,DZA,1986,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.2824127571065
+Algeria,DZA,1985,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,15.0399217858889
+Algeria,DZA,1984,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.7469146843141
+Algeria,DZA,1983,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.6034449011548
+Algeria,DZA,1982,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.3346104725415
+Algeria,DZA,1981,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.7170228445099
+Algeria,DZA,1980,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.9083251439
+Algeria,DZA,1979,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,8.66386685332089
+Algeria,DZA,1978,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,7.86496350364964
+Algeria,DZA,1977,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.2381363244176
+Algeria,DZA,1976,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.1216056670602
+Algeria,DZA,1975,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.7438016528926
+Algeria,DZA,1974,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.5280312907432
+Algeria,DZA,1973,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.0833927298646
+Algeria,DZA,1972,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.3858784893268
+Algeria,DZA,1971,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.7222969941678
+Algeria,DZA,2015,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,98.357510392744
+Algeria,DZA,2014,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,98.6115002646244
+Algeria,DZA,2013,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,97.9428953080648
+Algeria,DZA,2012,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,97.0712755022039
+Algeria,DZA,2011,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,96.9350304544745
+Algeria,DZA,2010,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,97.5116980802029
+Algeria,DZA,2009,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,97.6286330225189
+Algeria,DZA,2008,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,97.3282632468436
+Algeria,DZA,2007,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,97.2577696526508
+Algeria,DZA,2006,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,97.2520297507523
+Algeria,DZA,2005,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,96.24944714728
+Algeria,DZA,2004,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,96.9984
+Algeria,DZA,2003,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,96.7806296709614
+Algeria,DZA,2002,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,97.6345486111111
+Algeria,DZA,2001,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,96.8300469483568
+Algeria,DZA,2000,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,96.745631984889
+Algeria,DZA,1999,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,96.4454497717817
+Algeria,DZA,1998,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,95.6280629352592
+Algeria,DZA,1997,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,95.8040656835838
+Algeria,DZA,1996,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,95.7441657790259
+Algeria,DZA,1995,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,95.6987065686026
+Algeria,DZA,1994,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,95.3980787607504
+Algeria,DZA,1993,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,94.9520964252601
+Algeria,DZA,1992,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,94.6789893907908
+Algeria,DZA,1991,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,93.9925050446815
+Algeria,DZA,1990,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,93.734475906607
+Algeria,DZA,1989,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,91.1772383189768
+Algeria,DZA,1988,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,90.7632822569096
+Algeria,DZA,1987,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,87.4312215060525
+Algeria,DZA,1986,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,88.8452353439643
+Algeria,DZA,1985,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,85.400032589213
+Algeria,DZA,1984,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,85.4408871400465
+Algeria,DZA,1983,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,85.9757291055001
+Algeria,DZA,1982,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,82.2903363133248
+Algeria,DZA,1981,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,83.4684352738885
+Algeria,DZA,1980,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,84.1499368243718
+Algeria,DZA,1979,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,83.1544563695754
+Algeria,DZA,1978,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,76.0583941605839
+Algeria,DZA,1977,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,70.1682484900777
+Algeria,DZA,1976,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,67.7449822904368
+Algeria,DZA,1975,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,66.0055096418733
+Algeria,DZA,1974,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,67.1121251629726
+Algeria,DZA,1973,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,54.9536707056308
+Algeria,DZA,1972,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,50.5336617405583
+Algeria,DZA,1971,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,38.8515029161059
+Algeria,DZA,2014,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,2013,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,2012,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,2011,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,2010,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,2009,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,2008,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,2007,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,2006,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,2005,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,2004,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,2003,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,2002,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,2001,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,2000,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1999,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1998,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1997,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1996,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1995,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1994,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1993,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1992,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1991,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1990,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1989,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1988,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1987,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1986,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1985,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1984,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1983,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1982,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1981,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1980,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1979,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1978,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1977,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1976,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1975,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1974,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1973,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1972,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,1971,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Algeria,DZA,2015,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.31980580830838
+Algeria,DZA,2014,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,0.993119765885247
+Algeria,DZA,2013,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.50609450659543
+Algeria,DZA,2012,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.8450441660714
+Algeria,DZA,2011,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.08496017491801
+Algeria,DZA,2010,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.10784099357152
+Algeria,DZA,2009,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.57658242643048
+Algeria,DZA,2008,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,1.96838651953474
+Algeria,DZA,2007,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.1346381331326
+Algeria,DZA,2006,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.12910918071879
+Algeria,DZA,2005,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.1141088014153
+Algeria,DZA,2004,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.1984
+Algeria,DZA,2003,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.32322207568226
+Algeria,DZA,2002,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.15928819444444
+Algeria,DZA,2001,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.91079812206573
+Algeria,DZA,2000,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.04186998268535
+Algeria,DZA,1999,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,2.73458011875429
+Algeria,DZA,1998,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.44768291634425
+Algeria,DZA,1997,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.84704842536168
+Algeria,DZA,1996,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.60220780478358
+Algeria,DZA,1995,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.32234339335531
+Algeria,DZA,1994,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.76703716742946
+Algeria,DZA,1993,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,3.22962810343051
+Algeria,DZA,1992,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,4.23274636333807
+Algeria,DZA,1991,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,4.31824733352551
+Algeria,DZA,1990,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,5.42722305017387
+Algeria,DZA,1989,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,7.347950926651
+Algeria,DZA,1988,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,7.92639266790778
+Algeria,DZA,1987,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,8.64643923911335
+Algeria,DZA,1986,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,9.22887296818427
+Algeria,DZA,1985,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,9.33680951605019
+Algeria,DZA,1984,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,10.5169021641925
+Algeria,DZA,1983,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,11.724407907614
+Algeria,DZA,1982,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,12.6117496807152
+Algeria,DZA,1981,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,12.0363547040039
+Algeria,DZA,1980,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,12.2420328513267
+Algeria,DZA,1979,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,12.3191787214186
+Algeria,DZA,1978,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,19.3795620437956
+Algeria,DZA,1977,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,24.0293356341674
+Algeria,DZA,1976,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,23.0696576151122
+Algeria,DZA,1975,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,24.9586776859504
+Algeria,DZA,1974,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,16.6883963494133
+Algeria,DZA,1973,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,18.2466143977192
+Algeria,DZA,1972,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,29.1461412151067
+Algeria,DZA,1971,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,46.3436518618214
+Algeria,DZA,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.322683798947644
+Algeria,DZA,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.395379969490365
+Algeria,DZA,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.55101018533979
+Algeria,DZA,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.08368033172465
+Algeria,DZA,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.980009370607528
+Algeria,DZA,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.380460926225565
+Algeria,DZA,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.794784551050622
+Algeria,DZA,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.703350233621632
+Algeria,DZA,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.607592214216582
+Algeria,DZA,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.618861068528928
+Algeria,DZA,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.63644405130473
+Algeria,DZA,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.8032
+Algeria,DZA,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.896148253356329
+Algeria,DZA,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.206163194444444
+Algeria,DZA,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.259154929577465
+Algeria,DZA,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.212498032425626
+Algeria,DZA,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.81997010946399
+Algeria,DZA,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.924254148396527
+Algeria,DZA,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.348885891054566
+Algeria,DZA,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.653626416190568
+Algeria,DZA,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.9789500380421
+Algeria,DZA,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.834884071820148
+Algeria,DZA,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.81827547130936
+Algeria,DZA,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.08826424587116
+Algeria,DZA,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.68924762179302
+Algeria,DZA,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.838301043219076
+Algeria,DZA,2015,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,77000000
+Algeria,DZA,2014,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,2013,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,2012,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,2011,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,2010,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,2009,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,2008,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,2007,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,2006,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,2005,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,2004,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,2003,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,2002,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,2001,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,2000,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1999,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1998,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1997,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1996,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1995,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1994,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1993,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1992,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1991,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1990,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1989,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1988,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1987,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1986,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1985,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1984,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1983,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1982,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1981,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1980,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1979,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1978,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1977,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1976,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1975,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1974,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1973,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1972,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,1971,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Algeria,DZA,2015,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.111921858193552
+Algeria,DZA,2014,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,2013,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,2012,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,2011,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,2010,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,2009,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,2008,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,2007,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,2006,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,2005,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,2004,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,2003,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,2002,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,2001,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,2000,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1999,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1998,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1997,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1996,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1995,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1994,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1993,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1992,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1991,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1990,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1989,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1988,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1987,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1986,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1985,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1984,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1983,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1982,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1981,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1980,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1979,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1978,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1977,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1976,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1975,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1974,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1973,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1972,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,1971,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Algeria,DZA,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.0589586840918149
+Algeria,DZA,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.0686404751413344
+Algeria,DZA,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.140451784823769
+Algeria,DZA,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.188181413152951
+Algeria,DZA,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.177339472170288
+Algeria,DZA,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.258071761617743
+Algeria,DZA,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.311808048810447
+Algeria,DZA,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.298765661995095
+Algeria,DZA,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.411409249680193
+Algeria,DZA,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.40872736909712
+Algeria,DZA,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.584727486990107
+Algeria,DZA,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.441740736446853
+Algeria,DZA,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.469092389566764
+Algeria,DZA,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.514766169298285
+Algeria,DZA,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.427684983581889
+Algeria,DZA,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.427372239562088
+Algeria,DZA,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.51001768957487
+Algeria,DZA,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.54407094201214
+Algeria,DZA,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.472147668762875
+Algeria,DZA,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.389526170918537
+Algeria,DZA,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.422480314895262
+Algeria,DZA,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.403959587292277
+Algeria,DZA,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.476341507213619
+Algeria,DZA,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.289771220945935
+Algeria,DZA,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.323692176020233
+Algeria,DZA,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.177228302572834
+Algeria,DZA,2014,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,10.7846775038301
+Algeria,DZA,2013,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,11.0752824325676
+Algeria,DZA,2012,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,10.9631237530375
+Algeria,DZA,2011,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,11.4377357580382
+Algeria,DZA,2010,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,11.3589828184204
+Algeria,DZA,2009,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,10.6545406708582
+Algeria,DZA,2008,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,11.3783767956098
+Algeria,DZA,2007,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,11.0326304662513
+Algeria,DZA,2006,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,11.0292170035248
+Algeria,DZA,2005,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,11.2734929049324
+Algeria,DZA,2004,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,10.749902887516
+Algeria,DZA,2003,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,10.1610596624604
+Algeria,DZA,2002,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.88958345586891
+Algeria,DZA,2001,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.86066510125789
+Algeria,DZA,2000,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.3862931660236
+Algeria,DZA,1999,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.98292769795444
+Algeria,DZA,1998,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.15954387043012
+Algeria,DZA,1997,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.919032843676
+Algeria,DZA,1996,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.88684562926068
+Algeria,DZA,1995,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.11726478339334
+Algeria,DZA,1994,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.99170900327775
+Algeria,DZA,1993,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.6105785543132
+Algeria,DZA,1992,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.62098351300265
+Algeria,DZA,1991,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.4923157379896
+Algeria,DZA,1990,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.75901205860577
+Algeria,DZA,2014,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.2061486866368
+Algeria,DZA,2013,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.679456762777
+Algeria,DZA,2012,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.7568241086926
+Algeria,DZA,2011,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.4377357580382
+Algeria,DZA,2010,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.5962610394477
+Algeria,DZA,2009,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.0038492843222
+Algeria,DZA,2008,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.8410032632175
+Algeria,DZA,2007,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.7045239006164
+Algeria,DZA,2006,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.0152214281909
+Algeria,DZA,2005,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.6529937712882
+Algeria,DZA,2004,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.4411619261418
+Algeria,DZA,2003,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.0762727235258
+Algeria,DZA,2002,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.9719032174026
+Algeria,DZA,2001,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,12.125709308168
+Algeria,DZA,2000,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.795545068474
+Algeria,DZA,1999,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.5409994533655
+Algeria,DZA,1998,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.9378161774971
+Algeria,DZA,1997,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.7551878324352
+Algeria,DZA,1996,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.9147393163703
+Algeria,DZA,1995,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.0822198526073
+Algeria,DZA,1994,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.1395840311333
+Algeria,DZA,1993,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.8348571238246
+Algeria,DZA,1992,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.1067293175108
+Algeria,DZA,1991,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.168049258357
+Algeria,DZA,1990,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.9567068072496
+Algeria,DZA,2014,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-177.124357913786
+Algeria,DZA,2013,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-189.345469003897
+Algeria,DZA,2012,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-212.765931803021
+Algeria,DZA,2011,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-248.734823648095
+Algeria,DZA,2010,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-275.463486099988
+Algeria,DZA,2009,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-275.425610048654
+Algeria,DZA,2008,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-334.702462506188
+Algeria,DZA,2007,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-345.944719988208
+Algeria,DZA,2006,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-375.07931992685
+Algeria,DZA,2005,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-414.045346623026
+Algeria,DZA,2004,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-407.115785746226
+Algeria,DZA,2003,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-405.041801814669
+Algeria,DZA,2002,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-394.662511910765
+Algeria,DZA,2001,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-405.606984117032
+Algeria,DZA,2000,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-426.803542763482
+Algeria,DZA,1999,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-415.384759244827
+Algeria,DZA,1998,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-410.451563560393
+Algeria,DZA,1997,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-405.617900644072
+Algeria,DZA,1996,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-379.862501415894
+Algeria,DZA,1995,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-340.144542017635
+Algeria,DZA,1994,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-332.950600102375
+Algeria,DZA,1993,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-335.217017927651
+Algeria,DZA,1992,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-333.760280107924
+Algeria,DZA,1991,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-337.105802622555
+Algeria,DZA,1990,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-351.212563673921
+Algeria,DZA,1989,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-357.444054246864
+Algeria,DZA,1988,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-335.355357208319
+Algeria,DZA,1987,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-348.652744217756
+Algeria,DZA,1986,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-319.62583870903
+Algeria,DZA,1985,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-355.117554746751
+Algeria,DZA,1984,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-353.231033838224
+Algeria,DZA,1983,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-332.105939393063
+Algeria,DZA,1982,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-324.341498184698
+Algeria,DZA,1981,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-451.498906608615
+Algeria,DZA,1980,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-486.653269992894
+Algeria,DZA,1979,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-588.901701776757
+Algeria,DZA,1978,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-700.477505927221
+Algeria,DZA,1977,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-780.266934191682
+Algeria,DZA,1976,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-833.005544393478
+Algeria,DZA,1975,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-860.741812946586
+Algeria,DZA,1974,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-927.057310761923
+Algeria,DZA,1973,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-1071.40972174845
+Algeria,DZA,1972,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-1261.35429351416
+Algeria,DZA,1971,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,-1098.05297274237
+Algeria,DZA,2014,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0301060361261635
+Algeria,DZA,2013,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0429831625830771
+Algeria,DZA,2012,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0826770877537911
+Algeria,DZA,2011,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0722877221411679
+Algeria,DZA,2010,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0273189484600289
+Algeria,DZA,2009,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0468007217940375
+Algeria,DZA,2008,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0486088218511782
+Algeria,DZA,2007,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0397035962872307
+Algeria,DZA,2006,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0405603028910296
+Algeria,DZA,2005,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.115716744684923
+Algeria,DZA,2004,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0523815709512031
+Algeria,DZA,2003,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0568912229230005
+Algeria,DZA,2002,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.012708382655507
+Algeria,DZA,2001,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0162020079850337
+Algeria,DZA,2000,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0125864167147596
+Algeria,DZA,1999,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0464580187434457
+Algeria,DZA,1998,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0518135910724045
+Algeria,DZA,1997,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0189555305359475
+Algeria,DZA,1996,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0360025992383502
+Algeria,DZA,1995,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0503700066610232
+Algeria,DZA,1994,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0432446490179419
+Algeria,DZA,1993,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0886012345461871
+Algeria,DZA,1992,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0534169001183838
+Algeria,DZA,1991,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0781884262207089
+Algeria,DZA,1990,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0400357257750843
+Algeria,DZA,1989,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0938070140290137
+Algeria,DZA,1988,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0753174142303683
+Algeria,DZA,1987,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.216810640403785
+Algeria,DZA,1986,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.107266149068416
+Algeria,DZA,1985,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.31309459710627
+Algeria,DZA,1984,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.228698899648356
+Algeria,DZA,1983,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.117848571408246
+Algeria,DZA,1982,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.259592603331172
+Algeria,DZA,1981,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.258375279504329
+Algeria,DZA,1980,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.197246491806667
+Algeria,DZA,1979,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.227504768318493
+Algeria,DZA,1978,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.247603343589486
+Algeria,DZA,1977,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.328034825517916
+Algeria,DZA,1976,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.530965389163792
+Algeria,DZA,1975,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.510955529226066
+Algeria,DZA,1974,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.824110088552019
+Algeria,DZA,1973,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.34108527292533
+Algeria,DZA,1972,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.05880351472028
+Algeria,DZA,1971,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.81917504627704
+Algeria,DZA,2014,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.9779167201605
+Algeria,DZA,2013,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.9103649953028
+Algeria,DZA,2012,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.8589173711226
+Algeria,DZA,2011,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.8874756325738
+Algeria,DZA,2010,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.8478347914606
+Algeria,DZA,2009,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.8106194648149
+Algeria,DZA,2008,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.8211363460024
+Algeria,DZA,2007,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.7520839062203
+Algeria,DZA,2006,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.7400186289448
+Algeria,DZA,2005,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.6103138329027
+Algeria,DZA,2004,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.7379391339997
+Algeria,DZA,2003,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.7316064568209
+Algeria,DZA,2002,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.7404291366082
+Algeria,DZA,2001,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.775682483189
+Algeria,DZA,2000,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.8150521253614
+Algeria,DZA,1999,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.7444923964653
+Algeria,DZA,1998,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.7130903482615
+Algeria,DZA,1997,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.7640772813502
+Algeria,DZA,1996,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.8415348967642
+Algeria,DZA,1995,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.8724592861507
+Algeria,DZA,1990,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.9382964325205
+Algeria,DZA,1989,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.8629720654817
+Algeria,DZA,1988,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.8983133550917
+Algeria,DZA,1987,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.7558164731324
+Algeria,DZA,1986,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.8095152757473
+Algeria,DZA,1985,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.6179136817876
+Algeria,DZA,1984,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.6826973385513
+Algeria,DZA,1983,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.8406391089552
+Algeria,DZA,1982,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.7016833944484
+Algeria,DZA,1981,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.6631747094961
+Algeria,DZA,1980,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.7303500701322
+Algeria,DZA,1979,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.7079146405309
+Algeria,DZA,1978,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.6661385613647
+Algeria,DZA,1977,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.5899210186748
+Algeria,DZA,1976,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.3653460567797
+Algeria,DZA,1975,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.3523935734228
+Algeria,DZA,1974,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,99.0310121985338
+Algeria,DZA,1973,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.5250384510664
+Algeria,DZA,1972,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.7799260603456
+Algeria,DZA,1971,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,98.9998155557243
+Algeria,DZA,2014,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,97.9801520341687
+Algeria,DZA,2013,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,93.6377216756451
+Algeria,DZA,2012,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,92.9642420379359
+Algeria,DZA,2011,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,87.4298918207845
+Algeria,DZA,2010,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,86.2346920786141
+Algeria,DZA,2009,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,90.8772897702945
+Algeria,DZA,2008,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,84.4523033877006
+Algeria,DZA,2007,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,85.4370505362747
+Algeria,DZA,2006,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,83.2277628819836
+Algeria,DZA,2005,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,79.0326793860571
+Algeria,DZA,2004,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,80.3783445578957
+Algeria,DZA,2003,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,82.8070070040648
+Algeria,DZA,2002,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,83.5289077969143
+Algeria,DZA,2001,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,82.4694023735495
+Algeria,DZA,2000,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,84.7777694201435
+Algeria,DZA,1999,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,86.6476082977705
+Algeria,DZA,1998,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,83.7674148379842
+Algeria,DZA,1997,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,85.0688235912981
+Algeria,DZA,1996,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,83.9296583372197
+Algeria,DZA,1995,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,90.2346292800477
+Algeria,DZA,1994,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,89.7699588427331
+Algeria,DZA,1993,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,92.2947103567349
+Algeria,DZA,1992,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,90.0355065305682
+Algeria,DZA,1991,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,89.5411523415075
+Algeria,DZA,1990,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,83.6350690972598
+Algeria,DZA,2014,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.0115999631371208
+Algeria,DZA,2013,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.0460743428290084
+Algeria,DZA,2012,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.0338734063998156
+Algeria,DZA,2011,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.0384885706880085
+Algeria,DZA,2010,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.129209960023392
+Algeria,DZA,2009,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.131573818286975
+Algeria,DZA,2008,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.124867585413646
+Algeria,DZA,2007,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.193757741609473
+Algeria,DZA,2006,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.185661473731877
+Algeria,DZA,2005,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.220170895330589
+Algeria,DZA,2004,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.188852526166336
+Algeria,DZA,2003,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.191199098317371
+Algeria,DZA,2002,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.249167844926593
+Algeria,DZA,2001,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.197928960438755
+Algeria,DZA,2000,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.198332016590113
+Algeria,DZA,1999,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.201464213864918
+Algeria,DZA,1998,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.215059723972075
+Algeria,DZA,1997,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.209466582520301
+Algeria,DZA,1996,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.161033840493514
+Algeria,DZA,1995,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.155922967075225
+Algeria,DZA,1994,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.162685795208701
+Algeria,DZA,1993,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.156811359112531
+Algeria,DZA,1992,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.0932474702268142
+Algeria,DZA,1991,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.08649691090375
+Algeria,DZA,1990,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.047360609504495
+Algeria,DZA,1989,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.0494470497390021
+Algeria,DZA,1988,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.0477709002953067
+Algeria,DZA,1987,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.0491024517426571
+Algeria,DZA,1986,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.0471771490972531
+Algeria,DZA,1985,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.0515437249826112
+Algeria,DZA,1984,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.0526857029828933
+Algeria,DZA,1983,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.0505448499241302
+Algeria,DZA,1982,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.0528209254047162
+Algeria,DZA,1981,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.0664489734269775
+Algeria,DZA,1980,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.07011879857592
+Algeria,DZA,1979,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.0692532296431822
+Algeria,DZA,1978,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.0852561652368821
+Algeria,DZA,1977,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.10158388043617
+Algeria,DZA,1976,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.109148352402684
+Algeria,DZA,1975,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.121109212578186
+Algeria,DZA,1974,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.126618570762274
+Algeria,DZA,1973,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.135680370805765
+Algeria,DZA,1972,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.15918117205097
+Algeria,DZA,1971,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,0.178527049373626
+Algeria,DZA,2014,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1362.87191909646
+Algeria,DZA,2013,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1278.91534303028
+Algeria,DZA,2012,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1237.96650680011
+Algeria,DZA,2011,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1123.33273070204
+Algeria,DZA,2010,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1016.63666871378
+Algeria,DZA,2009,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,866.307326953413
+Algeria,DZA,2008,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,947.291219318706
+Algeria,DZA,2007,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,894.284691075346
+Algeria,DZA,2006,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,862.429721920887
+Algeria,DZA,2005,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,890.625816371804
+Algeria,DZA,2004,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,804.107088295137
+Algeria,DZA,2003,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,786.414472257868
+Algeria,DZA,2002,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,730.808988912893
+Algeria,DZA,2001,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,709.091460589147
+Algeria,DZA,2000,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,683.294872292539
+Algeria,DZA,1999,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,652.801324581596
+Algeria,DZA,1998,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,618.492768165501
+Algeria,DZA,1997,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,575.698890148159
+Algeria,DZA,1996,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,570.517629343269
+Algeria,DZA,1995,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,559.917949174458
+Algeria,DZA,1994,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,550.972018135539
+Algeria,DZA,1993,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,547.99051148495
+Algeria,DZA,1992,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,559.783095704854
+Algeria,DZA,1991,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,532.49033852757
+Algeria,DZA,1990,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,531.583898345847
+Algeria,DZA,1989,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,522.142149007874
+Algeria,DZA,1988,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,481.887450745019
+Algeria,DZA,1987,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,455.40803668367
+Algeria,DZA,1986,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,485.274488279113
+Algeria,DZA,1985,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,466.486818403868
+Algeria,DZA,1984,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,441.287793940104
+Algeria,DZA,1983,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,417.498445043391
+Algeria,DZA,1982,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,406.054847375693
+Algeria,DZA,1981,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,363.442827063612
+Algeria,DZA,1980,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,330.304372696122
+Algeria,DZA,1979,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,314.567685275728
+Algeria,DZA,1978,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,278.970599592338
+Algeria,DZA,1977,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,233.124175619681
+Algeria,DZA,1976,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,220.06577274311
+Algeria,DZA,1975,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,195.692277085572
+Algeria,DZA,1974,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,170.660457829497
+Algeria,DZA,1973,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,158.754155440942
+Algeria,DZA,1972,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,142.875927565045
+Algeria,DZA,1971,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,133.873489216494
+Algeria,DZA,2014,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1327.53554410198
+Algeria,DZA,2013,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1247.49505324208
+Algeria,DZA,2012,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1229.54742507113
+Algeria,DZA,2011,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1140.642714455
+Algeria,DZA,2010,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1114.21702841404
+Algeria,DZA,2009,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1153.66407103709
+Algeria,DZA,2008,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1073.20562887929
+Algeria,DZA,2007,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1078.18363301261
+Algeria,DZA,2006,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1031.91917410783
+Algeria,DZA,2005,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,977.954084926921
+Algeria,DZA,2004,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,952.267948743557
+Algeria,DZA,2003,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,953.058280741691
+Algeria,DZA,2002,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,908.297315824598
+Algeria,DZA,2001,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,860.041395781456
+Algeria,DZA,2000,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,869.609839626561
+Algeria,DZA,1999,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,867.798408837998
+Algeria,DZA,1998,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,824.533760649989
+Algeria,DZA,1997,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,808.759304170574
+Algeria,DZA,1996,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,802.099506242738
+Algeria,DZA,1995,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,843.042084082623
+Algeria,DZA,1994,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,823.57652684111
+Algeria,DZA,1993,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,872.307680895398
+Algeria,DZA,1992,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,888.735284604751
+Algeria,DZA,1991,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,888.875311694155
+Algeria,DZA,1990,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,861.26075644082
+Algeria,DZA,1989,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,825.259945853991
+Algeria,DZA,1988,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,854.852791545487
+Algeria,DZA,1987,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,832.551213740023
+Algeria,DZA,1986,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,867.59867128893
+Algeria,DZA,1985,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,791.037443680767
+Algeria,DZA,1984,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,780.984787655521
+Algeria,DZA,1983,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,812.682569676865
+Algeria,DZA,1982,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,775.865987134735
+Algeria,DZA,1981,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,614.512461246427
+Algeria,DZA,1980,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,582.949968173933
+Algeria,DZA,1979,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,589.892649621417
+Algeria,DZA,1978,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,479.677129923955
+Algeria,DZA,1977,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,401.088466387577
+Algeria,DZA,1976,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,368.762283957305
+Algeria,DZA,1975,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,332.414161690112
+Algeria,DZA,1974,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,321.161370423292
+Algeria,DZA,1973,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,306.964781593684
+Algeria,DZA,1972,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,263.023592191281
+Algeria,DZA,1971,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,232.948007194607
+Algeria,DZA,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,50.8209124612242
+Algeria,DZA,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,48.7141727344624
+Algeria,DZA,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,49.3652674339878
+Algeria,DZA,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,46.8439845073832
+Algeria,DZA,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,44.8153846153846
+Algeria,DZA,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,45.2546366217604
+Algeria,DZA,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,46.8124043388567
+Algeria,DZA,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,46.7236467236467
+Algeria,DZA,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,48.8244684710834
+Algeria,DZA,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,57.1047684156554
+Algeria,DZA,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,46.5965115797324
+Algeria,DZA,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,48.1159652424619
+Algeria,DZA,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,49.7063382005057
+Algeria,DZA,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,48.7569120912614
+Algeria,DZA,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,45.2337228714524
+Algeria,DZA,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,55.3683120194415
+Algeria,DZA,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,51.1086740464032
+Algeria,DZA,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,44.6972877655555
+Algeria,DZA,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,52.120548359077
+Algeria,DZA,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,49.5940277831223
+Algeria,DZA,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,43.2996690146822
+Algeria,DZA,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,43.9448681921584
+Algeria,DZA,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,39.8782831518257
+Algeria,DZA,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,48.6524098900589
+Algeria,DZA,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,50.5907575035731
+Algeria,DZA,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,45.8518484584727
+Algeria,DZA,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,46.4639846241209
+Algeria,DZA,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,47.7288578901482
+Algeria,DZA,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,43.4113744531513
+Algeria,DZA,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,38.0875610862008
+Algeria,DZA,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,42.944816915936
+Algeria,DZA,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,31.586649014006
+Algeria,DZA,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,18.2743486786815
+Algeria,DZA,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,24.0603284902085
+Algeria,DZA,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,38.335170893054
+Algeria,DZA,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,17.9165661924283
+Algeria,DZA,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,38.1832043162092
+Algeria,DZA,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,8.61344537815126
+Algeria,DZA,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,15.4933533046246
+Algeria,DZA,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,13.932455638237
+Algeria,DZA,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,7.68877140558557
+Algeria,DZA,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,8.22166921898928
+Algeria,DZA,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,11.0723062993144
+Algeria,DZA,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,3.61422117462188
+Algeria,DZA,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.900024324981756
+Algeria,DZA,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,21.9837398373984
+Algeria,DZA,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,20.8012950222582
+Algeria,DZA,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,21.2423979148566
+Algeria,DZA,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,21.9660722053067
+Algeria,DZA,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,26.9594219010561
+Algeria,DZA,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,21.0902011680727
+Algeria,DZA,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,11.1486486486486
+Algeria,DZA,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,12.1604139715395
+Algeria,DZA,1961,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,7.43651753325272
+Algeria,DZA,1960,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Algeria,DZA,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,52885.474
+Algeria,DZA,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,51961.39
+Algeria,DZA,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,48580.416
+Algeria,DZA,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,46959.602
+Algeria,DZA,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,45401.127
+Algeria,DZA,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,44928.084
+Algeria,DZA,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,37392.399
+Algeria,DZA,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,38353.153
+Algeria,DZA,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,35261.872
+Algeria,DZA,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,31077.825
+Algeria,DZA,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,32845.319
+Algeria,DZA,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,31968.906
+Algeria,DZA,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,29519.35
+Algeria,DZA,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,28481.589
+Algeria,DZA,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,30890.808
+Algeria,DZA,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,22207.352
+Algeria,DZA,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33116.677
+Algeria,DZA,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,30043.731
+Algeria,DZA,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,27429.16
+Algeria,DZA,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,27102.797
+Algeria,DZA,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,30476.437
+Algeria,DZA,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,28015.88
+Algeria,DZA,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,28701.609
+Algeria,DZA,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,26087.038
+Algeria,DZA,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,23223.111
+Algeria,DZA,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,25173.955
+Algeria,DZA,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,27308.149
+Algeria,DZA,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,25111.616
+Algeria,DZA,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,22779.404
+Algeria,DZA,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,22522.714
+Algeria,DZA,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,22786.738
+Algeria,DZA,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,22038.67
+Algeria,DZA,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,18657.696
+Algeria,DZA,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,18169.985
+Algeria,DZA,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,18635.694
+Algeria,DZA,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,15372.064
+Algeria,DZA,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,13175.531
+Algeria,DZA,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,13879.595
+Algeria,DZA,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11045.004
+Algeria,DZA,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11301.694
+Algeria,DZA,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9614.874
+Algeria,DZA,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9383.853
+Algeria,DZA,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,7264.327
+Algeria,DZA,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,7623.693
+Algeria,DZA,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6842.622
+Algeria,DZA,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,7876.716
+Algeria,DZA,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6538.261
+Algeria,DZA,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6098.221
+Algeria,DZA,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5977.21
+Algeria,DZA,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4180.38
+Algeria,DZA,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3784.344
+Algeria,DZA,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4129.042
+Algeria,DZA,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4140.043
+Algeria,DZA,1961,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4316.059
+Algeria,DZA,1960,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4374.731
+Algeria,DZA,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,37642.5577718626
+Algeria,DZA,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,36978.490977748
+Algeria,DZA,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,38114.8042235993
+Algeria,DZA,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,37615.0456309052
+Algeria,DZA,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,35826.8020864778
+Algeria,DZA,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,36450.669850142
+Algeria,DZA,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,33673.5178352081
+Algeria,DZA,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,33794.6572722891
+Algeria,DZA,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,36708.2598285081
+Algeria,DZA,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,37481.56624539
+Algeria,DZA,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,34990.7277125626
+Algeria,DZA,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,34288.7646840986
+Algeria,DZA,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,33233.592842561
+Algeria,DZA,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,32333.3361894969
+Algeria,DZA,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,29215.8683019087
+Algeria,DZA,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,30196.0190357265
+Algeria,DZA,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,30461.8760443239
+Algeria,DZA,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,26662.8971786176
+Algeria,DZA,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,25504.9665511964
+Algeria,DZA,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,26640.4404210116
+Algeria,DZA,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,25154.6864630322
+Algeria,DZA,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,25136.9307499473
+Algeria,DZA,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,25077.0491251876
+Algeria,DZA,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,25480.3371596666
+Algeria,DZA,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,21304.4203855371
+Algeria,DZA,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,19563.5985354638
+Algeria,DZA,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,17335.8245955638
+Algeria,DZA,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,18205.279589599
+Algeria,DZA,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,20782.7502604333
+Algeria,DZA,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,22792.8391213205
+Algeria,DZA,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,23150.2953365053
+Algeria,DZA,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,21353.5832411969
+Algeria,DZA,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,19941.9233707458
+Algeria,DZA,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,15774.3512932628
+Algeria,DZA,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,17652.405877939
+Algeria,DZA,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,21044.4934056964
+Algeria,DZA,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,16096.5648839409
+Algeria,DZA,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,10637.3830333161
+Algeria,DZA,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,9202.00374680717
+Algeria,DZA,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Algeria,DZA,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,79.3530713957572
+Algeria,DZA,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,79.4426562552322
+Algeria,DZA,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,80.2834404913698
+Algeria,DZA,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,80.4818541740861
+Algeria,DZA,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,79.9885735098265
+Algeria,DZA,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,80.7826573130607
+Algeria,DZA,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,79.7061048810643
+Algeria,DZA,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,79.9633181795983
+Algeria,DZA,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,81.4786712165516
+Algeria,DZA,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,81.9822924016221
+Algeria,DZA,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,81.724249368367
+Algeria,DZA,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,81.9587745756074
+Algeria,DZA,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,81.8146281506451
+Algeria,DZA,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,81.6436537370828
+Algeria,DZA,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,80.3152263189385
+Algeria,DZA,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,80.7444956433043
+Algeria,DZA,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,81.2591892302829
+Algeria,DZA,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,79.8175626814639
+Algeria,DZA,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,78.9642115680056
+Algeria,DZA,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,80.1160834619308
+Algeria,DZA,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,79.6886747946608
+Algeria,DZA,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,79.9063219211242
+Algeria,DZA,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,80.4984852600704
+Algeria,DZA,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,80.848123541363
+Algeria,DZA,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,78.2594750927056
+Algeria,DZA,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,76.6839077119152
+Algeria,DZA,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,75.2605867553041
+Algeria,DZA,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,77.0636250443369
+Algeria,DZA,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,79.7940153210087
+Algeria,DZA,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,81.9129046935763
+Algeria,DZA,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,83.237615502872
+Algeria,DZA,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,82.7892513819683
+Algeria,DZA,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,82.8142646509628
+Algeria,DZA,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,79.2207237544525
+Algeria,DZA,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,81.7661199873038
+Algeria,DZA,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,84.6993830246854
+Algeria,DZA,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,80.8677549331865
+Algeria,DZA,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,73.9863191327846
+Algeria,DZA,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,71.5702655052552
+Algeria,DZA,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,407.5381985
+Algeria,DZA,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,393.3073571
+Algeria,DZA,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,371.7325165
+Algeria,DZA,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,365.0721603
+Algeria,DZA,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,358.9329203
+Algeria,DZA,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,355.0118698
+Algeria,DZA,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,339.825844
+Algeria,DZA,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,339.8221984
+Algeria,DZA,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,349.454878
+Algeria,DZA,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,335.7128911
+Algeria,DZA,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,330.8132853
+Algeria,DZA,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,329.064597
+Algeria,DZA,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,341.4233422
+Algeria,DZA,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,341.8975492
+Algeria,DZA,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,333.6882873
+Algeria,DZA,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,332.5886181
+Algeria,DZA,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,329.7132193
+Algeria,DZA,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,298.8673203
+Algeria,DZA,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,287.2556348
+Algeria,DZA,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,288.928184
+Algeria,DZA,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,296.7484579
+Algeria,DZA,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,296.0431459
+Algeria,DZA,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,303.0563069
+Algeria,DZA,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,305.0854925
+Algeria,DZA,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,393.6289635
+Algeria,DZA,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,375.4684505
+Algeria,DZA,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,366.4576402
+Algeria,DZA,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,371.0486968
+Algeria,DZA,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,378.9090165
+Algeria,DZA,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,372.5142714
+Algeria,DZA,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,371.8373864
+Algeria,DZA,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,350.9813366
+Algeria,DZA,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,327.3830702
+Algeria,DZA,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,280.6477492
+Algeria,DZA,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,280.8936784
+Algeria,DZA,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,298.9969313
+Algeria,DZA,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,248.9484388
+Algeria,DZA,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,201.6537011
+Algeria,DZA,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,186.7724704
+Algeria,DZA,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Algeria,DZA,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.22698604231833
+Algeria,DZA,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.07228969592241
+Algeria,DZA,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.31146872292497
+Algeria,DZA,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.48580664641046
+Algeria,DZA,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.40937447206082
+Algeria,DZA,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.48873341485584
+Algeria,DZA,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.25833885107397
+Algeria,DZA,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.22163352965203
+Algeria,DZA,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.59224526357618
+Algeria,DZA,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.50627155650438
+Algeria,DZA,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.94262727380988
+Algeria,DZA,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.82354305378918
+Algeria,DZA,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.71059187614068
+Algeria,DZA,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.40162579171249
+Algeria,DZA,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.12890868310955
+Algeria,DZA,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.53581545139742
+Algeria,DZA,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.67149226064252
+Algeria,DZA,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.19490231051673
+Algeria,DZA,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.74914840927631
+Algeria,DZA,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.06835635034393
+Algeria,DZA,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.25543513521708
+Algeria,DZA,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.82102703474876
+Algeria,DZA,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.3967661123133
+Algeria,DZA,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.62242665282855
+Algeria,DZA,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.99410359537827
+Algeria,DZA,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.0516909274997
+Algeria,DZA,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.1680866693045
+Algeria,DZA,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,11.8636080522544
+Algeria,DZA,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,11.0669305989406
+Algeria,DZA,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.0526267539944
+Algeria,DZA,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,13.1576397595925
+Algeria,DZA,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,11.2480787227913
+Algeria,DZA,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,11.2606018666118
+Algeria,DZA,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.130830416372
+Algeria,DZA,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,11.9459181103982
+Algeria,DZA,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,11.4955463835447
+Algeria,DZA,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.97545935748071
+Algeria,DZA,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.42555629247177
+Algeria,DZA,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.90262055758498
+Algeria,DZA,2016,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.17
+Algeria,DZA,2014,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.16
+Algeria,DZA,2012,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.17
+Algeria,DZA,2010,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.19
+Algeria,DZA,2008,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.2
+Algeria,DZA,2006,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.19
+Algeria,DZA,2004,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.15
+Algeria,DZA,2002,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.1
+Algeria,DZA,2000,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.15
+Algeria,DZA,1998,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.16
+Algeria,DZA,1995,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.23
+Algeria,DZA,1992,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.09
+Algeria,DZA,1991,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.04
+Algeria,DZA,2016,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.28
+Algeria,DZA,2014,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.27
+Algeria,DZA,2012,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.29
+Algeria,DZA,2010,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.32
+Algeria,DZA,2008,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.34
+Algeria,DZA,2006,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.32
+Algeria,DZA,2004,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.32
+Algeria,DZA,2002,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.22
+Algeria,DZA,2000,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.27
+Algeria,DZA,1998,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.31
+Algeria,DZA,1995,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.4
+Algeria,DZA,1992,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.2
+Algeria,DZA,1991,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.15
+Algeria,DZA,2007,Time to obtain an electrical connection (days),IC.ELC.DURS,49.1
+Algeria,DZA,2019,Time required to get electricity (days),IC.ELC.TIME,84
+Algeria,DZA,2018,Time required to get electricity (days),IC.ELC.TIME,84
+Algeria,DZA,2017,Time required to get electricity (days),IC.ELC.TIME,180
+Algeria,DZA,2016,Time required to get electricity (days),IC.ELC.TIME,180
+Algeria,DZA,2015,Time required to get electricity (days),IC.ELC.TIME,180
+Algeria,DZA,2014,Time required to get electricity (days),IC.ELC.TIME,180
+Algeria,DZA,2013,Time required to get electricity (days),IC.ELC.TIME,180
+Algeria,DZA,2012,Time required to get electricity (days),IC.ELC.TIME,158
+Algeria,DZA,2011,Time required to get electricity (days),IC.ELC.TIME,158
+Algeria,DZA,2010,Time required to get electricity (days),IC.ELC.TIME,158
+Algeria,DZA,2009,Time required to get electricity (days),IC.ELC.TIME,158
+Algeria,DZA,2007,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,8.9
+Algeria,DZA,2012,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,30300000
+Algeria,DZA,2009,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,350000000
+Algeria,DZA,2006,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,2320000000
+Algeria,DZA,2005,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,400000000
+Algeria,DZA,2004,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,562000000
+Algeria,DZA,1993,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,2300000000
+Algeria,DZA,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,8116029.30875783
+Algeria,DZA,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,9186936.37690158
+Algeria,DZA,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,8894662.31777359
+Algeria,DZA,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,15007616.077913
+Algeria,DZA,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,25852420.1058205
+Algeria,DZA,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,44061988.4957306
+Algeria,DZA,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,39343321.0635709
+Algeria,DZA,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,35316843.1984027
+Algeria,DZA,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,24538219.1549991
+Algeria,DZA,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,43302223.3336313
+Algeria,DZA,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,22760922.5415812
+Algeria,DZA,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,19701467.0095795
+Algeria,DZA,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,8152770.4057953
+Algeria,DZA,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4272617.34769808
+Algeria,DZA,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2601523.2282439
+Algeria,DZA,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2021198.02437842
+Algeria,DZA,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2216077.45532282
+Algeria,DZA,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3055043.57694051
+Algeria,DZA,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1934048.13760365
+Algeria,DZA,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3346159.03034735
+Algeria,DZA,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1714995.88248502
+Algeria,DZA,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3624702.24589453
+Algeria,DZA,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1908533.59622434
+Algeria,DZA,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4612110.71451884
+Algeria,DZA,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1947740.808593
+Algeria,DZA,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3120151.62373638
+Algeria,DZA,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3081140.40238218
+Algeria,DZA,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,5374634.07760114
+Algeria,DZA,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,10618930.7522865
+Algeria,DZA,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,9209889.13409514
+Algeria,DZA,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2475912.30988503
+Algeria,DZA,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3056927.09884364
+Algeria,DZA,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4872929.83438885
+Algeria,DZA,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,5670593.62459597
+Algeria,DZA,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,5017316.08491987
+Algeria,DZA,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,6283936.24568694
+Algeria,DZA,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4078098.07234683
+Algeria,DZA,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4460127.04652658
+Algeria,DZA,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3284990.98732038
+Algeria,DZA,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2590010.85832207
+Algeria,DZA,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4152754.22051293
+Algeria,DZA,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4164814.52538069
+Algeria,DZA,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4410908.54651151
+Algeria,DZA,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,7142513.05276785
+Algeria,DZA,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,5196654.24402696
+Algeria,DZA,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1877708.64891462
+Algeria,DZA,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1521871.74953044
+Algeria,DZA,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1438830.80032217
+Algeria,DZA,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00491880564167141
+Algeria,DZA,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00577794740685634
+Algeria,DZA,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00549053229492197
+Algeria,DZA,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00718067754924066
+Algeria,DZA,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0126109366369856
+Algeria,DZA,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0214936529247466
+Algeria,DZA,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0198703641735206
+Algeria,DZA,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.021935927452424
+Algeria,DZA,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0180428082022052
+Algeria,DZA,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0254718960786066
+Algeria,DZA,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0171134755951739
+Algeria,DZA,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0175905955442674
+Algeria,DZA,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00830980681734119
+Algeria,DZA,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00522256095069972
+Algeria,DZA,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00397730595938439
+Algeria,DZA,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00370398409866479
+Algeria,DZA,2001,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00416953290277951
+Algeria,DZA,2000,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00586603143527741
+Algeria,DZA,1999,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00417265192046213
+Algeria,DZA,1998,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00724468978814709
+Algeria,DZA,1997,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00373167025470794
+Algeria,DZA,1996,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00816714735363003
+Algeria,DZA,1995,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0048226892924622
+Algeria,DZA,1994,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0113020476979802
+Algeria,DZA,1993,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00404125324093284
+Algeria,DZA,1992,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0068061237806087
+Algeria,DZA,1991,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00708383581509225
+Algeria,DZA,1990,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00896443189921152
+Algeria,DZA,1989,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0197592787041096
+Algeria,DZA,1988,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0161353374439427
+Algeria,DZA,1987,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00379669714677541
+Algeria,DZA,1986,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00490944058970571
+Algeria,DZA,1985,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00864495778890394
+Algeria,DZA,1984,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0108588589642558
+Algeria,DZA,1983,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0105457931131317
+Algeria,DZA,1982,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.014315970212967
+Algeria,DZA,1981,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00946280681976752
+Algeria,DZA,1980,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0108393693344053
+Algeria,DZA,1979,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0102166058696706
+Algeria,DZA,1978,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0100448180419522
+Algeria,DZA,1977,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0201490463793133
+Algeria,DZA,1976,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0239135456156211
+Algeria,DZA,1975,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0286782198679195
+Algeria,DZA,1974,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0543654765051848
+Algeria,DZA,1973,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0601511067237664
+Algeria,DZA,1972,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0278613121005061
+Algeria,DZA,1971,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0302167894437932
+Algeria,DZA,1970,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0303425426945442
+Algeria,DZA,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,15099101644.5231
+Algeria,DZA,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,12075288181.6782
+Algeria,DZA,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,16577722766.1415
+Algeria,DZA,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,32886530801.872
+Algeria,DZA,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,37601820934.7329
+Algeria,DZA,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,41668401981.2825
+Algeria,DZA,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,41039184458.0843
+Algeria,DZA,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,28216893311.1754
+Algeria,DZA,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,22378121214.6541
+Algeria,DZA,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,40230074823.949
+Algeria,DZA,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,30154629285.8313
+Algeria,DZA,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,28500912820.2432
+Algeria,DZA,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,23382993891.0833
+Algeria,DZA,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,14514889727.7289
+Algeria,DZA,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,11180369738.9315
+Algeria,DZA,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,8341935869.1577
+Algeria,DZA,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,7741343459.0677
+Algeria,DZA,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,8752392701.54643
+Algeria,DZA,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,4916341788.31311
+Algeria,DZA,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3541990927.15634
+Algeria,DZA,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,5664633247.63564
+Algeria,DZA,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,5889001313.26496
+Algeria,DZA,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,4353231195.17691
+Algeria,DZA,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3957200576.56422
+Algeria,DZA,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,4436503134.81596
+Algeria,DZA,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,4812789196.8307
+Algeria,DZA,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,4454785651.03185
+Algeria,DZA,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,7289190670.60432
+Algeria,DZA,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,5182369067.60261
+Algeria,DZA,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3445517909.68948
+Algeria,DZA,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,4212023388.16204
+Algeria,DZA,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3108312361.09034
+Algeria,DZA,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,5713119837.97258
+Algeria,DZA,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,5668609310.52618
+Algeria,DZA,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,5318233690.89421
+Algeria,DZA,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,5606628294.03081
+Algeria,DZA,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,7154119938.66937
+Algeria,DZA,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,9190860745.58483
+Algeria,DZA,1979,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,9141366159.14068
+Algeria,DZA,1978,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3981194470.7281
+Algeria,DZA,1977,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3592515638.09878
+Algeria,DZA,1976,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3054537425.28924
+Algeria,DZA,1975,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,2473603378.04174
+Algeria,DZA,1974,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,2631223361.12912
+Algeria,DZA,1973,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,727302276.550053
+Algeria,DZA,1972,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,481393621.273833
+Algeria,DZA,1971,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,262105077.047767
+Algeria,DZA,1970,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,286124892.264068
+Algeria,DZA,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,9.15097069365038
+Algeria,DZA,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,7.59452086897997
+Algeria,DZA,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,10.2331622013219
+Algeria,DZA,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,15.7351822018526
+Algeria,DZA,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,18.3423516754795
+Algeria,DZA,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,20.3260497469671
+Algeria,DZA,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,20.7268608374163
+Algeria,DZA,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,17.526020690171
+Algeria,DZA,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,16.454500893128
+Algeria,DZA,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,23.6647498964406
+Algeria,DZA,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,22.6726535983694
+Algeria,DZA,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,25.4472435895029
+Algeria,DZA,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,23.8333906604128
+Algeria,DZA,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,17.7420279250118
+Algeria,DZA,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,17.0929671924514
+Algeria,DZA,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,15.2871700045045
+Algeria,DZA,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,14.5652789286635
+Algeria,DZA,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,16.8055903060409
+Algeria,DZA,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,10.6068626761641
+Algeria,DZA,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,7.66868079698395
+Algeria,DZA,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,12.3257108719129
+Algeria,DZA,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,13.2690461804501
+Algeria,DZA,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,11.000215827547
+Algeria,DZA,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,9.6971804093973
+Algeria,DZA,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,9.2050403179339
+Algeria,DZA,1992,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,10.4983484630725
+Algeria,DZA,1991,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,10.2419773272715
+Algeria,DZA,1990,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,12.1577492390263
+Algeria,DZA,1989,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,9.64314365947507
+Algeria,DZA,1988,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,6.03640210349285
+Algeria,DZA,1987,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,6.45894328169024
+Algeria,DZA,1986,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,4.99196558426056
+Algeria,DZA,1985,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,10.1355204201123
+Algeria,DZA,1984,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,10.8550591175288
+Algeria,DZA,1983,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,11.1782856176885
+Algeria,DZA,1982,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,12.772937298276
+Algeria,DZA,1981,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,16.6003989467857
+Algeria,DZA,1980,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,22.3363893187897
+Algeria,DZA,1979,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,28.4304387801281
+Algeria,DZA,1978,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,15.4402341285927
+Algeria,DZA,1977,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,17.4307845749465
+Algeria,DZA,1976,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,17.538552943747
+Algeria,DZA,1975,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,16.0825237688533
+Algeria,DZA,1974,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,20.0276444386651
+Algeria,DZA,1973,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,8.41850059728036
+Algeria,DZA,1972,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,7.14288552340419
+Algeria,DZA,1971,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,5.20410075799435
+Algeria,DZA,1970,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,6.03389693739557
+Algeria,DZA,2017,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.28876555247805
+Algeria,DZA,2016,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,7.73469120992649
+Algeria,DZA,2015,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,10.4084077411197
+Algeria,DZA,2014,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,15.8875439879735
+Algeria,DZA,2013,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,18.4488920881885
+Algeria,DZA,2012,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,20.4544178643195
+Algeria,DZA,2011,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,20.8480959085721
+Algeria,DZA,2010,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,17.6563863604728
+Algeria,DZA,2009,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,16.5804199213895
+Algeria,DZA,2008,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,23.7787990100348
+Algeria,DZA,2007,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,22.7543534650982
+Algeria,DZA,2006,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,25.546986751326
+Algeria,DZA,2005,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,23.9170856907571
+Algeria,DZA,2004,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,17.8401504045422
+Algeria,DZA,2003,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,17.2155664882342
+Algeria,DZA,2002,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,15.3955010157131
+Algeria,DZA,2001,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,14.6669564883555
+Algeria,DZA,2000,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,16.8960699441679
+Algeria,DZA,1999,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,10.7303180919959
+Algeria,DZA,1998,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,7.90212720404663
+Algeria,DZA,1997,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,12.4951956065024
+Algeria,DZA,1996,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,13.4461101922758
+Algeria,DZA,1995,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,11.1835523477637
+Algeria,DZA,1994,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.82312267828175
+Algeria,DZA,1993,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.30069792918467
+Algeria,DZA,1992,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,10.6254767494542
+Algeria,DZA,1991,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,10.3909931786169
+Algeria,DZA,1990,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,12.2640102528974
+Algeria,DZA,1989,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.76626459545619
+Algeria,DZA,1988,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,6.14691034473676
+Algeria,DZA,1987,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,6.54144863561873
+Algeria,DZA,1986,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,5.07570697791162
+Algeria,DZA,1985,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,10.1764434139113
+Algeria,DZA,1984,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,10.9515721794433
+Algeria,DZA,1983,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,11.2804790053062
+Algeria,DZA,1982,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,12.9290886978637
+Algeria,DZA,1981,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,16.6726792580614
+Algeria,DZA,1980,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,22.4112171276907
+Algeria,DZA,1979,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,28.5107036575208
+Algeria,DZA,1978,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,15.538566042201
+Algeria,DZA,1977,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,17.5352235738154
+Algeria,DZA,1976,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,17.6221802246471
+Algeria,DZA,1975,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,16.1941358035713
+Algeria,DZA,1974,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,20.1568185626713
+Algeria,DZA,1973,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,8.57538214262614
+Algeria,DZA,1972,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,7.25855454123428
+Algeria,DZA,1971,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,5.34229800550248
+Algeria,DZA,1970,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,6.17411875503731
+Algeria,DZA,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0467169004129817
+Algeria,DZA,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0662487681104204
+Algeria,DZA,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0693219571176254
+Algeria,DZA,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0629423353944174
+Algeria,DZA,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0924466485114873
+Algeria,DZA,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.16634105165558
+Algeria,DZA,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.166332505412522
+Algeria,DZA,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.169620448813279
+Algeria,DZA,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.194636580066071
+Algeria,DZA,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.360854163097776
+Algeria,DZA,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.153560836110465
+Algeria,DZA,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.105406111884584
+Algeria,DZA,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0759122508936195
+Algeria,DZA,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0394776020856341
+Algeria,DZA,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0328504278412006
+Algeria,DZA,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0298160387323321
+Algeria,DZA,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0334511725422837
+Algeria,DZA,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0389115280704038
+Algeria,DZA,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0302426097719456
+Algeria,DZA,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0516208744229967
+Algeria,DZA,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0222122750185893
+Algeria,DZA,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0264605741045984
+Algeria,DZA,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0245169394428748
+Algeria,DZA,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0291690865352792
+Algeria,DZA,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0305311341223511
+Algeria,DZA,1992,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0462620149064508
+Algeria,DZA,1991,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0502234226296369
+Algeria,DZA,1990,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0453340324667812
+Algeria,DZA,1989,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0628925609941345
+Algeria,DZA,1988,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0498041086561552
+Algeria,DZA,1987,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0247224115024854
+Algeria,DZA,1986,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0317561411759288
+Algeria,DZA,1985,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0462606313505
+Algeria,DZA,1984,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0535650909280777
+Algeria,DZA,1983,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0674571938525227
+Algeria,DZA,1982,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0961252272133481
+Algeria,DZA,1981,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.077121325864514
+Algeria,DZA,1980,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0777823186136183
+Algeria,DZA,1979,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0605837808305184
+Algeria,DZA,1978,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0658029170845176
+Algeria,DZA,1977,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.285041800692726
+Algeria,DZA,1976,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.174396541632372
+Algeria,DZA,1975,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.30560485026379
+Algeria,DZA,1974,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.326828859463834
+Algeria,DZA,1973,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.157960731717293
+Algeria,DZA,1972,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.152165318159716
+Algeria,DZA,1971,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.182914625679311
+Algeria,DZA,1970,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.17141223555047
+Algeria,DZA,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.18116451217951
+Algeria,DZA,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.02280775978177
+Algeria,DZA,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,3.12315920368359
+Algeria,DZA,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,3.8880961192327
+Algeria,DZA,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,4.24025142545719
+Algeria,DZA,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,4.34434267856917
+Algeria,DZA,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,3.98573599813149
+Algeria,DZA,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,3.20106236396534
+Algeria,DZA,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,4.47528732230214
+Algeria,DZA,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,3.9245353445032
+Algeria,DZA,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,4.23268671913797
+Algeria,DZA,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,4.39561768236528
+Algeria,DZA,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,3.88754607271093
+Algeria,DZA,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.64064614105446
+Algeria,DZA,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.93174159205352
+Algeria,DZA,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,3.2066378415554
+Algeria,DZA,2001,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,4.00161600029281
+Algeria,DZA,2000,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,3.54310748995401
+Algeria,DZA,1999,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.03979502191083
+Algeria,DZA,1998,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.04695427014735
+Algeria,DZA,1997,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,2.50887712690899
+Algeria,DZA,1996,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.89741828433054
+Algeria,DZA,1995,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.51778232647846
+Algeria,DZA,1994,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.10883809507339
+Algeria,DZA,1993,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.33404333775231
+Algeria,DZA,1992,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.06603495184435
+Algeria,DZA,1991,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.28413882822761
+Algeria,DZA,1990,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.961292346838597
+Algeria,DZA,1989,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.838199506199691
+Algeria,DZA,1988,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.72987197232756
+Algeria,DZA,1987,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.672428953074522
+Algeria,DZA,1986,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.891596387503017
+Algeria,DZA,1985,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.01743209413547
+Algeria,DZA,1984,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.953184160312278
+Algeria,DZA,1983,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.14905142647801
+Algeria,DZA,1982,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.11784763084734
+Algeria,DZA,1981,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.490495420671859
+Algeria,DZA,1980,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.844868466756675
+Algeria,DZA,1979,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,1.44490189723957
+Algeria,DZA,1978,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.609967888652149
+Algeria,DZA,1977,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.421924008007767
+Algeria,DZA,1976,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.363835467239234
+Algeria,DZA,1975,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.293378998705716
+Algeria,DZA,1974,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0960402120647523
+Algeria,DZA,1973,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0401737866197054
+Algeria,DZA,1972,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.020158221726149
+Algeria,DZA,1971,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0168016915738925
+Algeria,DZA,1970,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0.0352182559133193
+Algeria,DZA,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,12.3136966845008
+Algeria,DZA,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,10.0461045020138
+Algeria,DZA,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,12.8479228026555
+Algeria,DZA,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,20.4727927311244
+Algeria,DZA,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,23.8161858141584
+Algeria,DZA,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,26.172013231773
+Algeria,DZA,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,27.3097045242853
+Algeria,DZA,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,23.4095151616686
+Algeria,DZA,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,20.6446690608882
+Algeria,DZA,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,30.4903828890914
+Algeria,DZA,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,28.6869326571967
+Algeria,DZA,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,30.6743453295369
+Algeria,DZA,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,29.0923265071247
+Algeria,DZA,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,22.2345161089921
+Algeria,DZA,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,20.2334378970791
+Algeria,DZA,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,18.4065200264346
+Algeria,DZA,2001,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,17.5780615527031
+Algeria,DZA,2000,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,20.6254890016255
+Algeria,DZA,1999,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,13.3546832723476
+Algeria,DZA,1998,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,9.23068663109146
+Algeria,DZA,1997,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,15.1724881426969
+Algeria,DZA,1996,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,16.8150754914458
+Algeria,DZA,1995,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,14.3299933245524
+Algeria,DZA,1994,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,12.9107139222451
+Algeria,DZA,1993,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,12.1973153233617
+Algeria,DZA,1992,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,13.8423951590956
+Algeria,DZA,1991,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,13.4842293729822
+Algeria,DZA,1990,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,16.5069496047154
+Algeria,DZA,1989,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,12.9334303401694
+Algeria,DZA,1988,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,8.20482283858503
+Algeria,DZA,1987,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,8.98772143638755
+Algeria,DZA,1986,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,6.81803762411512
+Algeria,DZA,1985,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,14.4616402098809
+Algeria,DZA,1984,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,15.8322032091039
+Algeria,DZA,1983,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,16.8350683304024
+Algeria,DZA,1982,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,18.2741266840096
+Algeria,DZA,1981,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,23.691592927516
+Algeria,DZA,1980,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,30.9833867664308
+Algeria,DZA,1979,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,37.6880419666502
+Algeria,DZA,1978,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,20.6632453228201
+Algeria,DZA,1977,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,23.9082096767382
+Algeria,DZA,1976,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,24.4993419548516
+Algeria,DZA,1975,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,23.2759111959039
+Algeria,DZA,1974,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,28.7483368585868
+Algeria,DZA,1973,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,11.6369846796669
+Algeria,DZA,1972,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,9.97707893623066
+Algeria,DZA,1971,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,8.06307458141468
+Algeria,DZA,1970,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,8.27353780995324
+Algeria,DZA,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,14.706163078181
+Algeria,DZA,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.3034066152038
+Algeria,DZA,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,16.2491890249986
+Algeria,DZA,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,24.6027224005112
+Algeria,DZA,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,28.2646967283223
+Algeria,DZA,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,30.8152448663381
+Algeria,DZA,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,31.5887957899142
+Algeria,DZA,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,26.9175672763786
+Algeria,DZA,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,25.4493142510922
+Algeria,DZA,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,34.8856081406833
+Algeria,DZA,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,33.1518520622884
+Algeria,DZA,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,35.2718115753797
+Algeria,DZA,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,33.1430432327069
+Algeria,DZA,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,25.0232599212951
+Algeria,DZA,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,23.3382284569456
+Algeria,DZA,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,21.7665326612184
+Algeria,DZA,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,21.7300028096429
+Algeria,DZA,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,24.3074698865149
+Algeria,DZA,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,15.5654489985222
+Algeria,DZA,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.5992485656757
+Algeria,DZA,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,17.9015734948915
+Algeria,DZA,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,18.9404971045292
+Algeria,DZA,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,16.0874420994284
+Algeria,DZA,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,14.1894202123086
+Algeria,DZA,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,13.6757702629286
+Algeria,DZA,1992,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,15.1050170264909
+Algeria,DZA,1991,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,14.9969955866299
+Algeria,DZA,1990,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,17.6396998948733
+Algeria,DZA,1989,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,13.9703661473681
+Algeria,DZA,1988,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,9.10946355115493
+Algeria,DZA,1987,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,9.79196633199536
+Algeria,DZA,1986,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.85027232162713
+Algeria,DZA,1985,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,15.5711880112222
+Algeria,DZA,1984,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,16.9606155310603
+Algeria,DZA,1983,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,18.183896808093
+Algeria,DZA,1982,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,18.6936982954643
+Algeria,DZA,1981,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,24.3511982001117
+Algeria,DZA,1980,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,32.0013548685793
+Algeria,DZA,1979,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,39.2996567982733
+Algeria,DZA,1978,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,21.4758876767766
+Algeria,DZA,1977,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,24.7487148462446
+Algeria,DZA,1976,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,25.1347809115257
+Algeria,DZA,1975,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,24.0309091641343
+Algeria,DZA,1974,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,29.3053957515557
+Algeria,DZA,1973,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.0035392283542
+Algeria,DZA,1972,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.3066839101977
+Algeria,DZA,1971,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.4544258822357
+Algeria,DZA,1970,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.67939229717359
+Algeria,DZA,2017,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,4.22770282955623
+Algeria,DZA,2016,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.42331413085719
+Algeria,DZA,2015,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,4.59134590128326
+Algeria,DZA,2014,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,4.91409966479178
+Algeria,DZA,2013,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.8493715528533
+Algeria,DZA,2012,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.70007378674906
+Algeria,DZA,2011,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.29190907586296
+Algeria,DZA,2010,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.13179627855214
+Algeria,DZA,2009,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.06695005802203
+Algeria,DZA,2008,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.3760976050719
+Algeria,DZA,2007,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.12116627491965
+Algeria,DZA,2006,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.12830824062301
+Algeria,DZA,2005,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.991573864692353
+Algeria,DZA,2004,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.938300990082266
+Algeria,DZA,2003,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.827711795039544
+Algeria,DZA,2002,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.19198368898265
+Algeria,DZA,2001,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.38232151015097
+Algeria,DZA,2000,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.4262916091602
+Algeria,DZA,1999,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.67526572684924
+Algeria,DZA,1998,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.34276080114507
+Algeria,DZA,1997,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.53523822041408
+Algeria,DZA,1996,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.22537722921597
+Algeria,DZA,1995,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.09626649702119
+Algeria,DZA,1994,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.604262991649299
+Algeria,DZA,1993,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.43864248867514
+Algeria,DZA,1992,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.43262027394615
+Algeria,DZA,1991,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.24059490808567
+Algeria,DZA,1990,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.12338113773661
+Algeria,DZA,1989,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.38391622667531
+Algeria,DZA,1988,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.30628391211439
+Algeria,DZA,1987,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.28221307754377
+Algeria,DZA,1986,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.97049106531976
+Algeria,DZA,1985,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.87725802850813
+Algeria,DZA,1984,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.05891905972216
+Algeria,DZA,1983,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.07375485109756
+Algeria,DZA,1982,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.54507009262455
+Algeria,DZA,1981,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.03757864192285
+Algeria,DZA,1980,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.45645616290412
+Algeria,DZA,1979,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.955512989445
+Algeria,DZA,1978,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.49464988276232
+Algeria,DZA,1977,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.36059338028335
+Algeria,DZA,1976,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.59918486248295
+Algeria,DZA,1975,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.6987232543566
+Algeria,DZA,1974,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.47788455627903
+Algeria,DZA,1973,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.61043122093373
+Algeria,DZA,1971,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.48731383395879
+Algeria,DZA,1970,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,2.11825532769546
+Algeria,DZA,1969,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.56910501261612
+Algeria,DZA,1968,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.5577632604364
+Algeria,DZA,1966,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.05040965573991
+Algeria,DZA,2017,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.46953136947315
+Algeria,DZA,2016,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.6135554478508
+Algeria,DZA,2015,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.53647538906332
+Algeria,DZA,2014,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.42112346094867
+Algeria,DZA,2013,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.53191837276918
+Algeria,DZA,2012,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.56497426987069
+Algeria,DZA,2011,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.64856458723544
+Algeria,DZA,2010,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.5263238730189
+Algeria,DZA,2009,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.38156853178611
+Algeria,DZA,2008,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.60048828831833
+Algeria,DZA,2007,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.85550959522023
+Algeria,DZA,2006,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.78347628669084
+Algeria,DZA,2005,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.52553336957937
+Algeria,DZA,2004,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.30512696516834
+Algeria,DZA,2003,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.17152856895813
+Algeria,DZA,2002,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.2967288000714
+Algeria,DZA,2001,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.3842657432696
+Algeria,DZA,2000,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.19807431935034
+Algeria,DZA,1999,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.21356034654235
+Algeria,DZA,1998,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.35664227703658
+Algeria,DZA,1997,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.10405356001467
+Algeria,DZA,1996,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.3683416209662
+Algeria,DZA,1995,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.5781091441857
+Algeria,DZA,1994,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.46613362622916
+Algeria,DZA,1993,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.74746350216048
+Algeria,DZA,1992,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.19222965060206
+Algeria,DZA,1991,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.23010076971062
+Algeria,DZA,1990,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.04892299425669
+Algeria,DZA,1989,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.31375543403997
+Algeria,DZA,1988,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.54041975600317
+Algeria,DZA,1987,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.90552398759271
+Algeria,DZA,1986,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.20479674913723
+Algeria,DZA,1985,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.05800447236839
+Algeria,DZA,1984,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.59001814705962
+Algeria,DZA,1983,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.44380472413302
+Algeria,DZA,1982,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.17050000589397
+Algeria,DZA,1981,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.70794328296732
+Algeria,DZA,1980,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.71607428910969
+Algeria,DZA,1979,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.59250780934569
+Algeria,DZA,1978,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.27820856717712
+Algeria,DZA,1977,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.44658277231634
+Algeria,DZA,1976,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.21611186148919
+Algeria,DZA,1975,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.66201892420481
+Algeria,DZA,1974,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.65537648963574
+Algeria,DZA,1973,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.72714468868683
+Algeria,DZA,1971,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.76709078642351
+Algeria,DZA,1970,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.9181040874048
+Algeria,DZA,1969,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.68550962823195
+Algeria,DZA,1968,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.38387605901541
+Algeria,DZA,1966,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.21988663085779
+Algeria,DZA,2017,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,94.5167406218176
+Algeria,DZA,2016,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,93.9921282481577
+Algeria,DZA,2015,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,94.3258598704775
+Algeria,DZA,2014,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,95.7642317855163
+Algeria,DZA,2013,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,96.7220003369248
+Algeria,DZA,2012,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.1354912419101
+Algeria,DZA,2011,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.1969009695959
+Algeria,DZA,2010,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.3459982110115
+Algeria,DZA,2009,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.7015445495895
+Algeria,DZA,2008,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.5787759999425
+Algeria,DZA,2007,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.7888821640915
+Algeria,DZA,2006,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.9089075716029
+Algeria,DZA,2005,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,98.0278643545193
+Algeria,DZA,2004,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.378685611964
+Algeria,DZA,2003,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.2668463384999
+Algeria,DZA,2002,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,96.1053677409582
+Algeria,DZA,2001,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,96.6119747287495
+Algeria,DZA,2000,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.2221360372158
+Algeria,DZA,1999,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,96.484431698099
+Algeria,DZA,1998,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,96.2168281502199
+Algeria,DZA,1997,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,96.3196540806339
+Algeria,DZA,1996,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,92.0511179726995
+Algeria,DZA,1995,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,94.5567456239932
+Algeria,DZA,1994,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,96.5574164877248
+Algeria,DZA,1993,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,95.2402296683673
+Algeria,DZA,1992,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,95.8541191930733
+Algeria,DZA,1991,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,96.8838245439323
+Algeria,DZA,1990,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,96.4739916055125
+Algeria,DZA,1989,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,95.5900713370056
+Algeria,DZA,1988,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,94.8218306085758
+Algeria,DZA,1987,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.4047722323739
+Algeria,DZA,1986,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.5108625555306
+Algeria,DZA,1985,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.5224560995324
+Algeria,DZA,1984,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.5297035635661
+Algeria,DZA,1983,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,98.323789128205
+Algeria,DZA,1982,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.9367325565344
+Algeria,DZA,1981,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.977478437039
+Algeria,DZA,1980,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,98.4451750621616
+Algeria,DZA,1979,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,97.7309578383838
+Algeria,DZA,1978,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,96.0685021881172
+Algeria,DZA,1977,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,95.9943094511777
+Algeria,DZA,1976,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,93.6056726972251
+Algeria,DZA,1975,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,92.3913856065654
+Algeria,DZA,1974,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,92.51028218481
+Algeria,DZA,1973,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,82.9795680030677
+Algeria,DZA,1971,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,74.8520367705256
+Algeria,DZA,1970,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,70.2364681696297
+Algeria,DZA,1969,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,67.6180062866164
+Algeria,DZA,1968,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,70.9799654280758
+Algeria,DZA,1966,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,59.2927652673661
+Algeria,DZA,2017,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.165141817786034
+Algeria,DZA,2016,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.251775041757352
+Algeria,DZA,2015,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.3090805349232
+Algeria,DZA,2014,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.179690700622341
+Algeria,DZA,2013,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.16701183702546
+Algeria,DZA,2012,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.246081242421567
+Algeria,DZA,2011,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.255949001868052
+Algeria,DZA,2010,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.291258672221831
+Algeria,DZA,2009,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.470746702907166
+Algeria,DZA,2008,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.632902936798755
+Algeria,DZA,2007,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.508570668979813
+Algeria,DZA,2006,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.721696709256806
+Algeria,DZA,2005,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.491152211167111
+Algeria,DZA,2004,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.414819808828625
+Algeria,DZA,2003,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.380807977479172
+Algeria,DZA,2002,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.426398990764711
+Algeria,DZA,2001,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.313572441587711
+Algeria,DZA,2000,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.252778134895655
+Algeria,DZA,1999,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.466505377220318
+Algeria,DZA,1998,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.706168971380062
+Algeria,DZA,1997,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.533476832081596
+Algeria,DZA,1996,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.681099683302344
+Algeria,DZA,1995,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.515464278037815
+Algeria,DZA,1994,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.327048689499349
+Algeria,DZA,1993,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.310406484325856
+Algeria,DZA,1992,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.381798525233195
+Algeria,DZA,1991,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.471008989133225
+Algeria,DZA,1990,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.428889589256482
+Algeria,DZA,1989,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.643839932015409
+Algeria,DZA,1988,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.87982057008567
+Algeria,DZA,1987,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.490492126886128
+Algeria,DZA,1986,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.777389009370995
+Algeria,DZA,1985,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.399498095300789
+Algeria,DZA,1984,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.512363162793164
+Algeria,DZA,1983,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.601896686650367
+Algeria,DZA,1982,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.663802229332057
+Algeria,DZA,1981,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.580070875088779
+Algeria,DZA,1980,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.463847545723524
+Algeria,DZA,1979,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.703290176005147
+Algeria,DZA,1978,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.910960591919183
+Algeria,DZA,1977,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.00851951869351
+Algeria,DZA,1976,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.37418878082259
+Algeria,DZA,1975,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.23596136072819
+Algeria,DZA,1974,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.42707454455531
+Algeria,DZA,1973,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.17685572212766
+Algeria,DZA,1971,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.33687692197936
+Algeria,DZA,1970,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.52910065335482
+Algeria,DZA,1969,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.3144969100292
+Algeria,DZA,1968,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.94260116169158
+Algeria,DZA,1966,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.76707919897057

@@ -11,7 +11,7 @@ workingDir = os.getcwd() + '\\toProcess'
 
 ### processing csv
 
-# function to handle complex csv format
+## function to handle complex csv format
 def cleanSubstrings(astr, divider = '"', charToSave = ',', changeWith = ':'):
 
     # define " positions
@@ -51,7 +51,7 @@ def cleanSubstrings(astr, divider = '"', charToSave = ',', changeWith = ':'):
     
     return ''.join(difList)
 
-    ### processing csv files 
+### processing csv files 
 filesToOpen = []
 
 # the csv files should be placed in toProcess subfolder
@@ -76,6 +76,7 @@ for fileToOpen in filesToOpen:
 
     for each in tempFilesToOpen:
         tempList = each.split(':')
+        #print(tempList)
         countryDict[tempList[3]] = countryDict.get(tempList[3], {}) 
         countryDict[tempList[3]][tempList[2]] = countryDict[tempList[3]].get(tempList[2], {})
         countryDict[tempList[3]][tempList[2]][tempList[0]] = countryDict[tempList[3]][tempList[2]].get(tempList[0], tempList[-1].strip())
@@ -147,8 +148,9 @@ for i in range(len(tempNames)):
     </script>
   </head>
   <body>
+    <p><a href="https://github.com/mirakklys/py4me">Git-Hub rep</a></p>
     <div id="chart_div" style="width: 1300px; height: 600px;"></div>
-    <a href="..\index.htm">Go Back</a>
+    <p><a href="..\\index.htm">Go Back</a></p>
   </body>
 </html>
 ''')
@@ -159,7 +161,8 @@ indexHtm.write('''<html>
   <head>
    <title>Index page</title>
   </head>
-  <body>''')
+  <body>
+      <p><a href="https://github.com/mirakklys/py4me">Git-Hub rep</a></p>''')
 for each in tempDir:
     indexHtm.write('<p><a href="' + each + '\\gline.htm">' + each + '</a></p>')
     

@@ -1,0 +1,1198 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Cambodia,KHM,2015,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.76953772321403
+Cambodia,KHM,2014,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.58529747144717
+Cambodia,KHM,2013,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.60387205682416
+Cambodia,KHM,2012,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.8330897414738
+Cambodia,KHM,2011,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,6.00506975219052
+Cambodia,KHM,2010,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,6.14595808180396
+Cambodia,KHM,2009,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,6.2438430855337
+Cambodia,KHM,2008,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.29107753174819
+Cambodia,KHM,2007,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.56431960874668
+Cambodia,KHM,2006,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.95998433203015
+Cambodia,KHM,2005,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.5047352644213
+Cambodia,KHM,2004,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,6.14948283849092
+Cambodia,KHM,2003,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,8.2379393982218
+Cambodia,KHM,2002,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,8.67717796166148
+Cambodia,KHM,2001,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,7.94969451125015
+Cambodia,KHM,2000,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,8.54420691439083
+Cambodia,KHM,1999,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.35886602232242
+Cambodia,KHM,1998,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,10.4604612503124
+Cambodia,KHM,1997,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.64904166077226
+Cambodia,KHM,1996,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,10.0288823372746
+Cambodia,KHM,1995,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,10.1076652933859
+Cambodia,KHM,1994,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,11.0042865343222
+Cambodia,KHM,1993,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,11.9221201939403
+Cambodia,KHM,1992,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,12.4023422200781
+Cambodia,KHM,1991,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,13.2824056498937
+Cambodia,KHM,1990,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,14.2810585254657
+Cambodia,KHM,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,86.0893427283327
+Cambodia,KHM,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,70.2961440756141
+Cambodia,KHM,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,60.7190711266255
+Cambodia,KHM,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,44.7267520019829
+Cambodia,KHM,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,43.879623669494
+Cambodia,KHM,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,40.0103965602208
+Cambodia,KHM,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,36.3091002759827
+Cambodia,KHM,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,15.7724341871984
+Cambodia,KHM,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,31.0378414526619
+Cambodia,KHM,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,11.6540455062744
+Cambodia,KHM,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,24.5244834207176
+Cambodia,KHM,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,21.2072082782179
+Cambodia,KHM,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,9.5164544410925
+Cambodia,KHM,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,14.5459762473021
+Cambodia,KHM,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,7.75229493101933
+Cambodia,KHM,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,7.76895481872625
+Cambodia,KHM,2001,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,4.34360093103091
+Cambodia,KHM,2000,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,6.55523846093435
+Cambodia,KHM,1999,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0
+Cambodia,KHM,1998,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,10.2821617664174
+Cambodia,KHM,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.06
+Cambodia,KHM,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.2738189697266
+Cambodia,KHM,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.1775436401367
+Cambodia,KHM,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.9
+Cambodia,KHM,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,95.1182022094727
+Cambodia,KHM,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,94.3402099609375
+Cambodia,KHM,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,93.188346862793
+Cambodia,KHM,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,91.3
+Cambodia,KHM,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,83.2440795898438
+Cambodia,KHM,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,87
+Cambodia,KHM,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,78.3541641235352
+Cambodia,KHM,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,75.9287719726563
+Cambodia,KHM,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,66.8
+Cambodia,KHM,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,71.1175994873047
+Cambodia,KHM,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,68.7318878173828
+Cambodia,KHM,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,66.3566970825195
+Cambodia,KHM,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,63.9865798950195
+Cambodia,KHM,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,60.6
+Cambodia,KHM,1999,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,59.2393493652344
+Cambodia,KHM,1998,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,55.98
+Cambodia,KHM,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,89.07
+Cambodia,KHM,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,76.8398818969727
+Cambodia,KHM,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,69.0303573608398
+Cambodia,KHM,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,56.1
+Cambodia,KHM,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,54.8523635864258
+Cambodia,KHM,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,51.4397583007813
+Cambodia,KHM,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,48.0620574951172
+Cambodia,KHM,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,31.1
+Cambodia,KHM,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,41.4425430297852
+Cambodia,KHM,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,26.4
+Cambodia,KHM,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,34.974437713623
+Cambodia,KHM,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,31.7646389007568
+Cambodia,KHM,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,20.5
+Cambodia,KHM,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,25.3256969451904
+Cambodia,KHM,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,19.3
+Cambodia,KHM,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,18.7951679229736
+Cambodia,KHM,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,15.4986295700073
+Cambodia,KHM,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,16.6
+Cambodia,KHM,1999,Access to electricity (% of population),EG.ELC.ACCS.ZS,8.86764717102051
+Cambodia,KHM,1998,Access to electricity (% of population),EG.ELC.ACCS.ZS,18.67
+Cambodia,KHM,2015,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,48.3966340686832
+Cambodia,KHM,2014,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,28.1841933376878
+Cambodia,KHM,2013,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,9.50506186726659
+Cambodia,KHM,2012,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.58019525801953
+Cambodia,KHM,2011,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,3.20754716981132
+Cambodia,KHM,2010,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,3.1
+Cambodia,KHM,2009,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,2.21169036334913
+Cambodia,KHM,2008,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Cambodia,KHM,2007,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Cambodia,KHM,2006,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Cambodia,KHM,2005,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Cambodia,KHM,2004,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Cambodia,KHM,2003,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Cambodia,KHM,2002,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Cambodia,KHM,2001,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Cambodia,KHM,2000,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Cambodia,KHM,1999,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Cambodia,KHM,1998,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Cambodia,KHM,1997,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Cambodia,KHM,1996,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Cambodia,KHM,1995,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Cambodia,KHM,2015,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,53.5819877188992
+Cambodia,KHM,2014,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,38.8634879163945
+Cambodia,KHM,2013,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,42.0697412823397
+Cambodia,KHM,2012,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,62.3430962343096
+Cambodia,KHM,2011,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,92.9245283018868
+Cambodia,KHM,2010,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,94.5
+Cambodia,KHM,2009,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,94.6287519747235
+Cambodia,KHM,2008,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,95.6140350877193
+Cambodia,KHM,2007,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,95.4423592493298
+Cambodia,KHM,2006,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,94.2324003392706
+Cambodia,KHM,2005,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,93.8796680497925
+Cambodia,KHM,2004,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,94.8466257668712
+Cambodia,KHM,2003,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,93.5779816513761
+Cambodia,KHM,2002,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,95.8791208791209
+Cambodia,KHM,2001,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.803536345776
+Cambodia,KHM,2000,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,99.7767857142857
+Cambodia,KHM,1999,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Cambodia,KHM,1998,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Cambodia,KHM,1997,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Cambodia,KHM,1996,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Cambodia,KHM,1995,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,100
+Cambodia,KHM,2015,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,45.4855583352286
+Cambodia,KHM,2014,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,60.4833442194644
+Cambodia,KHM,2013,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,57.1428571428571
+Cambodia,KHM,2012,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,36.0529986052999
+Cambodia,KHM,2011,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,4.90566037735849
+Cambodia,KHM,2010,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,3.2
+Cambodia,KHM,2009,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,3.71248025276461
+Cambodia,KHM,2008,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,3.10391363022942
+Cambodia,KHM,2007,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,3.35120643431635
+Cambodia,KHM,2006,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,4.32569974554707
+Cambodia,KHM,2005,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,4.5643153526971
+Cambodia,KHM,2004,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,3.43558282208589
+Cambodia,KHM,2003,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,5.3735255570118
+Cambodia,KHM,2002,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,3.98351648351648
+Cambodia,KHM,2001,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Cambodia,KHM,2000,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Cambodia,KHM,1999,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Cambodia,KHM,1998,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Cambodia,KHM,1997,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Cambodia,KHM,1996,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Cambodia,KHM,1995,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,0
+Cambodia,KHM,2014,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,23.4160679294579
+Cambodia,KHM,2013,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,28.0652418447694
+Cambodia,KHM,2012,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,18.2705718270572
+Cambodia,KHM,2011,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,27.9245283018868
+Cambodia,KHM,2010,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,28.6
+Cambodia,KHM,2009,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.0600315955766
+Cambodia,KHM,2008,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.0661268556005
+Cambodia,KHM,2007,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.4772117962467
+Cambodia,KHM,2006,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.0441051738762
+Cambodia,KHM,2005,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.0995850622407
+Cambodia,KHM,2004,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.760736196319
+Cambodia,KHM,2003,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.9410222804718
+Cambodia,KHM,2002,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.5989010989011
+Cambodia,KHM,2001,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.0019646365422
+Cambodia,KHM,2000,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.1607142857143
+Cambodia,KHM,1999,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.1386138613861
+Cambodia,KHM,1998,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,18.4696569920844
+Cambodia,KHM,1997,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.8364779874214
+Cambodia,KHM,1996,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.3505976095618
+Cambodia,KHM,1995,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,27.2727272727273
+Cambodia,KHM,2015,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,2014,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,2013,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,2012,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,2011,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,2010,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,2009,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,2008,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,2007,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,2006,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,2005,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,2004,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,2003,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,2002,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,2001,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,2000,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,1999,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,1998,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,1997,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,1996,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,1995,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Cambodia,KHM,2014,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,2013,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,2012,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,2011,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,2010,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,2009,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,2008,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,2007,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,2006,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,2005,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,2004,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,2003,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,2002,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,2001,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,2000,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,1999,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,1998,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,1997,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,1996,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,1995,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Cambodia,KHM,2015,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,5.18535365021606
+Cambodia,KHM,2014,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,10.6792945787067
+Cambodia,KHM,2013,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,32.5646794150731
+Cambodia,KHM,2012,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,59.7629009762901
+Cambodia,KHM,2011,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,89.7169811320755
+Cambodia,KHM,2010,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,91.4
+Cambodia,KHM,2009,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,92.4170616113744
+Cambodia,KHM,2008,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,95.6140350877193
+Cambodia,KHM,2007,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,95.4423592493298
+Cambodia,KHM,2006,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,94.2324003392706
+Cambodia,KHM,2005,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,93.8796680497925
+Cambodia,KHM,2004,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,94.8466257668712
+Cambodia,KHM,2003,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,93.5779816513761
+Cambodia,KHM,2002,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,95.8791208791209
+Cambodia,KHM,2001,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,99.803536345776
+Cambodia,KHM,2000,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,99.7767857142857
+Cambodia,KHM,1999,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Cambodia,KHM,1998,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Cambodia,KHM,1997,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Cambodia,KHM,1996,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Cambodia,KHM,1995,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,100
+Cambodia,KHM,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,46.4180122811008
+Cambodia,KHM,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,61.1365120836055
+Cambodia,KHM,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,57.9302587176603
+Cambodia,KHM,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,37.6569037656904
+Cambodia,KHM,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,7.07547169811321
+Cambodia,KHM,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,5.5
+Cambodia,KHM,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,5.37124802527646
+Cambodia,KHM,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,4.3859649122807
+Cambodia,KHM,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,4.55764075067024
+Cambodia,KHM,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,5.76759966072943
+Cambodia,KHM,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,6.12033195020747
+Cambodia,KHM,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,5.15337423312883
+Cambodia,KHM,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,6.42201834862385
+Cambodia,KHM,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,4.12087912087912
+Cambodia,KHM,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.196463654223969
+Cambodia,KHM,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.223214285714286
+Cambodia,KHM,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Cambodia,KHM,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Cambodia,KHM,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Cambodia,KHM,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Cambodia,KHM,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Cambodia,KHM,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Cambodia,KHM,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Cambodia,KHM,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Cambodia,KHM,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Cambodia,KHM,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Cambodia,KHM,2015,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,41000000
+Cambodia,KHM,2014,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,20000000
+Cambodia,KHM,2013,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,14000000
+Cambodia,KHM,2012,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,23000000
+Cambodia,KHM,2011,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,23000000
+Cambodia,KHM,2010,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,23000000
+Cambodia,KHM,2009,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,21000000
+Cambodia,KHM,2008,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,19000000
+Cambodia,KHM,2007,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,18000000
+Cambodia,KHM,2006,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,17000000
+Cambodia,KHM,2005,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,15000000
+Cambodia,KHM,2004,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,14000000
+Cambodia,KHM,2003,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,8000000
+Cambodia,KHM,2002,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1000000
+Cambodia,KHM,2001,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1000000
+Cambodia,KHM,2000,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,1000000
+Cambodia,KHM,1999,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Cambodia,KHM,1998,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Cambodia,KHM,1997,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Cambodia,KHM,1996,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Cambodia,KHM,1995,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Cambodia,KHM,2015,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.932453945872186
+Cambodia,KHM,2014,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.653167864141084
+Cambodia,KHM,2013,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.78740157480315
+Cambodia,KHM,2012,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.60390516039052
+Cambodia,KHM,2011,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.16981132075472
+Cambodia,KHM,2010,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,2.3
+Cambodia,KHM,2009,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.65876777251185
+Cambodia,KHM,2008,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.28205128205128
+Cambodia,KHM,2007,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.20643431635389
+Cambodia,KHM,2006,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.44189991518236
+Cambodia,KHM,2005,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.55601659751037
+Cambodia,KHM,2004,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.71779141104294
+Cambodia,KHM,2003,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,1.04849279161206
+Cambodia,KHM,2002,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.137362637362637
+Cambodia,KHM,2001,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.196463654223969
+Cambodia,KHM,2000,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0.223214285714286
+Cambodia,KHM,1999,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Cambodia,KHM,1998,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Cambodia,KHM,1997,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Cambodia,KHM,1996,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Cambodia,KHM,1995,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Cambodia,KHM,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,64.9237759106607
+Cambodia,KHM,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,68.0079101091459
+Cambodia,KHM,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,68.9721559998162
+Cambodia,KHM,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,68.2603726029706
+Cambodia,KHM,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,68.1617454767198
+Cambodia,KHM,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,68.5184675188782
+Cambodia,KHM,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,71.3219369439439
+Cambodia,KHM,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,67.9991860796488
+Cambodia,KHM,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,69.3657250199752
+Cambodia,KHM,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,73.855803887005
+Cambodia,KHM,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,76.0703302002698
+Cambodia,KHM,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,78.2070673425612
+Cambodia,KHM,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,82.0680974003866
+Cambodia,KHM,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,83.0197597320676
+Cambodia,KHM,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,79.5879971818487
+Cambodia,KHM,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,81.1360755329419
+Cambodia,KHM,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,81.6748898201216
+Cambodia,KHM,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,82.0002744640442
+Cambodia,KHM,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,82.196255995888
+Cambodia,KHM,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,82.7662882292416
+Cambodia,KHM,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,82.5342521690724
+Cambodia,KHM,2014,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.91821835852096
+Cambodia,KHM,2013,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.74304134600051
+Cambodia,KHM,2012,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.3188760568853
+Cambodia,KHM,2011,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.97210885597581
+Cambodia,KHM,2010,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.67289177463914
+Cambodia,KHM,2009,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.49262520504464
+Cambodia,KHM,2008,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.37578553446824
+Cambodia,KHM,2007,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.64632362987953
+Cambodia,KHM,2006,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.74844947454119
+Cambodia,KHM,2005,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.77658647889565
+Cambodia,KHM,2004,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,5.882842484925
+Cambodia,KHM,2003,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,4.27631522932824
+Cambodia,KHM,2002,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,3.98582774859147
+Cambodia,KHM,2001,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,4.28720784862645
+Cambodia,KHM,2000,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,3.9247919061395
+Cambodia,KHM,1999,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,3.4432230975687
+Cambodia,KHM,1998,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,3.01533340228448
+Cambodia,KHM,1997,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,3.24262999296349
+Cambodia,KHM,1996,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,3.11449950644344
+Cambodia,KHM,1995,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,3.02075519517164
+Cambodia,KHM,2014,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,7.49345670017684
+Cambodia,KHM,2013,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,7.46630849104557
+Cambodia,KHM,2012,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,7.18115239695478
+Cambodia,KHM,2011,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,6.97210885597581
+Cambodia,KHM,2010,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,6.81228206289863
+Cambodia,KHM,2009,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,6.70548561622306
+Cambodia,KHM,2008,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,9.75698986798379
+Cambodia,KHM,2007,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,9.17288962844927
+Cambodia,KHM,2006,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.44115553552061
+Cambodia,KHM,2005,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,7.60581544966845
+Cambodia,KHM,2004,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,6.80837740645403
+Cambodia,KHM,2003,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,5.08233891706431
+Cambodia,KHM,2002,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,4.82507117315004
+Cambodia,KHM,2001,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,5.27200098394062
+Cambodia,KHM,2000,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,4.93219836567949
+Cambodia,KHM,1999,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,4.42375105567255
+Cambodia,KHM,1998,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,3.9299441521916
+Cambodia,KHM,1997,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,4.27375089950488
+Cambodia,KHM,1996,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,4.17566043884627
+Cambodia,KHM,1995,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,4.12413221535975
+Cambodia,KHM,2014,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,33.1162975078679
+Cambodia,KHM,2013,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,31.637960448714
+Cambodia,KHM,2012,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,31.9329092841833
+Cambodia,KHM,2011,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,31.5769764629167
+Cambodia,KHM,2010,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,31.667496345701
+Cambodia,KHM,2009,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,29.0926418606354
+Cambodia,KHM,2008,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,34.6956787195102
+Cambodia,KHM,2007,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,33.4295935049111
+Cambodia,KHM,2006,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,29.6840714175948
+Cambodia,KHM,2005,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,27.3621041767986
+Cambodia,KHM,2004,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,24.4785075693447
+Cambodia,KHM,2003,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,19.5742991056218
+Cambodia,KHM,2002,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,18.6365425210192
+Cambodia,KHM,2001,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,21.6418854663668
+Cambodia,KHM,2000,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,20.3363177711196
+Cambodia,KHM,1999,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,19.5130276581294
+Cambodia,KHM,1998,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,18.4129934720885
+Cambodia,KHM,1997,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,18.4172374094133
+Cambodia,KHM,1996,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,17.922648112514
+Cambodia,KHM,1995,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,18.0246134538507
+Cambodia,KHM,2014,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.31926620677437
+Cambodia,KHM,2013,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.89563711875362
+Cambodia,KHM,2012,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.7404604869063
+Cambodia,KHM,2011,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.185012225357854
+Cambodia,KHM,2010,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.110706029810324
+Cambodia,KHM,2009,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.115116225744109
+Cambodia,KHM,2008,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.124447288576003
+Cambodia,KHM,2007,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.114241617630907
+Cambodia,KHM,2006,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.119243174583179
+Cambodia,KHM,2005,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.100524111668848
+Cambodia,KHM,2004,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0639088498000893
+Cambodia,KHM,2003,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0738542981529663
+Cambodia,KHM,2002,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.0548982487692918
+Cambodia,KHM,2001,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.00250717606264908
+Cambodia,KHM,2000,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.00252024400650809
+Cambodia,KHM,1999,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Cambodia,KHM,1998,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Cambodia,KHM,1997,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Cambodia,KHM,1996,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Cambodia,KHM,1995,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0
+Cambodia,KHM,2014,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,30.629081397544
+Cambodia,KHM,2013,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,28.612234256152
+Cambodia,KHM,2012,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,29.0450930218869
+Cambodia,KHM,2011,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,28.9806910596603
+Cambodia,KHM,2010,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,30.0598312436618
+Cambodia,KHM,2009,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,27.9439948211585
+Cambodia,KHM,2008,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,32.7345560551099
+Cambodia,KHM,2007,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,32.9681312128494
+Cambodia,KHM,2006,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,29.4288044589195
+Cambodia,KHM,2005,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,27.1997890514563
+Cambodia,KHM,2004,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,24.4328044179516
+Cambodia,KHM,2003,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,19.5471289832299
+Cambodia,KHM,2002,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,18.6214465678362
+Cambodia,KHM,2001,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,21.6418563131568
+Cambodia,KHM,2000,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,20.3362884659568
+Cambodia,KHM,1999,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,19.5130276581294
+Cambodia,KHM,1998,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,18.4130226080471
+Cambodia,KHM,1997,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,18.4172374094134
+Cambodia,KHM,1996,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,17.922648112514
+Cambodia,KHM,1995,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,18.0246487065775
+Cambodia,KHM,2014,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,133.44976023901
+Cambodia,KHM,2013,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,133.934996283546
+Cambodia,KHM,2012,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,139.253415708607
+Cambodia,KHM,2011,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,143.42862692726
+Cambodia,KHM,2010,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,146.793686868347
+Cambodia,KHM,2009,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,149.131630016569
+Cambodia,KHM,2008,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,102.49062605685
+Cambodia,KHM,2007,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,109.016900944556
+Cambodia,KHM,2006,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,118.467192766674
+Cambodia,KHM,2005,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,131.478341358334
+Cambodia,KHM,2004,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,146.877874168968
+Cambodia,KHM,2003,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,196.759802193126
+Cambodia,KHM,2002,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,207.250828871639
+Cambodia,KHM,2001,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,189.681299955399
+Cambodia,KHM,2000,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,202.749347422533
+Cambodia,KHM,1999,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,226.052503274954
+Cambodia,KHM,1998,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,254.456542198528
+Cambodia,KHM,1997,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,233.986496526003
+Cambodia,KHM,1996,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,239.483074508879
+Cambodia,KHM,1995,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,242.475252436292
+Cambodia,KHM,2014,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,55.2464843871476
+Cambodia,KHM,2013,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,57.3230909156452
+Cambodia,KHM,2012,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,57.5483633480262
+Cambodia,KHM,2011,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,58.3242134238127
+Cambodia,KHM,2010,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,58.6085841020917
+Cambodia,KHM,2009,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,61.0532271610474
+Cambodia,KHM,2008,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,56.8397343969685
+Cambodia,KHM,2007,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,57.9892046575202
+Cambodia,KHM,2006,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,61.1078637619771
+Cambodia,KHM,2005,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,63.1708409623188
+Cambodia,KHM,2004,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,65.8579382302288
+Cambodia,KHM,2003,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,70.5471295907907
+Cambodia,KHM,2002,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,71.6486483238735
+Cambodia,KHM,2001,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,68.714757413224
+Cambodia,KHM,2000,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,69.9589258837265
+Cambodia,KHM,1999,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,70.8597049636574
+Cambodia,KHM,1998,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,71.9325152927363
+Cambodia,KHM,1997,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,73.0237607427832
+Cambodia,KHM,1996,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,73.735364690822
+Cambodia,KHM,1995,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,73.7721475256111
+Cambodia,KHM,2014,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,271.367258234196
+Cambodia,KHM,2013,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,221.544419489733
+Cambodia,KHM,2012,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,207.233147236208
+Cambodia,KHM,2011,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,165.114514583614
+Cambodia,KHM,2010,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,144.282379271632
+Cambodia,KHM,2009,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,127.930371819728
+Cambodia,KHM,2008,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,114.593706608708
+Cambodia,KHM,2007,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,100.585074724623
+Cambodia,KHM,2006,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,80.725885979583
+Cambodia,KHM,2005,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,66.7502727645175
+Cambodia,KHM,2004,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,55.7151285477354
+Cambodia,KHM,2003,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,51.4928132133981
+Cambodia,KHM,2002,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,50.3255055280115
+Cambodia,KHM,2001,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,36.5163322318782
+Cambodia,KHM,2000,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,32.7430830442742
+Cambodia,KHM,1999,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,30.2024370926983
+Cambodia,KHM,1998,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,26.6367645278983
+Cambodia,KHM,1997,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,24.2507921335387
+Cambodia,KHM,1996,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,20.0311083112073
+Cambodia,KHM,1995,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,13.5133385096927
+Cambodia,KHM,2014,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,416.838308912571
+Cambodia,KHM,2013,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,396.913564800778
+Cambodia,KHM,2012,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,390.790431741813
+Cambodia,KHM,2011,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,381.242262191259
+Cambodia,KHM,2010,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,370.259887150917
+Cambodia,KHM,2009,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,360.49494508289
+Cambodia,KHM,2008,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,251.27533215969
+Cambodia,KHM,2007,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,254.245881677157
+Cambodia,KHM,2006,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,254.446137692986
+Cambodia,KHM,2005,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,258.857633119707
+Cambodia,KHM,2004,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,259.386296328411
+Cambodia,KHM,2003,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,320.065481434857
+Cambodia,KHM,2002,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,316.073293876343
+Cambodia,KHM,2001,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,276.504730839969
+Cambodia,KHM,2000,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,280.732283421165
+Cambodia,KHM,1999,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,289.106982079943
+Cambodia,KHM,1998,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,295.865060392183
+Cambodia,KHM,1997,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,266.841113058255
+Cambodia,KHM,1996,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,270.136157816726
+Cambodia,KHM,1995,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,266.199630672951
+Cambodia,KHM,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1961,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,1960,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Cambodia,KHM,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5067.794
+Cambodia,KHM,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4895.445
+Cambodia,KHM,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4928.448
+Cambodia,KHM,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4723.096
+Cambodia,KHM,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4591.084
+Cambodia,KHM,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4158.378
+Cambodia,KHM,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3512.986
+Cambodia,KHM,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3421.311
+Cambodia,KHM,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2999.606
+Cambodia,KHM,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2775.919
+Cambodia,KHM,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2445.889
+Cambodia,KHM,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2379.883
+Cambodia,KHM,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2207.534
+Cambodia,KHM,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2251.538
+Cambodia,KHM,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1976.513
+Cambodia,KHM,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1895.839
+Cambodia,KHM,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1877.504
+Cambodia,KHM,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1466.8
+Cambodia,KHM,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1518.138
+Cambodia,KHM,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1499.803
+Cambodia,KHM,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1426.463
+Cambodia,KHM,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1386.126
+Cambodia,KHM,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1349.456
+Cambodia,KHM,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1305.452
+Cambodia,KHM,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1261.448
+Cambodia,KHM,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,451.041
+Cambodia,KHM,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,451.041
+Cambodia,KHM,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,436.373
+Cambodia,KHM,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,432.706
+Cambodia,KHM,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,418.038
+Cambodia,KHM,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,410.704
+Cambodia,KHM,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,366.7
+Cambodia,KHM,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,337.364
+Cambodia,KHM,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,300.694
+Cambodia,KHM,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,286.026
+Cambodia,KHM,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,29.336
+Cambodia,KHM,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Cambodia,KHM,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Cambodia,KHM,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Cambodia,KHM,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Cambodia,KHM,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Cambodia,KHM,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,88.008
+Cambodia,KHM,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,77.007
+Cambodia,KHM,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,194.351
+Cambodia,KHM,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1122.102
+Cambodia,KHM,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1279.783
+Cambodia,KHM,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,366.7
+Cambodia,KHM,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,352.032
+Cambodia,KHM,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,341.031
+Cambodia,KHM,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,304.361
+Cambodia,KHM,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,308.028
+Cambodia,KHM,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,388.702
+Cambodia,KHM,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,308.028
+Cambodia,KHM,1961,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,286.026
+Cambodia,KHM,1960,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,234.688
+Cambodia,KHM,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1210.22824471899
+Cambodia,KHM,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1195.29354456477
+Cambodia,KHM,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1163.58703141878
+Cambodia,KHM,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1152.75880314911
+Cambodia,KHM,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1102.85342192016
+Cambodia,KHM,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1126.33734084173
+Cambodia,KHM,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1100.61917369306
+Cambodia,KHM,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1115.61721679661
+Cambodia,KHM,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1119.86366183701
+Cambodia,KHM,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1142.45429892526
+Cambodia,KHM,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1133.98023083114
+Cambodia,KHM,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1144.89878437345
+Cambodia,KHM,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1142.11854130688
+Cambodia,KHM,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1154.85442894428
+Cambodia,KHM,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1033.16016027507
+Cambodia,KHM,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1046.11772957421
+Cambodia,KHM,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1035.44933223589
+Cambodia,KHM,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1036.13256492705
+Cambodia,KHM,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1049.71891589079
+Cambodia,KHM,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1052.76332610766
+Cambodia,KHM,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1049.67587236119
+Cambodia,KHM,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1024.11335304145
+Cambodia,KHM,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1030.921999649
+Cambodia,KHM,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1010.12746715373
+Cambodia,KHM,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,958.839169988633
+Cambodia,KHM,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1008.53016741771
+Cambodia,KHM,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,999.980622735092
+Cambodia,KHM,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,975.892698393454
+Cambodia,KHM,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1014.62849101713
+Cambodia,KHM,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,965.153145334001
+Cambodia,KHM,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1007.84920339541
+Cambodia,KHM,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1057.8944689998
+Cambodia,KHM,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1079.72315908461
+Cambodia,KHM,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1115.00096922495
+Cambodia,KHM,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1103.59157664802
+Cambodia,KHM,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1130.0975256067
+Cambodia,KHM,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1148.05389141847
+Cambodia,KHM,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1182.29127447179
+Cambodia,KHM,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1221.51649707543
+Cambodia,KHM,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Cambodia,KHM,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,3.70571811454018
+Cambodia,KHM,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,2.88964635199764
+Cambodia,KHM,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,4.80882688038045
+Cambodia,KHM,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.62966719482874
+Cambodia,KHM,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.65012434958663
+Cambodia,KHM,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,6.09684553424376
+Cambodia,KHM,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,6.21629092645783
+Cambodia,KHM,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,6.98081005679553
+Cambodia,KHM,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.47328084830067
+Cambodia,KHM,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.15406623286721
+Cambodia,KHM,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,5.55099876070145
+Cambodia,KHM,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.44930630334337
+Cambodia,KHM,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.62301712869604
+Cambodia,KHM,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.23130849296992
+Cambodia,KHM,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.62935895461545
+Cambodia,KHM,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,6.82875672892501
+Cambodia,KHM,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,6.76958950440576
+Cambodia,KHM,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.3080305044932
+Cambodia,KHM,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,6.94456039674505
+Cambodia,KHM,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.40845250351972
+Cambodia,KHM,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.22922246269732
+Cambodia,KHM,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.94138720865898
+Cambodia,KHM,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,8.00293436980079
+Cambodia,KHM,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,8.34016535514488
+Cambodia,KHM,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,9.62938398752121
+Cambodia,KHM,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,6.94336126717001
+Cambodia,KHM,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.80016086376827
+Cambodia,KHM,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,8.92701816146739
+Cambodia,KHM,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,8.62317373360471
+Cambodia,KHM,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,12.1957935021772
+Cambodia,KHM,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,10.4304357986729
+Cambodia,KHM,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.0988014511694
+Cambodia,KHM,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.7532017626116
+Cambodia,KHM,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.8964526113486
+Cambodia,KHM,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,13.6994438331925
+Cambodia,KHM,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,10.5599813637712
+Cambodia,KHM,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,8.46697365197407
+Cambodia,KHM,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,7.30106879637253
+Cambodia,KHM,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,6.08128094528876
+Cambodia,KHM,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,257.88027102
+Cambodia,KHM,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,260.46077023
+Cambodia,KHM,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,250.60989806
+Cambodia,KHM,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,250.98443324
+Cambodia,KHM,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,238.84971822
+Cambodia,KHM,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,204.46426433
+Cambodia,KHM,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,199.406058562
+Cambodia,KHM,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,203.731994296
+Cambodia,KHM,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,205.826977644
+Cambodia,KHM,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,210.625818688
+Cambodia,KHM,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,209.544742296
+Cambodia,KHM,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,213.188731908
+Cambodia,KHM,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,212.09408663
+Cambodia,KHM,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,215.078997022
+Cambodia,KHM,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,204.549510672
+Cambodia,KHM,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,208.671814784
+Cambodia,KHM,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,206.86340858
+Cambodia,KHM,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,207.72099351
+Cambodia,KHM,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,210.18364529
+Cambodia,KHM,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,210.95235911
+Cambodia,KHM,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,210.58702721
+Cambodia,KHM,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,203.96541884
+Cambodia,KHM,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,205.36066374
+Cambodia,KHM,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,202.89412611
+Cambodia,KHM,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,192.38821092
+Cambodia,KHM,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,201.43358095
+Cambodia,KHM,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,197.498188517
+Cambodia,KHM,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,192.419924664
+Cambodia,KHM,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,198.81332579
+Cambodia,KHM,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,188.723307251
+Cambodia,KHM,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,197.642840748
+Cambodia,KHM,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,207.591813224
+Cambodia,KHM,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,212.577370864
+Cambodia,KHM,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,220.607305483
+Cambodia,KHM,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,219.364698693
+Cambodia,KHM,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,225.025898357
+Cambodia,KHM,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,229.284814819
+Cambodia,KHM,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,236.499104253
+Cambodia,KHM,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,244.814438853
+Cambodia,KHM,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Cambodia,KHM,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.69472667711094
+Cambodia,KHM,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,1.15003344310853
+Cambodia,KHM,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,2.82763852269508
+Cambodia,KHM,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.14640583836935
+Cambodia,KHM,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.60836316718729
+Cambodia,KHM,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.95238494819538
+Cambodia,KHM,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.64356190956311
+Cambodia,KHM,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.99065945962365
+Cambodia,KHM,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.24689980241989
+Cambodia,KHM,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.73321962720131
+Cambodia,KHM,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,2.38230614722032
+Cambodia,KHM,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.20113243282236
+Cambodia,KHM,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.29762953792342
+Cambodia,KHM,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.02905367681702
+Cambodia,KHM,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.55423135884982
+Cambodia,KHM,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.03771833646413
+Cambodia,KHM,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.17794464062109
+Cambodia,KHM,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.96135051867404
+Cambodia,KHM,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.40575774174002
+Cambodia,KHM,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.3185193094748
+Cambodia,KHM,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.41569459686635
+Cambodia,KHM,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.06253963759474
+Cambodia,KHM,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.67305061799281
+Cambodia,KHM,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.02473247915645
+Cambodia,KHM,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.84959789150476
+Cambodia,KHM,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.03390682327525
+Cambodia,KHM,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.36552812894887
+Cambodia,KHM,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.83510348692781
+Cambodia,KHM,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.04278170487303
+Cambodia,KHM,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.45847024178377
+Cambodia,KHM,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.07742223919417
+Cambodia,KHM,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.62521072453464
+Cambodia,KHM,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.9837858168007
+Cambodia,KHM,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,11.4722159506572
+Cambodia,KHM,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.3508267504725
+Cambodia,KHM,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.28111826646015
+Cambodia,KHM,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.99351157263808
+Cambodia,KHM,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.13669510590011
+Cambodia,KHM,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.71648236349719
+Cambodia,KHM,2016,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.8
+Cambodia,KHM,2014,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.24
+Cambodia,KHM,2012,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.27
+Cambodia,KHM,2010,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.98
+Cambodia,KHM,2008,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.89
+Cambodia,KHM,2006,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.78
+Cambodia,KHM,2004,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.61
+Cambodia,KHM,2002,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.44
+Cambodia,KHM,2000,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.44
+Cambodia,KHM,1998,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.28
+Cambodia,KHM,2016,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.9
+Cambodia,KHM,2014,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.34
+Cambodia,KHM,2012,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.35
+Cambodia,KHM,2010,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.15
+Cambodia,KHM,2008,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.94
+Cambodia,KHM,2006,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.01
+Cambodia,KHM,2004,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.79
+Cambodia,KHM,2002,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.63
+Cambodia,KHM,2000,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.61
+Cambodia,KHM,1998,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.47
+Cambodia,KHM,2016,Time to obtain an electrical connection (days),IC.ELC.DURS,7.9
+Cambodia,KHM,2013,Time to obtain an electrical connection (days),IC.ELC.DURS,9.4
+Cambodia,KHM,2007,Time to obtain an electrical connection (days),IC.ELC.DURS,15.5
+Cambodia,KHM,2019,Time required to get electricity (days),IC.ELC.TIME,179
+Cambodia,KHM,2018,Time required to get electricity (days),IC.ELC.TIME,179
+Cambodia,KHM,2017,Time required to get electricity (days),IC.ELC.TIME,179
+Cambodia,KHM,2016,Time required to get electricity (days),IC.ELC.TIME,179
+Cambodia,KHM,2015,Time required to get electricity (days),IC.ELC.TIME,179
+Cambodia,KHM,2014,Time required to get electricity (days),IC.ELC.TIME,179
+Cambodia,KHM,2013,Time required to get electricity (days),IC.ELC.TIME,179
+Cambodia,KHM,2012,Time required to get electricity (days),IC.ELC.TIME,194
+Cambodia,KHM,2011,Time required to get electricity (days),IC.ELC.TIME,194
+Cambodia,KHM,2010,Time required to get electricity (days),IC.ELC.TIME,194
+Cambodia,KHM,2009,Time required to get electricity (days),IC.ELC.TIME,194
+Cambodia,KHM,2016,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,2.5
+Cambodia,KHM,2013,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,7.9
+Cambodia,KHM,2007,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,11.3
+Cambodia,KHM,2016,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,3.6
+Cambodia,KHM,2013,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,0.4
+Cambodia,KHM,2018,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,100210000
+Cambodia,KHM,2017,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,12500000
+Cambodia,KHM,2010,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,1863500000
+Cambodia,KHM,2008,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,47100000
+Cambodia,KHM,2007,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,655030000
+Cambodia,KHM,2005,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,25000000
+Cambodia,KHM,2004,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,25000000
+Cambodia,KHM,2002,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,4100000
+Cambodia,KHM,2001,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,28000000
+Cambodia,KHM,1999,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,16000000
+Cambodia,KHM,1997,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,127000000
+Cambodia,KHM,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1152.54326578846
+Cambodia,KHM,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3975.9631675407
+Cambodia,KHM,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,6257.25321973415
+Cambodia,KHM,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,11391.1204173926
+Cambodia,KHM,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1998.39516809161
+Cambodia,KHM,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,28861.6890190285
+Cambodia,KHM,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Cambodia,KHM,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2001,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2000,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,1999,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,1998,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,1997,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,1996,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,1995,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,1974,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00490785884518166
+Cambodia,KHM,1973,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,1972,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,1971,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,1970,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Cambodia,KHM,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Cambodia,KHM,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Cambodia,KHM,2017,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.968947283422617
+Cambodia,KHM,2016,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.05681447799048
+Cambodia,KHM,2015,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0.98390617821426
+Cambodia,KHM,2014,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.57552002786562
+Cambodia,KHM,2013,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.08440163584264
+Cambodia,KHM,2012,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.3372887359948
+Cambodia,KHM,2011,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.7916656061805
+Cambodia,KHM,2010,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.60266842217805
+Cambodia,KHM,2009,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.69359177517883
+Cambodia,KHM,2008,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.85326340107858
+Cambodia,KHM,2007,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.35482760925481
+Cambodia,KHM,2006,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.12006837423902
+Cambodia,KHM,2005,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.07270275254601
+Cambodia,KHM,2004,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.90354228186524
+Cambodia,KHM,2003,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.93566514692063
+Cambodia,KHM,2002,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.41915548831239
+Cambodia,KHM,2001,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.31453531361598
+Cambodia,KHM,2000,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.23340417496261
+Cambodia,KHM,1999,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.91918622223549
+Cambodia,KHM,1998,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.90888181077126
+Cambodia,KHM,1997,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,4.45048944903482
+Cambodia,KHM,1996,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,5.43482625203493
+Cambodia,KHM,1995,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,5.66743591290335
+Cambodia,KHM,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,1974,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0195671259433755
+Cambodia,KHM,1973,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,1972,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,1971,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,1970,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Cambodia,KHM,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2001,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2000,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,1999,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,1998,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,1997,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,1996,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,1995,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,1994,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,1993,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Cambodia,KHM,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2001,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2000,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,1999,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,1998,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,1997,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,1996,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,1995,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,1994,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,1993,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Cambodia,KHM,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.73137962858702
+Cambodia,KHM,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.88821601546852
+Cambodia,KHM,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.73077577728836
+Cambodia,KHM,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.77215322880387
+Cambodia,KHM,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.9024660749287
+Cambodia,KHM,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.29398350561854
+Cambodia,KHM,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.05056190878942
+Cambodia,KHM,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.69595661546956
+Cambodia,KHM,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.86283774349905
+Cambodia,KHM,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.09984061599517
+Cambodia,KHM,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.24544156821213
+Cambodia,KHM,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.82202252758337
+Cambodia,KHM,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,1.71983495905215
+Cambodia,KHM,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.20397566015629
+Cambodia,KHM,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.4105026316523
+Cambodia,KHM,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.59500958304306
+Cambodia,KHM,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.53091563398037
+Cambodia,KHM,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.45302224847305
+Cambodia,KHM,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.39355720869238
+Cambodia,KHM,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.55608221419528
+Cambodia,KHM,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.12815374914453
+Cambodia,KHM,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.2661820756448
+Cambodia,KHM,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.32675194732508
+Cambodia,KHM,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.74392193256507
+Cambodia,KHM,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.47129623387332
+Cambodia,KHM,1974,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,14.8192595322908
+Cambodia,KHM,1973,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,13.3615931459175
+Cambodia,KHM,1972,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.00750454912694
+Cambodia,KHM,1971,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.59016996693738
+Cambodia,KHM,1970,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.31058172497175
+Cambodia,KHM,2016,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.91159734164162
+Cambodia,KHM,2015,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.851158478543511
+Cambodia,KHM,2014,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.38249072638013
+Cambodia,KHM,2013,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.256029294713
+Cambodia,KHM,2012,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.7870311994914
+Cambodia,KHM,2011,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.8795455353291
+Cambodia,KHM,2010,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.31816870123098
+Cambodia,KHM,2009,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.93247430563051
+Cambodia,KHM,2008,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.64721842394021
+Cambodia,KHM,2007,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.35744764176135
+Cambodia,KHM,2006,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.90374897361183
+Cambodia,KHM,2005,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.35805663450766
+Cambodia,KHM,2004,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.90136503991086
+Cambodia,KHM,2003,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.1421722713933
+Cambodia,KHM,2002,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.0107006788492
+Cambodia,KHM,2001,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.9255261521191
+Cambodia,KHM,2000,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.0131886245965
+Cambodia,KHM,1972,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,1.71320476813689
+Cambodia,KHM,1971,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.10571237875293
+Cambodia,KHM,1970,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.02948870757543
+Cambodia,KHM,1969,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,4.73371530907712
+Cambodia,KHM,1968,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.74389945369813
+Cambodia,KHM,1967,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.9063708619003
+Cambodia,KHM,1966,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.55141764208832
+Cambodia,KHM,1965,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.26812780309575
+Cambodia,KHM,1964,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.20209413525552
+Cambodia,KHM,1963,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.47521222817677
+Cambodia,KHM,1962,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.62755699574215
+Cambodia,KHM,2016,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.53008705210855
+Cambodia,KHM,2015,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.6052954828164
+Cambodia,KHM,2014,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.40221473737957
+Cambodia,KHM,2013,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.33846739821475
+Cambodia,KHM,2012,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.53168003232985
+Cambodia,KHM,2011,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.38653510826737
+Cambodia,KHM,2010,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.53305283926089
+Cambodia,KHM,2009,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.39762122856528
+Cambodia,KHM,2008,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.29253549888132
+Cambodia,KHM,2007,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.620416033557307
+Cambodia,KHM,2006,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.601038765446529
+Cambodia,KHM,2005,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.365837140555877
+Cambodia,KHM,2004,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.336373742566094
+Cambodia,KHM,2003,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.485359310671414
+Cambodia,KHM,2002,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.63740503648547
+Cambodia,KHM,2001,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.451267964682654
+Cambodia,KHM,2000,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.404492359991346
+Cambodia,KHM,1972,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.974054503648809
+Cambodia,KHM,1971,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.804431574726179
+Cambodia,KHM,1970,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.09240460410777
+Cambodia,KHM,1969,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.9930065614353
+Cambodia,KHM,1968,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.74106150797154
+Cambodia,KHM,1967,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.87705205986267
+Cambodia,KHM,1966,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.48849754383599
+Cambodia,KHM,1965,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.20531708475322
+Cambodia,KHM,1964,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.30192746585047
+Cambodia,KHM,1963,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.53303441318907
+Cambodia,KHM,1962,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.559721935542211
+Cambodia,KHM,2016,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00785978490587738
+Cambodia,KHM,2015,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.95169431172446e-05
+Cambodia,KHM,2014,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,3.54941245760958e-05
+Cambodia,KHM,2013,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00090773896774651
+Cambodia,KHM,2012,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0147631685206292
+Cambodia,KHM,2011,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.000141032321693961
+Cambodia,KHM,2010,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.000103593777569394
+Cambodia,KHM,2008,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.23759175439707e-05
+Cambodia,KHM,2005,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,7.98854027653965e-07
+Cambodia,KHM,2004,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00119306221439431
+Cambodia,KHM,2003,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00095729441711358
+Cambodia,KHM,2002,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.000617817604119258
+Cambodia,KHM,2001,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00321040320792756
+Cambodia,KHM,2000,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00103679305924813
+Cambodia,KHM,1972,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00750692296810375
+Cambodia,KHM,1971,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,5.27511699919883
+Cambodia,KHM,1970,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.72192472169129
+Cambodia,KHM,1969,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.586181113265024
+Cambodia,KHM,1967,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00645555418975943
+Cambodia,KHM,1966,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0366499089708591
+Cambodia,KHM,1965,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0341975101890635
+Cambodia,KHM,1964,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.105214942688226
+Cambodia,KHM,1963,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.135821951264221
+Cambodia,KHM,1962,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0666814774139905
+Cambodia,KHM,2016,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.129800915700462
+Cambodia,KHM,2015,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.124925687116847
+Cambodia,KHM,2014,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.26090783388539
+Cambodia,KHM,2013,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.24245728980932
+Cambodia,KHM,2012,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.158188952973684
+Cambodia,KHM,2011,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0803694500061509
+Cambodia,KHM,2010,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.130283280576471
+Cambodia,KHM,2009,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.772554537459274
+Cambodia,KHM,2008,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.79431986827953
+Cambodia,KHM,2007,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.121860028102402
+Cambodia,KHM,2006,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0277887236180014
+Cambodia,KHM,2005,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0149958880936133
+Cambodia,KHM,2004,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0072995346803209
+Cambodia,KHM,2003,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0202021111400465
+Cambodia,KHM,2002,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.000598092765947496
+Cambodia,KHM,2001,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0017931624304788
+Cambodia,KHM,2000,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.00541692569989075
+Cambodia,KHM,1972,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.85486386299876
+Cambodia,KHM,1971,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.516616003760136
+Cambodia,KHM,1970,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0570876257945331
+Cambodia,KHM,1969,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0374211514200437
+Cambodia,KHM,1968,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0613530740455654
+Cambodia,KHM,1967,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,8.54960543691326e-05
+Cambodia,KHM,1966,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.000444124292059937
+Cambodia,KHM,1965,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0138937463041383
+Cambodia,KHM,1964,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0155770309029646
+Cambodia,KHM,1963,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.00834987583687456
+Cambodia,KHM,1962,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0300955219614708

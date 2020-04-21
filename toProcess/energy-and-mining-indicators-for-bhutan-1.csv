@@ -1,0 +1,848 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Bhutan,BTN,2015,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,10.4079225807329
+Bhutan,BTN,2014,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,11.0601641482083
+Bhutan,BTN,2013,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,11.6454357357287
+Bhutan,BTN,2012,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,11.5600743387308
+Bhutan,BTN,2011,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,11.7594234696087
+Bhutan,BTN,2010,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,12.5510916601707
+Bhutan,BTN,2009,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,13.2003774667314
+Bhutan,BTN,2008,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,13.6392183029328
+Bhutan,BTN,2007,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,13.7378906050228
+Bhutan,BTN,2006,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,15.5068447461987
+Bhutan,BTN,2005,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,16.2143545406557
+Bhutan,BTN,2004,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,16.8307926066365
+Bhutan,BTN,2003,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,17.7911022058292
+Bhutan,BTN,2002,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,18.9805852945797
+Bhutan,BTN,2001,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,20.4760663191754
+Bhutan,BTN,2000,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,21.7941359920036
+Bhutan,BTN,1999,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,22.8580280966108
+Bhutan,BTN,1998,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,24.3211322541248
+Bhutan,BTN,1997,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,25.1515347596044
+Bhutan,BTN,1996,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,25.6503395895454
+Bhutan,BTN,1995,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,26.3127671712357
+Bhutan,BTN,1994,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,27.567865427355
+Bhutan,BTN,1993,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,28.5173259835681
+Bhutan,BTN,1992,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,29.3291945442578
+Bhutan,BTN,1991,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,30.2889944005854
+Bhutan,BTN,1990,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,30.0153214770834
+Bhutan,BTN,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,96.7601526850255
+Bhutan,BTN,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,99.7120464124641
+Bhutan,BTN,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,93.0931785293057
+Bhutan,BTN,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,86.6884902100176
+Bhutan,BTN,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,80.4343040136782
+Bhutan,BTN,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,86.8699456277851
+Bhutan,BTN,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,71.926583275625
+Bhutan,BTN,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,59.3978196083499
+Bhutan,BTN,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,57.4647749846671
+Bhutan,BTN,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,52.1768388549479
+Bhutan,BTN,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,58.8520518203962
+Bhutan,BTN,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,42.0006962978135
+Bhutan,BTN,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,43.2263727719692
+Bhutan,BTN,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,32.5484019265482
+Bhutan,BTN,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,18.4511103663433
+Bhutan,BTN,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,23.8222951489147
+Bhutan,BTN,2001,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,19.5641124471559
+Bhutan,BTN,2000,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,8.7965034781897
+Bhutan,BTN,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.1
+Bhutan,BTN,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.8707885742188
+Bhutan,BTN,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.6935195922852
+Bhutan,BTN,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.4468154907227
+Bhutan,BTN,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.2728042602539
+Bhutan,BTN,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.6
+Bhutan,BTN,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.5391006469727
+Bhutan,BTN,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.3055555555556
+Bhutan,BTN,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.3195266723633
+Bhutan,BTN,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.1279907226563
+Bhutan,BTN,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.73
+Bhutan,BTN,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.7839584350586
+Bhutan,BTN,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.776382762131
+Bhutan,BTN,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.4926071166992
+Bhutan,BTN,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.4
+Bhutan,BTN,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.2515335083008
+Bhutan,BTN,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,97.1413269042969
+Bhutan,BTN,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,96.74
+Bhutan,BTN,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,97.7
+Bhutan,BTN,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7746353149414
+Bhutan,BTN,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,95.6460571289063
+Bhutan,BTN,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,91.5261993408203
+Bhutan,BTN,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,87.4326095581055
+Bhutan,BTN,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,91.5
+Bhutan,BTN,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,81.7524795532227
+Bhutan,BTN,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,73.2829108748978
+Bhutan,BTN,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,71.3594665527344
+Bhutan,BTN,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,67.4491806030273
+Bhutan,BTN,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,71.8
+Bhutan,BTN,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,59.6906890869141
+Bhutan,BTN,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,59.8081116441343
+Bhutan,BTN,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,51.9244918823242
+Bhutan,BTN,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,41.1
+Bhutan,BTN,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,44.0667114257813
+Bhutan,BTN,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,40.1065483093262
+Bhutan,BTN,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,31.15
+Bhutan,BTN,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.9935464335397
+Bhutan,BTN,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.9928610794619
+Bhutan,BTN,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.9934556173054
+Bhutan,BTN,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.997070326805
+Bhutan,BTN,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.9957552175451
+Bhutan,BTN,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.9959062811293
+Bhutan,BTN,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.998571040711
+Bhutan,BTN,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.9985634454325
+Bhutan,BTN,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.9695214873514
+Bhutan,BTN,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.9601840382233
+Bhutan,BTN,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.943342776204
+Bhutan,BTN,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.923560387294
+Bhutan,BTN,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.9169665098256
+Bhutan,BTN,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.9586534660663
+Bhutan,BTN,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.9781489754297
+Bhutan,BTN,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Bhutan,BTN,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Bhutan,BTN,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Bhutan,BTN,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Bhutan,BTN,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Bhutan,BTN,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Bhutan,BTN,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.9406880189798
+Bhutan,BTN,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.9406175771972
+Bhutan,BTN,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.9360613810742
+Bhutan,BTN,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.7442455242967
+Bhutan,BTN,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,99.5524296675192
+Bhutan,BTN,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,86.9045483179462
+Bhutan,BTN,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,87.0256180016119
+Bhutan,BTN,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,87.0378362103585
+Bhutan,BTN,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,88.0423063931459
+Bhutan,BTN,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,89.6053320733458
+Bhutan,BTN,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,90.8904179206477
+Bhutan,BTN,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,92.606017618535
+Bhutan,BTN,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,91.9994765251437
+Bhutan,BTN,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,92.1868266845302
+Bhutan,BTN,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,91.9213494576094
+Bhutan,BTN,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,91.6600827423875
+Bhutan,BTN,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,93.452884471327
+Bhutan,BTN,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,91.9166611557926
+Bhutan,BTN,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,91.2007608772782
+Bhutan,BTN,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,91.7484689925743
+Bhutan,BTN,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,91.3980429430305
+Bhutan,BTN,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,91.5656229447683
+Bhutan,BTN,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,91.5314709412851
+Bhutan,BTN,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,91.3500642374542
+Bhutan,BTN,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,93.2400206314055
+Bhutan,BTN,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,94.3717497455821
+Bhutan,BTN,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,95.2909637508904
+Bhutan,BTN,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,95.8580746623879
+Bhutan,BTN,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,95.287492052706
+Bhutan,BTN,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,95.9199381421397
+Bhutan,BTN,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,95.8988521698186
+Bhutan,BTN,2007,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,14.4534731816595
+Bhutan,BTN,2006,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,13.8025157940851
+Bhutan,BTN,2005,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,12.9685341515763
+Bhutan,BTN,2004,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,13.3059536926714
+Bhutan,BTN,1990,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,14.4833811462594
+Bhutan,BTN,2007,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,15.3336978718849
+Bhutan,BTN,2006,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,15.0364512257789
+Bhutan,BTN,2005,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,14.5554517332281
+Bhutan,BTN,2004,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,15.3993506922295
+Bhutan,BTN,1990,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,22.3190195653063
+Bhutan,BTN,2007,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Bhutan,BTN,2006,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Bhutan,BTN,2005,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Bhutan,BTN,2004,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Bhutan,BTN,1990,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Bhutan,BTN,2007,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,65.2158408464242
+Bhutan,BTN,2006,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,66.5050539508665
+Bhutan,BTN,2005,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,68.7027801217011
+Bhutan,BTN,2004,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,64.9378028974041
+Bhutan,BTN,1990,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,44.8048354935108
+Bhutan,BTN,2007,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,366.985723653734
+Bhutan,BTN,2006,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,320.956480735006
+Bhutan,BTN,2005,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,314.456198871965
+Bhutan,BTN,2004,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,281.77171794651
+Bhutan,BTN,1990,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,105.453139011763
+Bhutan,BTN,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Bhutan,BTN,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,407.037
+Bhutan,BTN,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,440.04
+Bhutan,BTN,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,418.038
+Bhutan,BTN,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,366.7
+Bhutan,BTN,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,311.695
+Bhutan,BTN,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,242.022
+Bhutan,BTN,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,216.353
+Bhutan,BTN,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,223.687
+Bhutan,BTN,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,220.02
+Bhutan,BTN,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,212.686
+Bhutan,BTN,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,198.018
+Bhutan,BTN,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,187.017
+Bhutan,BTN,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,168.682
+Bhutan,BTN,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,161.348
+Bhutan,BTN,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,146.68
+Bhutan,BTN,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,135.679
+Bhutan,BTN,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,128.345
+Bhutan,BTN,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,121.011
+Bhutan,BTN,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,124.678
+Bhutan,BTN,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,102.676
+Bhutan,BTN,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,88.008
+Bhutan,BTN,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,84.341
+Bhutan,BTN,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,77.007
+Bhutan,BTN,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,80.674
+Bhutan,BTN,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,80.674
+Bhutan,BTN,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,62.339
+Bhutan,BTN,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,62.339
+Bhutan,BTN,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,58.672
+Bhutan,BTN,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,55.005
+Bhutan,BTN,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,62.339
+Bhutan,BTN,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,51.338
+Bhutan,BTN,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,29.336
+Bhutan,BTN,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,29.336
+Bhutan,BTN,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,25.669
+Bhutan,BTN,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,18.335
+Bhutan,BTN,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,18.335
+Bhutan,BTN,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11.001
+Bhutan,BTN,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,7.334
+Bhutan,BTN,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3.667
+Bhutan,BTN,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3.667
+Bhutan,BTN,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3.667
+Bhutan,BTN,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3.667
+Bhutan,BTN,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3.667
+Bhutan,BTN,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3.667
+Bhutan,BTN,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3.667
+Bhutan,BTN,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,438.599828788635
+Bhutan,BTN,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,431.757880327717
+Bhutan,BTN,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,423.692327245361
+Bhutan,BTN,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,418.253846964192
+Bhutan,BTN,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,411.231595734957
+Bhutan,BTN,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,402.475119878846
+Bhutan,BTN,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,397.408394411793
+Bhutan,BTN,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,388.827586468772
+Bhutan,BTN,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,388.671269053622
+Bhutan,BTN,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,395.30803900363
+Bhutan,BTN,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,403.710857335054
+Bhutan,BTN,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,431.514074067748
+Bhutan,BTN,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,531.462424365875
+Bhutan,BTN,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,522.993968858121
+Bhutan,BTN,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,598.703407373861
+Bhutan,BTN,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,613.968738099892
+Bhutan,BTN,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,618.129742669389
+Bhutan,BTN,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,313.196913312321
+Bhutan,BTN,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,309.523688540651
+Bhutan,BTN,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,304.646644478531
+Bhutan,BTN,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,299.716429320071
+Bhutan,BTN,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,292.23788563513
+Bhutan,BTN,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,294.899911458952
+Bhutan,BTN,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,293.696408363747
+Bhutan,BTN,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,289.56704463861
+Bhutan,BTN,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,287.545414833776
+Bhutan,BTN,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,286.369320537976
+Bhutan,BTN,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,283.648441705817
+Bhutan,BTN,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,283.407431122183
+Bhutan,BTN,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,277.581210789389
+Bhutan,BTN,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,269.885109357503
+Bhutan,BTN,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,256.200479963235
+Bhutan,BTN,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,250.902510766778
+Bhutan,BTN,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,250.640705518291
+Bhutan,BTN,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,254.688318192418
+Bhutan,BTN,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,249.667393727437
+Bhutan,BTN,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,243.747341866423
+Bhutan,BTN,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,242.221036301077
+Bhutan,BTN,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,239.774539909938
+Bhutan,BTN,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Bhutan,BTN,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,36.4494460104741
+Bhutan,BTN,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,38.5894338229179
+Bhutan,BTN,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,33.7283633244462
+Bhutan,BTN,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,40.4849287069327
+Bhutan,BTN,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,40.4628065702689
+Bhutan,BTN,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,44.1060407508952
+Bhutan,BTN,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,39.3282857239352
+Bhutan,BTN,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,41.0096849469667
+Bhutan,BTN,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,37.6473526785763
+Bhutan,BTN,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,31.6781157797265
+Bhutan,BTN,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,37.6993339373644
+Bhutan,BTN,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,40.8483759696083
+Bhutan,BTN,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,46.0535371760968
+Bhutan,BTN,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,45.292235180965
+Bhutan,BTN,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,50.309096876086
+Bhutan,BTN,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,51.4655639370556
+Bhutan,BTN,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,51.690003902645
+Bhutan,BTN,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,34.3869751254468
+Bhutan,BTN,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,33.6826141955261
+Bhutan,BTN,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,33.7578807461644
+Bhutan,BTN,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,33.4539666862823
+Bhutan,BTN,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,30.6834944447323
+Bhutan,BTN,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,31.6099775073829
+Bhutan,BTN,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,32.1538772186115
+Bhutan,BTN,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,32.6281917393289
+Bhutan,BTN,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,33.0879742004936
+Bhutan,BTN,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,33.6957806972121
+Bhutan,BTN,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,34.1792879132285
+Bhutan,BTN,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,34.3676209622662
+Bhutan,BTN,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,34.3074470230947
+Bhutan,BTN,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,34.0077002718627
+Bhutan,BTN,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,33.220758132488
+Bhutan,BTN,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,33.1109914150852
+Bhutan,BTN,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,33.4908330084062
+Bhutan,BTN,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,34.2277463338101
+Bhutan,BTN,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,34.1311141877165
+Bhutan,BTN,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,33.9400145461768
+Bhutan,BTN,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,34.1786527980569
+Bhutan,BTN,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,34.3314380658291
+Bhutan,BTN,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,84.109920688
+Bhutan,BTN,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,82.989954455
+Bhutan,BTN,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,81.805466062
+Bhutan,BTN,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,80.684342072
+Bhutan,BTN,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,79.828482044
+Bhutan,BTN,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,78.526255682
+Bhutan,BTN,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,77.46860444
+Bhutan,BTN,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,76.681717366
+Bhutan,BTN,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,75.706336714
+Bhutan,BTN,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,75.669173542
+Bhutan,BTN,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,74.173083906
+Bhutan,BTN,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,72.909934532
+Bhutan,BTN,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,71.900707212
+Bhutan,BTN,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,71.863594942
+Bhutan,BTN,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,70.214656644
+Bhutan,BTN,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,70.081554982
+Bhutan,BTN,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,70.21809938
+Bhutan,BTN,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,70.6134244
+Bhutan,BTN,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,70.1377356
+Bhutan,BTN,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,68.423605356
+Bhutan,BTN,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,67.286185348
+Bhutan,BTN,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,66.26863397
+Bhutan,BTN,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,66.64542688
+Bhutan,BTN,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,66.588513732
+Bhutan,BTN,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,65.370202448
+Bhutan,BTN,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,64.748187882
+Bhutan,BTN,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,64.244923342
+Bhutan,BTN,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,63.575160654
+Bhutan,BTN,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,62.771456483
+Bhutan,BTN,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,61.5069300797
+Bhutan,BTN,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,59.9204881723
+Bhutan,BTN,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,57.1312170908
+Bhutan,BTN,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,55.9478702821
+Bhutan,BTN,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,55.6221641383
+Bhutan,BTN,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,56.1540935258
+Bhutan,BTN,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,55.0404399406
+Bhutan,BTN,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,53.7937807066
+Bhutan,BTN,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,53.325939755
+Bhutan,BTN,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,52.692774985
+Bhutan,BTN,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Bhutan,BTN,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,34.3823315968284
+Bhutan,BTN,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,37.5628816313244
+Bhutan,BTN,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,25.9525968666713
+Bhutan,BTN,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,37.4061076658412
+Bhutan,BTN,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,37.1943848894833
+Bhutan,BTN,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,38.1206963172088
+Bhutan,BTN,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,35.233278770114
+Bhutan,BTN,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,32.3390864378948
+Bhutan,BTN,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,26.9249924367376
+Bhutan,BTN,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,24.1469336512113
+Bhutan,BTN,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,34.931064715054
+Bhutan,BTN,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,38.8799443895246
+Bhutan,BTN,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,38.6905353237615
+Bhutan,BTN,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,38.146163169933
+Bhutan,BTN,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,39.5724568064085
+Bhutan,BTN,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,39.8316892603804
+Bhutan,BTN,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,40.1269830978081
+Bhutan,BTN,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,39.2353671707194
+Bhutan,BTN,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,39.2279548303538
+Bhutan,BTN,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,40.1188923383403
+Bhutan,BTN,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,40.2596420536011
+Bhutan,BTN,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,39.014353580593
+Bhutan,BTN,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,40.0909377074615
+Bhutan,BTN,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,40.2181004770714
+Bhutan,BTN,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,40.4566171107133
+Bhutan,BTN,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,41.1535807426615
+Bhutan,BTN,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,41.8165743941146
+Bhutan,BTN,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,42.3119079244629
+Bhutan,BTN,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,43.0764419828621
+Bhutan,BTN,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,43.1295829781036
+Bhutan,BTN,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,42.9043672683444
+Bhutan,BTN,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,42.3827650339326
+Bhutan,BTN,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,42.3972413403464
+Bhutan,BTN,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,42.9622700886176
+Bhutan,BTN,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,43.8010327911267
+Bhutan,BTN,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,43.8471451192678
+Bhutan,BTN,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,43.7447249851267
+Bhutan,BTN,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,44.0947008943563
+Bhutan,BTN,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,44.1142699384911
+Bhutan,BTN,2016,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.82
+Bhutan,BTN,2014,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.84
+Bhutan,BTN,2012,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.86
+Bhutan,BTN,2010,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.82
+Bhutan,BTN,2004,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.59
+Bhutan,BTN,2000,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.38
+Bhutan,BTN,1998,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.26
+Bhutan,BTN,2016,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.98
+Bhutan,BTN,2014,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.04
+Bhutan,BTN,2012,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.19
+Bhutan,BTN,2010,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.08
+Bhutan,BTN,2008,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.91
+Bhutan,BTN,2004,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.78
+Bhutan,BTN,2000,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.58
+Bhutan,BTN,1998,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.59
+Bhutan,BTN,2015,Time to obtain an electrical connection (days),IC.ELC.DURS,21.3
+Bhutan,BTN,2009,Time to obtain an electrical connection (days),IC.ELC.DURS,14.7
+Bhutan,BTN,2019,Time required to get electricity (days),IC.ELC.TIME,61
+Bhutan,BTN,2018,Time required to get electricity (days),IC.ELC.TIME,61
+Bhutan,BTN,2017,Time required to get electricity (days),IC.ELC.TIME,61
+Bhutan,BTN,2016,Time required to get electricity (days),IC.ELC.TIME,61
+Bhutan,BTN,2015,Time required to get electricity (days),IC.ELC.TIME,61
+Bhutan,BTN,2014,Time required to get electricity (days),IC.ELC.TIME,71
+Bhutan,BTN,2013,Time required to get electricity (days),IC.ELC.TIME,82
+Bhutan,BTN,2012,Time required to get electricity (days),IC.ELC.TIME,82
+Bhutan,BTN,2011,Time required to get electricity (days),IC.ELC.TIME,93
+Bhutan,BTN,2010,Time required to get electricity (days),IC.ELC.TIME,93
+Bhutan,BTN,2009,Time required to get electricity (days),IC.ELC.TIME,93
+Bhutan,BTN,2015,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,32.2
+Bhutan,BTN,2009,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,64.2
+Bhutan,BTN,2015,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,3.7
+Bhutan,BTN,2009,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,4.3
+Bhutan,BTN,2009,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,201000000
+Bhutan,BTN,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,357520.722668473
+Bhutan,BTN,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,222037.607855159
+Bhutan,BTN,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,317047.621968638
+Bhutan,BTN,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,273709.064247228
+Bhutan,BTN,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,445029.781323508
+Bhutan,BTN,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,79837.5475064706
+Bhutan,BTN,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,47041.8919616929
+Bhutan,BTN,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,29388.0461228066
+Bhutan,BTN,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Bhutan,BTN,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.015442427867686
+Bhutan,BTN,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0109152881964107
+Bhutan,BTN,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0165384432044218
+Bhutan,BTN,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0150073825568772
+Bhutan,BTN,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0265705542477172
+Bhutan,BTN,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00474776593811042
+Bhutan,BTN,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00526092168429033
+Bhutan,BTN,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00364028682753551
+Bhutan,BTN,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,2001,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,2000,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1999,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1998,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1997,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1996,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1995,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1994,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1993,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1992,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1991,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1990,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1989,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1988,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1987,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1986,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1985,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1984,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1983,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1982,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1981,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,1980,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Bhutan,BTN,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Bhutan,BTN,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Bhutan,BTN,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Bhutan,BTN,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Bhutan,BTN,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Bhutan,BTN,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,692746.780166179
+Bhutan,BTN,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,977418.160216581
+Bhutan,BTN,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,724230.771503224
+Bhutan,BTN,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,274038.439747905
+Bhutan,BTN,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1533353.45571555
+Bhutan,BTN,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,612921.841963939
+Bhutan,BTN,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,421701.803696485
+Bhutan,BTN,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,348812.712072178
+Bhutan,BTN,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,151815.586389051
+Bhutan,BTN,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,135536.900540477
+Bhutan,BTN,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,151221.578650865
+Bhutan,BTN,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,210410.467680052
+Bhutan,BTN,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,74686.3386384145
+Bhutan,BTN,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,54340.4881527071
+Bhutan,BTN,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,70436.5109227178
+Bhutan,BTN,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,93399.4607669376
+Bhutan,BTN,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,131487.657732334
+Bhutan,BTN,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,157920.851778026
+Bhutan,BTN,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,92717.1422655215
+Bhutan,BTN,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,60904.037206954
+Bhutan,BTN,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,109371.393095949
+Bhutan,BTN,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,4444.04310746025
+Bhutan,BTN,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,4578.26168052432
+Bhutan,BTN,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,4145.50452631864
+Bhutan,BTN,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,3384.24273253931
+Bhutan,BTN,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,2324.96696005873
+Bhutan,BTN,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1553.42218499541
+Bhutan,BTN,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,1323.48669255477
+Bhutan,BTN,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,932.760855025235
+Bhutan,BTN,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,592.46214371113
+Bhutan,BTN,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,498.104205449611
+Bhutan,BTN,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,430.597071346581
+Bhutan,BTN,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,155.560920996588
+Bhutan,BTN,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Bhutan,BTN,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Bhutan,BTN,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Bhutan,BTN,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Bhutan,BTN,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Bhutan,BTN,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0411961497983401
+Bhutan,BTN,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0572828116567515
+Bhutan,BTN,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0483629281456892
+Bhutan,BTN,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0225697393059286
+Bhutan,BTN,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.125241905947387
+Bhutan,BTN,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0519365977765146
+Bhutan,BTN,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0471609467828756
+Bhutan,BTN,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0432073066622784
+Bhutan,BTN,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0221078144706356
+Bhutan,BTN,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0222837901341486
+Bhutan,BTN,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0285859181259828
+Bhutan,BTN,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0441924090864596
+Bhutan,BTN,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0170259242326227
+Bhutan,BTN,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0156403392582883
+Bhutan,BTN,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0219668761261384
+Bhutan,BTN,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0279184881991987
+Bhutan,BTN,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0467534962575765
+Bhutan,BTN,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.059410450711878
+Bhutan,BTN,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0369993647894861
+Bhutan,BTN,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0288431117157977
+Bhutan,BTN,1992,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.049160883776955
+Bhutan,BTN,1991,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00194534371772495
+Bhutan,BTN,1990,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00162832641074564
+Bhutan,BTN,1989,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00157698496654422
+Bhutan,BTN,1988,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0013137290756138
+Bhutan,BTN,1987,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.0010480384131735
+Bhutan,BTN,1986,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.000938626869767183
+Bhutan,BTN,1985,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.00096154335247434
+Bhutan,BTN,1984,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.000690281179023383
+Bhutan,BTN,1983,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.000491965723529618
+Bhutan,BTN,1982,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.000433365612940371
+Bhutan,BTN,1981,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.000373625034660948
+Bhutan,BTN,1980,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0.000141152110071669
+Bhutan,BTN,2017,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.66164223412292
+Bhutan,BTN,2016,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.96104212090726
+Bhutan,BTN,2015,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.55839979591801
+Bhutan,BTN,2014,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.18343147838454
+Bhutan,BTN,2013,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.18370545390106
+Bhutan,BTN,2012,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.66794993485392
+Bhutan,BTN,2011,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.04055913646721
+Bhutan,BTN,2010,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.28916857174282
+Bhutan,BTN,2009,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.17035051942675
+Bhutan,BTN,2008,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.33145810279784
+Bhutan,BTN,2007,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.53341352899272
+Bhutan,BTN,2006,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.90303343897627
+Bhutan,BTN,2005,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.47340643175304
+Bhutan,BTN,2004,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.72742673736298
+Bhutan,BTN,2003,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.94031636121099
+Bhutan,BTN,2002,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.03375446889114
+Bhutan,BTN,2001,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.12470246415481
+Bhutan,BTN,2000,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.23326760364693
+Bhutan,BTN,1999,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.82924537626796
+Bhutan,BTN,1998,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.63874183913279
+Bhutan,BTN,1997,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.45080978448606
+Bhutan,BTN,1996,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.38112028501656
+Bhutan,BTN,1995,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.56191062924663
+Bhutan,BTN,1994,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.98080752331305
+Bhutan,BTN,1993,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.79282892098334
+Bhutan,BTN,1992,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,4.66237985114372
+Bhutan,BTN,1991,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,4.40646159430272
+Bhutan,BTN,1990,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.53138665700723
+Bhutan,BTN,1989,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.20691050940757
+Bhutan,BTN,1988,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.3632861417457
+Bhutan,BTN,1987,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.733176003894
+Bhutan,BTN,1986,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,5.46853410056883
+Bhutan,BTN,1985,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.92647976711263
+Bhutan,BTN,1984,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,5.77650205834126
+Bhutan,BTN,1983,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,7.81853982240277
+Bhutan,BTN,1982,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,11.9800837120728
+Bhutan,BTN,1981,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,7.92788700368922
+Bhutan,BTN,1980,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.46520706435285
+Bhutan,BTN,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0795853982038322
+Bhutan,BTN,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0562921192582764
+Bhutan,BTN,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0866179612648387
+Bhutan,BTN,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0786331101428558
+Bhutan,BTN,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.139260961229622
+Bhutan,BTN,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0246357773921786
+Bhutan,BTN,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.033141889411416
+Bhutan,BTN,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0361527462410466
+Bhutan,BTN,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1992,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1991,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1990,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1989,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1988,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1987,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1986,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1985,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1984,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1983,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1982,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1981,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,1980,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Bhutan,BTN,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2001,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2000,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1999,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1998,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1997,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1996,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1995,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1994,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1993,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1992,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1991,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1990,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1989,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1988,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1987,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1986,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1985,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1984,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1983,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1982,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1981,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,1980,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Bhutan,BTN,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2001,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2000,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1999,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1998,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1997,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1996,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1995,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1994,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1993,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1992,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1991,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1990,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1989,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1988,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1987,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1986,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1985,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1984,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1983,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1982,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1981,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,1980,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Bhutan,BTN,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.94770336679301
+Bhutan,BTN,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.35820615272596
+Bhutan,BTN,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.8560399913447
+Bhutan,BTN,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.30593429749422
+Bhutan,BTN,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.36125734760879
+Bhutan,BTN,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.11161367150008
+Bhutan,BTN,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.79285434881459
+Bhutan,BTN,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.15517713460535
+Bhutan,BTN,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.4414030668727
+Bhutan,BTN,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.08602399063243
+Bhutan,BTN,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.19534152911755
+Bhutan,BTN,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.31277656818198
+Bhutan,BTN,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.58402583141235
+Bhutan,BTN,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.88403306693057
+Bhutan,BTN,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.25083751887476
+Bhutan,BTN,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.470631888197
+Bhutan,BTN,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.75034971777081
+Bhutan,BTN,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.85782057610321
+Bhutan,BTN,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.08028413630862
+Bhutan,BTN,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.03637635849692
+Bhutan,BTN,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.11604253902028
+Bhutan,BTN,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.59141748457229
+Bhutan,BTN,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.86735281722924
+Bhutan,BTN,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.12363832770797
+Bhutan,BTN,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.25904786085558
+Bhutan,BTN,1992,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.60216881296276
+Bhutan,BTN,1991,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.27889124011097
+Bhutan,BTN,1990,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.00870297697639
+Bhutan,BTN,1989,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.53038137726269
+Bhutan,BTN,1988,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.51718245888923
+Bhutan,BTN,1987,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.89914635470376
+Bhutan,BTN,1986,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.04573273572314
+Bhutan,BTN,1985,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.60545152134729
+Bhutan,BTN,1984,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.17237093589934
+Bhutan,BTN,1983,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.0934936171352
+Bhutan,BTN,1982,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,16.4095173848592
+Bhutan,BTN,1981,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.1263151890524
+Bhutan,BTN,1980,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,13.669509424551
+Bhutan,BTN,2012,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,18.4331653429901
+Bhutan,BTN,2011,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.1648948049886
+Bhutan,BTN,2010,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.2417221575561
+Bhutan,BTN,2009,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,17.5293409400273
+Bhutan,BTN,2008,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,17.4600758110532
+Bhutan,BTN,2007,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.9377942220434
+Bhutan,BTN,2006,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,15.7146129478012
+Bhutan,BTN,2005,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.9294896907531
+Bhutan,BTN,1999,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.3690634699721
+Bhutan,BTN,1998,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.3045533353287
+Bhutan,BTN,1994,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.4293532125026
+Bhutan,BTN,1993,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.79867438710945
+Bhutan,BTN,1992,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.10330977396028
+Bhutan,BTN,1991,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.0032154732218
+Bhutan,BTN,2012,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,7.2439870162886
+Bhutan,BTN,2011,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,8.03420399379089
+Bhutan,BTN,2010,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,10.1868880584536
+Bhutan,BTN,2009,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,7.09204087658189
+Bhutan,BTN,2008,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,7.79334907119812
+Bhutan,BTN,2007,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,10.334272109345
+Bhutan,BTN,2006,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,10.2895323800251
+Bhutan,BTN,2005,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,4.35049108582396
+Bhutan,BTN,1999,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.829647135574338
+Bhutan,BTN,1998,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.761098718431282
+Bhutan,BTN,1994,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.947511425942516
+Bhutan,BTN,1993,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.8449769981558
+Bhutan,BTN,1992,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.744076100742073
+Bhutan,BTN,1991,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.884990009038731
+Bhutan,BTN,2012,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,32.9166473395568
+Bhutan,BTN,2011,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.32603384643971
+Bhutan,BTN,2010,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.17938116636528
+Bhutan,BTN,2009,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,42.4687238193763
+Bhutan,BTN,2008,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,48.9175140043768
+Bhutan,BTN,2007,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,36.5144598541274
+Bhutan,BTN,2006,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,27.1858253436532
+Bhutan,BTN,2005,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,30.9371095810558
+Bhutan,BTN,1999,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,41.9414076675015
+Bhutan,BTN,1998,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,30.9983551252258
+Bhutan,BTN,1994,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,25.6183926884785
+Bhutan,BTN,1993,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,28.0710468174997
+Bhutan,BTN,1992,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,22.0593854730078
+Bhutan,BTN,1991,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,28.0819410196691
+Bhutan,BTN,2012,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,11.508077057802
+Bhutan,BTN,2011,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,21.4084608365751
+Bhutan,BTN,2010,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,21.9335874187721
+Bhutan,BTN,2009,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,10.2383235010841
+Bhutan,BTN,2008,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.30154272797893
+Bhutan,BTN,2007,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,14.8806773729147
+Bhutan,BTN,2006,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,11.6832870240088
+Bhutan,BTN,2005,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,8.37028878427767
+Bhutan,BTN,1999,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.11231425752185
+Bhutan,BTN,1998,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.33498434230566
+Bhutan,BTN,1994,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.49866004648788
+Bhutan,BTN,1993,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.7598289645164
+Bhutan,BTN,1992,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.14816019789452
+Bhutan,BTN,1991,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.31731606721685

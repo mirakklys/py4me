@@ -1,0 +1,635 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Puerto Rico,PRI,2015,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.407346611868392
+Puerto Rico,PRI,2014,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.490594393138833
+Puerto Rico,PRI,2013,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.457345506097286
+Puerto Rico,PRI,2012,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.394165219747611
+Puerto Rico,PRI,2011,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.213593375136378
+Puerto Rico,PRI,2010,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.214270627765374
+Puerto Rico,PRI,2009,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.206430759590611
+Puerto Rico,PRI,2008,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.214153321024653
+Puerto Rico,PRI,2007,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.192605110540914
+Puerto Rico,PRI,2006,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.178640384422213
+Puerto Rico,PRI,2005,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.169998912875921
+Puerto Rico,PRI,2004,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.170965525199136
+Puerto Rico,PRI,2003,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.191315853201867
+Puerto Rico,PRI,2002,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.163811694855027
+Puerto Rico,PRI,2001,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.166451832565405
+Puerto Rico,PRI,2000,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.101057041298286
+Puerto Rico,PRI,1999,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.00472370011308115
+Puerto Rico,PRI,1998,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.0030133180892047
+Puerto Rico,PRI,1997,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.0029914258530204
+Puerto Rico,PRI,1996,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.00467850243756159
+Puerto Rico,PRI,1995,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.00341409396274835
+Puerto Rico,PRI,1994,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.00163448339984608
+Puerto Rico,PRI,1993,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.00513570229380142
+Puerto Rico,PRI,1992,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.0115112068060348
+Puerto Rico,PRI,1991,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.0115792023988811
+Puerto Rico,PRI,1990,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,0.0112753648336518
+Puerto Rico,PRI,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Puerto Rico,PRI,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Puerto Rico,PRI,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Puerto Rico,PRI,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Puerto Rico,PRI,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Puerto Rico,PRI,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Puerto Rico,PRI,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Puerto Rico,PRI,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Puerto Rico,PRI,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Puerto Rico,PRI,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Puerto Rico,PRI,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Puerto Rico,PRI,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Puerto Rico,PRI,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Puerto Rico,PRI,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Puerto Rico,PRI,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Puerto Rico,PRI,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Puerto Rico,PRI,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Puerto Rico,PRI,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Puerto Rico,PRI,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Puerto Rico,PRI,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Puerto Rico,PRI,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Puerto Rico,PRI,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Puerto Rico,PRI,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Puerto Rico,PRI,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Puerto Rico,PRI,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Puerto Rico,PRI,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Puerto Rico,PRI,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Puerto Rico,PRI,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Puerto Rico,PRI,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Puerto Rico,PRI,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Puerto Rico,PRI,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Puerto Rico,PRI,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Puerto Rico,PRI,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Puerto Rico,PRI,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Puerto Rico,PRI,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Puerto Rico,PRI,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Puerto Rico,PRI,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Puerto Rico,PRI,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Puerto Rico,PRI,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Puerto Rico,PRI,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Puerto Rico,PRI,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Puerto Rico,PRI,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Puerto Rico,PRI,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Puerto Rico,PRI,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Puerto Rico,PRI,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Puerto Rico,PRI,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Puerto Rico,PRI,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Puerto Rico,PRI,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Puerto Rico,PRI,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.83744647870018
+Puerto Rico,PRI,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.62786988299978
+Puerto Rico,PRI,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.39324420971557
+Puerto Rico,PRI,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.69864742213269
+Puerto Rico,PRI,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.673052147102988
+Puerto Rico,PRI,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.573634108250033
+Puerto Rico,PRI,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.733664665763033
+Puerto Rico,PRI,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.674828048622226
+Puerto Rico,PRI,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.665692482545868
+Puerto Rico,PRI,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.569206718242675
+Puerto Rico,PRI,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.552840317282269
+Puerto Rico,PRI,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.571783716594158
+Puerto Rico,PRI,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.08618456782387
+Puerto Rico,PRI,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.949257852951329
+Puerto Rico,PRI,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.941619585687382
+Puerto Rico,PRI,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.733473915833868
+Puerto Rico,PRI,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.724867485162869
+Puerto Rico,PRI,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.515570220664054
+Puerto Rico,PRI,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.464883779055236
+Puerto Rico,PRI,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.737062205959226
+Puerto Rico,PRI,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.533418680322185
+Puerto Rico,PRI,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.254340373769767
+Puerto Rico,PRI,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.797292646552713
+Puerto Rico,PRI,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.77462289263531
+Puerto Rico,PRI,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.78780593058381
+Puerto Rico,PRI,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.74694285001248
+Puerto Rico,PRI,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.83744638261367
+Puerto Rico,PRI,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.62786914395754
+Puerto Rico,PRI,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.39324413664838
+Puerto Rico,PRI,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.698647346921574
+Puerto Rico,PRI,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.673052167838715
+Puerto Rico,PRI,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.573634039385937
+Puerto Rico,PRI,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.733664639089507
+Puerto Rico,PRI,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.674828024102332
+Puerto Rico,PRI,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.66569245470491
+Puerto Rico,PRI,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.569206676640824
+Puerto Rico,PRI,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.552840372046254
+Puerto Rico,PRI,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.571783714893351
+Puerto Rico,PRI,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.08618455494056
+Puerto Rico,PRI,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.949257795135581
+Puerto Rico,PRI,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.941619550559314
+Puerto Rico,PRI,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.733473890812009
+Puerto Rico,PRI,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.724867424560931
+Puerto Rico,PRI,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.515570154190002
+Puerto Rico,PRI,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.464883807795126
+Puerto Rico,PRI,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.737062199836008
+Puerto Rico,PRI,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.533418739386675
+Puerto Rico,PRI,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.254340396800665
+Puerto Rico,PRI,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.797292652875948
+Puerto Rico,PRI,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.77462293105338
+Puerto Rico,PRI,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.78780597448905
+Puerto Rico,PRI,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,1.74694285470563
+Puerto Rico,PRI,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.0568387070557135
+Puerto Rico,PRI,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.0567744808809776
+Puerto Rico,PRI,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.0556666885806848
+Puerto Rico,PRI,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.0518178647006832
+Puerto Rico,PRI,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.0515860413941104
+Puerto Rico,PRI,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.0509300060936479
+Puerto Rico,PRI,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.0500711059724615
+Puerto Rico,PRI,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.0497373503919039
+Puerto Rico,PRI,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0.0507950765197522
+Puerto Rico,PRI,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Puerto Rico,PRI,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0.00251246345731117
+Puerto Rico,PRI,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0.00252998943348117
+Puerto Rico,PRI,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0.00249988497153657
+Puerto Rico,PRI,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0.00233313963397119
+Puerto Rico,PRI,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0.00233912111374608
+Puerto Rico,PRI,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0.00229378278621154
+Puerto Rico,PRI,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0.0022981891189534
+Puerto Rico,PRI,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0.00232238462829612
+Puerto Rico,PRI,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0.002417984144472
+Puerto Rico,PRI,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Puerto Rico,PRI,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.12152248
+Puerto Rico,PRI,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.121737744
+Puerto Rico,PRI,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.118634365
+Puerto Rico,PRI,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.1066015724
+Puerto Rico,PRI,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.106656182
+Puerto Rico,PRI,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.104892964
+Puerto Rico,PRI,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.103271478
+Puerto Rico,PRI,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.102426139
+Puerto Rico,PRI,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0.106071677
+Puerto Rico,PRI,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Puerto Rico,PRI,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.0603428078844274
+Puerto Rico,PRI,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.0591504795874102
+Puerto Rico,PRI,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.0569922410198368
+Puerto Rico,PRI,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.0496214337971628
+Puerto Rico,PRI,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.0498677690023176
+Puerto Rico,PRI,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.0455385186850042
+Puerto Rico,PRI,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.0431955219177851
+Puerto Rico,PRI,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.0428338317977518
+Puerto Rico,PRI,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0.0439079998100813
+Puerto Rico,PRI,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Puerto Rico,PRI,2019,Time required to get electricity (days),IC.ELC.TIME,32
+Puerto Rico,PRI,2018,Time required to get electricity (days),IC.ELC.TIME,32
+Puerto Rico,PRI,2017,Time required to get electricity (days),IC.ELC.TIME,32
+Puerto Rico,PRI,2016,Time required to get electricity (days),IC.ELC.TIME,32
+Puerto Rico,PRI,2015,Time required to get electricity (days),IC.ELC.TIME,32
+Puerto Rico,PRI,2014,Time required to get electricity (days),IC.ELC.TIME,32
+Puerto Rico,PRI,2013,Time required to get electricity (days),IC.ELC.TIME,32
+Puerto Rico,PRI,2012,Time required to get electricity (days),IC.ELC.TIME,32
+Puerto Rico,PRI,2011,Time required to get electricity (days),IC.ELC.TIME,32
+Puerto Rico,PRI,2010,Time required to get electricity (days),IC.ELC.TIME,32
+Puerto Rico,PRI,2009,Time required to get electricity (days),IC.ELC.TIME,32
+Puerto Rico,PRI,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Puerto Rico,PRI,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,2001,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,2000,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1999,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1998,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1997,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1996,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1995,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1994,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1993,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1992,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1991,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1990,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1989,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1988,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1987,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1986,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1985,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1984,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1983,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1982,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1981,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1980,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1979,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1978,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1977,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1976,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1975,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1974,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1973,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1972,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1971,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,1970,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Puerto Rico,PRI,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Puerto Rico,PRI,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1992,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1991,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1990,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1989,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1988,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1987,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1986,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1985,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1984,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1983,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1982,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1981,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,1980,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Puerto Rico,PRI,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1992,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1991,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1990,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1989,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1988,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1987,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1986,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1985,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1984,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1983,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1982,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1981,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1980,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1979,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1978,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1977,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1976,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1975,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1974,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1973,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1972,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1971,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,1970,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Puerto Rico,PRI,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,2001,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,2000,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1999,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1998,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1997,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1996,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1995,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1994,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1993,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1992,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1991,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1990,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1989,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1988,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1987,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1986,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1985,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1984,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1983,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1982,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1981,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,1980,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Puerto Rico,PRI,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,2001,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,2000,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1999,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1998,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1997,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1996,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1995,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1994,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1993,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1992,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1991,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1990,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1989,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1988,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1987,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1986,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1985,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1984,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1983,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1982,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1981,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,1980,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Puerto Rico,PRI,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1992,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1991,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1990,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1989,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1988,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1987,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1986,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1985,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1984,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1983,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1982,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1981,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1980,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1979,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1978,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1977,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1976,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1975,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1974,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1973,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1972,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1971,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Puerto Rico,PRI,1970,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0

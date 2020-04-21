@@ -1,0 +1,1591 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Lebanon,LBN,2015,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.17764316047602
+Lebanon,LBN,2014,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.15098418913151
+Lebanon,LBN,2013,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.98681107309146
+Lebanon,LBN,2012,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.07940639647074
+Lebanon,LBN,2011,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.68971618148745
+Lebanon,LBN,2010,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.78265579089003
+Lebanon,LBN,2009,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.25801595603072
+Lebanon,LBN,2008,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.8364165689565
+Lebanon,LBN,2007,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.25630924898634
+Lebanon,LBN,2006,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.04240515428187
+Lebanon,LBN,2005,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.31968370632101
+Lebanon,LBN,2004,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.65174291028262
+Lebanon,LBN,2003,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.94809593513441
+Lebanon,LBN,2002,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.10286978638656
+Lebanon,LBN,2001,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.30894346197293
+Lebanon,LBN,2000,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.14798921865567
+Lebanon,LBN,1999,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.73928423381312
+Lebanon,LBN,1998,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.46067244274649
+Lebanon,LBN,1997,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.75691414434907
+Lebanon,LBN,1996,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.98133687903976
+Lebanon,LBN,1995,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.96648075625362
+Lebanon,LBN,1994,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.61526302287497
+Lebanon,LBN,1993,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.54945755080158
+Lebanon,LBN,1992,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.39822242950602
+Lebanon,LBN,1991,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.50440822619518
+Lebanon,LBN,1990,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,3.91300372601889
+Lebanon,LBN,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Lebanon,LBN,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Lebanon,LBN,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Lebanon,LBN,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Lebanon,LBN,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Lebanon,LBN,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,99.9487835696693
+Lebanon,LBN,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,99.1995924412554
+Lebanon,LBN,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,99.4885883786208
+Lebanon,LBN,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,99.0966222336276
+Lebanon,LBN,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,99.2282752872582
+Lebanon,LBN,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,99.2365826866386
+Lebanon,LBN,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,98.7617419105855
+Lebanon,LBN,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Lebanon,LBN,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,100
+Lebanon,LBN,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Lebanon,LBN,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Lebanon,LBN,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Lebanon,LBN,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Lebanon,LBN,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Lebanon,LBN,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Lebanon,LBN,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.7533148319457
+Lebanon,LBN,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.958122253418
+Lebanon,LBN,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.8904647827148
+Lebanon,LBN,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Lebanon,LBN,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Lebanon,LBN,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.4787322768974
+Lebanon,LBN,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.4793167114258
+Lebanon,LBN,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.4094619750977
+Lebanon,LBN,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Lebanon,LBN,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Lebanon,LBN,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Lebanon,LBN,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Lebanon,LBN,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,100
+Lebanon,LBN,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.9936676025391
+Lebanon,LBN,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.6840109542869
+Lebanon,LBN,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.8986511230469
+Lebanon,LBN,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.7887496948242
+Lebanon,LBN,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.9
+Lebanon,LBN,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.9
+Lebanon,LBN,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.3838170909681
+Lebanon,LBN,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.6012573242188
+Lebanon,LBN,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.9
+Lebanon,LBN,2015,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,2014,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,2013,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,2012,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,2011,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,2010,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,2009,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,2008,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,2007,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,2006,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,2005,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,2004,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,2003,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,2002,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,2001,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,2000,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1999,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1998,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1997,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1996,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1995,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1994,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1993,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1992,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1991,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1990,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1989,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1988,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1987,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1986,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1985,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1984,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1983,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1982,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1981,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1980,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1979,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1978,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1977,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1976,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1975,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1974,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1973,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1972,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,1971,Electricity production from coal sources (% of total),EG.ELC.COAL.ZS,0
+Lebanon,LBN,2015,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,97.3961730811046
+Lebanon,LBN,2014,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,98.9249108734403
+Lebanon,LBN,2013,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,92.7431806484817
+Lebanon,LBN,2012,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,93.2078780520707
+Lebanon,LBN,2011,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,95.0809654750993
+Lebanon,LBN,2010,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,94.6601323828921
+Lebanon,LBN,2009,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,95.4832619272384
+Lebanon,LBN,2008,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,97.1978063255954
+Lebanon,LBN,2007,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,95.1391773992522
+Lebanon,LBN,2006,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,93.9759036144578
+Lebanon,LBN,2005,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,91.5228138422887
+Lebanon,LBN,2004,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,90.9297052154195
+Lebanon,LBN,2003,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,89.1679249781451
+Lebanon,LBN,2002,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,94.1712517193948
+Lebanon,LBN,2001,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,96.6967562741792
+Lebanon,LBN,2000,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,95.359173126615
+Lebanon,LBN,1999,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,96.6790037011103
+Lebanon,LBN,1998,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,92.2759027846108
+Lebanon,LBN,1997,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,89.4186729301233
+Lebanon,LBN,1996,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,88.5427135678392
+Lebanon,LBN,1995,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,86.4230259420564
+Lebanon,LBN,1994,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,84.2399691358025
+Lebanon,LBN,1993,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,84.2105263157895
+Lebanon,LBN,1992,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,80.9069212410501
+Lebanon,LBN,1991,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,81.3333333333333
+Lebanon,LBN,1990,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,66.6666666666667
+Lebanon,LBN,1989,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,80
+Lebanon,LBN,1988,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,85
+Lebanon,LBN,1987,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,86.7391304347826
+Lebanon,LBN,1986,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,86.5707434052758
+Lebanon,LBN,1985,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,84.8484848484848
+Lebanon,LBN,1984,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,84.6052631578947
+Lebanon,LBN,1983,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,84.4444444444444
+Lebanon,LBN,1982,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,80.3030303030303
+Lebanon,LBN,1981,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,71.6666666666667
+Lebanon,LBN,1980,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,69.1133720930232
+Lebanon,LBN,1979,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,66
+Lebanon,LBN,1978,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,65.2173913043478
+Lebanon,LBN,1977,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,62.7906976744186
+Lebanon,LBN,1976,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,60
+Lebanon,LBN,1975,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,56.7567567567568
+Lebanon,LBN,1974,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,58.4810126582278
+Lebanon,LBN,1973,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,73.3109994416527
+Lebanon,LBN,1972,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,47.7669902912621
+Lebanon,LBN,1971,"Electricity production from oil, gas and coal sources (% of total)",EG.ELC.FOSL.ZS,38.9818181818182
+Lebanon,LBN,2015,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2.60382691889541
+Lebanon,LBN,2014,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,1.07508912655971
+Lebanon,LBN,2013,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,7.25681935151827
+Lebanon,LBN,2012,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,6.79212194792931
+Lebanon,LBN,2011,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,4.9190345249007
+Lebanon,LBN,2010,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,5.33986761710794
+Lebanon,LBN,2009,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,4.5167380727616
+Lebanon,LBN,2008,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,2.80219367440463
+Lebanon,LBN,2007,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,4.86082260074782
+Lebanon,LBN,2006,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,6.02409638554217
+Lebanon,LBN,2005,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,8.47718615771132
+Lebanon,LBN,2004,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,9.0702947845805
+Lebanon,LBN,2003,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,10.8320750218549
+Lebanon,LBN,2002,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,5.82874828060523
+Lebanon,LBN,2001,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,3.30324372582085
+Lebanon,LBN,2000,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,4.64082687338501
+Lebanon,LBN,1999,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,3.32099629888967
+Lebanon,LBN,1998,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,7.72409721538916
+Lebanon,LBN,1997,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,10.5813270698767
+Lebanon,LBN,1996,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,11.4572864321608
+Lebanon,LBN,1995,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,13.5769740579436
+Lebanon,LBN,1994,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,15.7600308641975
+Lebanon,LBN,1993,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,15.7894736842105
+Lebanon,LBN,1992,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,19.0930787589499
+Lebanon,LBN,1991,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,18.6666666666667
+Lebanon,LBN,1990,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,33.3333333333333
+Lebanon,LBN,1989,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,20
+Lebanon,LBN,1988,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,15
+Lebanon,LBN,1987,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,13.2608695652174
+Lebanon,LBN,1986,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,13.4292565947242
+Lebanon,LBN,1985,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,15.1515151515152
+Lebanon,LBN,1984,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,15.3947368421053
+Lebanon,LBN,1983,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,15.5555555555556
+Lebanon,LBN,1982,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,19.6969696969697
+Lebanon,LBN,1981,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,28.3333333333333
+Lebanon,LBN,1980,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,30.8866279069767
+Lebanon,LBN,1979,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,34
+Lebanon,LBN,1978,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,34.7826086956522
+Lebanon,LBN,1977,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,37.2093023255814
+Lebanon,LBN,1976,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,40
+Lebanon,LBN,1975,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,43.2432432432432
+Lebanon,LBN,1974,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,41.5189873417722
+Lebanon,LBN,1973,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,26.6890005583473
+Lebanon,LBN,1972,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,52.2330097087379
+Lebanon,LBN,1971,Electricity production from hydroelectric sources (% of total),EG.ELC.HYRO.ZS,61.0181818181818
+Lebanon,LBN,2014,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.4668003565062
+Lebanon,LBN,2013,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,9.44129925087208
+Lebanon,LBN,2012,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,9.25401322001889
+Lebanon,LBN,2011,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.4146043385273
+Lebanon,LBN,2010,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.895366598778
+Lebanon,LBN,2009,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.9910681867693
+Lebanon,LBN,2008,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.6061152430321
+Lebanon,LBN,2007,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.1449937681762
+Lebanon,LBN,2006,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.2790153419433
+Lebanon,LBN,2005,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.861658157063
+Lebanon,LBN,2004,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.6417233560091
+Lebanon,LBN,2003,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,12.5725184773107
+Lebanon,LBN,2002,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.14477303989
+Lebanon,LBN,2001,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.0462255728598
+Lebanon,LBN,2000,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,14.3152454780362
+Lebanon,LBN,1999,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.554066219866
+Lebanon,LBN,1998,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,13.2834792876119
+Lebanon,LBN,1997,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,16.0657662947739
+Lebanon,LBN,1996,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,16.4680545585068
+Lebanon,LBN,1995,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,15.8303351637947
+Lebanon,LBN,1994,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,15.0077160493827
+Lebanon,LBN,1993,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,11.5967885816235
+Lebanon,LBN,1992,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.6072659771944
+Lebanon,LBN,1991,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,6.66666666666667
+Lebanon,LBN,1990,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,6.66666666666667
+Lebanon,LBN,1989,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10
+Lebanon,LBN,1988,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10
+Lebanon,LBN,1987,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.0869565217391
+Lebanon,LBN,1986,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.0719424460432
+Lebanon,LBN,1985,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.1010101010101
+Lebanon,LBN,1984,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.0789473684211
+Lebanon,LBN,1983,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.1111111111111
+Lebanon,LBN,1982,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.0909090909091
+Lebanon,LBN,1981,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.1666666666667
+Lebanon,LBN,1980,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.2470930232558
+Lebanon,LBN,1979,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.6
+Lebanon,LBN,1978,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.2173913043478
+Lebanon,LBN,1977,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10
+Lebanon,LBN,1976,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10
+Lebanon,LBN,1975,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10
+Lebanon,LBN,1974,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.0253164556962
+Lebanon,LBN,1973,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,9.99441652707984
+Lebanon,LBN,1972,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.0323624595469
+Lebanon,LBN,1971,Electric power transmission and distribution losses (% of output),EG.ELC.LOSS.ZS,10.0363636363636
+Lebanon,LBN,2015,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,2014,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,2013,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,2012,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,2011,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,2010,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,6.28182281059063
+Lebanon,LBN,2009,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,1.40149589717522
+Lebanon,LBN,2008,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,2007,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,2006,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,2005,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,2004,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,2003,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,2002,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,2001,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,2000,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1999,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1998,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1997,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1996,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1995,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1994,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1993,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1992,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1991,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1990,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1989,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1988,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1987,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1986,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1985,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1984,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1983,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1982,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1981,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1980,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1979,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1978,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1977,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1976,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1975,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1974,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1973,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1972,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,1971,Electricity production from natural gas sources (% of total),EG.ELC.NGAS.ZS,0
+Lebanon,LBN,2014,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,2013,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,2012,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,2011,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,2010,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,2009,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,2008,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,2007,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,2006,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,2005,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,2004,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,2003,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,2002,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,2001,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,2000,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1999,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1998,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1997,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1996,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1995,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1994,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1993,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1992,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1991,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1990,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1989,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1988,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1987,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1986,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1985,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1984,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1983,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1982,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1981,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1980,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1979,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1978,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1977,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1976,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1975,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1974,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1973,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1972,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,1971,Electricity production from nuclear sources (% of total),EG.ELC.NUCL.ZS,0
+Lebanon,LBN,2015,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,97.3961730811046
+Lebanon,LBN,2014,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,98.9249108734403
+Lebanon,LBN,2013,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,92.7431806484817
+Lebanon,LBN,2012,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,93.2078780520707
+Lebanon,LBN,2011,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,95.0809654750993
+Lebanon,LBN,2010,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,88.3783095723014
+Lebanon,LBN,2009,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,94.0817660300632
+Lebanon,LBN,2008,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,97.1978063255954
+Lebanon,LBN,2007,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,95.1391773992522
+Lebanon,LBN,2006,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,93.9759036144578
+Lebanon,LBN,2005,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,91.5228138422887
+Lebanon,LBN,2004,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,90.9297052154195
+Lebanon,LBN,2003,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,89.1679249781451
+Lebanon,LBN,2002,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,94.1712517193948
+Lebanon,LBN,2001,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,96.6967562741792
+Lebanon,LBN,2000,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,95.359173126615
+Lebanon,LBN,1999,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,96.6790037011103
+Lebanon,LBN,1998,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,92.2759027846108
+Lebanon,LBN,1997,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,89.4186729301233
+Lebanon,LBN,1996,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,88.5427135678392
+Lebanon,LBN,1995,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,86.4230259420564
+Lebanon,LBN,1994,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,84.2399691358025
+Lebanon,LBN,1993,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,84.2105263157895
+Lebanon,LBN,1992,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,80.9069212410501
+Lebanon,LBN,1991,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,81.3333333333333
+Lebanon,LBN,1990,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,66.6666666666667
+Lebanon,LBN,1989,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,80
+Lebanon,LBN,1988,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,85
+Lebanon,LBN,1987,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,86.7391304347826
+Lebanon,LBN,1986,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,86.5707434052758
+Lebanon,LBN,1985,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,84.8484848484848
+Lebanon,LBN,1984,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,84.6052631578947
+Lebanon,LBN,1983,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,84.4444444444444
+Lebanon,LBN,1982,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,80.3030303030303
+Lebanon,LBN,1981,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,71.6666666666667
+Lebanon,LBN,1980,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,69.1133720930232
+Lebanon,LBN,1979,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,66
+Lebanon,LBN,1978,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,65.2173913043478
+Lebanon,LBN,1977,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,62.7906976744186
+Lebanon,LBN,1976,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,60
+Lebanon,LBN,1975,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,56.7567567567568
+Lebanon,LBN,1974,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,58.4810126582278
+Lebanon,LBN,1973,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,73.3109994416527
+Lebanon,LBN,1972,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,47.7669902912621
+Lebanon,LBN,1971,Electricity production from oil sources (% of total),EG.ELC.PETR.ZS,38.9818181818182
+Lebanon,LBN,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,2.60382691889541
+Lebanon,LBN,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,1.07508912655971
+Lebanon,LBN,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,7.25681935151827
+Lebanon,LBN,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,6.79212194792931
+Lebanon,LBN,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,4.9190345249007
+Lebanon,LBN,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,5.33986761710794
+Lebanon,LBN,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,4.5167380727616
+Lebanon,LBN,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,2.80219367440463
+Lebanon,LBN,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,4.86082260074782
+Lebanon,LBN,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,6.02409638554217
+Lebanon,LBN,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,8.47718615771132
+Lebanon,LBN,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,9.0702947845805
+Lebanon,LBN,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,10.8320750218549
+Lebanon,LBN,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,5.82874828060523
+Lebanon,LBN,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,3.30324372582085
+Lebanon,LBN,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,4.64082687338501
+Lebanon,LBN,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,3.32099629888967
+Lebanon,LBN,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,7.72409721538916
+Lebanon,LBN,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,10.5813270698767
+Lebanon,LBN,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,11.4572864321608
+Lebanon,LBN,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,13.5769740579436
+Lebanon,LBN,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,15.7600308641975
+Lebanon,LBN,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,15.7894736842105
+Lebanon,LBN,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,19.0930787589499
+Lebanon,LBN,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,18.6666666666667
+Lebanon,LBN,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,33.3333333333333
+Lebanon,LBN,2015,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,2014,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,2013,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,2012,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,2011,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,2010,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,2009,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,2008,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,2007,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,2006,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,2005,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,2004,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,2003,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,2002,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,2001,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,2000,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1999,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1998,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1997,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1996,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1995,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1994,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1993,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1992,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1991,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1990,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1989,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1988,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1987,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1986,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1985,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1984,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1983,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1982,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1981,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1980,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1979,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1978,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1977,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1976,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1975,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1974,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1973,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1972,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,1971,"Electricity production from renewable sources, excluding hydroelectric (kWh)",EG.ELC.RNWX.KH,0
+Lebanon,LBN,2015,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,2014,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,2013,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,2012,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,2011,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,2010,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,2009,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,2008,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,2007,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,2006,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,2005,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,2004,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,2003,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,2002,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,2001,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,2000,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1999,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1998,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1997,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1996,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1995,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1994,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1993,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1992,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1991,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1990,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1989,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1988,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1987,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1986,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1985,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1984,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1983,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1982,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1981,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1980,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1979,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1978,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1977,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1976,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1975,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1974,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1973,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1972,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,1971,"Electricity production from renewable sources, excluding hydroelectric (% of total)",EG.ELC.RNWX.ZS,0
+Lebanon,LBN,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.64671967049883
+Lebanon,LBN,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,3.23351914577464
+Lebanon,LBN,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.71730690527317
+Lebanon,LBN,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.94441813893494
+Lebanon,LBN,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.17973464005984
+Lebanon,LBN,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.20363204353897
+Lebanon,LBN,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.27690691536524
+Lebanon,LBN,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.66937145003801
+Lebanon,LBN,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,8.56200476645249
+Lebanon,LBN,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.49619306706454
+Lebanon,LBN,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.91833394393301
+Lebanon,LBN,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,6.51610491570608
+Lebanon,LBN,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,7.45890442331368
+Lebanon,LBN,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.7354720299875
+Lebanon,LBN,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.41692140441583
+Lebanon,LBN,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.90844434736821
+Lebanon,LBN,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.26421257322712
+Lebanon,LBN,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.54078811169389
+Lebanon,LBN,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.70147579156338
+Lebanon,LBN,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.0321605852645
+Lebanon,LBN,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,4.52738036822598
+Lebanon,LBN,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.36453638165645
+Lebanon,LBN,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,5.46397790076365
+Lebanon,LBN,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,8.0440737805936
+Lebanon,LBN,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,8.52514747585105
+Lebanon,LBN,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,11.3416809095177
+Lebanon,LBN,2014,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,10.905040676304
+Lebanon,LBN,2013,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,11.1318893957519
+Lebanon,LBN,2012,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,10.5124725377669
+Lebanon,LBN,2011,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,11.3462900344032
+Lebanon,LBN,2010,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,10.9578118094262
+Lebanon,LBN,2009,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.61870297671394
+Lebanon,LBN,2008,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,10.6186949116201
+Lebanon,LBN,2007,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,12.2547658592003
+Lebanon,LBN,2006,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,9.61898369522926
+Lebanon,LBN,2005,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,8.72866575144997
+Lebanon,LBN,2004,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.85719992938625
+Lebanon,LBN,2003,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.27315550534316
+Lebanon,LBN,2002,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.92466088741552
+Lebanon,LBN,2001,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.54910860443897
+Lebanon,LBN,2000,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.61615384240635
+Lebanon,LBN,1999,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,5.80488044829402
+Lebanon,LBN,1998,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.01860470454605
+Lebanon,LBN,1997,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,5.64137740483595
+Lebanon,LBN,1996,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.19725733401025
+Lebanon,LBN,1995,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,5.76673235703322
+Lebanon,LBN,1994,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.08304313736742
+Lebanon,LBN,1993,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.03630524241988
+Lebanon,LBN,1992,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,7.62569976677914
+Lebanon,LBN,1991,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,6.48859595080388
+Lebanon,LBN,1990,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,5.19796350099685
+Lebanon,LBN,2014,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.3200551464478
+Lebanon,LBN,2013,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.734040618266
+Lebanon,LBN,2012,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.3146530663661
+Lebanon,LBN,2011,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.3462900344032
+Lebanon,LBN,2010,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.1867099540977
+Lebanon,LBN,2009,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,9.93405170022182
+Lebanon,LBN,2008,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.0504339378284
+Lebanon,LBN,2007,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,13.0010880301156
+Lebanon,LBN,2006,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,10.4789142307564
+Lebanon,LBN,2005,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,9.79676434944415
+Lebanon,LBN,2004,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,9.09335624985842
+Lebanon,LBN,2003,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.64404032264774
+Lebanon,LBN,2002,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.38269582610927
+Lebanon,LBN,2001,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.0534716826473
+Lebanon,LBN,2000,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.31437282510563
+Lebanon,LBN,1999,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,7.45793847320724
+Lebanon,LBN,1998,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,7.84416752889204
+Lebanon,LBN,1997,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,7.43527377797729
+Lebanon,LBN,1996,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.30876428955582
+Lebanon,LBN,1995,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,7.87311951958647
+Lebanon,LBN,1994,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.47910880713004
+Lebanon,LBN,1993,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.59363113995414
+Lebanon,LBN,1992,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,11.1136027287968
+Lebanon,LBN,1991,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,9.67190408550478
+Lebanon,LBN,1990,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,8.01010813061839
+Lebanon,LBN,2014,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,97.8655352175546
+Lebanon,LBN,2013,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,96.4703348526504
+Lebanon,LBN,2012,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,96.8489382693669
+Lebanon,LBN,2011,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,96.7606187291497
+Lebanon,LBN,2010,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,96.7553750721573
+Lebanon,LBN,2009,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,97.191527201656
+Lebanon,LBN,2008,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,96.581910157339
+Lebanon,LBN,2007,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,94.6839266471342
+Lebanon,LBN,2006,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,95.1699637209654
+Lebanon,LBN,2005,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,94.8865796514698
+Lebanon,LBN,2004,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,95.1108503453665
+Lebanon,LBN,2003,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,94.8020148728454
+Lebanon,LBN,2002,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,96.0756786664172
+Lebanon,LBN,2001,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,96.8036563532807
+Lebanon,LBN,2000,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,96.484469092861
+Lebanon,LBN,1999,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,97.0605697797437
+Lebanon,LBN,1998,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,96.2134701645351
+Lebanon,LBN,1997,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,96.1411489650538
+Lebanon,LBN,1996,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,95.8888132560373
+Lebanon,LBN,1995,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,95.8855184400985
+Lebanon,LBN,1994,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,95.1687468881178
+Lebanon,LBN,1993,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,95.1355499682939
+Lebanon,LBN,1992,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,93.1807599912021
+Lebanon,LBN,1991,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,93.7545796028006
+Lebanon,LBN,1990,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,92.6893717420844
+Lebanon,LBN,1989,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,92.3473750606155
+Lebanon,LBN,1988,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,92.0899879058291
+Lebanon,LBN,1987,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,94.0992051843571
+Lebanon,LBN,1986,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,94.0921348175462
+Lebanon,LBN,1985,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,93.362593402271
+Lebanon,LBN,1984,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,92.1688215031384
+Lebanon,LBN,1983,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,92.1349661613126
+Lebanon,LBN,1982,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,91.0456008424508
+Lebanon,LBN,1981,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,92.485959822186
+Lebanon,LBN,1980,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,92.8199486882183
+Lebanon,LBN,1979,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,92.3379227972655
+Lebanon,LBN,1978,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,91.8341845075653
+Lebanon,LBN,1977,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,90.2172786815135
+Lebanon,LBN,1976,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,92.3392519110817
+Lebanon,LBN,1975,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,91.7983535900166
+Lebanon,LBN,1974,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,92.7366791608643
+Lebanon,LBN,1973,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,94.0154617914134
+Lebanon,LBN,1972,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,91.155589864043
+Lebanon,LBN,1971,"Energy imports, net (% of energy use)",EG.IMP.CONS.ZS,90.8842227139681
+Lebanon,LBN,2014,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.523449394052419
+Lebanon,LBN,2013,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.74558687916459
+Lebanon,LBN,2012,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.40151530976876
+Lebanon,LBN,2011,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.28723086435393
+Lebanon,LBN,2010,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.3221508409755
+Lebanon,LBN,2009,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.966886289024909
+Lebanon,LBN,2008,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.753011438317092
+Lebanon,LBN,2007,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.3666389356398
+Lebanon,LBN,2006,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.36075775687811
+Lebanon,LBN,2005,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.7690732391679
+Lebanon,LBN,2004,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.75166469862926
+Lebanon,LBN,2003,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.07126560610065
+Lebanon,LBN,2002,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.11767674100841
+Lebanon,LBN,2001,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.619201576567585
+Lebanon,LBN,2000,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.865262395726642
+Lebanon,LBN,1999,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,0.560385122897393
+Lebanon,LBN,1998,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.26931556812193
+Lebanon,LBN,1997,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.38402373546577
+Lebanon,LBN,1996,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.41389481585193
+Lebanon,LBN,1995,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.28390947868416
+Lebanon,LBN,1994,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.5772112595859
+Lebanon,LBN,1993,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.53337136355582
+Lebanon,LBN,1992,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.25872888918995
+Lebanon,LBN,1991,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.79230974076347
+Lebanon,LBN,1990,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.96598757865699
+Lebanon,LBN,1989,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.19261232421496
+Lebanon,LBN,1988,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.60676364231565
+Lebanon,LBN,1987,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.96920887052395
+Lebanon,LBN,1986,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.8637799748916
+Lebanon,LBN,1985,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.16036699185965
+Lebanon,LBN,1984,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.54892016676656
+Lebanon,LBN,1983,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.48861752026006
+Lebanon,LBN,1982,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.12951897781736
+Lebanon,LBN,1981,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.10071600665106
+Lebanon,LBN,1980,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.955319291726
+Lebanon,LBN,1979,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.13727577169044
+Lebanon,LBN,1978,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.18178686005271
+Lebanon,LBN,1977,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.79179517251566
+Lebanon,LBN,1976,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.96532296159907
+Lebanon,LBN,1975,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.17896853560445
+Lebanon,LBN,1974,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,2.88409433425966
+Lebanon,LBN,1973,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,1.72840409371257
+Lebanon,LBN,1972,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.637083981203
+Lebanon,LBN,1971,Alternative and nuclear energy (% of total energy use),EG.USE.COMM.CL.ZS,3.90382461626693
+Lebanon,LBN,2014,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,97.6211011078068
+Lebanon,LBN,2013,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,95.741863079323
+Lebanon,LBN,2012,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,96.3692472885865
+Lebanon,LBN,2011,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,95.518029984741
+Lebanon,LBN,2010,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,94.9729604137447
+Lebanon,LBN,2009,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,95.5978913365688
+Lebanon,LBN,2008,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,95.5715972949314
+Lebanon,LBN,2007,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,92.6009991216799
+Lebanon,LBN,2006,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,93.380750064296
+Lebanon,LBN,2005,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,93.9938253890467
+Lebanon,LBN,2004,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,94.6481865968046
+Lebanon,LBN,2003,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,94.8020339842091
+Lebanon,LBN,2002,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,95.2003676336948
+Lebanon,LBN,2001,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,94.7388881221745
+Lebanon,LBN,2000,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,94.0361365495468
+Lebanon,LBN,1999,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,95.7127674611221
+Lebanon,LBN,1998,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,95.123353336123
+Lebanon,LBN,1997,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,95.1453213547583
+Lebanon,LBN,1996,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,94.6097291089339
+Lebanon,LBN,1995,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,95.315995449622
+Lebanon,LBN,1994,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,95.1687468881178
+Lebanon,LBN,1993,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,95.1355214812359
+Lebanon,LBN,1992,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,93.1507262971516
+Lebanon,LBN,1991,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,93.6355306053925
+Lebanon,LBN,1990,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,92.5419738522285
+Lebanon,LBN,1989,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,92.2005210258774
+Lebanon,LBN,1988,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,91.9443930837913
+Lebanon,LBN,1987,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,93.8619691938556
+Lebanon,LBN,1986,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,93.8808341808579
+Lebanon,LBN,1985,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,93.0912056187577
+Lebanon,LBN,1984,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,91.8921945082955
+Lebanon,LBN,1983,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,91.8083867857303
+Lebanon,LBN,1982,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,90.7399828800196
+Lebanon,LBN,1981,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,92.1959940954902
+Lebanon,LBN,1980,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,92.4705256425495
+Lebanon,LBN,1979,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,91.6681079823712
+Lebanon,LBN,1978,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,91.5020855040473
+Lebanon,LBN,1977,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,90.0585523719663
+Lebanon,LBN,1976,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,92.3392088104572
+Lebanon,LBN,1975,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,91.7983535900166
+Lebanon,LBN,1974,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,92.7366791608643
+Lebanon,LBN,1973,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,94.0154617914134
+Lebanon,LBN,1972,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,91.155589864043
+Lebanon,LBN,1971,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,90.8842768180318
+Lebanon,LBN,2014,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,96.898707013616
+Lebanon,LBN,2013,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,93.1615628785967
+Lebanon,LBN,2012,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,96.9494556497287
+Lebanon,LBN,2011,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,88.1345353386783
+Lebanon,LBN,2010,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,89.3917875857413
+Lebanon,LBN,2009,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,100.663861048526
+Lebanon,LBN,2008,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,90.4941838145152
+Lebanon,LBN,2007,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,76.9166394138408
+Lebanon,LBN,2006,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,95.4297342242692
+Lebanon,LBN,2005,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,102.074518109312
+Lebanon,LBN,2004,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,109.970397345377
+Lebanon,LBN,2003,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,115.686642203642
+Lebanon,LBN,2002,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,119.293365850797
+Lebanon,LBN,2001,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,124.170052296165
+Lebanon,LBN,2000,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,120.273653952641
+Lebanon,LBN,1999,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,134.085311053787
+Lebanon,LBN,1998,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,127.483253808227
+Lebanon,LBN,1997,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,134.494038802165
+Lebanon,LBN,1996,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,120.354840401118
+Lebanon,LBN,1995,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,127.01445691409
+Lebanon,LBN,1994,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,117.936922705733
+Lebanon,LBN,1993,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,116.365245809856
+Lebanon,LBN,1992,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,89.9798224214793
+Lebanon,LBN,1991,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,103.39225773534
+Lebanon,LBN,1990,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,124.842259766448
+Lebanon,LBN,2014,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.53202017445472
+Lebanon,LBN,2013,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.59683139596958
+Lebanon,LBN,2012,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.56736612014238
+Lebanon,LBN,2011,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.76281839170002
+Lebanon,LBN,2010,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.74580688088253
+Lebanon,LBN,2009,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,1.84250844792011
+Lebanon,LBN,2008,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,2.66194339066057
+Lebanon,LBN,2007,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,3.63796359432924
+Lebanon,LBN,2006,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,3.21338425844906
+Lebanon,LBN,2005,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,2.99942823269164
+Lebanon,LBN,2004,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,2.7661848616028
+Lebanon,LBN,2003,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,2.55794135448732
+Lebanon,LBN,2002,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,2.42359681817782
+Lebanon,LBN,2001,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,2.2832818367385
+Lebanon,LBN,2000,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,2.345073031599
+Lebanon,LBN,1999,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,2.14969245780152
+Lebanon,LBN,1998,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,2.18936254214841
+Lebanon,LBN,1997,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,2.05697974444589
+Lebanon,LBN,1996,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,2.29146033415382
+Lebanon,LBN,1995,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,2.34551756921274
+Lebanon,LBN,1994,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,2.5896059560937
+Lebanon,LBN,1993,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,2.74082531565085
+Lebanon,LBN,1992,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,3.82088982163822
+Lebanon,LBN,1991,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,3.86299317049934
+Lebanon,LBN,1990,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,4.62599064944636
+Lebanon,LBN,1989,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,5.60686664990763
+Lebanon,LBN,1988,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,5.44879275521782
+Lebanon,LBN,1987,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,4.0396934850943
+Lebanon,LBN,1986,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,4.15554048845277
+Lebanon,LBN,1985,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,4.60070998822984
+Lebanon,LBN,1984,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,5.42817147023195
+Lebanon,LBN,1983,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,5.5252372997053
+Lebanon,LBN,1982,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,5.98611478896461
+Lebanon,LBN,1981,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,4.53548644338118
+Lebanon,LBN,1980,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,4.34116594016752
+Lebanon,LBN,1979,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,4.64840408798621
+Lebanon,LBN,1978,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,5.1172659571467
+Lebanon,LBN,1977,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,6.14965245551805
+Lebanon,LBN,1976,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,4.69542512731924
+Lebanon,LBN,1975,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,5.02267787437899
+Lebanon,LBN,1974,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,4.37922650487601
+Lebanon,LBN,1973,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,4.25613411487404
+Lebanon,LBN,1972,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,5.20732615475399
+Lebanon,LBN,1971,Combustible renewables and waste (% of total energy),EG.USE.CRNW.ZS,5.21195266976503
+Lebanon,LBN,2014,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2588.30067018927
+Lebanon,LBN,2013,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2765.68862146873
+Lebanon,LBN,2012,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2487.43643288219
+Lebanon,LBN,2011,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2948.09473346913
+Lebanon,LBN,2010,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,3046.19708903242
+Lebanon,LBN,2009,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2729.46790646882
+Lebanon,LBN,2008,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2559.42558052998
+Lebanon,LBN,2007,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2396.72236784256
+Lebanon,LBN,2006,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2296.96793089894
+Lebanon,LBN,2005,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2384.88300005768
+Lebanon,LBN,2004,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2407.76753422457
+Lebanon,LBN,2003,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2499.78636739112
+Lebanon,LBN,2002,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2535.74370457689
+Lebanon,LBN,2001,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2480.58068639923
+Lebanon,LBN,2000,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2513.54618976168
+Lebanon,LBN,1999,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2524.17039911243
+Lebanon,LBN,1998,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2555.55675886417
+Lebanon,LBN,1997,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,2119.76523224208
+Lebanon,LBN,1996,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1800.49935399712
+Lebanon,LBN,1995,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1342.54246991537
+Lebanon,LBN,1994,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1294.6041217539
+Lebanon,LBN,1993,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1221.14791600819
+Lebanon,LBN,1992,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1095.85674476908
+Lebanon,LBN,1991,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,958.344200272033
+Lebanon,LBN,1990,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,499.457018869486
+Lebanon,LBN,1989,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,825.251976936958
+Lebanon,LBN,1988,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1340.94443461499
+Lebanon,LBN,1987,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1565.24085818378
+Lebanon,LBN,1986,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1420.58693541065
+Lebanon,LBN,1985,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1323.90898172885
+Lebanon,LBN,1984,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1306.6449739088
+Lebanon,LBN,1983,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1249.39360932881
+Lebanon,LBN,1982,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1149.97703499315
+Lebanon,LBN,1981,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,1056.54623093225
+Lebanon,LBN,1980,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,979.941898754273
+Lebanon,LBN,1979,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,919.756903194332
+Lebanon,LBN,1978,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,814.336950683523
+Lebanon,LBN,1977,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,743.733040196176
+Lebanon,LBN,1976,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,693.265999231245
+Lebanon,LBN,1975,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,646.413916883982
+Lebanon,LBN,1974,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,700.494879725384
+Lebanon,LBN,1973,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,649.491144639502
+Lebanon,LBN,1972,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,574.894244274632
+Lebanon,LBN,1971,Electric power consumption (kWh per capita),EG.USE.ELEC.KH.PC,525.478038458875
+Lebanon,LBN,2014,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1196.60561988116
+Lebanon,LBN,2013,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1195.57601408442
+Lebanon,LBN,2012,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1294.73711388043
+Lebanon,LBN,2011,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1219.91725651308
+Lebanon,LBN,2010,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1287.77457010927
+Lebanon,LBN,2009,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1381.33099634201
+Lebanon,LBN,2008,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1139.76688344655
+Lebanon,LBN,2007,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,886.260987249924
+Lebanon,LBN,2006,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1007.2432329997
+Lebanon,LBN,2005,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1073.10392118096
+Lebanon,LBN,2004,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1157.04872741979
+Lebanon,LBN,2003,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1192.35229441422
+Lebanon,LBN,2002,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1249.80530605267
+Lebanon,LBN,2001,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1318.10089749414
+Lebanon,LBN,2000,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1276.9548488099
+Lebanon,LBN,1999,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1440.35700201133
+Lebanon,LBN,1998,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1396.89158309688
+Lebanon,LBN,1997,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1435.23768704776
+Lebanon,LBN,1996,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1287.75585660813
+Lebanon,LBN,1995,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1249.66811964698
+Lebanon,LBN,1994,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1130.10330682323
+Lebanon,LBN,1993,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,1081.40164614682
+Lebanon,LBN,1992,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,796.643642080379
+Lebanon,LBN,1991,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,827.712302332952
+Lebanon,LBN,1990,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,697.061837059996
+Lebanon,LBN,1989,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,719.300993236602
+Lebanon,LBN,1988,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,737.320532280444
+Lebanon,LBN,1987,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,998.520967330845
+Lebanon,LBN,1986,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,971.108719246924
+Lebanon,LBN,1985,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,878.120433862055
+Lebanon,LBN,1984,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,748.194312929152
+Lebanon,LBN,1983,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,738.046476221858
+Lebanon,LBN,1982,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,685.388231402853
+Lebanon,LBN,1981,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,908.729978236921
+Lebanon,LBN,1980,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,955.416699337834
+Lebanon,LBN,1979,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,899.318847258599
+Lebanon,LBN,1978,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,832.551531357748
+Lebanon,LBN,1977,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,697.396357822073
+Lebanon,LBN,1976,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,893.601385915762
+Lebanon,LBN,1975,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,840.230938651243
+Lebanon,LBN,1974,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,963.874253087972
+Lebanon,LBN,1973,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,958.273014327887
+Lebanon,LBN,1972,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,789.208614645493
+Lebanon,LBN,1971,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,785.154247132704
+Lebanon,LBN,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,2.41448692152917
+Lebanon,LBN,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0.456781447645819
+Lebanon,LBN,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1961,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,1960,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lebanon,LBN,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,20692.881
+Lebanon,LBN,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,19171.076
+Lebanon,LBN,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,19358.093
+Lebanon,LBN,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,17073.552
+Lebanon,LBN,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,16391.49
+Lebanon,LBN,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,17836.288
+Lebanon,LBN,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,14605.661
+Lebanon,LBN,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,10989.999
+Lebanon,LBN,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,12291.784
+Lebanon,LBN,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,13410.219
+Lebanon,LBN,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,14103.282
+Lebanon,LBN,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,15738.764
+Lebanon,LBN,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,14077.613
+Lebanon,LBN,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,14227.96
+Lebanon,LBN,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,13344.213
+Lebanon,LBN,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,14601.994
+Lebanon,LBN,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,14462.648
+Lebanon,LBN,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,13688.911
+Lebanon,LBN,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11415.371
+Lebanon,LBN,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,11312.695
+Lebanon,LBN,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,10685.638
+Lebanon,LBN,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9893.566
+Lebanon,LBN,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,9611.207
+Lebanon,LBN,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,8030.73
+Lebanon,LBN,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,7766.706
+Lebanon,LBN,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,7601.691
+Lebanon,LBN,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,7209.322
+Lebanon,LBN,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,7517.35
+Lebanon,LBN,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,7308.331
+Lebanon,LBN,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,7557.687
+Lebanon,LBN,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6428.251
+Lebanon,LBN,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6571.264
+Lebanon,LBN,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5258.478
+Lebanon,LBN,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5144.801
+Lebanon,LBN,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5423.493
+Lebanon,LBN,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5082.462
+Lebanon,LBN,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5009.122
+Lebanon,LBN,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4880.777
+Lebanon,LBN,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5262.145
+Lebanon,LBN,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,5581.174
+Lebanon,LBN,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6336.576
+Lebanon,LBN,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,6307.24
+Lebanon,LBN,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4873.443
+Lebanon,LBN,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,4580.083
+Lebanon,LBN,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3274.631
+Lebanon,LBN,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3703.67
+Lebanon,LBN,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3234.294
+Lebanon,LBN,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3061.945
+Lebanon,LBN,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,3072.946
+Lebanon,LBN,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2808.922
+Lebanon,LBN,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2797.921
+Lebanon,LBN,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2559.566
+Lebanon,LBN,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2420.22
+Lebanon,LBN,1961,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2244.204
+Lebanon,LBN,1960,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,2141.528
+Lebanon,LBN,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,119.100163621377
+Lebanon,LBN,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,112.123296102601
+Lebanon,LBN,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,115.757182825307
+Lebanon,LBN,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,116.936625745322
+Lebanon,LBN,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,115.788382296389
+Lebanon,LBN,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,114.210079709339
+Lebanon,LBN,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,109.109708631858
+Lebanon,LBN,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,105.162638447023
+Lebanon,LBN,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,107.641170215641
+Lebanon,LBN,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,109.957807078203
+Lebanon,LBN,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,111.505378553783
+Lebanon,LBN,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,110.771708971995
+Lebanon,LBN,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,110.785885776425
+Lebanon,LBN,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,109.204946513778
+Lebanon,LBN,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,104.170465862859
+Lebanon,LBN,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,102.707365038741
+Lebanon,LBN,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,96.7451276325327
+Lebanon,LBN,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,88.662196753524
+Lebanon,LBN,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,80.7276025048669
+Lebanon,LBN,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,81.6304864243306
+Lebanon,LBN,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,79.4614891133959
+Lebanon,LBN,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,85.6155685073365
+Lebanon,LBN,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,84.7373837315908
+Lebanon,LBN,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,82.889380986986
+Lebanon,LBN,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,79.8432582751432
+Lebanon,LBN,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,77.5242350888488
+Lebanon,LBN,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,73.3481773783808
+Lebanon,LBN,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,84.6245716528196
+Lebanon,LBN,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,85.8289327744346
+Lebanon,LBN,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,82.3155192756141
+Lebanon,LBN,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,84.7277603067171
+Lebanon,LBN,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,81.4458802775788
+Lebanon,LBN,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,84.5673433587771
+Lebanon,LBN,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,85.7161633310901
+Lebanon,LBN,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,89.7450359877795
+Lebanon,LBN,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,84.6066353698816
+Lebanon,LBN,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,80.425400920516
+Lebanon,LBN,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,77.6022278858064
+Lebanon,LBN,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,77.4657105098146
+Lebanon,LBN,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Lebanon,LBN,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,10.9310330428226
+Lebanon,LBN,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,10.5737790909572
+Lebanon,LBN,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.1207676768699
+Lebanon,LBN,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.4334375362081
+Lebanon,LBN,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.8652657447164
+Lebanon,LBN,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.826246120499
+Lebanon,LBN,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.5377718570943
+Lebanon,LBN,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.5105320966816
+Lebanon,LBN,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.8992850132589
+Lebanon,LBN,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,12.3049952918917
+Lebanon,LBN,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,12.5568695774432
+Lebanon,LBN,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,12.9198970543736
+Lebanon,LBN,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,13.1256832653971
+Lebanon,LBN,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,13.5214881028401
+Lebanon,LBN,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,13.0494787952065
+Lebanon,LBN,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,13.1689784501648
+Lebanon,LBN,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,12.7629737224554
+Lebanon,LBN,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,12.0872063313149
+Lebanon,LBN,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.5645153094874
+Lebanon,LBN,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,12.0132812595593
+Lebanon,LBN,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.9045926226761
+Lebanon,LBN,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,12.7996675842085
+Lebanon,LBN,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,12.8820744111887
+Lebanon,LBN,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,12.8873712437962
+Lebanon,LBN,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,12.6586039441014
+Lebanon,LBN,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,12.4457151301975
+Lebanon,LBN,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,11.8320878352114
+Lebanon,LBN,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,13.5501211555601
+Lebanon,LBN,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,13.8498320627574
+Lebanon,LBN,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,13.7706636903798
+Lebanon,LBN,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,14.0836197017507
+Lebanon,LBN,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,14.5905709649215
+Lebanon,LBN,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,15.418632272898
+Lebanon,LBN,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,15.1613420353563
+Lebanon,LBN,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,15.3933164419626
+Lebanon,LBN,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,14.6350662885168
+Lebanon,LBN,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,14.0242453747713
+Lebanon,LBN,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,13.8981680171871
+Lebanon,LBN,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,14.2036235290111
+Lebanon,LBN,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,68.00439
+Lebanon,LBN,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,59.081815
+Lebanon,LBN,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,73.509525
+Lebanon,LBN,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,83.665063
+Lebanon,LBN,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,83.32986
+Lebanon,LBN,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,88.277987
+Lebanon,LBN,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,82.71172
+Lebanon,LBN,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,84.235463
+Lebanon,LBN,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,83.805989
+Lebanon,LBN,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,87.348452
+Lebanon,LBN,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,86.521744
+Lebanon,LBN,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,81.455848
+Lebanon,LBN,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,75.05968
+Lebanon,LBN,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,69.914269
+Lebanon,LBN,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,56.71977
+Lebanon,LBN,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,56.486464
+Lebanon,LBN,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,46.81238545
+Lebanon,LBN,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,40.28533545
+Lebanon,LBN,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,32.83482924
+Lebanon,LBN,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,33.10516784
+Lebanon,LBN,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,29.61028612
+Lebanon,LBN,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,37.497755
+Lebanon,LBN,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,37.2327546
+Lebanon,LBN,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,38.85318164
+Lebanon,LBN,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,34.42972778
+Lebanon,LBN,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,34.15824838
+Lebanon,LBN,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,29.04140822
+Lebanon,LBN,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,34.28595908
+Lebanon,LBN,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,34.02144848
+Lebanon,LBN,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,31.3530094
+Lebanon,LBN,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,30.1562544
+Lebanon,LBN,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,25.917054
+Lebanon,LBN,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,28.7887948
+Lebanon,LBN,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,29.9628361
+Lebanon,LBN,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,33.7784928
+Lebanon,LBN,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,32.3351483
+Lebanon,LBN,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,27.3589911
+Lebanon,LBN,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,25.7142396
+Lebanon,LBN,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,25.6115242
+Lebanon,LBN,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Lebanon,LBN,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.5996868929928
+Lebanon,LBN,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.66472783699632
+Lebanon,LBN,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,11.6428452186892
+Lebanon,LBN,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.9124029969284
+Lebanon,LBN,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,13.1512358363177
+Lebanon,LBN,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,13.6593645372653
+Lebanon,LBN,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.0139713220232
+Lebanon,LBN,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,13.3433164901322
+Lebanon,LBN,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.017665847411
+Lebanon,LBN,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.4559297338341
+Lebanon,LBN,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,14.0867607794843
+Lebanon,LBN,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,13.5130264849576
+Lebanon,LBN,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.8719598096808
+Lebanon,LBN,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.1788898429105
+Lebanon,LBN,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,12.2253477836725
+Lebanon,LBN,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,11.2343489894817
+Lebanon,LBN,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.4557863943223
+Lebanon,LBN,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.82064711394586
+Lebanon,LBN,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.83672923862442
+Lebanon,LBN,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.65895272845212
+Lebanon,LBN,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.49493525435788
+Lebanon,LBN,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.4011780386087
+Lebanon,LBN,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.2904194797628
+Lebanon,LBN,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.6337734488347
+Lebanon,LBN,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.15641389658356
+Lebanon,LBN,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.16902974021003
+Lebanon,LBN,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.34530045475929
+Lebanon,LBN,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.97850092951138
+Lebanon,LBN,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.24158614940254
+Lebanon,LBN,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.2116818769696
+Lebanon,LBN,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.46120718162189
+Lebanon,LBN,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.34388687650812
+Lebanon,LBN,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.84086689668619
+Lebanon,LBN,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,11.8452102875323
+Lebanon,LBN,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.40876262844314
+Lebanon,LBN,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.77436498606899
+Lebanon,LBN,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.25454874029978
+Lebanon,LBN,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.19638596517439
+Lebanon,LBN,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.04215174012735
+Lebanon,LBN,2016,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.47
+Lebanon,LBN,2014,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.73
+Lebanon,LBN,2012,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.94
+Lebanon,LBN,2010,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.77
+Lebanon,LBN,2008,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.76
+Lebanon,LBN,2006,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.62
+Lebanon,LBN,2004,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.43
+Lebanon,LBN,2002,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.25
+Lebanon,LBN,2000,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.31
+Lebanon,LBN,1998,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.22
+Lebanon,LBN,2016,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.74
+Lebanon,LBN,2014,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.96
+Lebanon,LBN,2012,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.11
+Lebanon,LBN,2010,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.13
+Lebanon,LBN,2008,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.76
+Lebanon,LBN,2006,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.74
+Lebanon,LBN,2004,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.71
+Lebanon,LBN,2002,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.65
+Lebanon,LBN,2000,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.53
+Lebanon,LBN,1998,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.35
+Lebanon,LBN,2013,Time to obtain an electrical connection (days),IC.ELC.DURS,56
+Lebanon,LBN,2009,Time to obtain an electrical connection (days),IC.ELC.DURS,117.6
+Lebanon,LBN,2019,Time required to get electricity (days),IC.ELC.TIME,89
+Lebanon,LBN,2018,Time required to get electricity (days),IC.ELC.TIME,89
+Lebanon,LBN,2017,Time required to get electricity (days),IC.ELC.TIME,89
+Lebanon,LBN,2016,Time required to get electricity (days),IC.ELC.TIME,89
+Lebanon,LBN,2015,Time required to get electricity (days),IC.ELC.TIME,89
+Lebanon,LBN,2014,Time required to get electricity (days),IC.ELC.TIME,68
+Lebanon,LBN,2013,Time required to get electricity (days),IC.ELC.TIME,68
+Lebanon,LBN,2012,Time required to get electricity (days),IC.ELC.TIME,68
+Lebanon,LBN,2011,Time required to get electricity (days),IC.ELC.TIME,68
+Lebanon,LBN,2010,Time required to get electricity (days),IC.ELC.TIME,68
+Lebanon,LBN,2009,Time required to get electricity (days),IC.ELC.TIME,68
+Lebanon,LBN,2013,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,53.1
+Lebanon,LBN,2009,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,23.8
+Lebanon,LBN,2013,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,7
+Lebanon,LBN,2016,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,180000000
+Lebanon,LBN,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lebanon,LBN,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2001,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2000,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,1999,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,1998,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,1997,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,1996,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,1995,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,1994,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,1993,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,1992,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,1991,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,1990,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,1989,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lebanon,LBN,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1979,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1978,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1977,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1976,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1975,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1974,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1973,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1972,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,1971,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lebanon,LBN,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,1992,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,1991,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,1990,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,1989,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lebanon,LBN,2017,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2016,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2015,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2014,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2013,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2012,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2011,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2010,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2009,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2008,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2007,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2006,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2005,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2004,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2003,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2002,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2001,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2000,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,1999,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,1998,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,1997,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,1996,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,1995,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,1994,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,1993,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,1992,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,1991,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,1990,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,1989,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,0
+Lebanon,LBN,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,1992,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,1991,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,1990,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,1989,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,1988,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lebanon,LBN,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2001,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2000,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,1999,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,1998,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,1997,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,1996,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,1995,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,1994,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,1993,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,1992,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,1991,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,1990,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,1989,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,1988,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lebanon,LBN,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2001,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2000,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,1999,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,1998,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,1997,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,1996,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,1995,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,1994,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,1993,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,1992,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,1991,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,1990,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,1989,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,1988,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lebanon,LBN,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00122793373271101
+Lebanon,LBN,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00124700570787317
+Lebanon,LBN,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00187452566273053
+Lebanon,LBN,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0022156354695978
+Lebanon,LBN,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00155975879529653
+Lebanon,LBN,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00182144103495089
+Lebanon,LBN,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00192780960175105
+Lebanon,LBN,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00188198779309344
+Lebanon,LBN,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00190536016942309
+Lebanon,LBN,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00188958656329774
+Lebanon,LBN,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00137526024287535
+Lebanon,LBN,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00162078115672391
+Lebanon,LBN,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00135689742123552
+Lebanon,LBN,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00145804226361916
+Lebanon,LBN,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00160303958188084
+Lebanon,LBN,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00137292195937757
+Lebanon,LBN,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00153542622165728
+Lebanon,LBN,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00160712397312548
+Lebanon,LBN,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00147158951804228
+Lebanon,LBN,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00913906725071248
+Lebanon,LBN,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00754430121709182
+Lebanon,LBN,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00887618405025011
+Lebanon,LBN,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0098985004637263
+Lebanon,LBN,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00803337696838752
+Lebanon,LBN,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.00807118214515375
+Lebanon,LBN,1992,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0156728518807964
+Lebanon,LBN,1991,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0207238892565873
+Lebanon,LBN,1990,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0360393357808304
+Lebanon,LBN,1989,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0413641909690124
+Lebanon,LBN,1988,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0.0317246337514499
+Lebanon,LBN,2018,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.1130773826606
+Lebanon,LBN,2017,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,3.01055862215595
+Lebanon,LBN,2016,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.8364657461226
+Lebanon,LBN,2015,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.3169517332257
+Lebanon,LBN,2014,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,23.9830973862618
+Lebanon,LBN,2013,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,24.5881579815458
+Lebanon,LBN,2012,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,29.581788836902
+Lebanon,LBN,2011,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,24.2456782255185
+Lebanon,LBN,2010,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.4395676317892
+Lebanon,LBN,2009,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,20.5121524940244
+Lebanon,LBN,2008,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,26.1236240655051
+Lebanon,LBN,2007,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,22.6662686265286
+Lebanon,LBN,2006,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,25.3984691693837
+Lebanon,LBN,2005,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,23.9335704789016
+Lebanon,LBN,2004,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,21.9047847325438
+Lebanon,LBN,2003,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,16.0165880286872
+Lebanon,LBN,2002,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.768593999026
+Lebanon,LBN,2001,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,18.3894043748981
+Lebanon,LBN,2000,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,17.5883355611455
+Lebanon,LBN,1999,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,9.56707915923154
+Lebanon,LBN,1998,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.15924145207025
+Lebanon,LBN,1997,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,8.69089063154529
+Lebanon,LBN,1977,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.63389173881447
+Lebanon,LBN,1973,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,4.78847851169875
+Lebanon,LBN,1972,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.51082419720445
+Lebanon,LBN,1971,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.66100185020215
+Lebanon,LBN,1970,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.92396028182046
+Lebanon,LBN,1969,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.99339850712242
+Lebanon,LBN,1968,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,6.10388137681385
+Lebanon,LBN,1967,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,6.1817588939882
+Lebanon,LBN,2018,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.68636561240253
+Lebanon,LBN,2017,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.236360983624102
+Lebanon,LBN,2016,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.48493551439691
+Lebanon,LBN,2015,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.87613865509967
+Lebanon,LBN,2014,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.93930991110703
+Lebanon,LBN,2013,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.89746637822209
+Lebanon,LBN,2012,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.99374438542867
+Lebanon,LBN,2011,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.28323524466141
+Lebanon,LBN,2010,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.09556931974447
+Lebanon,LBN,2009,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.71245129451557
+Lebanon,LBN,2008,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.81427066571579
+Lebanon,LBN,2007,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.45284916257674
+Lebanon,LBN,2006,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.37526318590735
+Lebanon,LBN,2005,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.2148696297965
+Lebanon,LBN,2004,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.25537748903825
+Lebanon,LBN,2003,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.37269239101221
+Lebanon,LBN,2002,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.13264924259295
+Lebanon,LBN,2001,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.98141608667184
+Lebanon,LBN,2000,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.26215976073932
+Lebanon,LBN,1999,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.12463271777567
+Lebanon,LBN,1998,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.33746786741116
+Lebanon,LBN,1997,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.29802662028121
+Lebanon,LBN,1977,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,9.88418601242432
+Lebanon,LBN,1973,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,3.22543821658028
+Lebanon,LBN,1972,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.77062061287605
+Lebanon,LBN,1971,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.87348533897925
+Lebanon,LBN,1970,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,3.13135543258416
+Lebanon,LBN,1969,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.77272720095379
+Lebanon,LBN,1968,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.51937150747254
+Lebanon,LBN,1967,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.84962334425248
+Lebanon,LBN,2018,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.900340516981906
+Lebanon,LBN,2017,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.51816687476108
+Lebanon,LBN,2016,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.614915697943183
+Lebanon,LBN,2015,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.875201052369273
+Lebanon,LBN,2014,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.09749228657573
+Lebanon,LBN,2013,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,9.97329699320544
+Lebanon,LBN,2012,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,2.94147948512708
+Lebanon,LBN,2011,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.138166463137217
+Lebanon,LBN,2010,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.17030999997786
+Lebanon,LBN,2009,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.461522274800482
+Lebanon,LBN,2008,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.371552756996575
+Lebanon,LBN,2007,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.247741061356482
+Lebanon,LBN,2006,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.370238981174013
+Lebanon,LBN,2005,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.376625990604819
+Lebanon,LBN,2004,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.30760615672572
+Lebanon,LBN,2003,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.31894154267865
+Lebanon,LBN,2002,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.519566092163352
+Lebanon,LBN,2001,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.179501293401414
+Lebanon,LBN,2000,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.234243833502403
+Lebanon,LBN,1999,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0555129051709701
+Lebanon,LBN,1998,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0733246981103403
+Lebanon,LBN,1997,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0892449477766391
+Lebanon,LBN,1977,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0668486384154171
+Lebanon,LBN,1973,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.472150650300982
+Lebanon,LBN,1972,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.358322393616944
+Lebanon,LBN,1971,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.151511501441555
+Lebanon,LBN,1970,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.136536168656473
+Lebanon,LBN,1969,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.215264637863976
+Lebanon,LBN,1968,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.327773398004496
+Lebanon,LBN,1967,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.160686217013125
+Lebanon,LBN,2018,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,11.5724650494002
+Lebanon,LBN,2017,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.26208674864613
+Lebanon,LBN,2016,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,8.03739332289338
+Lebanon,LBN,2015,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,8.29410153143015
+Lebanon,LBN,2014,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,9.33889222908489
+Lebanon,LBN,2013,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,12.6224317896179
+Lebanon,LBN,2012,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,12.0704085360443
+Lebanon,LBN,2011,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,13.6542686898693
+Lebanon,LBN,2010,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,10.7014706637702
+Lebanon,LBN,2009,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,7.59228957689126
+Lebanon,LBN,2008,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,12.2110791123301
+Lebanon,LBN,2007,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,15.7621668655034
+Lebanon,LBN,2006,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,13.302188720502
+Lebanon,LBN,2005,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,12.1004745351023
+Lebanon,LBN,2004,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,11.6338029249433
+Lebanon,LBN,2003,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,9.66603241463984
+Lebanon,LBN,2002,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,6.48203821929212
+Lebanon,LBN,2001,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,5.58540226536306
+Lebanon,LBN,2000,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,7.40362245306015
+Lebanon,LBN,1999,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,9.46051898044095
+Lebanon,LBN,1998,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,8.02908330647922
+Lebanon,LBN,1997,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,8.26973471725265
+Lebanon,LBN,1977,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,4.76048003568155
+Lebanon,LBN,1973,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.75211780885953
+Lebanon,LBN,1972,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.58094696080486
+Lebanon,LBN,1971,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.00046804595477
+Lebanon,LBN,1970,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.63105816220696
+Lebanon,LBN,1969,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.07501201363548
+Lebanon,LBN,1968,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.59097008825438
+Lebanon,LBN,1967,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.64503817664376

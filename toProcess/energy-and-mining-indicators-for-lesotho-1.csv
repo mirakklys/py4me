@@ -1,0 +1,834 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Lesotho,LSO,2015,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.72402849997534
+Lesotho,LSO,2014,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,11.0195005279057
+Lesotho,LSO,2013,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,11.3443622609534
+Lesotho,LSO,2012,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,11.7517593192655
+Lesotho,LSO,2011,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,12.0707385860994
+Lesotho,LSO,2010,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,11.6713184773614
+Lesotho,LSO,2009,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,12.4128645778926
+Lesotho,LSO,2008,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,12.3669790910518
+Lesotho,LSO,2007,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,12.7825038712634
+Lesotho,LSO,2006,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,13.0962590184802
+Lesotho,LSO,2005,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,13.4274094884769
+Lesotho,LSO,2004,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,13.4947303605778
+Lesotho,LSO,2003,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,13.5209681429678
+Lesotho,LSO,2002,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,15.353704926631
+Lesotho,LSO,2001,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,15.300898467158
+Lesotho,LSO,2000,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,15.8078841881112
+Lesotho,LSO,1999,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,16.4663943971104
+Lesotho,LSO,1998,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,15.1401187195367
+Lesotho,LSO,1997,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,15.1565042283943
+Lesotho,LSO,1996,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,15.421880843871
+Lesotho,LSO,1995,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,15.9295928984211
+Lesotho,LSO,1994,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,15.9374017462206
+Lesotho,LSO,1993,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,16.4036376299373
+Lesotho,LSO,1992,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,16.5322068884507
+Lesotho,LSO,1991,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,17.2246849496706
+Lesotho,LSO,1990,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,17.4273443409265
+Lesotho,LSO,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,19.9843292082136
+Lesotho,LSO,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,18.9498790174674
+Lesotho,LSO,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,17.8121305324406
+Lesotho,LSO,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,15.6484104776525
+Lesotho,LSO,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,14.3531918750924
+Lesotho,LSO,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,12.73791856481
+Lesotho,LSO,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,10.8712548293076
+Lesotho,LSO,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,8.91753416957288
+Lesotho,LSO,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,8.59290631216544
+Lesotho,LSO,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,7.67756032027457
+Lesotho,LSO,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,6.71967564371159
+Lesotho,LSO,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,2.65291580876467
+Lesotho,LSO,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,4.75696817309124
+Lesotho,LSO,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,1.42698395717688
+Lesotho,LSO,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,2.6011453025621
+Lesotho,LSO,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,1.42382163902744
+Lesotho,LSO,2001,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.192076810601141
+Lesotho,LSO,2000,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,1.9888374556564
+Lesotho,LSO,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,69.5567321777344
+Lesotho,LSO,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,66.2516250610352
+Lesotho,LSO,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,62.9922485351563
+Lesotho,LSO,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,61.5
+Lesotho,LSO,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,60.6619758605957
+Lesotho,LSO,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,59.7543907165527
+Lesotho,LSO,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,58.4729385375977
+Lesotho,LSO,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,56.9261856079102
+Lesotho,LSO,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,43.2
+Lesotho,LSO,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,39.9899559020996
+Lesotho,LSO,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,36.7554893493652
+Lesotho,LSO,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,33.5340957641602
+Lesotho,LSO,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,30.3258724212646
+Lesotho,LSO,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,26.2
+Lesotho,LSO,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,23.9492053985596
+Lesotho,LSO,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,20.7780113220215
+Lesotho,LSO,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,17.6118927001953
+Lesotho,LSO,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,13.6008918617614
+Lesotho,LSO,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,33.7307586669922
+Lesotho,LSO,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,31.871301651001
+Lesotho,LSO,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,29.9691867828369
+Lesotho,LSO,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,27.8
+Lesotho,LSO,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,26.4402389526367
+Lesotho,LSO,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,24.8230304718018
+Lesotho,LSO,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,22.9192314147949
+Lesotho,LSO,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,20.8227233886719
+Lesotho,LSO,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,17
+Lesotho,LSO,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,15.3666124343872
+Lesotho,LSO,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,13.7192192077637
+Lesotho,LSO,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,9.7
+Lesotho,LSO,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,10.4457960128784
+Lesotho,LSO,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,6.8
+Lesotho,LSO,2003,Access to electricity (% of population),EG.ELC.ACCS.ZS,7.11348295211792
+Lesotho,LSO,2002,Access to electricity (% of population),EG.ELC.ACCS.ZS,5.41020202636719
+Lesotho,LSO,2001,Access to electricity (% of population),EG.ELC.ACCS.ZS,3.68771505355835
+Lesotho,LSO,2000,Access to electricity (% of population),EG.ELC.ACCS.ZS,4.25876010781671
+Lesotho,LSO,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Lesotho,LSO,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Lesotho,LSO,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Lesotho,LSO,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Lesotho,LSO,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Lesotho,LSO,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Lesotho,LSO,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Lesotho,LSO,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Lesotho,LSO,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Lesotho,LSO,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Lesotho,LSO,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Lesotho,LSO,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Lesotho,LSO,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Lesotho,LSO,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Lesotho,LSO,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Lesotho,LSO,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Lesotho,LSO,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,100
+Lesotho,LSO,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Lesotho,LSO,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Lesotho,LSO,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Lesotho,LSO,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Lesotho,LSO,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Lesotho,LSO,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Lesotho,LSO,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Lesotho,LSO,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Lesotho,LSO,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Lesotho,LSO,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,52.139206087139
+Lesotho,LSO,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,51.3888984915194
+Lesotho,LSO,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,52.2983789129422
+Lesotho,LSO,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,52.4127512100243
+Lesotho,LSO,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,53.1354663327189
+Lesotho,LSO,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,53.4492321673762
+Lesotho,LSO,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,53.9814082725128
+Lesotho,LSO,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,54.9862266288091
+Lesotho,LSO,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,55.3265424352243
+Lesotho,LSO,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,55.4603953682502
+Lesotho,LSO,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,55.3066298895252
+Lesotho,LSO,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,55.4107465308097
+Lesotho,LSO,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,55.9395401040085
+Lesotho,LSO,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,56.1638600993359
+Lesotho,LSO,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,56.4998434207427
+Lesotho,LSO,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,56.6981761457499
+Lesotho,LSO,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,56.8799186926529
+Lesotho,LSO,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,50.6203628162021
+Lesotho,LSO,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,50.6000450463392
+Lesotho,LSO,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,50.7893287112546
+Lesotho,LSO,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,50.7774773708507
+Lesotho,LSO,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,50.8148383910322
+Lesotho,LSO,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,50.9942907649867
+Lesotho,LSO,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,51.361975012931
+Lesotho,LSO,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,51.9482464308357
+Lesotho,LSO,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,52.0279792504683
+Lesotho,LSO,2007,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,207.053149031243
+Lesotho,LSO,2006,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,192.340862796754
+Lesotho,LSO,2005,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,103.126525676658
+Lesotho,LSO,2004,GDP per unit of energy use (PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP,113.921716033955
+Lesotho,LSO,2007,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,219.662802896136
+Lesotho,LSO,2006,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,209.536003820914
+Lesotho,LSO,2005,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,115.745785094737
+Lesotho,LSO,2004,GDP per unit of energy use (constant 2011 PPP $ per kg of oil equivalent),EG.GDP.PUSE.KO.PP.KD,131.844773940081
+Lesotho,LSO,2007,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Lesotho,LSO,2006,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Lesotho,LSO,2005,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Lesotho,LSO,2004,Fossil fuel energy consumption (% of total),EG.USE.COMM.FO.ZS,0
+Lesotho,LSO,2007,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,4.55243212239641
+Lesotho,LSO,2006,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,4.77244951590601
+Lesotho,LSO,2005,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,8.63962345740288
+Lesotho,LSO,2004,"Energy use (kg of oil equivalent) per $1,000 GDP (constant 2011 PPP)",EG.USE.COMM.GD.PP.KD,7.58467681437615
+Lesotho,LSO,2007,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,9.56252937961329
+Lesotho,LSO,2006,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,9.54803137181592
+Lesotho,LSO,2005,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,16.5321219128767
+Lesotho,LSO,2004,Energy use (kg of oil equivalent per capita),EG.USE.PCAP.KG.OE,13.9585431269131
+Lesotho,LSO,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Lesotho,LSO,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,612.389
+Lesotho,LSO,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,601.388
+Lesotho,LSO,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,597.721
+Lesotho,LSO,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,553.717
+Lesotho,LSO,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,524.381
+Lesotho,LSO,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,506.046
+Lesotho,LSO,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,443.707
+Lesotho,LSO,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,421.705
+Lesotho,LSO,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,410.704
+Lesotho,LSO,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,414.371
+Lesotho,LSO,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,410.704
+Lesotho,LSO,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,388.702
+Lesotho,LSO,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,388.702
+Lesotho,LSO,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,385.035
+Lesotho,LSO,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,381.368
+Lesotho,LSO,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,374.034
+Lesotho,LSO,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,370.367
+Lesotho,LSO,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,366.7
+Lesotho,LSO,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,359.366
+Lesotho,LSO,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,355.699
+Lesotho,LSO,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,348.365
+Lesotho,LSO,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,348.365
+Lesotho,LSO,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,341.031
+Lesotho,LSO,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,333.697
+Lesotho,LSO,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,330.03
+Lesotho,LSO,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,336.831633840038
+Lesotho,LSO,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,332.679928692005
+Lesotho,LSO,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,328.700921678227
+Lesotho,LSO,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,324.28479480312
+Lesotho,LSO,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,320.925400676253
+Lesotho,LSO,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,316.814328909074
+Lesotho,LSO,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,313.417220534972
+Lesotho,LSO,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,309.954287661698
+Lesotho,LSO,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,305.722780251767
+Lesotho,LSO,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,298.83764339216
+Lesotho,LSO,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,263.747436671164
+Lesotho,LSO,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,257.698361015746
+Lesotho,LSO,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,253.861944683383
+Lesotho,LSO,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,248.432117530887
+Lesotho,LSO,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,244.73218741075
+Lesotho,LSO,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,239.820723717233
+Lesotho,LSO,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,233.275914918131
+Lesotho,LSO,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,225.584832731347
+Lesotho,LSO,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,216.903378851416
+Lesotho,LSO,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,258.650053082183
+Lesotho,LSO,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,259.405365549087
+Lesotho,LSO,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,260.366974155804
+Lesotho,LSO,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,256.441797157544
+Lesotho,LSO,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,249.881750119862
+Lesotho,LSO,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,245.069430844342
+Lesotho,LSO,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,242.75739374154
+Lesotho,LSO,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,230.983650986816
+Lesotho,LSO,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,229.592045542212
+Lesotho,LSO,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,223.868771483014
+Lesotho,LSO,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,215.603800996524
+Lesotho,LSO,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,210.68040784237
+Lesotho,LSO,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,212.602926876542
+Lesotho,LSO,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,216.17114673774
+Lesotho,LSO,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,215.907413349338
+Lesotho,LSO,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,203.530304381447
+Lesotho,LSO,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,203.375882856607
+Lesotho,LSO,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,212.347027195417
+Lesotho,LSO,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,213.158202664989
+Lesotho,LSO,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,211.753123825934
+Lesotho,LSO,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Lesotho,LSO,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,27.0721454621474
+Lesotho,LSO,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,27.0693763734453
+Lesotho,LSO,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,27.2114675009915
+Lesotho,LSO,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,26.6699120668399
+Lesotho,LSO,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,29.4399963926477
+Lesotho,LSO,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,24.2477884008568
+Lesotho,LSO,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,23.7687580509
+Lesotho,LSO,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,27.5772309855152
+Lesotho,LSO,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,26.6088846557089
+Lesotho,LSO,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,24.4505971471482
+Lesotho,LSO,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,24.0016959850723
+Lesotho,LSO,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,23.3116252219229
+Lesotho,LSO,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,22.5318586185414
+Lesotho,LSO,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,20.9781900232121
+Lesotho,LSO,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,20.2817850439021
+Lesotho,LSO,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,19.4946084521279
+Lesotho,LSO,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,18.0949064458129
+Lesotho,LSO,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,19.6735534022315
+Lesotho,LSO,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,19.0650768085977
+Lesotho,LSO,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,20.8445866206377
+Lesotho,LSO,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,20.1346967477073
+Lesotho,LSO,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,19.763999313471
+Lesotho,LSO,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,22.0513528034829
+Lesotho,LSO,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,21.7847304058116
+Lesotho,LSO,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,22.1601800202859
+Lesotho,LSO,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,21.5943668432301
+Lesotho,LSO,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,20.2617237707733
+Lesotho,LSO,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,20.6759584613358
+Lesotho,LSO,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,20.3075836575997
+Lesotho,LSO,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,20.5685639461681
+Lesotho,LSO,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,21.2612631436869
+Lesotho,LSO,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,21.6876920345797
+Lesotho,LSO,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,20.4763757791192
+Lesotho,LSO,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,20.079554093832
+Lesotho,LSO,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,19.6721764125078
+Lesotho,LSO,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,20.0647082534143
+Lesotho,LSO,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,20.7133477565103
+Lesotho,LSO,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,20.418039087808
+Lesotho,LSO,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,18.7465140254554
+Lesotho,LSO,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,41.0340582163
+Lesotho,LSO,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,40.7931186585
+Lesotho,LSO,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,40.548208599
+Lesotho,LSO,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,40.346889546
+Lesotho,LSO,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,40.20657189
+Lesotho,LSO,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,39.62478776
+Lesotho,LSO,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,39.641706072
+Lesotho,LSO,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,39.509233834
+Lesotho,LSO,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,39.078746878
+Lesotho,LSO,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,38.263814476
+Lesotho,LSO,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,31.854164886
+Lesotho,LSO,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,31.258868414
+Lesotho,LSO,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,30.648801124
+Lesotho,LSO,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,29.925707276
+Lesotho,LSO,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,29.13099791
+Lesotho,LSO,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,25.987900718
+Lesotho,LSO,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,25.390216874
+Lesotho,LSO,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,24.33515841
+Lesotho,LSO,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,23.321424744
+Lesotho,LSO,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,32.049392346
+Lesotho,LSO,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,31.90028681
+Lesotho,LSO,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,32.297085322
+Lesotho,LSO,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,31.638577122
+Lesotho,LSO,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,30.893371346
+Lesotho,LSO,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,30.335957804
+Lesotho,LSO,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,29.921254684
+Lesotho,LSO,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,28.743502622
+Lesotho,LSO,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,28.713516074
+Lesotho,LSO,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,28.226049506
+Lesotho,LSO,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,27.383382055
+Lesotho,LSO,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,26.664706451
+Lesotho,LSO,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,26.571451941
+Lesotho,LSO,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,26.666619368
+Lesotho,LSO,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,26.492897507
+Lesotho,LSO,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,25.170849714
+Lesotho,LSO,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,24.951509896
+Lesotho,LSO,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,25.583837852
+Lesotho,LSO,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,25.590050066
+Lesotho,LSO,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,25.326344536
+Lesotho,LSO,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Lesotho,LSO,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.65343711566511
+Lesotho,LSO,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.50511444142673
+Lesotho,LSO,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.69957233856376
+Lesotho,LSO,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.76905940534022
+Lesotho,LSO,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.9999111101859
+Lesotho,LSO,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.10317740587772
+Lesotho,LSO,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.45332319990311
+Lesotho,LSO,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.65207537450091
+Lesotho,LSO,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.66017560692115
+Lesotho,LSO,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.51045200696239
+Lesotho,LSO,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.94666342197402
+Lesotho,LSO,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.09691568261109
+Lesotho,LSO,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.83217911750826
+Lesotho,LSO,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.2924057630947
+Lesotho,LSO,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.00090262255998
+Lesotho,LSO,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.42924820229409
+Lesotho,LSO,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.92913152605144
+Lesotho,LSO,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.49110715082584
+Lesotho,LSO,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.13744870976967
+Lesotho,LSO,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.35754784915868
+Lesotho,LSO,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.11286865575237
+Lesotho,LSO,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.98135990781647
+Lesotho,LSO,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.79184998836635
+Lesotho,LSO,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.68787022282088
+Lesotho,LSO,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.84195048624253
+Lesotho,LSO,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.48796745434283
+Lesotho,LSO,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.10409425300011
+Lesotho,LSO,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.29611274450944
+Lesotho,LSO,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.11975509997526
+Lesotho,LSO,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.09764319061881
+Lesotho,LSO,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.39530453627388
+Lesotho,LSO,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.45020990284101
+Lesotho,LSO,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.16930392769579
+Lesotho,LSO,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.97074122307012
+Lesotho,LSO,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.97334297421951
+Lesotho,LSO,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.01446870969953
+Lesotho,LSO,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.08333851962723
+Lesotho,LSO,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.99498064297514
+Lesotho,LSO,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,4.3111430682202
+Lesotho,LSO,2016,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.73
+Lesotho,LSO,2014,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.07
+Lesotho,LSO,2012,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.31
+Lesotho,LSO,2010,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.07
+Lesotho,LSO,2008,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.93
+Lesotho,LSO,2006,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.88
+Lesotho,LSO,2004,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.68
+Lesotho,LSO,2000,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.47
+Lesotho,LSO,1998,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.38
+Lesotho,LSO,2016,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.7
+Lesotho,LSO,2014,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.03
+Lesotho,LSO,2012,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.24
+Lesotho,LSO,2010,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.97
+Lesotho,LSO,2008,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.79
+Lesotho,LSO,2006,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.89
+Lesotho,LSO,2004,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.73
+Lesotho,LSO,2000,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.5
+Lesotho,LSO,1998,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.39
+Lesotho,LSO,2016,Time to obtain an electrical connection (days),IC.ELC.DURS,12.2
+Lesotho,LSO,2009,Time to obtain an electrical connection (days),IC.ELC.DURS,13.9
+Lesotho,LSO,2019,Time required to get electricity (days),IC.ELC.TIME,114
+Lesotho,LSO,2018,Time required to get electricity (days),IC.ELC.TIME,114
+Lesotho,LSO,2017,Time required to get electricity (days),IC.ELC.TIME,114
+Lesotho,LSO,2016,Time required to get electricity (days),IC.ELC.TIME,114
+Lesotho,LSO,2015,Time required to get electricity (days),IC.ELC.TIME,114
+Lesotho,LSO,2014,Time required to get electricity (days),IC.ELC.TIME,114
+Lesotho,LSO,2013,Time required to get electricity (days),IC.ELC.TIME,114
+Lesotho,LSO,2012,Time required to get electricity (days),IC.ELC.TIME,125
+Lesotho,LSO,2011,Time required to get electricity (days),IC.ELC.TIME,140
+Lesotho,LSO,2010,Time required to get electricity (days),IC.ELC.TIME,140
+Lesotho,LSO,2009,Time required to get electricity (days),IC.ELC.TIME,140
+Lesotho,LSO,2016,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,51.8
+Lesotho,LSO,2009,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,32.7
+Lesotho,LSO,2016,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,2.5
+Lesotho,LSO,2009,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,6.7
+Lesotho,LSO,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Lesotho,LSO,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2001,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2000,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1999,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1998,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1997,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1996,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1995,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1994,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1993,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1992,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1991,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1990,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1989,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1988,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1987,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1986,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1985,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1984,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1983,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1982,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1981,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1980,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1979,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1978,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1977,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1976,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1975,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1974,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1973,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1972,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1971,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,1970,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Lesotho,LSO,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Lesotho,LSO,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1992,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1991,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1990,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1989,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1988,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1987,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1986,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1985,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1984,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1983,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1982,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1981,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,1980,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Lesotho,LSO,2017,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,5.136401724684
+Lesotho,LSO,2016,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,5.50101344725141
+Lesotho,LSO,2015,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,4.88349982506701
+Lesotho,LSO,2014,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,4.37350786052237
+Lesotho,LSO,2013,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,4.09963023317739
+Lesotho,LSO,2012,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.68440797758833
+Lesotho,LSO,2011,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.97874455683281
+Lesotho,LSO,2010,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.87027444693291
+Lesotho,LSO,2009,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,4.326259641962
+Lesotho,LSO,2008,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.96044480543429
+Lesotho,LSO,2007,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.49781138219157
+Lesotho,LSO,2006,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.41051315404142
+Lesotho,LSO,2005,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.58445421345335
+Lesotho,LSO,2004,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.75174982599207
+Lesotho,LSO,2003,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.74592345964278
+Lesotho,LSO,2002,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.14432099131742
+Lesotho,LSO,2001,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.44574288439089
+Lesotho,LSO,2000,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.65817929566134
+Lesotho,LSO,1999,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.52204505381632
+Lesotho,LSO,1998,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.51015183434601
+Lesotho,LSO,1997,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.96272190643837
+Lesotho,LSO,1996,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.21804682870446
+Lesotho,LSO,1995,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.95870596057761
+Lesotho,LSO,1994,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.06561701372696
+Lesotho,LSO,1993,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,1.70047046086246
+Lesotho,LSO,1992,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.04931967787067
+Lesotho,LSO,1991,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.21523894107045
+Lesotho,LSO,1990,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,2.35221649617117
+Lesotho,LSO,1989,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.48440441432774
+Lesotho,LSO,1988,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.51453445781195
+Lesotho,LSO,1987,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.50280546576354
+Lesotho,LSO,1986,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,4.58658100710556
+Lesotho,LSO,1985,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.21350992804906
+Lesotho,LSO,1984,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.45504483106257
+Lesotho,LSO,1983,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.25191701102332
+Lesotho,LSO,1982,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,5.55687171093176
+Lesotho,LSO,1981,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,3.70061003436042
+Lesotho,LSO,1980,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,4.2351060213349
+Lesotho,LSO,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1992,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1991,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1990,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1989,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1988,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1987,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1986,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1985,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1984,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1983,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1982,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1981,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1980,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1979,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1978,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1977,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1976,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1975,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1974,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1973,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1972,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1971,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,1970,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Lesotho,LSO,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2001,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2000,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1999,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1998,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1997,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1996,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1995,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1994,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1993,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1992,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1991,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1990,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1989,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1988,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1987,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1986,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1985,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1984,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1983,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1982,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1981,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,1980,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Lesotho,LSO,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2001,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2000,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1999,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1998,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1997,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1996,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1995,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1994,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1993,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1992,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1991,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1990,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1989,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1988,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1987,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1986,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1985,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1984,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1983,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1982,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1981,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,1980,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Lesotho,LSO,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.89137396560496
+Lesotho,LSO,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.34155784017227
+Lesotho,LSO,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.5414534536098
+Lesotho,LSO,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.94200302702833
+Lesotho,LSO,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.76933676353314
+Lesotho,LSO,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.34597004369923
+Lesotho,LSO,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.5985901850331
+Lesotho,LSO,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.72301763252752
+Lesotho,LSO,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.79527053558753
+Lesotho,LSO,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.48477729093774
+Lesotho,LSO,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.95175016531476
+Lesotho,LSO,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.06843905669321
+Lesotho,LSO,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.42595234525988
+Lesotho,LSO,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.855045738325
+Lesotho,LSO,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.46817367238977
+Lesotho,LSO,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.64972989593054
+Lesotho,LSO,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.6129471988175
+Lesotho,LSO,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.45870923975972
+Lesotho,LSO,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.37253238668191
+Lesotho,LSO,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.62753146037008
+Lesotho,LSO,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.03080585306989
+Lesotho,LSO,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.42866982654122
+Lesotho,LSO,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,4.06747678150449
+Lesotho,LSO,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.92280695100748
+Lesotho,LSO,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,2.44705043894295
+Lesotho,LSO,1992,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.07930325127727
+Lesotho,LSO,1991,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.50157419032709
+Lesotho,LSO,1990,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,3.89898101265199
+Lesotho,LSO,1989,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,5.85725208743528
+Lesotho,LSO,1988,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.18328873202027
+Lesotho,LSO,1987,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.56393720793431
+Lesotho,LSO,1986,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.63553870269463
+Lesotho,LSO,1985,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.13232608177127
+Lesotho,LSO,1984,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.05472134762746
+Lesotho,LSO,1983,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.61350664379904
+Lesotho,LSO,1982,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.3295324008722
+Lesotho,LSO,1981,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.31596693593963
+Lesotho,LSO,1980,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,6.97611464070126
+Lesotho,LSO,1979,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.20050459440455
+Lesotho,LSO,1978,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,9.87909487012008
+Lesotho,LSO,1977,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,13.6561537207327
+Lesotho,LSO,1976,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,9.38504487974223
+Lesotho,LSO,1975,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.6461825318867
+Lesotho,LSO,1974,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.23589943584277
+Lesotho,LSO,1973,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.33692950076177
+Lesotho,LSO,1972,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.42476917239769
+Lesotho,LSO,1971,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.05289833500577
+Lesotho,LSO,1970,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,9.26379655688941
+Lesotho,LSO,2017,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,17.739921526232
+Lesotho,LSO,2015,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.521133471804
+Lesotho,LSO,2014,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.9621284887847
+Lesotho,LSO,2013,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.7730529456529
+Lesotho,LSO,2012,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.1364327655363
+Lesotho,LSO,2011,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.7909864926379
+Lesotho,LSO,2010,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.2072684962795
+Lesotho,LSO,2009,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.8255391031655
+Lesotho,LSO,2008,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.5021286824255
+Lesotho,LSO,2004,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,6.37609347176588
+Lesotho,LSO,2003,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,6.46266978868016
+Lesotho,LSO,2002,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.44586736512308
+Lesotho,LSO,2001,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.92409839490178
+Lesotho,LSO,2000,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,18.6031085474621
+Lesotho,LSO,2017,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.247872277393121
+Lesotho,LSO,2015,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.304990970560351
+Lesotho,LSO,2014,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.589153782525274
+Lesotho,LSO,2013,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.620280790102431
+Lesotho,LSO,2012,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.737247465757058
+Lesotho,LSO,2011,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.663697099501707
+Lesotho,LSO,2010,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.830436406071173
+Lesotho,LSO,2009,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.717317035532492
+Lesotho,LSO,2008,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.826288655093361
+Lesotho,LSO,2004,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.343327391574277
+Lesotho,LSO,2003,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.702149186254816
+Lesotho,LSO,2002,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.593429658878893
+Lesotho,LSO,2001,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.74296653478826
+Lesotho,LSO,2000,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,2.22656865955022
+Lesotho,LSO,2017,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0841133915367717
+Lesotho,LSO,2015,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0746890360362723
+Lesotho,LSO,2014,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0473964206357103
+Lesotho,LSO,2013,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0862799363727256
+Lesotho,LSO,2012,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.116200694279021
+Lesotho,LSO,2011,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.14030530093067
+Lesotho,LSO,2010,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0723971215924754
+Lesotho,LSO,2009,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0159157147331234
+Lesotho,LSO,2008,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.358541964712345
+Lesotho,LSO,2004,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0189226072529795
+Lesotho,LSO,2003,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0624084448535018
+Lesotho,LSO,2002,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.00340828589837466
+Lesotho,LSO,2001,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0170708075774557
+Lesotho,LSO,2017,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.377855579524659
+Lesotho,LSO,2015,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,30.7906591259892
+Lesotho,LSO,2014,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,46.1776542938583
+Lesotho,LSO,2013,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,3.95078958424873
+Lesotho,LSO,2012,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.384333582523068
+Lesotho,LSO,2011,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.219047417309757
+Lesotho,LSO,2010,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.44344009372689
+Lesotho,LSO,2009,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.10896352577039
+Lesotho,LSO,2008,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,2.46503363844614
+Lesotho,LSO,2004,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0472578296992423
+Lesotho,LSO,2003,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0967400424935918
+Lesotho,LSO,2002,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0644652134584874
+Lesotho,LSO,2001,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0522052900003806
+Lesotho,LSO,2000,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.0070200611059745

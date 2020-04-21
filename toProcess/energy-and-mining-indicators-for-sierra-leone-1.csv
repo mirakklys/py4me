@@ -1,0 +1,869 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Sierra Leone,SLE,2015,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,6.99664375139719
+Sierra Leone,SLE,2014,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.72546498214365
+Sierra Leone,SLE,2013,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,5.81940425061285
+Sierra Leone,SLE,2012,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,6.72194865717831
+Sierra Leone,SLE,2011,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,7.50289518209457
+Sierra Leone,SLE,2010,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,7.62416466389576
+Sierra Leone,SLE,2009,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,7.87547202702006
+Sierra Leone,SLE,2008,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,8.19085819138232
+Sierra Leone,SLE,2007,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,8.58474735317667
+Sierra Leone,SLE,2006,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.39427260981864
+Sierra Leone,SLE,2005,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.51253056903951
+Sierra Leone,SLE,2004,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,10.1186097093107
+Sierra Leone,SLE,2003,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,10.7794811870209
+Sierra Leone,SLE,2002,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,11.6276530026369
+Sierra Leone,SLE,2001,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,14.6074601287681
+Sierra Leone,SLE,2000,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,13.123918007063
+Sierra Leone,SLE,1999,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,13.5316358750852
+Sierra Leone,SLE,1998,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,13.0045174534495
+Sierra Leone,SLE,1997,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,12.9403274572526
+Sierra Leone,SLE,1996,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,11.5042547098006
+Sierra Leone,SLE,1995,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,11.5753312193086
+Sierra Leone,SLE,1994,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,10.5680955104629
+Sierra Leone,SLE,1993,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,10.4898729513487
+Sierra Leone,SLE,1992,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,10.7853666584717
+Sierra Leone,SLE,1991,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.09192497489111
+Sierra Leone,SLE,1990,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,9.31625727367011
+Sierra Leone,SLE,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,5.35135834725217
+Sierra Leone,SLE,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,1.64035476866329
+Sierra Leone,SLE,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,1.47768892163698
+Sierra Leone,SLE,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.493879951041577
+Sierra Leone,SLE,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0
+Sierra Leone,SLE,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.3537860301591
+Sierra Leone,SLE,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.277915682762241
+Sierra Leone,SLE,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0
+Sierra Leone,SLE,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.429105819893937
+Sierra Leone,SLE,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0
+Sierra Leone,SLE,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.669932012855774
+Sierra Leone,SLE,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0.790233776493018
+Sierra Leone,SLE,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,0
+Sierra Leone,SLE,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,9.13595085409845
+Sierra Leone,SLE,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,48.7
+Sierra Leone,SLE,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,46.9
+Sierra Leone,SLE,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,44.8288154602051
+Sierra Leone,SLE,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,42.9030303955078
+Sierra Leone,SLE,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,41.4
+Sierra Leone,SLE,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,40.250431060791
+Sierra Leone,SLE,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,35.75
+Sierra Leone,SLE,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,34.340354767184
+Sierra Leone,SLE,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,36.340461730957
+Sierra Leone,SLE,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,33.1
+Sierra Leone,SLE,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,33.7962608337402
+Sierra Leone,SLE,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,32.5437240600586
+Sierra Leone,SLE,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,35.8518518518519
+Sierra Leone,SLE,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,30.0782623291016
+Sierra Leone,SLE,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,23.4
+Sierra Leone,SLE,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,20.3
+Sierra Leone,SLE,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,19.1775207519531
+Sierra Leone,SLE,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,17.6407489776611
+Sierra Leone,SLE,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,13.5
+Sierra Leone,SLE,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,16.1696166992188
+Sierra Leone,SLE,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,14.2
+Sierra Leone,SLE,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,11.4621730735475
+Sierra Leone,SLE,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,14.2427701950073
+Sierra Leone,SLE,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,12.1
+Sierra Leone,SLE,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,13.1549167633057
+Sierra Leone,SLE,2006,Access to electricity (% of population),EG.ELC.ACCS.ZS,12.6352405548096
+Sierra Leone,SLE,2005,Access to electricity (% of population),EG.ELC.ACCS.ZS,11.3324855164618
+Sierra Leone,SLE,2004,Access to electricity (% of population),EG.ELC.ACCS.ZS,16.8
+Sierra Leone,SLE,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,60.9756097560976
+Sierra Leone,SLE,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,65.3569452130603
+Sierra Leone,SLE,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,64.1097390352211
+Sierra Leone,SLE,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,66.099513068786
+Sierra Leone,SLE,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,87.3775905260761
+Sierra Leone,SLE,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,87.3820547383227
+Sierra Leone,SLE,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,66.6608575736681
+Sierra Leone,SLE,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,69.0148152418286
+Sierra Leone,SLE,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,30
+Sierra Leone,SLE,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,10.1941747572816
+Sierra Leone,SLE,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,22.488038277512
+Sierra Leone,SLE,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,14.1068447412354
+Sierra Leone,SLE,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,11.142061281337
+Sierra Leone,SLE,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,10.2678571428571
+Sierra Leone,SLE,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,10.958904109589
+Sierra Leone,SLE,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,16.5786694825766
+Sierra Leone,SLE,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Sierra Leone,SLE,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Sierra Leone,SLE,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Sierra Leone,SLE,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Sierra Leone,SLE,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Sierra Leone,SLE,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Sierra Leone,SLE,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Sierra Leone,SLE,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Sierra Leone,SLE,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Sierra Leone,SLE,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Sierra Leone,SLE,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,77.660558628128
+Sierra Leone,SLE,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,73.0542862186249
+Sierra Leone,SLE,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,75.2247752787417
+Sierra Leone,SLE,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,78.4297555508629
+Sierra Leone,SLE,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,80.3459747864652
+Sierra Leone,SLE,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,84.1750925806591
+Sierra Leone,SLE,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,85.3865600089718
+Sierra Leone,SLE,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,85.2746005510367
+Sierra Leone,SLE,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,85.5640191882897
+Sierra Leone,SLE,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,83.3856396499488
+Sierra Leone,SLE,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,87.2507685727922
+Sierra Leone,SLE,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,85.7401566667732
+Sierra Leone,SLE,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,85.6877360808241
+Sierra Leone,SLE,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,87.1251950645401
+Sierra Leone,SLE,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,87.1728795969515
+Sierra Leone,SLE,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,89.2841516602693
+Sierra Leone,SLE,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,91.367512439283
+Sierra Leone,SLE,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,91.2607179504479
+Sierra Leone,SLE,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,90.460188701685
+Sierra Leone,SLE,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,90.0751222656276
+Sierra Leone,SLE,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,90.2416623879196
+Sierra Leone,SLE,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,89.7155966869799
+Sierra Leone,SLE,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,90.130079929459
+Sierra Leone,SLE,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,90.2156112527301
+Sierra Leone,SLE,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,90.255162711702
+Sierra Leone,SLE,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,91.282152247783
+Sierra Leone,SLE,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1963,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1962,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1961,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,1960,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Sierra Leone,SLE,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1140.437
+Sierra Leone,SLE,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1034.094
+Sierra Leone,SLE,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,861.745
+Sierra Leone,SLE,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,744.401
+Sierra Leone,SLE,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,575.719
+Sierra Leone,SLE,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,535.382
+Sierra Leone,SLE,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,535.382
+Sierra Leone,SLE,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,517.047
+Sierra Leone,SLE,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,616.056
+Sierra Leone,SLE,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,462.042
+Sierra Leone,SLE,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,553.717
+Sierra Leone,SLE,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,568.385
+Sierra Leone,SLE,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,517.047
+Sierra Leone,SLE,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,513.38
+Sierra Leone,SLE,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,388.702
+Sierra Leone,SLE,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,344.698
+Sierra Leone,SLE,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,363.033
+Sierra Leone,SLE,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,363.033
+Sierra Leone,SLE,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,392.369
+Sierra Leone,SLE,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,348.365
+Sierra Leone,SLE,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,462.042
+Sierra Leone,SLE,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,447.374
+Sierra Leone,SLE,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,447.374
+Sierra Leone,SLE,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,546.383
+Sierra Leone,SLE,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,487.711
+Sierra Leone,SLE,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,374.034
+Sierra Leone,SLE,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,458.375
+Sierra Leone,SLE,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,498.712
+Sierra Leone,SLE,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,674.728
+Sierra Leone,SLE,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,663.727
+Sierra Leone,SLE,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,616.056
+Sierra Leone,SLE,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,689.396
+Sierra Leone,SLE,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,553.717
+Sierra Leone,SLE,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,693.063
+Sierra Leone,SLE,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,608.722
+Sierra Leone,SLE,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,678.395
+Sierra Leone,SLE,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,711.398
+Sierra Leone,SLE,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,513.38
+Sierra Leone,SLE,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,451.041
+Sierra Leone,SLE,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,524.381
+Sierra Leone,SLE,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,520.714
+Sierra Leone,SLE,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,539.049
+Sierra Leone,SLE,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,678.395
+Sierra Leone,SLE,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,803.073
+Sierra Leone,SLE,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,858.078
+Sierra Leone,SLE,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,1085.432
+Sierra Leone,SLE,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,363.033
+Sierra Leone,SLE,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,253.023
+Sierra Leone,SLE,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,300.694
+Sierra Leone,SLE,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,271.358
+Sierra Leone,SLE,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,304.361
+Sierra Leone,SLE,1963,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,355.699
+Sierra Leone,SLE,1962,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,282.359
+Sierra Leone,SLE,1961,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,260.357
+Sierra Leone,SLE,1960,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,685.729
+Sierra Leone,SLE,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1122.15546720288
+Sierra Leone,SLE,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1102.73400520194
+Sierra Leone,SLE,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1083.40351311877
+Sierra Leone,SLE,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1064.04245047024
+Sierra Leone,SLE,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1047.33412058914
+Sierra Leone,SLE,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1029.35203674043
+Sierra Leone,SLE,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,1012.02405878265
+Sierra Leone,SLE,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,995.279081696174
+Sierra Leone,SLE,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,979.181936437173
+Sierra Leone,SLE,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,940.065461074879
+Sierra Leone,SLE,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,904.425194846068
+Sierra Leone,SLE,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,869.924910143808
+Sierra Leone,SLE,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,793.201391152308
+Sierra Leone,SLE,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,782.401511774295
+Sierra Leone,SLE,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,734.72747398723
+Sierra Leone,SLE,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,730.967833083327
+Sierra Leone,SLE,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,730.490464812583
+Sierra Leone,SLE,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,724.430161363285
+Sierra Leone,SLE,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,727.810040462188
+Sierra Leone,SLE,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,732.493881317619
+Sierra Leone,SLE,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,728.160517218124
+Sierra Leone,SLE,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,717.594427175422
+Sierra Leone,SLE,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,716.009607458868
+Sierra Leone,SLE,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,699.596432788354
+Sierra Leone,SLE,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,677.954813317628
+Sierra Leone,SLE,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,680.538984999941
+Sierra Leone,SLE,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,663.606641172197
+Sierra Leone,SLE,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,665.343755164133
+Sierra Leone,SLE,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,676.089363856099
+Sierra Leone,SLE,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,674.481708815056
+Sierra Leone,SLE,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,684.165479976721
+Sierra Leone,SLE,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,669.993259074642
+Sierra Leone,SLE,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,664.058917598591
+Sierra Leone,SLE,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,648.70507539078
+Sierra Leone,SLE,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,646.472427861417
+Sierra Leone,SLE,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,649.161787497749
+Sierra Leone,SLE,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,648.361634898972
+Sierra Leone,SLE,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,640.591142433262
+Sierra Leone,SLE,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,640.442023453333
+Sierra Leone,SLE,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Sierra Leone,SLE,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,24.2090637050891
+Sierra Leone,SLE,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,22.7912947503708
+Sierra Leone,SLE,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,30.9067014639918
+Sierra Leone,SLE,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,43.0352579978177
+Sierra Leone,SLE,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,38.1271636028738
+Sierra Leone,SLE,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,38.4405005915507
+Sierra Leone,SLE,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,38.9529173110288
+Sierra Leone,SLE,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,35.6705283383332
+Sierra Leone,SLE,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,41.5488579979281
+Sierra Leone,SLE,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,37.6779743917787
+Sierra Leone,SLE,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,32.1085922828654
+Sierra Leone,SLE,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,30.8135446124352
+Sierra Leone,SLE,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,29.6021477997085
+Sierra Leone,SLE,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,29.3711901530983
+Sierra Leone,SLE,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,28.2293253565411
+Sierra Leone,SLE,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,26.9717884478668
+Sierra Leone,SLE,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,26.7200146609964
+Sierra Leone,SLE,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,27.704251506319
+Sierra Leone,SLE,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,25.0165000915055
+Sierra Leone,SLE,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,26.9502338644059
+Sierra Leone,SLE,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,27.9061409569591
+Sierra Leone,SLE,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,27.5590830149096
+Sierra Leone,SLE,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,28.2960776258039
+Sierra Leone,SLE,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,27.9070570904213
+Sierra Leone,SLE,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,26.7502165537912
+Sierra Leone,SLE,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,25.3446369649233
+Sierra Leone,SLE,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,23.3930364877025
+Sierra Leone,SLE,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,24.5846329420595
+Sierra Leone,SLE,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,23.1246810979385
+Sierra Leone,SLE,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,24.9226511774399
+Sierra Leone,SLE,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,25.1674844112167
+Sierra Leone,SLE,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,23.7926277295085
+Sierra Leone,SLE,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,24.9639640159316
+Sierra Leone,SLE,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,25.224756985293
+Sierra Leone,SLE,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,25.9093685644202
+Sierra Leone,SLE,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,24.5399170424011
+Sierra Leone,SLE,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,25.1837870709481
+Sierra Leone,SLE,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,24.5832812354464
+Sierra Leone,SLE,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,25.0726025585113
+Sierra Leone,SLE,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,111.376512227
+Sierra Leone,SLE,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,110.234340756
+Sierra Leone,SLE,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,109.209261679
+Sierra Leone,SLE,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,108.066562216
+Sierra Leone,SLE,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,107.382366796
+Sierra Leone,SLE,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,105.47240949
+Sierra Leone,SLE,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,104.175934806
+Sierra Leone,SLE,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,103.26744242
+Sierra Leone,SLE,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,102.3751378
+Sierra Leone,SLE,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,99.826704928
+Sierra Leone,SLE,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,97.399643628
+Sierra Leone,SLE,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,95.205375836
+Sierra Leone,SLE,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,88.69403955
+Sierra Leone,SLE,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,88.353175206
+Sierra Leone,SLE,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,84.042825466
+Sierra Leone,SLE,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,79.10072437
+Sierra Leone,SLE,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,80.019788686
+Sierra Leone,SLE,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,82.002609818
+Sierra Leone,SLE,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,83.179562824
+Sierra Leone,SLE,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,84.387801216
+Sierra Leone,SLE,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,84.647757358
+Sierra Leone,SLE,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,85.070454882
+Sierra Leone,SLE,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,85.591524582
+Sierra Leone,SLE,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,83.835074378
+Sierra Leone,SLE,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,82.052247824
+Sierra Leone,SLE,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,83.161513446
+Sierra Leone,SLE,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,82.243455824
+Sierra Leone,SLE,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,81.968205336
+Sierra Leone,SLE,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,84.791885782
+Sierra Leone,SLE,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,84.899404942
+Sierra Leone,SLE,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,86.206898762
+Sierra Leone,SLE,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,84.79488311
+Sierra Leone,SLE,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,84.570325062
+Sierra Leone,SLE,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,83.153371854
+Sierra Leone,SLE,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,83.197723244
+Sierra Leone,SLE,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,84.146237312
+Sierra Leone,SLE,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,84.773036976
+Sierra Leone,SLE,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,84.51697493
+Sierra Leone,SLE,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,85.17635733
+Sierra Leone,SLE,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Sierra Leone,SLE,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.26151830296758
+Sierra Leone,SLE,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,3.00612602586863
+Sierra Leone,SLE,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,5.58369152654127
+Sierra Leone,SLE,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,15.6672859961439
+Sierra Leone,SLE,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.0786675123876
+Sierra Leone,SLE,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.1589555104356
+Sierra Leone,SLE,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,11.1692110159436
+Sierra Leone,SLE,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.68618469688649
+Sierra Leone,SLE,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,13.217890291981
+Sierra Leone,SLE,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.6509766752663
+Sierra Leone,SLE,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.31874646007858
+Sierra Leone,SLE,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.36073698510055
+Sierra Leone,SLE,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.01713228515466
+Sierra Leone,SLE,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.87138461241038
+Sierra Leone,SLE,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.39025404184204
+Sierra Leone,SLE,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.87880068918456
+Sierra Leone,SLE,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.38883897191634
+Sierra Leone,SLE,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.88220660546516
+Sierra Leone,SLE,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,6.98382032461921
+Sierra Leone,SLE,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.88230655229009
+Sierra Leone,SLE,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.83295696733118
+Sierra Leone,SLE,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.16140823262336
+Sierra Leone,SLE,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.57064738221347
+Sierra Leone,SLE,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.56069474867603
+Sierra Leone,SLE,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.57998030412557
+Sierra Leone,SLE,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.4673614860173
+Sierra Leone,SLE,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.66614375745877
+Sierra Leone,SLE,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.82284363946986
+Sierra Leone,SLE,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,7.60218936947253
+Sierra Leone,SLE,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.42542944755717
+Sierra Leone,SLE,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.4459074661177
+Sierra Leone,SLE,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,8.74007090295019
+Sierra Leone,SLE,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.2683125199959
+Sierra Leone,SLE,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,10.5015829852207
+Sierra Leone,SLE,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,11.4269794307368
+Sierra Leone,SLE,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.01181508877704
+Sierra Leone,SLE,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.87275203800914
+Sierra Leone,SLE,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.71879065605795
+Sierra Leone,SLE,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,9.46115825502478
+Sierra Leone,SLE,2016,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.08
+Sierra Leone,SLE,2014,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.04
+Sierra Leone,SLE,2012,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.05
+Sierra Leone,SLE,2010,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.94
+Sierra Leone,SLE,2008,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.91
+Sierra Leone,SLE,2006,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.98
+Sierra Leone,SLE,2004,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.89
+Sierra Leone,SLE,2002,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.5
+Sierra Leone,SLE,1998,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.53
+Sierra Leone,SLE,1992,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.44
+Sierra Leone,SLE,1991,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,0.43
+Sierra Leone,SLE,2016,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.08
+Sierra Leone,SLE,2014,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.04
+Sierra Leone,SLE,2012,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.05
+Sierra Leone,SLE,2010,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.94
+Sierra Leone,SLE,2008,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.91
+Sierra Leone,SLE,2006,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.98
+Sierra Leone,SLE,2004,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.76
+Sierra Leone,SLE,2002,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.51
+Sierra Leone,SLE,1998,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.61
+Sierra Leone,SLE,1992,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.49
+Sierra Leone,SLE,1991,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,0.45
+Sierra Leone,SLE,2017,Time to obtain an electrical connection (days),IC.ELC.DURS,22
+Sierra Leone,SLE,2009,Time to obtain an electrical connection (days),IC.ELC.DURS,14.8
+Sierra Leone,SLE,2019,Time required to get electricity (days),IC.ELC.TIME,82
+Sierra Leone,SLE,2018,Time required to get electricity (days),IC.ELC.TIME,82
+Sierra Leone,SLE,2017,Time required to get electricity (days),IC.ELC.TIME,82
+Sierra Leone,SLE,2016,Time required to get electricity (days),IC.ELC.TIME,82
+Sierra Leone,SLE,2015,Time required to get electricity (days),IC.ELC.TIME,82
+Sierra Leone,SLE,2014,Time required to get electricity (days),IC.ELC.TIME,82
+Sierra Leone,SLE,2013,Time required to get electricity (days),IC.ELC.TIME,113
+Sierra Leone,SLE,2012,Time required to get electricity (days),IC.ELC.TIME,113
+Sierra Leone,SLE,2011,Time required to get electricity (days),IC.ELC.TIME,113
+Sierra Leone,SLE,2010,Time required to get electricity (days),IC.ELC.TIME,113
+Sierra Leone,SLE,2009,Time required to get electricity (days),IC.ELC.TIME,489
+Sierra Leone,SLE,2017,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,7
+Sierra Leone,SLE,2009,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS,6.9
+Sierra Leone,SLE,2017,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,15.8
+Sierra Leone,SLE,2009,Value lost due to electrical outages (% of sales for affected firms),IC.FRM.OUTG.ZS,6.6
+Sierra Leone,SLE,2018,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,40000000
+Sierra Leone,SLE,2011,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,30000000
+Sierra Leone,SLE,2007,Investment in energy with private participation (current US$),IE.PPI.ENGY.CD,1180000
+Sierra Leone,SLE,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,73127685.103605
+Sierra Leone,SLE,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,5121272.93459454
+Sierra Leone,SLE,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,21348225.8310173
+Sierra Leone,SLE,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,259875513.083988
+Sierra Leone,SLE,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,409541439.341974
+Sierra Leone,SLE,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,133173503.266009
+Sierra Leone,SLE,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,13778174.5272471
+Sierra Leone,SLE,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,7325232.3429193
+Sierra Leone,SLE,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3782735.09987622
+Sierra Leone,SLE,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3618683.02955088
+Sierra Leone,SLE,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3017944.20165339
+Sierra Leone,SLE,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2368852.48246137
+Sierra Leone,SLE,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,6066.9439913097
+Sierra Leone,SLE,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,68715.8585938249
+Sierra Leone,SLE,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sierra Leone,SLE,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sierra Leone,SLE,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sierra Leone,SLE,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sierra Leone,SLE,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sierra Leone,SLE,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3708.81837088752
+Sierra Leone,SLE,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,195881.914936081
+Sierra Leone,SLE,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,66175.801267235
+Sierra Leone,SLE,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Sierra Leone,SLE,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2860337.03665183
+Sierra Leone,SLE,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2768977.53651367
+Sierra Leone,SLE,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,5208137.4648782
+Sierra Leone,SLE,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4744706.13764195
+Sierra Leone,SLE,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,5285775.01843658
+Sierra Leone,SLE,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,5934560.64542919
+Sierra Leone,SLE,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4060411.65188744
+Sierra Leone,SLE,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4558280.93022732
+Sierra Leone,SLE,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,5129801.45623787
+Sierra Leone,SLE,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,5865849.15378422
+Sierra Leone,SLE,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,5981499.3614487
+Sierra Leone,SLE,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,4733601.09452012
+Sierra Leone,SLE,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3549032.86884486
+Sierra Leone,SLE,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2731492.57621883
+Sierra Leone,SLE,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2782415.87408876
+Sierra Leone,SLE,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2405131.99839294
+Sierra Leone,SLE,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2732243.87354952
+Sierra Leone,SLE,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2874549.03981767
+Sierra Leone,SLE,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,2059398.55943517
+Sierra Leone,SLE,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3026066.27002057
+Sierra Leone,SLE,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,3178709.55487561
+Sierra Leone,SLE,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1563881.00977284
+Sierra Leone,SLE,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1984139.06676104
+Sierra Leone,SLE,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1989333.24992255
+Sierra Leone,SLE,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,1644172.7278338
+Sierra Leone,SLE,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.96834782729071
+Sierra Leone,SLE,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.161499247654793
+Sierra Leone,SLE,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.512925247972317
+Sierra Leone,SLE,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,5.30775384944286
+Sierra Leone,SLE,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,8.36919656554406
+Sierra Leone,SLE,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,3.39379069744089
+Sierra Leone,SLE,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.474879563995987
+Sierra Leone,SLE,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.281040853421162
+Sierra Leone,SLE,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.141942910423842
+Sierra Leone,SLE,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.133995581190733
+Sierra Leone,SLE,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.133282262361727
+Sierra Leone,SLE,2006,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.128200685794362
+Sierra Leone,SLE,2005,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000376245902960708
+Sierra Leone,SLE,2004,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00485131880932064
+Sierra Leone,SLE,2003,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sierra Leone,SLE,2002,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sierra Leone,SLE,2001,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sierra Leone,SLE,2000,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sierra Leone,SLE,1999,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sierra Leone,SLE,1998,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.000581941737900384
+Sierra Leone,SLE,1997,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.0235175248053076
+Sierra Leone,SLE,1996,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.00727816281675794
+Sierra Leone,SLE,1995,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Sierra Leone,SLE,1994,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.358224560489185
+Sierra Leone,SLE,1993,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.382026823160746
+Sierra Leone,SLE,1992,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.86041114367034
+Sierra Leone,SLE,1991,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.659362190832755
+Sierra Leone,SLE,1990,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.911591082231012
+Sierra Leone,SLE,1989,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.670894453618856
+Sierra Leone,SLE,1988,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.406820650764121
+Sierra Leone,SLE,1987,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.680036966283744
+Sierra Leone,SLE,1986,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,1.13845096184946
+Sierra Leone,SLE,1985,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.708198754713206
+Sierra Leone,SLE,1984,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.565527156580435
+Sierra Leone,SLE,1983,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.491356318370609
+Sierra Leone,SLE,1982,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.279109946085333
+Sierra Leone,SLE,1981,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.25137405339628
+Sierra Leone,SLE,1980,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.259891462614792
+Sierra Leone,SLE,1979,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.222692315646244
+Sierra Leone,SLE,1978,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.295848410080255
+Sierra Leone,SLE,1977,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.430318846997665
+Sierra Leone,SLE,1976,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.354939102930243
+Sierra Leone,SLE,1975,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.454180583374491
+Sierra Leone,SLE,1974,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.500346851835777
+Sierra Leone,SLE,1973,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.276902741533385
+Sierra Leone,SLE,1972,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.433745190287935
+Sierra Leone,SLE,1971,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.484473875411621
+Sierra Leone,SLE,1970,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0.38627763792803
+Sierra Leone,SLE,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Sierra Leone,SLE,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2006,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2005,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2004,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2003,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2002,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2001,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2000,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1999,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1998,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1997,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1996,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1995,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1994,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1993,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1992,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1991,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1990,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1989,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1988,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1987,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1986,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1985,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1984,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1983,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1982,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1981,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,1980,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Sierra Leone,SLE,2017,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,12.923647742273
+Sierra Leone,SLE,2016,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,12.6468038608879
+Sierra Leone,SLE,2015,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.50758813063533
+Sierra Leone,SLE,2014,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,12.3934429230855
+Sierra Leone,SLE,2013,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,14.9751385914044
+Sierra Leone,SLE,2012,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,11.3429549291048
+Sierra Leone,SLE,2011,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.74535995441881
+Sierra Leone,SLE,2010,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.30767798832723
+Sierra Leone,SLE,2009,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,10.2915422138347
+Sierra Leone,SLE,2008,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.70459954215597
+Sierra Leone,SLE,2007,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.95205640824491
+Sierra Leone,SLE,2006,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,8.14132251084274
+Sierra Leone,SLE,2005,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.37085504467307
+Sierra Leone,SLE,2004,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,10.619053015419
+Sierra Leone,SLE,2003,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,12.2766230540363
+Sierra Leone,SLE,2002,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,8.06602827617397
+Sierra Leone,SLE,2001,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,7.70540658806469
+Sierra Leone,SLE,2000,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,13.745736111432
+Sierra Leone,SLE,1999,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,12.9373232090846
+Sierra Leone,SLE,1998,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,21.2667576718808
+Sierra Leone,SLE,1997,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,15.2894143866252
+Sierra Leone,SLE,1996,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,13.9443889040366
+Sierra Leone,SLE,1995,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,15.6171944711449
+Sierra Leone,SLE,1994,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,10.5387392424426
+Sierra Leone,SLE,1993,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.95856181104615
+Sierra Leone,SLE,1992,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,15.2479768427247
+Sierra Leone,SLE,1991,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,12.7213332947727
+Sierra Leone,SLE,1990,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,16.4992956461819
+Sierra Leone,SLE,1989,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,9.26174208330249
+Sierra Leone,SLE,1988,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,8.01159471718873
+Sierra Leone,SLE,1987,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,11.0577702697835
+Sierra Leone,SLE,1986,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,17.4075101319695
+Sierra Leone,SLE,1985,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,6.22702060262383
+Sierra Leone,SLE,1984,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,6.46226092056556
+Sierra Leone,SLE,1983,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,7.75662143395848
+Sierra Leone,SLE,1982,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,8.74502043920494
+Sierra Leone,SLE,1981,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,7.50058170822338
+Sierra Leone,SLE,1980,Adjusted savings: natural resources depletion (% of GNI),NY.ADJ.DRES.GN.ZS,8.86955450813043
+Sierra Leone,SLE,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,10.679103792128
+Sierra Leone,SLE,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.551813974002655
+Sierra Leone,SLE,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.64170930953308
+Sierra Leone,SLE,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,29.0867458539679
+Sierra Leone,SLE,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,46.6246516034738
+Sierra Leone,SLE,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,19.2318591947391
+Sierra Leone,SLE,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.37878976779277
+Sierra Leone,SLE,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.724933658332853
+Sierra Leone,SLE,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.494077185934301
+Sierra Leone,SLE,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.460418695744391
+Sierra Leone,SLE,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.924240010393595
+Sierra Leone,SLE,2006,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.765995355141714
+Sierra Leone,SLE,2005,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0145657033404893
+Sierra Leone,SLE,2004,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.00687542181464117
+Sierra Leone,SLE,2003,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sierra Leone,SLE,2002,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sierra Leone,SLE,2001,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sierra Leone,SLE,2000,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sierra Leone,SLE,1999,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sierra Leone,SLE,1998,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.000686197472734814
+Sierra Leone,SLE,1997,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.125835014742407
+Sierra Leone,SLE,1996,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0.0411535139207716
+Sierra Leone,SLE,1995,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Sierra Leone,SLE,1994,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.71778033823748
+Sierra Leone,SLE,1993,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.12479752373242
+Sierra Leone,SLE,1992,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,4.49044724215268
+Sierra Leone,SLE,1991,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.56094928632575
+Sierra Leone,SLE,1990,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,4.76319045205495
+Sierra Leone,SLE,1989,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.72382130951546
+Sierra Leone,SLE,1988,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.24492790575827
+Sierra Leone,SLE,1987,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.59410705906879
+Sierra Leone,SLE,1986,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,5.90785095708461
+Sierra Leone,SLE,1985,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.85474111644767
+Sierra Leone,SLE,1984,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.10587452988122
+Sierra Leone,SLE,1983,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.69345702240886
+Sierra Leone,SLE,1982,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.5647229494804
+Sierra Leone,SLE,1981,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.40940720288886
+Sierra Leone,SLE,1980,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.47709785535354
+Sierra Leone,SLE,1979,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.26969782479358
+Sierra Leone,SLE,1978,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.66555348913904
+Sierra Leone,SLE,1977,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.43356445026576
+Sierra Leone,SLE,1976,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.02739943076311
+Sierra Leone,SLE,1975,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.76108278286195
+Sierra Leone,SLE,1974,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.03701404182006
+Sierra Leone,SLE,1973,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,1.69741277737865
+Sierra Leone,SLE,1972,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.70102620937575
+Sierra Leone,SLE,1971,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,3.02760931982491
+Sierra Leone,SLE,1970,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,2.42857943824879
+Sierra Leone,SLE,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2006,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2005,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2004,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2003,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2002,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2001,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2000,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1999,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1998,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1997,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1996,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1995,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1994,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1993,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1992,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1991,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1990,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1989,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1988,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1987,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1986,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1985,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1984,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1983,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1982,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1981,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,1980,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Sierra Leone,SLE,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2006,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2005,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2004,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2003,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2002,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2001,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2000,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1999,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1998,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1997,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1996,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1995,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1994,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1993,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1992,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1991,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1990,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1989,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1988,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1987,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1986,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1985,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1984,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1983,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1982,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1981,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,1980,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Sierra Leone,SLE,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,22.1535122587578
+Sierra Leone,SLE,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.4010077549198
+Sierra Leone,SLE,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.0899213598153
+Sierra Leone,SLE,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,36.4560199346909
+Sierra Leone,SLE,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,53.6271153281404
+Sierra Leone,SLE,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,27.9810855761948
+Sierra Leone,SLE,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.1309821431774
+Sierra Leone,SLE,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.4657960127347
+Sierra Leone,SLE,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.2643573540873
+Sierra Leone,SLE,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.4808172594748
+Sierra Leone,SLE,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.9319819616728
+Sierra Leone,SLE,2006,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,9.16290105026404
+Sierra Leone,SLE,2005,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,9.80475681455803
+Sierra Leone,SLE,2004,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.1090372002566
+Sierra Leone,SLE,2003,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.8789318558625
+Sierra Leone,SLE,2002,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.42443353160973
+Sierra Leone,SLE,2001,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.04094149117676
+Sierra Leone,SLE,2000,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,14.2544467277015
+Sierra Leone,SLE,1999,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,13.3667803755637
+Sierra Leone,SLE,1998,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,21.6561422908308
+Sierra Leone,SLE,1997,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,16.2227001296848
+Sierra Leone,SLE,1996,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,14.6071852462366
+Sierra Leone,SLE,1995,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,15.8876053629262
+Sierra Leone,SLE,1994,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.4022182575777
+Sierra Leone,SLE,1993,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.9186551773509
+Sierra Leone,SLE,1992,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,18.365020272467
+Sierra Leone,SLE,1991,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,15.6093124344017
+Sierra Leone,SLE,1990,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,19.7972830764412
+Sierra Leone,SLE,1989,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,12.5137852184373
+Sierra Leone,SLE,1988,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.0048910499955
+Sierra Leone,SLE,1987,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,14.2930323100379
+Sierra Leone,SLE,1986,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,22.0276865585494
+Sierra Leone,SLE,1985,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,9.60839854528268
+Sierra Leone,SLE,1984,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,9.30024320613017
+Sierra Leone,SLE,1983,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.2812536441303
+Sierra Leone,SLE,1982,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.5386640855467
+Sierra Leone,SLE,1981,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,9.02758892618282
+Sierra Leone,SLE,1980,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.4874245361557
+Sierra Leone,SLE,1979,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.85956768786476
+Sierra Leone,SLE,1978,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,11.2944494533524
+Sierra Leone,SLE,1977,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,15.2782684589815
+Sierra Leone,SLE,1976,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.2263304245526
+Sierra Leone,SLE,1975,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,10.7763851764468
+Sierra Leone,SLE,1974,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,9.27055349103442
+Sierra Leone,SLE,1973,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,8.18385743463883
+Sierra Leone,SLE,1972,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.49333979799834
+Sierra Leone,SLE,1971,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.76128599993749
+Sierra Leone,SLE,1970,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,7.84917180601349
+Sierra Leone,SLE,2017,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,0.576241611873001
+Sierra Leone,SLE,2016,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,6.13147080440605
+Sierra Leone,SLE,2015,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,27.1760523858557
+Sierra Leone,SLE,2014,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,38.2946351963754
+Sierra Leone,SLE,2002,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,39.6980035801961
+Sierra Leone,SLE,2000,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,28.3659532987343
+Sierra Leone,SLE,1984,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,19.7378011782947
+Sierra Leone,SLE,1983,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,34.7227825646958
+Sierra Leone,SLE,1976,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,14.2355576517582
+Sierra Leone,SLE,1975,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,13.6634605627619
+Sierra Leone,SLE,1974,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,11.4958294572305
+Sierra Leone,SLE,1973,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,5.92111662394536
+Sierra Leone,SLE,1972,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,7.4575840536715
+Sierra Leone,SLE,1964,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,10.2421092637682
+Sierra Leone,SLE,1963,Fuel imports (% of merchandise imports),TM.VAL.FUEL.ZS.UN,12.4214436762776
+Sierra Leone,SLE,2017,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.10616688519826
+Sierra Leone,SLE,2016,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.33577014155852
+Sierra Leone,SLE,2015,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.557714707648296
+Sierra Leone,SLE,2014,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.544972773200604
+Sierra Leone,SLE,2002,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.818595205821269
+Sierra Leone,SLE,2000,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.772646914803966
+Sierra Leone,SLE,1984,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,1.11650844640064
+Sierra Leone,SLE,1983,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.593871218653949
+Sierra Leone,SLE,1976,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.759544628893386
+Sierra Leone,SLE,1975,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.806270790613468
+Sierra Leone,SLE,1974,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.427867794495682
+Sierra Leone,SLE,1973,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.42892217178563
+Sierra Leone,SLE,1972,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.386537174105218
+Sierra Leone,SLE,1964,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.755619091966053
+Sierra Leone,SLE,1963,Ores and metals imports (% of merchandise imports),TM.VAL.MMTL.ZS.UN,0.842528924298899
+Sierra Leone,SLE,2017,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0564669332343084
+Sierra Leone,SLE,2015,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0
+Sierra Leone,SLE,2014,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,0.0128424574141634
+Sierra Leone,SLE,1984,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.55038574684028
+Sierra Leone,SLE,1983,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,3.89177421449507
+Sierra Leone,SLE,1976,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,5.36986599737445
+Sierra Leone,SLE,1975,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,5.86990120775119
+Sierra Leone,SLE,1974,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.16506761229472
+Sierra Leone,SLE,1973,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.03991714830705
+Sierra Leone,SLE,1972,Fuel exports (% of merchandise exports),TX.VAL.FUEL.ZS.UN,1.70238675852111
+Sierra Leone,SLE,2017,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,9.23607409839552
+Sierra Leone,SLE,2016,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.52250323873849
+Sierra Leone,SLE,2015,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.988737482926271
+Sierra Leone,SLE,2014,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,86.4196171242429
+Sierra Leone,SLE,2002,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,0.115001778766282
+Sierra Leone,SLE,2000,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,1.35806284223158
+Sierra Leone,SLE,1984,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,36.1142710012436
+Sierra Leone,SLE,1983,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,30.4206624873933
+Sierra Leone,SLE,1976,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,6.65229851597629
+Sierra Leone,SLE,1975,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,14.177173423583
+Sierra Leone,SLE,1974,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,14.2668436283145
+Sierra Leone,SLE,1973,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,14.2943461519501
+Sierra Leone,SLE,1972,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,15.3661235010623
+Sierra Leone,SLE,1964,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,17.847144367543
+Sierra Leone,SLE,1963,Ores and metals exports (% of merchandise exports),TX.VAL.MMTL.ZS.UN,19.9928453830727

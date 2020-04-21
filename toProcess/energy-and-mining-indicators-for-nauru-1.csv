@@ -1,0 +1,491 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Nauru,NRU,2015,Energy intensity level of primary energy (MJ/$2011 PPP GDP),EG.EGY.PRIM.PP.KD,4.3650096938977
+Nauru,NRU,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.6505355834961
+Nauru,NRU,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.4660491943359
+Nauru,NRU,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99
+Nauru,NRU,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.0998992919922
+Nauru,NRU,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.9221572875977
+Nauru,NRU,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.1010437011719
+Nauru,NRU,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99
+Nauru,NRU,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.505241394043
+Nauru,NRU,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.2960968017578
+Nauru,NRU,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.1692581176758
+Nauru,NRU,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,98.0553970336914
+Nauru,NRU,2017,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.5531692504883
+Nauru,NRU,2016,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.4298934936523
+Nauru,NRU,2015,Access to electricity (% of population),EG.ELC.ACCS.ZS,99
+Nauru,NRU,2014,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.1949920654297
+Nauru,NRU,2013,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.0993499755859
+Nauru,NRU,2012,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.0364608764648
+Nauru,NRU,2011,Access to electricity (% of population),EG.ELC.ACCS.ZS,99
+Nauru,NRU,2010,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.0043792724609
+Nauru,NRU,2009,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.0620803833008
+Nauru,NRU,2008,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.158561706543
+Nauru,NRU,2007,Access to electricity (% of population),EG.ELC.ACCS.ZS,99.8
+Nauru,NRU,2015,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.398406374501992
+Nauru,NRU,2014,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.398406374501992
+Nauru,NRU,2013,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.411522633744856
+Nauru,NRU,2012,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.421940928270042
+Nauru,NRU,2011,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.432900432900433
+Nauru,NRU,2010,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.442477876106195
+Nauru,NRU,2009,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.469483568075117
+Nauru,NRU,2008,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.512820512820513
+Nauru,NRU,2007,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.497512437810945
+Nauru,NRU,2006,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0.609756097560976
+Nauru,NRU,2005,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Nauru,NRU,2004,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Nauru,NRU,2003,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Nauru,NRU,2002,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Nauru,NRU,2001,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Nauru,NRU,2000,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Nauru,NRU,1999,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Nauru,NRU,1998,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Nauru,NRU,1997,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Nauru,NRU,1996,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Nauru,NRU,1995,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Nauru,NRU,1994,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Nauru,NRU,1993,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Nauru,NRU,1992,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Nauru,NRU,1991,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Nauru,NRU,1990,Renewable electricity output (% of total electricity output),EG.ELC.RNEW.ZS,0
+Nauru,NRU,2015,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.0762903659245616
+Nauru,NRU,2014,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.0788501599627345
+Nauru,NRU,2013,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.0813197885571204
+Nauru,NRU,2012,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.0922575444949949
+Nauru,NRU,2011,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.09256760036895
+Nauru,NRU,2010,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.0836961085054487
+Nauru,NRU,2009,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.0846185337971389
+Nauru,NRU,2008,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.077203215689102
+Nauru,NRU,2007,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.0785792805243364
+Nauru,NRU,2006,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0.0718450652284147
+Nauru,NRU,2005,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0
+Nauru,NRU,2004,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0
+Nauru,NRU,2003,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0
+Nauru,NRU,2002,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0
+Nauru,NRU,2001,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0
+Nauru,NRU,2000,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0
+Nauru,NRU,1999,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0
+Nauru,NRU,1998,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0
+Nauru,NRU,1997,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0
+Nauru,NRU,1996,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0
+Nauru,NRU,1995,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0
+Nauru,NRU,1994,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0
+Nauru,NRU,1993,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0
+Nauru,NRU,1992,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0
+Nauru,NRU,1991,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0
+Nauru,NRU,1990,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS,0
+Nauru,NRU,2014,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,2013,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,2012,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,2011,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,2010,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,2009,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,2008,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,2007,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,2006,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,2005,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,2004,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,2003,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,2002,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,2001,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,2000,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1999,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1998,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1997,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1996,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1995,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1994,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1993,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1992,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1991,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1990,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1989,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1988,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1987,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1986,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1985,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1984,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1983,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1982,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1981,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1980,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1979,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1978,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1977,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1976,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1975,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1974,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1973,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1972,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1971,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1970,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1969,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1968,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1967,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1966,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1965,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,1964,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS,0
+Nauru,NRU,2014,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Nauru,NRU,2013,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,44.004
+Nauru,NRU,2012,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,40.337
+Nauru,NRU,2011,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,40.337
+Nauru,NRU,2010,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,44.004
+Nauru,NRU,2009,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,40.337
+Nauru,NRU,2008,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,44.004
+Nauru,NRU,2007,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,44.004
+Nauru,NRU,2006,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,44.004
+Nauru,NRU,2005,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,62.339
+Nauru,NRU,2004,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,66.006
+Nauru,NRU,2003,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,66.006
+Nauru,NRU,2002,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,77.007
+Nauru,NRU,2001,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,80.674
+Nauru,NRU,2000,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,84.341
+Nauru,NRU,1999,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,91.675
+Nauru,NRU,1998,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,99.009
+Nauru,NRU,1997,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,102.676
+Nauru,NRU,1996,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,102.676
+Nauru,NRU,1995,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,106.343
+Nauru,NRU,1994,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,110.01
+Nauru,NRU,1993,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,113.677
+Nauru,NRU,1992,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,121.011
+Nauru,NRU,1991,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,124.678
+Nauru,NRU,1990,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,124.678
+Nauru,NRU,1989,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,157.681
+Nauru,NRU,1988,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,157.681
+Nauru,NRU,1987,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,157.681
+Nauru,NRU,1986,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,161.348
+Nauru,NRU,1985,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,124.678
+Nauru,NRU,1984,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,124.678
+Nauru,NRU,1983,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,124.678
+Nauru,NRU,1982,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,124.678
+Nauru,NRU,1981,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,124.678
+Nauru,NRU,1980,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,124.678
+Nauru,NRU,1979,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,113.677
+Nauru,NRU,1978,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,113.677
+Nauru,NRU,1977,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,113.677
+Nauru,NRU,1976,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,102.676
+Nauru,NRU,1975,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,102.676
+Nauru,NRU,1974,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,99.009
+Nauru,NRU,1973,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,84.341
+Nauru,NRU,1972,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,77.007
+Nauru,NRU,1971,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,88.008
+Nauru,NRU,1970,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,66.006
+Nauru,NRU,1969,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,66.006
+Nauru,NRU,1968,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Nauru,NRU,1967,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,47.671
+Nauru,NRU,1966,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33.003
+Nauru,NRU,1965,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,33.003
+Nauru,NRU,1964,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT,29.336
+Nauru,NRU,2008,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,2007,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,2006,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,2005,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,2004,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,2003,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,2002,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,2001,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,2000,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1999,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1998,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1997,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1996,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1995,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1994,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1993,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1992,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1991,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1990,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1989,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1988,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1987,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1986,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1985,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1984,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1983,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1982,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1981,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1980,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1979,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1978,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1977,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1976,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1975,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1974,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1973,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1972,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1971,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1970,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,1969,Methane emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.METH.EG.KT.CE,0
+Nauru,NRU,2008,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,2007,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,2006,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,2005,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,2004,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,2003,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,2002,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,2001,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,2000,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1999,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1998,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1997,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1996,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1995,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1994,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1993,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1992,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1991,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1990,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1989,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1988,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1987,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1986,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1985,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1984,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1983,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1982,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1981,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1980,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1979,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1978,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1977,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1976,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1975,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1974,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1973,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1972,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1971,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,1970,Energy related methane emissions (% of total),EN.ATM.METH.EG.ZS,0
+Nauru,NRU,2008,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,2007,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,2006,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,2005,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,2004,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,2003,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,2002,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,2001,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,2000,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1999,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1998,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1997,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1996,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1995,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1994,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1993,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1992,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1991,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1990,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1989,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1988,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1987,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1986,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1985,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1984,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1983,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1982,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1981,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1980,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1979,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1978,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1977,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1976,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1975,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1974,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1973,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1972,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1971,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1970,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,1969,Nitrous oxide emissions in energy sector (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.EG.KT.CE,0
+Nauru,NRU,2008,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,2007,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,2006,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,2005,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,2004,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,2003,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,2002,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,2001,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,2000,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1999,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1998,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1997,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1996,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1995,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1994,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1993,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1992,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1991,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1990,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1989,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1988,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1987,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1986,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1985,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1984,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1983,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1982,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1981,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1980,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1979,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1978,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1977,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1976,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1975,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1974,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1973,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1972,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1971,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,1970,Nitrous oxide emissions in energy sector (% of total),EN.ATM.NOXE.EG.ZS,0
+Nauru,NRU,2010,Pump price for diesel fuel (US$ per liter),EP.PMP.DESL.CD,1.57
+Nauru,NRU,2010,Pump price for gasoline (US$ per liter),EP.PMP.SGAS.CD,1.6
+Nauru,NRU,2017,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2016,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2015,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2014,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2013,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2012,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2011,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2010,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2009,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2008,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2007,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2006,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2005,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2004,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2003,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2002,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2001,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2000,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1999,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1998,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1997,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1996,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1995,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1994,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1993,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1992,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1991,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1990,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1989,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1988,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1987,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1986,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1985,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1984,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1983,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1982,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1981,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1980,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1979,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1978,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1977,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1976,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1975,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1974,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1973,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1972,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1971,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,1970,Adjusted savings: mineral depletion (current US$),NY.ADJ.DMIN.CD,0
+Nauru,NRU,2017,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Nauru,NRU,2016,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Nauru,NRU,2015,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Nauru,NRU,2014,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Nauru,NRU,2013,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Nauru,NRU,2012,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Nauru,NRU,2011,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Nauru,NRU,2010,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Nauru,NRU,2009,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Nauru,NRU,2008,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Nauru,NRU,2007,Adjusted savings: mineral depletion (% of GNI),NY.ADJ.DMIN.GN.ZS,0
+Nauru,NRU,2017,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2016,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2015,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2014,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2013,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2012,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2011,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2010,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2009,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2008,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2007,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2006,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2005,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2004,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2003,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2002,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2001,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2000,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1999,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1998,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1997,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1996,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1995,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1994,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1993,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1992,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1991,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1990,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1989,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1988,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1987,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1986,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1985,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1984,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1983,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1982,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1981,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,1980,Adjusted savings: energy depletion (current US$),NY.ADJ.DNGY.CD,0
+Nauru,NRU,2017,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Nauru,NRU,2016,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Nauru,NRU,2015,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Nauru,NRU,2014,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Nauru,NRU,2013,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Nauru,NRU,2012,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Nauru,NRU,2011,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Nauru,NRU,2010,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Nauru,NRU,2009,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Nauru,NRU,2008,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Nauru,NRU,2007,Adjusted savings: energy depletion (% of GNI),NY.ADJ.DNGY.GN.ZS,0
+Nauru,NRU,2017,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Nauru,NRU,2016,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Nauru,NRU,2015,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Nauru,NRU,2014,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Nauru,NRU,2013,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Nauru,NRU,2012,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Nauru,NRU,2011,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Nauru,NRU,2010,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Nauru,NRU,2009,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Nauru,NRU,2008,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Nauru,NRU,2007,Mineral rents (% of GDP),NY.GDP.MINR.RT.ZS,0
+Nauru,NRU,2017,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Nauru,NRU,2016,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Nauru,NRU,2015,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Nauru,NRU,2014,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Nauru,NRU,2013,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Nauru,NRU,2012,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Nauru,NRU,2011,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Nauru,NRU,2010,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Nauru,NRU,2009,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Nauru,NRU,2008,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Nauru,NRU,2007,Natural gas rents (% of GDP),NY.GDP.NGAS.RT.ZS,0
+Nauru,NRU,2017,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Nauru,NRU,2016,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Nauru,NRU,2015,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Nauru,NRU,2014,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Nauru,NRU,2013,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Nauru,NRU,2012,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Nauru,NRU,2011,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Nauru,NRU,2010,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Nauru,NRU,2009,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Nauru,NRU,2008,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Nauru,NRU,2007,Oil rents (% of GDP),NY.GDP.PETR.RT.ZS,0
+Nauru,NRU,2017,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Nauru,NRU,2016,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Nauru,NRU,2015,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Nauru,NRU,2014,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Nauru,NRU,2013,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Nauru,NRU,2012,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Nauru,NRU,2011,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Nauru,NRU,2010,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Nauru,NRU,2009,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Nauru,NRU,2008,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
+Nauru,NRU,2007,Total natural resources rents (% of GDP),NY.GDP.TOTL.RT.ZS,0
