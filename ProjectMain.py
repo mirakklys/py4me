@@ -27,13 +27,16 @@ def cleanSubstrings(astr, divider = '"', charToSave = ',', changeWith = ':'):
     
     # creating list of each line in the file
     for each in range(len(alist)):
-        if each == 0:
+        if len(alist) == 2:
             anotherList.append(astr[:alist[0]])
             anotherList.append(astr[alist[0]:(alist[1] + 1)])
-        elif each == len(alist) - 1:
             anotherList.append(astr[(alist[-1] + 1):])
-        else:
-            anotherList.append(astr[(alist[each] + 1):(alist[each + 1] + 1)])
+        elif len(alist) == 4:
+            anotherList.append(astr[:alist[0]])
+            anotherList.append(astr[alist[0]:(alist[1] + 1)])
+            anotherList.append(astr[(alist[1]):(alist[2] + 1)])
+            anotherList.append(astr[(alist[2]):(alist[3] + 1)])
+            anotherList.append(astr[(alist[-1] + 1):])
     
     difList = []
     
