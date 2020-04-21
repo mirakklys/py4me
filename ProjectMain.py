@@ -151,6 +151,7 @@ for i in range(len(tempNames)):
     <p><a href="https://github.com/mirakklys/py4me">Git-Hub rep</a></p>
     <div id="chart_div" style="width: 1300px; height: 600px;"></div>
     <p><a href="..\\index.html">Go Back</a></p>
+    <p><a href="toProcess\\toProcess.zip">CSV files in archive</a>
   </body>
 </html>
 ''')
@@ -162,7 +163,8 @@ indexHtm.write('''<html>
    <title>Index page</title>
   </head>
   <body>
-      <p><a href="https://github.com/mirakklys/py4me">Git-Hub rep</a></p>''')
+    <p><a href="https://github.com/mirakklys/py4me">Git-Hub rep</a></p>
+    <p><a href="toProcess\\toProcess.zip">CSV files in archive</a></p>''')
 for each in tempDir:
     indexHtm.write('<p><a href="' + each + '\\gline.html">' + each + '</a></p>')
     
