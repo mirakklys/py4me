@@ -1,5 +1,6 @@
 ### imports
 
+from time import sleep 
 import os
 import json
 
@@ -32,23 +33,25 @@ def cleanSubstrings(astr, divider = '"', charToSave = ',', changeWith = ':'):
             anotherList.append(astr[alist[0]:(alist[1] + 1)])
             anotherList.append(astr[(alist[-1] + 1):])
         elif len(alist) == 4:
-            anotherList.append(astr[:alist[0]])
             anotherList.append(astr[alist[0]:(alist[1] + 1)])
-            anotherList.append(astr[(alist[1]):(alist[2] + 1)])
+            anotherList.append(astr[(alist[1] + 1):(alist[2])])
             anotherList.append(astr[(alist[2]):(alist[3] + 1)])
             anotherList.append(astr[(alist[-1] + 1):])
-    
+#             print(astr[(alist[-1] + 1):])
+            
     difList = []
     
     # changing csv divider from , to : leaving the commas from ""
     for each in anotherList:
         dif = None
-        if divider in each:
-            dif = each.replace(divider, '')
-        else:
-            dif = each.replace(charToSave, changeWith)
-        difList.append(dif)
-    
+        if len(each) > 1:
+            if divider in each:
+                dif = each.replace(divider, '')
+            else:
+                dif = each.replace(charToSave, changeWith)
+            difList.append(dif)
+
+#     print(difList)
     return ''.join(difList)
 
 ### processing csv files 
@@ -73,13 +76,17 @@ for fileToOpen in filesToOpen:
             tempFilesToOpen.append(each.replace(',',':'))
         else:
             tempFilesToOpen.append(cleanSubstrings(each))
-
+    country = None
     for each in tempFilesToOpen:
         tempList = each.split(':')
         #print(tempList)
         countryDict[tempList[3]] = countryDict.get(tempList[3], {}) 
         countryDict[tempList[3]][tempList[2]] = countryDict[tempList[3]].get(tempList[2], {})
         countryDict[tempList[3]][tempList[2]][tempList[0]] = countryDict[tempList[3]][tempList[2]].get(tempList[0], tempList[-1].strip())
+        country = countryDict[tempList[3]][tempList[2]]
+        
+#     print('{} is processed'.format(country))
+#     sleep(0.1)
 
 ### optional creation of JSON file, if anybody needs to use it in other coding languages
 countryJson = json.dumps(countryDict, indent = 2)
@@ -139,7 +146,7 @@ for i in range(len(tempNames)):
 
         var options = {
           title: \'''' + filename + '''\',
-          chartArea: {left:'10%',top:'10%', width: '65%', height: '65%'}
+          chartArea: {left:'10%',top:'10%', width: '75%', height: '75%'}
         };
 
         var chart = new google.visualization.LineChart(document.getElementById('chart_div'));
@@ -149,7 +156,7 @@ for i in range(len(tempNames)):
   </head>
   <body>
     <p><a href="https://github.com/mirakklys/py4me">Git-Hub rep</a></p>
-    <div id="chart_div" style="width: 1300px; height: 600px;"></div>
+    <div id="chart_div" style="width: 1300px; height: 800px;"></div>
     <p><a href="..\\index.html">Go Back</a></p>
     <p><a href="toProcess\\toProcess.zip">CSV files in archive</a>
   </body>
