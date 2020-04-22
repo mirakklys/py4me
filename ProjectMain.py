@@ -13,45 +13,41 @@ workingDir = os.getcwd() + '\\toProcess'
 ### processing csv
 
 ## function to handle complex csv format
-def cleanSubstrings(astr, divider = '"', charToSave = ',', changeWith = ':'):
+def cleanSubstrings(astr, divider = '"', toSave = ',', toChange = ':'):
 
-    # define " positions
-    alist = []
-    count = 0
+    tempStr = astr
+    tempList = []
+    start = None
+    end = None
     
-    for each in astr:
-        if each == divider:
-            alist.append(count)
-        count += 1
-
-    anotherList = []
+    for each in range(tempStr.count(divider) + 1):
+        if len(tempStr) > 1:
+            for each in tempStr:
+                if each == divider and tempStr.index(each) == 0:
+                    start = 0
+                    end = tempStr.replace(divider, '*', 1).find(divider) + 1
+                    tempList.append(tempStr[start:end])
+                    tempStr = tempStr[end:]
+                    break
+                elif each != divider and tempStr.index(each) == 0:
+                    start = 0
+                    end = tempStr.find(divider)
+                    tempList.append(tempStr[start:end])
+                    tempStr = tempStr[end:]
+                    break
+                elif divider not in each:
+                    tempList.append(tempStr)
+                    tempStr = ''
+                    break
+        else:
+            break
+    difList = []        
+    for each in tempList:
+        if divider not in each:
+            difList.append(each.replace(toSave, toChange))
+        else:
+            difList.append(each.replace(divider, ''))
     
-    # creating list of each line in the file
-    for each in range(len(alist)):
-        if len(alist) == 2:
-            anotherList.append(astr[:alist[0]])
-            anotherList.append(astr[alist[0]:(alist[1] + 1)])
-            anotherList.append(astr[(alist[-1] + 1):])
-        elif len(alist) == 4:
-            anotherList.append(astr[alist[0]:(alist[1] + 1)])
-            anotherList.append(astr[(alist[1] + 1):(alist[2])])
-            anotherList.append(astr[(alist[2]):(alist[3] + 1)])
-            anotherList.append(astr[(alist[-1] + 1):])
-#             print(astr[(alist[-1] + 1):])
-            
-    difList = []
-    
-    # changing csv divider from , to : leaving the commas from ""
-    for each in anotherList:
-        dif = None
-        if len(each) > 1:
-            if divider in each:
-                dif = each.replace(divider, '')
-            else:
-                dif = each.replace(charToSave, changeWith)
-            difList.append(dif)
-
-#     print(difList)
     return ''.join(difList)
 
 ### processing csv files 
@@ -68,7 +64,6 @@ countryDict = {}
 for fileToOpen in filesToOpen:
     with open(fileToOpen) as inp:
         swissKnife = [each.strip() for each in inp][2:]
-
     tempFilesToOpen = []
 
     for each in swissKnife:
@@ -76,15 +71,16 @@ for fileToOpen in filesToOpen:
             tempFilesToOpen.append(each.replace(',',':'))
         else:
             tempFilesToOpen.append(cleanSubstrings(each))
-    country = None
+            
     for each in tempFilesToOpen:
         tempList = each.split(':')
-        #print(tempList)
         countryDict[tempList[3]] = countryDict.get(tempList[3], {}) 
         countryDict[tempList[3]][tempList[2]] = countryDict[tempList[3]].get(tempList[2], {})
-        countryDict[tempList[3]][tempList[2]][tempList[0]] = countryDict[tempList[3]][tempList[2]].get(tempList[0], tempList[-1].strip())
-        country = countryDict[tempList[3]][tempList[2]]
-        
+        if tempList[-1] == '':
+            countryDict[tempList[3]][tempList[2]][tempList[0]] = countryDict[tempList[3]][tempList[2]].get(tempList[0], '0')
+#             print('saved as 0', countryDict[tempList[3]][tempList[2]][tempList[0]])
+        else:
+            countryDict[tempList[3]][tempList[2]][tempList[0]] = countryDict[tempList[3]][tempList[2]].get(tempList[0], tempList[-1].strip())
 #     print('{} is processed'.format(country))
 #     sleep(0.1)
 
@@ -158,7 +154,7 @@ for i in range(len(tempNames)):
     <p><a href="https://github.com/mirakklys/py4me">Git-Hub rep</a></p>
     <div id="chart_div" style="width: 1300px; height: 800px;"></div>
     <p><a href="..\\index.html">Go Back</a></p>
-    <p><a href="toProcess\\toProcess.zip">CSV files in archive</a>
+    <p><a href="data\\toProcess.zip">CSV files in archive</a>
   </body>
 </html>
 ''')
@@ -171,7 +167,7 @@ indexHtm.write('''<html>
   </head>
   <body>
     <p><a href="https://github.com/mirakklys/py4me">Git-Hub rep</a></p>
-    <p><a href="toProcess\\toProcess.zip">CSV files in archive</a></p>''')
+    <p><a href="data\\toProcess.zip">CSV files in archive</a></p>''')
 for each in tempDir:
     indexHtm.write('<p><a href="' + each + '\\gline.html">' + each + '</a></p>')
     
